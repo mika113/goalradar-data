@@ -1,0 +1,82 @@
+{
+  "BASIC": [
+    {
+      "id": "basic_daily",
+      "title": "Daily",
+      "price": "$2",
+      "durationLabel": "1 day access"
+    },
+    {
+      "id": "basic_weekly",
+      "title": "Weekly",
+      "price": "$7",
+      "durationLabel": "7 days access"
+    },
+    {
+      "id": "basic_monthly",
+      "title": "Monthly",
+      "price": "$20",
+      "durationLabel": "30 days access"
+    }
+  ],
+  "VIP": [
+    {
+      "id": "vip_daily",
+      "title": "Daily",
+      "price": "$5",
+      "durationLabel": "1 day access"
+    },
+    {
+      "id": "vip_weekly",
+      "title": "Weekly",
+      "price": "$15",
+      "durationLabel": "7 days access"
+    },
+    {
+      "id": "vip_monthly",
+      "title": "Monthly",
+      "price": "$40",
+      "durationLabel": "30 days access"
+    }
+  ],
+  "CORRECT_SCORES": [
+    {
+      "id": "correct_daily",
+      "title": "Daily",
+      "price": "$6",
+      "durationLabel": "1 day access"
+    },
+    {
+      "id": "correct_weekly",
+      "title": "Weekly",
+      "price": "$18",
+      "durationLabel": "7 days access"
+    },
+    {
+      "id": "correct_monthly",
+      "title": "Monthly",
+      "price": "$50",
+      "durationLabel": "30 days access"
+    }
+  ],
+  "PREMIUM": [
+    {
+      "id": "premium_daily",
+      "title": "Daily",
+      "price": "$8",
+      "durationLabel": "1 day access"
+    },
+    {
+      "id": "premium_weekly",
+      "title": "Weekly",
+      "price": "$24",
+      "durationLabel": "7 days access"
+    },
+    {
+      "id": "premium_monthly",
+      "title": "Monthly",
+      "price": "$65",
+      "durationLabel": "30 days access"
+    }
+  ]
+}
