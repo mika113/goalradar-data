@@ -78,5 +78,45 @@
     "prediction": "Under 2.5 Goals",
     "odds": "1.91",
     "category": "PREMIUM"
+  },
+  {
+    "id": 9,
+    "league": "Eredivisie",
+    "matchTime": "16:00",
+    "homeTeam": "Ajax",
+    "awayTeam": "PSV",
+    "prediction": "Both Teams To Score",
+    "odds": "1.66",
+    "category": "BASIC"
+  },
+  {
+    "id": 10,
+    "league": "Primeira Liga",
+    "matchTime": "18:30",
+    "homeTeam": "Benfica",
+    "awayTeam": "Porto",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88",
+    "category": "VIP"
+  },
+  {
+    "id": 11,
+    "league": "Ligue 1",
+    "matchTime": "21:15",
+    "homeTeam": "Marseille",
+    "awayTeam": "Monaco",
+    "prediction": "2 - 1",
+    "odds": "9.10",
+    "category": "CORRECT_SCORES"
+  },
+  {
+    "id": 12,
+    "league": "Championship",
+    "matchTime": "15:00",
+    "homeTeam": "Leeds",
+    "awayTeam": "Leicester",
+    "prediction": "Leeds Draw No Bet",
+    "odds": "1.95",
+    "category": "PREMIUM"
   }
 ]
