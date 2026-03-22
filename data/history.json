@@ -58,5 +58,41 @@
     "status": "FT",
     "prediction": "PSG Win & Over 2.5",
     "outcome": "Lost"
+  },
+  {
+    "id": 6,
+    "league": "Primeira Liga",
+    "matchDate": "2026-03-15",
+    "homeTeam": "Benfica",
+    "awayTeam": "Porto",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Won"
+  },
+  {
+    "id": 7,
+    "league": "Championship",
+    "matchDate": "2026-03-14",
+    "homeTeam": "Leeds",
+    "awayTeam": "Leicester",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Leeds Draw No Bet",
+    "outcome": "Won"
+  },
+  {
+    "id": 8,
+    "league": "Eredivisie",
+    "matchDate": "2026-03-13",
+    "homeTeam": "Ajax",
+    "awayTeam": "PSV",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
