@@ -1,39 +1,24 @@
-
 [
   {
     "id": 1,
     "league": "Premier League",
-    "matchTime": "18:00",
+    "match": "Arsenal vs Chelsea",
+    "prediction": "Over 1.5 Goals",
+    "odds": "1.55",
+    "matchTime": "Live - 67'",
     "homeTeam": "Arsenal",
     "awayTeam": "Chelsea",
-    "prediction": "Arsenal Win",
-    "odds": "1.85"
+    "tipStatus": "LIVE"
   },
   {
     "id": 2,
     "league": "La Liga",
-    "matchTime": "20:00",
+    "match": "Barcelona vs Sevilla",
+    "prediction": "Next Goal - Barcelona",
+    "odds": "1.80",
+    "matchTime": "Live - 54'",
     "homeTeam": "Barcelona",
     "awayTeam": "Sevilla",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
-  },
-  {
-    "id": 3,
-    "league": "Bundesliga",
-    "matchTime": "19:30",
-    "homeTeam": "Bayern",
-    "awayTeam": "Dortmund",
-    "prediction": "3 - 1",
-    "odds": "8.50"
-  },
-  {
-    "id": 4,
-    "league": "Serie A",
-    "matchTime": "21:00",
-    "homeTeam": "Inter",
-    "awayTeam": "Milan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "tipStatus": "LIVE"
   }
 ]
