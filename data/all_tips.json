@@ -1,39 +1,38 @@
-
 [
   {
     "id": 1,
     "league": "Premier League",
-    "matchTime": "18:00",
-    "homeTeam": "Arsenal",
-    "awayTeam": "Chelsea",
-    "prediction": "Arsenal Win",
-    "odds": "1.85"
+    "matchTime": "20:00",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Crystal Palace",
+    "prediction": "Manchester City Win",
+    "odds": "1.67"
   },
   {
     "id": 2,
-    "league": "La Liga",
+    "league": "Premier League",
     "matchTime": "20:00",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Sevilla",
+    "homeTeam": "Aston Villa",
+    "awayTeam": "Liverpool",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "odds": "1.81"
   },
   {
     "id": 3,
-    "league": "Bundesliga",
-    "matchTime": "19:30",
-    "homeTeam": "Bayern",
-    "awayTeam": "Dortmund",
-    "prediction": "3 - 1",
-    "odds": "8.50"
+    "league": "Premier League",
+    "matchTime": "20:15",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Tottenham",
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 4,
-    "league": "Serie A",
-    "matchTime": "21:00",
-    "homeTeam": "Inter",
-    "awayTeam": "Milan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "league": "Premier League",
+    "matchTime": "20:00",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Burnley",
+    "prediction": "Arsenal Win",
+    "odds": "1.62"
   }
 ]
