@@ -1,39 +1,74 @@
 [
   {
-    "id": 101,
+    "id": 1,
     "league": "Premier League",
-    "matchTime": "18:00",
+    "matchTime": "20:00",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Crystal Palace",
+    "prediction": "Manchester City Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 2,
+    "league": "Scottish Premiership",
+    "matchTime": "20:00",
+    "homeTeam": "Motherwell",
+    "awayTeam": "Celtic",
+    "prediction": "Celtic Win",
+    "odds": "1.40"
+  },
+  {
+    "id": 3,
+    "league": "Scottish Premiership",
+    "matchTime": "20:00",
+    "homeTeam": "Rangers",
+    "awayTeam": "Hibernian",
+    "prediction": "Rangers Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 4,
+    "league": "Women's Super League",
+    "matchTime": "19:00",
     "homeTeam": "Arsenal",
-    "awayTeam": "Chelsea",
+    "awayTeam": "Everton",
     "prediction": "Arsenal Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 5,
+    "league": "Spanish La Liga",
+    "matchTime": "20:30",
+    "homeTeam": "Alaves",
+    "awayTeam": "Barcelona",
+    "prediction": "Barcelona Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 6,
+    "league": "French Ligue 1",
+    "matchTime": "20:00",
+    "homeTeam": "Lens",
+    "awayTeam": "Paris Saint-Germain",
+    "prediction": "PSG Win",
+    "odds": "1.60"
+  },
+  {
+    "id": 7,
+    "league": "Coppa Italia",
+    "matchTime": "20:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Inter Milan",
+    "prediction": "Inter Milan Win",
     "odds": "1.85"
   },
   {
-    "id": 102,
-    "league": "Serie A",
-    "matchTime": "21:00",
-    "homeTeam": "Inter",
-    "awayTeam": "Milan",
+    "id": 8,
+    "league": "Spanish La Liga",
+    "matchTime": "18:00",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Sevilla",
     "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-
-  {
-    "id": 102,
-    "league": "Serie A",
-    "matchTime": "21:00",
-    "homeTeam": "Fiorentina",
-    "awayTeam": "Milan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 102,
-    "league": "Serie A",
-    "matchTime": "21:00",
-    "homeTeam": "Fiorentina",
-    "awayTeam": "Milan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "odds": "1.70"
   }
 ]
