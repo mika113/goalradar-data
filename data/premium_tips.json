@@ -1,20 +1,110 @@
 [
   {
-    "id": 401,
-    "league": "Ligue 1",
-    "matchTime": "20:45",
-    "homeTeam": "PSG",
-    "awayTeam": "Bayern",
-    "prediction": "PSG Win & Over 2.5",
-    "odds": "2.15"
+    "id": 78134,
+    "league": "Premier League",
+    "matchTime": "20:00",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Crystal Palace",
+    "prediction": "Manchester City Win & Over 1.5",
+    "odds": "1.35"
   },
   {
-    "id": 402,
+    "id": 99241,
+    "league": "Scottish Premiership",
+    "matchTime": "20:00",
+    "homeTeam": "Motherwell",
+    "awayTeam": "Celtic",
+    "prediction": "0 - 2",
+    "odds": "6.00"
+  },
+  {
+    "id": 55390,
+    "league": "Scottish Premiership",
+    "matchTime": "20:00",
+    "homeTeam": "Rangers",
+    "awayTeam": "Hibernian",
+    "prediction": "Rangers Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 11827,
+    "league": "Women's Super League",
+    "matchTime": "19:00",
+    "homeTeam": "Arsenal",
+    "awayTeam": "Everton",
+    "prediction": "3 - 1",
+    "odds": "7.20"
+  },
+  {
+    "id": 66015,
     "league": "La Liga",
-    "matchTime": "22:00",
-    "homeTeam": "Atletico Madrid",
-    "awayTeam": "Valencia",
+    "matchTime": "18:00",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Sevilla",
+    "prediction": "Both Teams To Score",
+    "odds": "1.70"
+  },
+  {
+    "id": 30488,
+    "league": "La Liga",
+    "matchTime": "20:30",
+    "homeTeam": "Alaves",
+    "awayTeam": "Barcelona",
+    "prediction": "Barcelona Win",
+    "odds": "1.25"
+  },
+  {
+    "id": 87456,
+    "league": "La Liga",
+    "matchTime": "20:30",
+    "homeTeam": "Getafe",
+    "awayTeam": "Mallorca",
     "prediction": "Under 2.5 Goals",
-    "odds": "1.91"
+    "odds": "1.60"
+  },
+  {
+    "id": 23109,
+    "league": "Coppa Italia",
+    "matchTime": "20:00",
+    "homeTeam": "Lazio",
+    "awayTeam": "Inter Milan",
+    "prediction": "1 - 2",
+    "odds": "6.30"
+  },
+  {
+    "id": 90812,
+    "league": "Ligue 1",
+    "matchTime": "20:00",
+    "homeTeam": "Lens",
+    "awayTeam": "Paris Saint-Germain",
+    "prediction": "PSG Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 44721,
+    "league": "Greek Super League",
+    "matchTime": "17:30",
+    "homeTeam": "Olympiakos",
+    "awayTeam": "Panathinaikos",
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
+  },
+  {
+    "id": 51903,
+    "league": "Polish Ekstraklasa",
+    "matchTime": "19:30",
+    "homeTeam": "Rakow Czestochowa",
+    "awayTeam": "Jagiellonia Bialystok",
+    "prediction": "Rakow Win & Over 1.5",
+    "odds": "1.80"
+  },
+  {
+    "id": 77260,
+    "league": "US MLS",
+    "matchTime": "00:30",
+    "homeTeam": "Cincinnati",
+    "awayTeam": "Inter Miami",
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   }
 ]
