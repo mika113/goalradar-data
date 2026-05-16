@@ -1,74 +1,56 @@
 [
   {
-    "id": 1101,
+    "id": 94511,
+    "league": "Scottish Premiership",
+    "matchTime": "12:30",
+    "homeTeam": "Celtic",
+    "awayTeam": "Hearts",
+    "prediction": "Celtic Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 94512,
     "league": "German Bundesliga",
     "matchTime": "14:30",
     "homeTeam": "Bayern Munich",
-    "awayTeam": "Köln",
-    "prediction": "Bayern Munich Win & Over 2.5",
-    "odds": "1.52"
+    "awayTeam": "Koln",
+    "prediction": "Bayern Munich Win",
+    "odds": "1.28"
   },
   {
-    "id": 1102,
+    "id": 94513,
     "league": "Portuguese Primeira Liga",
     "matchTime": "20:30",
     "homeTeam": "Sporting CP",
     "awayTeam": "Gil Vicente",
-    "prediction": "3 - 0",
-    "odds": "7.10"
+    "prediction": "Sporting CP Win",
+    "odds": "1.33"
   },
   {
-    "id": 1103,
+    "id": 94514,
     "league": "Saudi Pro League",
     "matchTime": "19:00",
     "homeTeam": "Al Ahli",
     "awayTeam": "Al Kholood",
     "prediction": "Al Ahli Win",
-    "odds": "1.44"
+    "odds": "1.39"
   },
   {
-    "id": 1104,
+    "id": 94515,
     "league": "Norwegian Eliteserien",
     "matchTime": "17:00",
-    "homeTeam": "Bodø / Glimt",
-    "awayTeam": "Tromsø",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.66"
+    "homeTeam": "Bodo/Glimt",
+    "awayTeam": "Tromso",
+    "prediction": "Bodo/Glimt Win",
+    "odds": "1.45"
   },
   {
-    "id": 1105,
-    "league": "Premier League",
-    "matchTime": "15:00",
-    "homeTeam": "Chelsea",
-    "awayTeam": "Manchester City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
-  },
-  {
-    "id": 1106,
-    "league": "German Bundesliga",
-    "matchTime": "14:30",
-    "homeTeam": "Werder Bremen",
-    "awayTeam": "Borussia Dortmund",
-    "prediction": "Borussia Dortmund Win",
-    "odds": "1.80"
-  },
-  {
-    "id": 1107,
-    "league": "Portuguese Primeira Liga",
-    "matchTime": "20:30",
-    "homeTeam": "Estoril",
-    "awayTeam": "Benfica",
-    "prediction": "Benfica Win & Over 1.5",
-    "odds": "1.57"
-  },
-  {
-    "id": 1108,
-    "league": "Ukraine Premier League",
-    "matchTime": "11:00",
-    "homeTeam": "SK Poltava",
-    "awayTeam": "Dynamo Kyiv",
-    "prediction": "0 - 2",
-    "odds": "6.40"
+    "id": 94516,
+    "league": "Chinese Super League",
+    "matchTime": "13:00",
+    "homeTeam": "Yunnan Yukun",
+    "awayTeam": "Shanghai Shenhua",
+    "prediction": "Shanghai Shenhua Win",
+    "odds": "1.55"
   }
 ]
