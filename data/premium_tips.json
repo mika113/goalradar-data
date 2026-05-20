@@ -1,21 +1,12 @@
 [
   {
-    "id": 1544281,
-    "league": "Copa Colombia",
-    "matchTime": "01:00",
-    "homeTeam": "Llaneros",
-    "awayTeam": "Patriotas",
-    "prediction": "Llaneros Win",
-    "odds": "1.76"
-  },
-  {
     "id": 1544601,
     "league": "Copa Sul-Sudeste",
     "matchTime": "01:00",
     "homeTeam": "Novorizontino",
     "awayTeam": "Chapecoense-sc",
-    "prediction": "Chapecoense-sc Win",
-    "odds": "3.2"
+    "prediction": "Novorizontino Win",
+    "odds": "1.8"
   },
   {
     "id": 1544602,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Volta Redonda",
     "awayTeam": "Avai",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.16"
+    "prediction": "Avai Win",
+    "odds": "2.84"
   },
   {
     "id": 1524510,
@@ -32,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Inter Miami II",
     "awayTeam": "Brevard",
-    "prediction": "Inter Miami II Win",
-    "odds": "1.43"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   },
   {
     "id": 1542022,
@@ -42,7 +33,7 @@
     "homeTeam": "Nação",
     "awayTeam": "Jaraguá",
     "prediction": "Nação Win",
-    "odds": "1.49"
+    "odds": "1.84"
   },
   {
     "id": 1524507,
@@ -50,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "North Carolina II",
     "awayTeam": "Hickory",
-    "prediction": "Draw",
-    "odds": "3.93"
+    "prediction": "Hickory Win",
+    "odds": "2.86"
   },
   {
     "id": 1524511,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "AC Connecticut",
     "awayTeam": "Connecticut Rush",
-    "prediction": "Draw",
-    "odds": "4.16"
+    "prediction": "AC Connecticut Win",
+    "odds": "1.63"
   },
   {
     "id": 1524512,
@@ -68,8 +59,8 @@
     "matchTime": "02:00",
     "homeTeam": "Akron City",
     "awayTeam": "Cleveland Force",
-    "prediction": "Akron City Win",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   },
   {
     "id": 1524513,
@@ -77,8 +68,8 @@
     "matchTime": "02:00",
     "homeTeam": "Lakeland United",
     "awayTeam": "FC Miami City",
-    "prediction": "FC Miami City Win",
-    "odds": "2.96"
+    "prediction": "Lakeland United Win",
+    "odds": "1.5"
   },
   {
     "id": 1524514,
@@ -86,8 +77,8 @@
     "matchTime": "02:00",
     "homeTeam": "Lionsbridge",
     "awayTeam": "Virginia Marauders",
-    "prediction": "Virginia Marauders Win",
-    "odds": "2.61"
+    "prediction": "Lionsbridge Win",
+    "odds": "1.52"
   },
   {
     "id": 1524515,
@@ -95,8 +86,8 @@
     "matchTime": "02:00",
     "homeTeam": "Nona",
     "awayTeam": "Shark Coast",
-    "prediction": "Shark Coast Win",
-    "odds": "2.16"
+    "prediction": "Nona Win",
+    "odds": "1.65"
   },
   {
     "id": 1524516,
@@ -104,7 +95,16 @@
     "matchTime": "02:00",
     "homeTeam": "Patuxent",
     "awayTeam": "Charlottesville Blues",
-    "prediction": "Patuxent Win",
-    "odds": "1.41"
+    "prediction": "Charlottesville Blues Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1524517,
+    "league": "USL League Two",
+    "matchTime": "02:00",
+    "homeTeam": "Seacoast United Phantoms",
+    "awayTeam": "Western Mass Pioneers",
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   }
 ]
