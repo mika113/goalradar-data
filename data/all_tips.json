@@ -1,37 +1,56 @@
 [
-    {
-        "homeTeam": "Häcken W",
-        "awayTeam": "Växjö W",
-        "prediction": "Over 2.5 Goals",
-        "confidence": 80,
-        "reason": "Generated prediction for Häcken W vs Växjö W"
-    },
-    {
-        "homeTeam": "Spelle-Venhaus",
-        "awayTeam": "Borussia Mönchengladbach",
-        "prediction": "Away Win",
-        "confidence": 66,
-        "reason": "Generated prediction for Spelle-Venhaus vs Borussia Mönchengladbach"
-    },
-    {
-        "homeTeam": "Rotor Volgograd",
-        "awayTeam": "Akron",
-        "prediction": "BTTS",
-        "confidence": 88,
-        "reason": "Generated prediction for Rotor Volgograd vs Akron"
-    },
-    {
-        "homeTeam": "ASO Chlef",
-        "awayTeam": "JS Kabylie",
-        "prediction": "Over 2.5 Goals",
-        "confidence": 77,
-        "reason": "Generated prediction for ASO Chlef vs JS Kabylie"
-    },
-    {
-        "homeTeam": "El Bayadh",
-        "awayTeam": "JS Saoura",
-        "prediction": "BTTS",
-        "confidence": 66,
-        "reason": "Generated prediction for El Bayadh vs JS Saoura"
-    }
+  {
+    "id": 94511,
+    "league": "Scottish Premiership",
+    "matchTime": "12:30",
+    "homeTeam": "Celtic",
+    "awayTeam": "Hearts",
+    "prediction": "Celtic Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 94512,
+    "league": "German Bundesliga",
+    "matchTime": "14:30",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Koln",
+    "prediction": "Bayern Munich Win",
+    "odds": "1.28"
+  },
+  {
+    "id": 94513,
+    "league": "Portuguese Primeira Liga",
+    "matchTime": "20:30",
+    "homeTeam": "Sporting CP",
+    "awayTeam": "Gil Vicente",
+    "prediction": "Sporting CP Win",
+    "odds": "1.33"
+  },
+  {
+    "id": 94514,
+    "league": "Saudi Pro League",
+    "matchTime": "19:00",
+    "homeTeam": "Al Ahli",
+    "awayTeam": "Al Kholood",
+    "prediction": "Al Ahli Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 94515,
+    "league": "Norwegian Eliteserien",
+    "matchTime": "17:00",
+    "homeTeam": "Bodo/Glimt",
+    "awayTeam": "Tromso",
+    "prediction": "Bodo/Glimt Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 94516,
+    "league": "Chinese Super League",
+    "matchTime": "13:00",
+    "homeTeam": "Yunnan Yukun",
+    "awayTeam": "Shanghai Shenhua",
+    "prediction": "Shanghai Shenhua Win",
+    "odds": "1.55"
+  }
 ]
