@@ -1,15 +1,27 @@
 [
   {
+    "id": 1545123,
+    "league": "Segunda División",
+    "matchDate": "FT",
+    "homeTeam": "Fundación Lara Deportiva",
+    "awayTeam": "Atletico el Vigia FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Fundación Lara Deportiva Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1532003,
     "league": "USL W League",
     "matchDate": "FT",
     "homeTeam": "Capo W",
     "awayTeam": "Sta Clarita Blue Heat W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Capo W Win",
-    "outcome": "Lost"
+    "prediction": "Sta Clarita Blue Heat W Win",
+    "outcome": "Won"
   },
   {
     "id": 1525724,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Atlético Bucaramanga W",
     "awayTeam": "Deportivo Cali W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Deportivo Cali W Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,9 +42,9 @@
     "homeTeam": "New Jersey Copa",
     "awayTeam": "Long Island Rough Riders",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "New Jersey Copa Win & Over 2.5",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Midwest United",
     "awayTeam": "AFC Ann Arbor",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Midwest United Win & Over 2.5",
+    "prediction": "AFC Ann Arbor Win & Over 2.5",
     "outcome": "Won"
   },
   {
@@ -56,7 +68,7 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Emelec Win & Over 2.5",
+    "prediction": "Daquilema FC Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "SOL DE America Win",
-    "outcome": "Won"
+    "prediction": "3 de Noviembre Win",
+    "outcome": "Lost"
   },
   {
     "id": 1544278,
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Orsomarso Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1540062,
@@ -92,7 +104,7 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Won"
   },
   {
@@ -101,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Zamora FC B",
     "awayTeam": "Yaracuyanos FC",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "Zamora FC B Win & Over 2.5",
     "outcome": "Won"
   },
   {
@@ -116,7 +128,7 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Urena SC Win & Over 2.5",
+    "prediction": "Club Atletico Barinas Win & Over 2.5",
     "outcome": "Won"
   },
   {
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Deportivo Lara Win & Over 2.5",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544916,
-    "league": "CAF Cup of Nations - U17",
-    "matchDate": "FT",
-    "homeTeam": "South Africa U17",
-    "awayTeam": "Ghana U17",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Ghana U17 Win",
+    "prediction": "Puerto Cabello II Win",
     "outcome": "Won"
   }
 ]
