@@ -36,7 +36,7 @@
     "awayTeam": "Yaracuyanos FC",
     "homeScore": 0,
     "awayScore": 1,
-    "status": "1H",
+    "status": "HT",
     "outcome": "Won"
   },
   {
@@ -46,7 +46,7 @@
     "awayTeam": "Club Atletico Barinas",
     "homeScore": 0,
     "awayScore": 0,
-    "status": "1H",
+    "status": "HT",
     "outcome": "Won"
   },
   {
@@ -56,7 +56,7 @@
     "awayTeam": "Deportivo Lara",
     "homeScore": 1,
     "awayScore": 0,
-    "status": "1H",
+    "status": "HT",
     "outcome": "Won"
   },
   {
@@ -85,7 +85,7 @@
     "homeTeam": "SC Freiburg",
     "awayTeam": "Aston Villa",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "2H",
     "outcome": "Won"
   },
@@ -115,7 +115,7 @@
     "homeTeam": "Ravenna",
     "awayTeam": "Salernitana",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "2H",
     "outcome": "Won"
   },
@@ -137,56 +137,6 @@
     "homeScore": 3,
     "awayScore": 3,
     "status": "2H",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545154,
-    "league": "Serie C - Promotion - Play-offs",
-    "homeTeam": "Union Brescia",
-    "awayTeam": "Casarano",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545153,
-    "league": "Serie C - Promotion - Play-offs",
-    "homeTeam": "Ascoli",
-    "awayTeam": "Potenza",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1544952,
-    "league": "Serie B",
-    "homeTeam": "Palermo",
-    "awayTeam": "Catanzaro",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544420,
-    "league": "Cup",
-    "homeTeam": "Sileks",
-    "awayTeam": "Shkendija",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544400,
-    "league": "Copa do Brasil U17",
-    "homeTeam": "Coritiba U17",
-    "awayTeam": "Atlético Mineiro U17",
-    "homeScore": 2,
-    "awayScore": 4,
-    "status": "FT",
     "outcome": "Won"
   }
 ]
