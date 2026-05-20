@@ -1,47 +1,362 @@
 [
   {
-    "id": 94511,
+    "id": 1513477,
+    "league": "Ligue 1",
+    "matchTime": "22:00",
+    "homeTeam": "CR Belouizdad",
+    "awayTeam": "MC Oran",
+    "prediction": "CR Belouizdad Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1430619,
     "league": "1. Liga Classic - Group 3",
     "matchTime": "21:00",
     "homeTeam": "Freienbach",
     "awayTeam": "Baden",
     "prediction": "Baden Win",
-    "odds": "1.50"
+    "odds": "2.2"
   },
   {
-    "id": 94512,
+    "id": 1436212,
     "league": "Pro League",
     "matchTime": "21:00",
     "homeTeam": "Al Khaleej Saihat",
     "awayTeam": "Al-Ahli Jeddah",
     "prediction": "Al-Ahli Jeddah Win",
-    "odds": "1.50"
+    "odds": "1.55"
   },
   {
-    "id": 94513,
+    "id": 1438976,
     "league": "Pro League",
     "matchTime": "21:00",
     "homeTeam": "Al Najma",
     "awayTeam": "Al Shabab",
     "prediction": "Al Shabab Win",
-    "odds": "1.50"
+    "odds": "1.57"
   },
   {
-    "id": 94514,
+    "id": 1477230,
     "league": "Ligi kuu Bara",
     "matchTime": "21:00",
     "homeTeam": "Dodoma Jiji",
     "awayTeam": "Mashujaa",
     "prediction": "Dodoma Jiji Win",
-    "odds": "1.50"
+    "odds": "2.1"
   },
   {
-    "id": 94515,
+    "id": 1494659,
     "league": "Eliteserien",
     "matchTime": "21:00",
     "homeTeam": "Aalesund",
     "awayTeam": "Brann",
     "prediction": "Brann Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1497939,
+    "league": "First League",
+    "matchTime": "21:00",
+    "homeTeam": "Buducnost Podgorica",
+    "awayTeam": "Bokelj",
+    "prediction": "Buducnost Podgorica Win",
+    "odds": "1.57"
+  },
+  {
+    "id": 1497940,
+    "league": "First League",
+    "matchTime": "21:00",
+    "homeTeam": "Dečić",
+    "awayTeam": "Arsenal Tivat",
+    "prediction": "Arsenal Tivat Win",
+    "odds": "2.4"
+  },
+  {
+    "id": 1497941,
+    "league": "First League",
+    "matchTime": "21:00",
+    "homeTeam": "Jedinstvo",
+    "awayTeam": "Jezero",
+    "prediction": "Jedinstvo Win",
+    "odds": "2.45"
+  },
+  {
+    "id": 1497942,
+    "league": "First League",
+    "matchTime": "21:00",
+    "homeTeam": "Mladost DG",
+    "awayTeam": "Sutjeska",
+    "prediction": "Sutjeska Win",
+    "odds": "1.8"
+  },
+  {
+    "id": 1497943,
+    "league": "First League",
+    "matchTime": "21:00",
+    "homeTeam": "Mornar",
+    "awayTeam": "Petrovac",
+    "prediction": "Mornar Win",
     "odds": "1.50"
+  },
+  {
+    "id": 1512399,
+    "league": "Reserve League",
+    "matchTime": "21:00",
+    "homeTeam": "Atl. Rafaela 2",
+    "awayTeam": "Defensa y Justicia Res.",
+    "prediction": "Atl. Rafaela 2 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1512403,
+    "league": "Reserve League",
+    "matchTime": "21:00",
+    "homeTeam": "Central Córdoba SdE Res.",
+    "awayTeam": "Deportivo Riestra Res.",
+    "prediction": "Deportivo Riestra Res. Win",
+    "odds": "2.2"
+  },
+  {
+    "id": 1512409,
+    "league": "Reserve League",
+    "matchTime": "21:00",
+    "homeTeam": "Platense Res.",
+    "awayTeam": "Newell's Old Boys Res.",
+    "prediction": "Platense Res. Win",
+    "odds": "2.55"
+  },
+  {
+    "id": 1512411,
+    "league": "Reserve League",
+    "matchTime": "21:00",
+    "homeTeam": "Rosario Central Res.",
+    "awayTeam": "Argentinos Juniors Res.",
+    "prediction": "Rosario Central Res. Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1512415,
+    "league": "Reserve League",
+    "matchTime": "21:00",
+    "homeTeam": "Tigre Res.",
+    "awayTeam": "Sarmiento Res.",
+    "prediction": "Tigre Res. Win",
+    "odds": "2.05"
+  },
+  {
+    "id": 1526144,
+    "league": "Brasileiro U20 A",
+    "matchTime": "21:00",
+    "homeTeam": "Avaí U20",
+    "awayTeam": "Cuiabá U20",
+    "prediction": "Avaí U20 Win",
+    "odds": "2.1"
+  },
+  {
+    "id": 1526147,
+    "league": "Brasileiro U20 A",
+    "matchTime": "21:00",
+    "homeTeam": "Cruzeiro U20",
+    "awayTeam": "Vitória U20",
+    "prediction": "Cruzeiro U20 Win",
+    "odds": "1.4"
+  },
+  {
+    "id": 1526149,
+    "league": "Brasileiro U20 A",
+    "matchTime": "21:00",
+    "homeTeam": "Fluminense U20",
+    "awayTeam": "Juventude U20",
+    "prediction": "Fluminense U20 Win",
+    "odds": "1.4"
+  },
+  {
+    "id": 1526151,
+    "league": "Brasileiro U20 A",
+    "matchTime": "21:00",
+    "homeTeam": "São Paulo U20",
+    "awayTeam": "Criciuma U20",
+    "prediction": "São Paulo U20 Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1538538,
+    "league": "Brasileiro U20 B",
+    "matchTime": "21:00",
+    "homeTeam": "Brusque U20",
+    "awayTeam": "Atlético Mineiro U20",
+    "prediction": "Brusque U20 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1538542,
+    "league": "Brasileiro U20 B",
+    "matchTime": "21:00",
+    "homeTeam": "Operário PR U20",
+    "awayTeam": "Internacional U20",
+    "prediction": "Operário PR U20 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1538543,
+    "league": "Brasileiro U20 B",
+    "matchTime": "21:00",
+    "homeTeam": "Botafogo SP U20",
+    "awayTeam": "Sport Recife U20",
+    "prediction": "Botafogo SP U20 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1541965,
+    "league": "Catarinense - 2",
+    "matchTime": "21:00",
+    "homeTeam": "Metropolitano",
+    "awayTeam": "Blumenau",
+    "prediction": "Metropolitano Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1543254,
+    "league": "Carioca A2",
+    "matchTime": "21:00",
+    "homeTeam": "América RJ",
+    "awayTeam": "CFRJ / Maricá",
+    "prediction": "América RJ Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1544400,
+    "league": "Copa do Brasil U17",
+    "matchTime": "21:00",
+    "homeTeam": "Coritiba U17",
+    "awayTeam": "Atlético Mineiro U17",
+    "prediction": "Coritiba U17 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1544420,
+    "league": "Cup",
+    "matchTime": "21:00",
+    "homeTeam": "Sileks",
+    "awayTeam": "Shkendija",
+    "prediction": "Shkendija Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1544952,
+    "league": "Serie B",
+    "matchTime": "21:00",
+    "homeTeam": "Palermo",
+    "awayTeam": "Catanzaro",
+    "prediction": "Palermo Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1545153,
+    "league": "Serie C - Promotion - Play-offs",
+    "matchTime": "21:00",
+    "homeTeam": "Ascoli",
+    "awayTeam": "Potenza",
+    "prediction": "Ascoli Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1545154,
+    "league": "Serie C - Promotion - Play-offs",
+    "matchTime": "21:00",
+    "homeTeam": "Union Brescia",
+    "awayTeam": "Casarano",
+    "prediction": "Union Brescia Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1545155,
+    "league": "Serie C - Promotion - Play-offs",
+    "matchTime": "21:30",
+    "homeTeam": "Catania",
+    "awayTeam": "Lecco",
+    "prediction": "Catania Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1545486,
+    "league": "Goiano U20",
+    "matchTime": "21:30",
+    "homeTeam": "Aparecidense U20",
+    "awayTeam": "Inhumas U20",
+    "prediction": "Inhumas U20 Win",
+    "odds": "2.3"
+  },
+  {
+    "id": 1545156,
+    "league": "Serie C - Promotion - Play-offs",
+    "matchTime": "21:45",
+    "homeTeam": "Ravenna",
+    "awayTeam": "Salernitana",
+    "prediction": "Ravenna Win",
+    "odds": "2.3"
+  },
+  {
+    "id": 1538545,
+    "league": "Brasileiro U20 B",
+    "matchTime": "22:00",
+    "homeTeam": "Paysandu PA U20",
+    "awayTeam": "Atlético GO U20",
+    "prediction": "Paysandu PA U20 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1544596,
+    "league": "UEFA Europa League",
+    "matchTime": "22:00",
+    "homeTeam": "SC Freiburg",
+    "awayTeam": "Aston Villa",
+    "prediction": "Aston Villa Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1544915,
+    "league": "CAF Cup of Nations - U17",
+    "matchTime": "22:00",
+    "homeTeam": "Senegal U17",
+    "awayTeam": "Algeria U17",
+    "prediction": "Senegal U17 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1544916,
+    "league": "CAF Cup of Nations - U17",
+    "matchTime": "22:00",
+    "homeTeam": "South Africa U17",
+    "awayTeam": "Ghana U17",
+    "prediction": "South Africa U17 Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1545597,
+    "league": "Matogrossense 2",
+    "matchTime": "22:00",
+    "homeTeam": "Ação",
+    "awayTeam": "Santa Cruz MT",
+    "prediction": "Ação Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1545120,
+    "league": "Segunda División",
+    "matchTime": "22:30",
+    "homeTeam": "Puerto Cabello II",
+    "awayTeam": "Deportivo Lara",
+    "prediction": "Deportivo Lara Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1545121,
+    "league": "Segunda División",
+    "matchTime": "22:30",
+    "homeTeam": "Urena SC",
+    "awayTeam": "Club Atletico Barinas",
+    "prediction": "Urena SC Win",
+    "odds": "1.77"
   }
 ]
