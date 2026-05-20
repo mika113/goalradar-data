@@ -1,59 +1,5 @@
 [
   {
-    "id": 1545120,
-    "league": "Segunda División",
-    "matchTime": "22:30",
-    "homeTeam": "Puerto Cabello II",
-    "awayTeam": "Deportivo Lara",
-    "prediction": "Deportivo Lara Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1545121,
-    "league": "Segunda División",
-    "matchTime": "22:30",
-    "homeTeam": "Urena SC",
-    "awayTeam": "Club Atletico Barinas",
-    "prediction": "Urena SC Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1545122,
-    "league": "Segunda División",
-    "matchTime": "22:30",
-    "homeTeam": "Zamora FC B",
-    "awayTeam": "Yaracuyanos FC",
-    "prediction": "Zamora FC B Win",
-    "odds": "2.55"
-  },
-  {
-    "id": 1540062,
-    "league": "Copa Argentina",
-    "matchTime": "23:00",
-    "homeTeam": "Talleres Cordoba",
-    "awayTeam": "Atletico Tucuman",
-    "prediction": "Talleres Cordoba Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1544278,
-    "league": "Copa Colombia",
-    "matchTime": "23:00",
-    "homeTeam": "Fortaleza FC",
-    "awayTeam": "Orsomarso",
-    "prediction": "Fortaleza FC Win",
-    "odds": "1.31"
-  },
-  {
-    "id": 1544832,
-    "league": "Division Intermedia",
-    "matchTime": "23:00",
-    "homeTeam": "SOL DE America",
-    "awayTeam": "3 de Noviembre",
-    "prediction": "SOL DE America Win",
-    "odds": "1.85"
-  },
-  {
     "id": 1542924,
     "league": "Copa Ecuador",
     "matchTime": "23:30",
@@ -114,7 +60,7 @@
     "homeTeam": "Fundación Lara Deportiva",
     "awayTeam": "Atletico el Vigia FC",
     "prediction": "Fundación Lara Deportiva Win",
-    "odds": "1.4"
+    "odds": "1.28"
   },
   {
     "id": 1512402,
@@ -123,7 +69,7 @@
     "homeTeam": "Boca Juniors Res.",
     "awayTeam": "Huracán Res.",
     "prediction": "Boca Juniors Res. Win",
-    "odds": "1.64"
+    "odds": "1.7"
   },
   {
     "id": 1524505,
@@ -168,7 +114,7 @@
     "homeTeam": "Olimpia",
     "awayTeam": "Vasco DA Gama",
     "prediction": "Olimpia Win",
-    "odds": "1.94"
+    "odds": "1.97"
   },
   {
     "id": 1535216,
@@ -285,7 +231,7 @@
     "homeTeam": "AC Connecticut",
     "awayTeam": "Connecticut Rush",
     "prediction": "AC Connecticut Win",
-    "odds": "1.48"
+    "odds": "1.5"
   },
   {
     "id": 1524512,
@@ -357,6 +303,60 @@
     "homeTeam": "Wake",
     "awayTeam": "North Carolina Fusion",
     "prediction": "Wake Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1525382,
+    "league": "USL League Two",
+    "matchTime": "02:00",
+    "homeTeam": "Real Central New Jersey",
+    "awayTeam": "PA Classics",
+    "prediction": "Real Central New Jersey Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1532005,
+    "league": "USL W League",
+    "matchTime": "02:00",
+    "homeTeam": "SC United Bantams W",
+    "awayTeam": "NC Courage II W",
+    "prediction": "SC United Bantams W Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1532006,
+    "league": "USL W League",
+    "matchTime": "02:00",
+    "homeTeam": "Brooke House W",
+    "awayTeam": "Sporting JAX W",
+    "prediction": "Brooke House W Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1532007,
+    "league": "USL W League",
+    "matchTime": "02:00",
+    "homeTeam": "North Carolina Fusion W",
+    "awayTeam": "Wake W",
+    "prediction": "North Carolina Fusion W Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1532008,
+    "league": "USL W League",
+    "matchTime": "02:00",
+    "homeTeam": "Toledo Villa W",
+    "awayTeam": "Dayton Dutch Lions W",
+    "prediction": "Toledo Villa W Win",
+    "odds": "1.50"
+  },
+  {
+    "id": 1532009,
+    "league": "USL W League",
+    "matchTime": "02:00",
+    "homeTeam": "Flower City 1872 W",
+    "awayTeam": "Cleveland Force W",
+    "prediction": "Flower City 1872 W Win",
     "odds": "1.50"
   }
 ]
