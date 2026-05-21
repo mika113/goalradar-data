@@ -1,84 +1,12 @@
 [
   {
-    "id": 1521363,
-    "league": "Indian Super League",
-    "matchTime": "17:00",
-    "homeTeam": "Jamshedpur",
-    "awayTeam": "Odisha",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
-    "id": 1534746,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Astana II",
-    "awayTeam": "Shakhter Karagandy",
-    "prediction": "Astana II Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1539045,
-    "league": "Kansallinen Liiga (Finland)",
-    "matchTime": "17:00",
-    "homeTeam": "VIFK W",
-    "awayTeam": "Åland United W",
-    "prediction": "VIFK W Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1544419,
-    "league": "First League (Armenia)",
-    "matchTime": "17:00",
-    "homeTeam": "Noah II",
-    "awayTeam": "Shirak II",
-    "prediction": "Noah II Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1446696,
-    "league": "Premyer Liqa (Azerbaijan)",
-    "matchTime": "17:30",
-    "homeTeam": "Qabala",
-    "awayTeam": "Şamaxı FK",
-    "prediction": "Qabala Win & Over 1.5",
-    "odds": "2.21"
-  },
-  {
-    "id": 1521126,
-    "league": "Azadegan League (Iran)",
-    "matchTime": "17:30",
-    "homeTeam": "Shenavarsazi Qeshm",
-    "awayTeam": "Niroye Zamini",
-    "prediction": "Niroye Zamini Win",
-    "odds": "2.41"
-  },
-  {
-    "id": 1542718,
-    "league": "Cup (Tunisia)",
-    "matchTime": "17:30",
-    "homeTeam": "Progrès Sakiet Eddaïer",
-    "awayTeam": "Jeunesse Sportive Omrane",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
-  },
-  {
-    "id": 1545478,
-    "league": "Cup (Tunisia)",
-    "matchTime": "17:30",
-    "homeTeam": "BS Bouhajla",
-    "awayTeam": "ES Tunis",
-    "prediction": "BS Bouhajla Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1509127,
     "league": "Erovnuli Liga (Georgia)",
     "matchTime": "18:00",
     "homeTeam": "Spaeri",
     "awayTeam": "Dinamo Batumi",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.05"
+    "prediction": "Spaeri Win & Over 1.5",
+    "odds": "2.5"
   },
   {
     "id": 1515841,
@@ -86,7 +14,79 @@
     "matchTime": "18:00",
     "homeTeam": "BFC Daugavpils",
     "awayTeam": "Ogre United",
-    "prediction": "BFC Daugavpils Win",
-    "odds": "1.34"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
+  },
+  {
+    "id": 1521129,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "18:00",
+    "homeTeam": "Naft Gachsaran",
+    "awayTeam": "Saipa",
+    "prediction": "Naft Gachsaran Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1536412,
+    "league": "Second League - Group 2 (Russia)",
+    "matchTime": "18:00",
+    "homeTeam": "Spartak Moscow 2",
+    "awayTeam": "Tver",
+    "prediction": "Spartak Moscow 2 Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1537108,
+    "league": "Super League 1 (Greece)",
+    "matchTime": "18:00",
+    "homeTeam": "Atromitos",
+    "awayTeam": "Panserraikos",
+    "prediction": "Panserraikos Win",
+    "odds": "2.34"
+  },
+  {
+    "id": 1457785,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchTime": "18:30",
+    "homeTeam": "Coastal Union",
+    "awayTeam": "Simba",
+    "prediction": "Coastal Union Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1489613,
+    "league": "3. liga - CFL B (Czech-Republic)",
+    "matchTime": "18:30",
+    "homeTeam": "Arsenal Česká Lípa",
+    "awayTeam": "Sokol Zápy",
+    "prediction": "Sokol Zápy Win",
+    "odds": "3.04"
+  },
+  {
+    "id": 1545695,
+    "league": "Friendlies (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Qatar",
+    "awayTeam": "Sudan",
+    "prediction": "Qatar Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1537106,
+    "league": "Super League 1 (Greece)",
+    "matchTime": "19:00",
+    "homeTeam": "Panetolikos",
+    "awayTeam": "Asteras Tripolis",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.63"
+  },
+  {
+    "id": 1537107,
+    "league": "Super League 1 (Greece)",
+    "matchTime": "19:00",
+    "homeTeam": "Kifisia",
+    "awayTeam": "Larisa",
+    "prediction": "Larisa Win",
+    "odds": "3.14"
   }
 ]
