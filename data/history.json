@@ -1,7 +1,7 @@
 [
   {
     "id": 1538961,
-    "league": "UEFA U19 Championship - Qualification",
+    "league": "UEFA U19 Championship - Qualification (World)",
     "matchDate": "FT",
     "homeTeam": "San Marino U19",
     "awayTeam": "Latvia U19",
@@ -12,8 +12,32 @@
     "outcome": "Lost"
   },
   {
+    "id": 1538960,
+    "league": "UEFA U19 Championship - Qualification (World)",
+    "matchDate": "FT",
+    "homeTeam": "Belarus U19",
+    "awayTeam": "Slovakia U19",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Slovakia U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1410447,
+    "league": "III Liga - Group 1 (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Legia Warszawa II",
+    "awayTeam": "Widzew II",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1542403,
-    "league": "Premier League",
+    "league": "Premier League (Mongolia)",
     "matchDate": "FT",
     "homeTeam": "Khangarid",
     "awayTeam": "Central Stallions",
@@ -25,7 +49,7 @@
   },
   {
     "id": 1482134,
-    "league": "CONCACAF W Champions Cup",
+    "league": "CONCACAF W Champions Cup (World)",
     "matchDate": "FT",
     "homeTeam": "Washington Spirit W",
     "awayTeam": "Pachuca W",
@@ -37,7 +61,7 @@
   },
   {
     "id": 1545148,
-    "league": "Premier League",
+    "league": "Premier League (Jamaica)",
     "matchDate": "FT",
     "homeTeam": "Montego Bay United",
     "awayTeam": "Cavalier",
@@ -49,7 +73,7 @@
   },
   {
     "id": 1543869,
-    "league": "US Open Cup",
+    "league": "US Open Cup (USA)",
     "matchDate": "FT",
     "homeTeam": "Colorado Rapids",
     "awayTeam": "San Jose Earthquakes",
@@ -61,7 +85,7 @@
   },
   {
     "id": 1535305,
-    "league": "CONMEBOL Libertadores",
+    "league": "CONMEBOL Libertadores (World)",
     "matchDate": "FT",
     "homeTeam": "Junior",
     "awayTeam": "Sporting Cristal",
@@ -73,7 +97,7 @@
   },
   {
     "id": 1535301,
-    "league": "CONMEBOL Libertadores",
+    "league": "CONMEBOL Libertadores (World)",
     "matchDate": "FT",
     "homeTeam": "Cusco",
     "awayTeam": "Independiente Medellin",
@@ -85,7 +109,7 @@
   },
   {
     "id": 1524529,
-    "league": "USL League Two",
+    "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "Bangers",
     "awayTeam": "West Seattle Junction",
@@ -97,7 +121,7 @@
   },
   {
     "id": 1508433,
-    "league": "NWSL Women",
+    "league": "NWSL Women (USA)",
     "matchDate": "FT",
     "homeTeam": "Portland Thorns W",
     "awayTeam": "Bay FC W",
@@ -109,7 +133,7 @@
   },
   {
     "id": 1508432,
-    "league": "NWSL Women",
+    "league": "NWSL Women (USA)",
     "matchDate": "FT",
     "homeTeam": "Angel City W",
     "awayTeam": "Kansas City W",
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Kansas City W Win & Over 2.5",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532413,
-    "league": "USL W League",
-    "matchDate": "FT",
-    "homeTeam": "Real Colorado W",
-    "awayTeam": "Albion Colorado W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Real Colorado W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493502,
-    "league": "USL Championship",
-    "matchDate": "FT",
-    "homeTeam": "New Mexico United",
-    "awayTeam": "Tampa Bay Rowdies",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Tampa Bay Rowdies Win",
     "outcome": "Won"
   }
 ]
