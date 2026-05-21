@@ -1,21 +1,12 @@
 [
   {
-    "id": 1541074,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "18:00",
-    "homeTeam": "Negelle Arsi",
-    "awayTeam": "Suhul Shire",
-    "prediction": "Suhul Shire Win",
-    "odds": "2.61"
-  },
-  {
     "id": 1545521,
     "league": "Premier League (Bahrain)",
     "matchTime": "19:00",
     "homeTeam": "Budaiya",
     "awayTeam": "Manama",
     "prediction": "Budaiya Win",
-    "odds": "1.68"
+    "odds": "1.36"
   },
   {
     "id": 1545522,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Al Najma",
     "awayTeam": "Al Ittihad",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Al Najma Win & Over 1.5",
+    "odds": "2.26"
   },
   {
     "id": 1526454,
@@ -33,7 +24,7 @@
     "homeTeam": "Al Arabi",
     "awayTeam": "Al Tadhamon",
     "prediction": "Al Arabi Win",
-    "odds": "1.61"
+    "odds": "1.54"
   },
   {
     "id": 1533655,
@@ -41,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Wadi Degla",
     "awayTeam": "Masr",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Wadi Degla Win",
+    "odds": "1.94"
   },
   {
     "id": 1526456,
@@ -50,7 +41,16 @@
     "matchTime": "20:20",
     "homeTeam": "Al Fahaheel",
     "awayTeam": "Al Kuwait",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Al Kuwait Win",
+    "odds": "3.48"
+  },
+  {
+    "id": 1545527,
+    "league": "Premier League (Lebanon)",
+    "matchTime": "21:00",
+    "homeTeam": "Al Ansar",
+    "awayTeam": "Al Nejmeh",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   }
 ]
