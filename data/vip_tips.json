@@ -1,30 +1,12 @@
 [
   {
-    "id": 1545521,
-    "league": "Premier League (Bahrain)",
-    "matchTime": "19:00",
-    "homeTeam": "Budaiya",
-    "awayTeam": "Manama",
-    "prediction": "Manama Win",
-    "odds": "2.43"
-  },
-  {
-    "id": 1545522,
-    "league": "Premier League (Bahrain)",
-    "matchTime": "19:00",
-    "homeTeam": "Al Najma",
-    "awayTeam": "Al Ittihad",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
-  },
-  {
     "id": 1526454,
     "league": "Premier League (Kuwait)",
     "matchTime": "19:15",
     "homeTeam": "Al Arabi",
     "awayTeam": "Al Tadhamon",
-    "prediction": "Al Tadhamon Win",
-    "odds": "2.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.56"
   },
   {
     "id": 1533655,
@@ -32,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Wadi Degla",
     "awayTeam": "Masr",
-    "prediction": "Wadi Degla Win",
-    "odds": "1.96"
+    "prediction": "Masr Win",
+    "odds": "3.14"
   },
   {
     "id": 1526456,
@@ -41,34 +23,52 @@
     "matchTime": "20:20",
     "homeTeam": "Al Fahaheel",
     "awayTeam": "Al Kuwait",
-    "prediction": "Double Chance X2",
-    "odds": "1.78"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
   },
   {
-    "id": 1521363,
-    "league": "Indian Super League",
-    "matchTime": "14:30",
-    "homeTeam": "Jamshedpur",
-    "awayTeam": "Odisha",
-    "prediction": "Jamshedpur Win",
-    "odds": "1.72"
+    "id": 1457788,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchTime": "16:00",
+    "homeTeam": "JKT Tanzania",
+    "awayTeam": "Fountain Gate",
+    "prediction": "Fountain Gate Win",
+    "odds": "1.79"
   },
   {
-    "id": 1488991,
-    "league": "Third League - Southwest (Bulgaria)",
-    "matchTime": "15:00",
-    "homeTeam": "Germaneya",
-    "awayTeam": "Pirin Razlog",
-    "prediction": "Both Teams To Score",
-    "odds": "1.62"
+    "id": 1466979,
+    "league": "Birinci Dasta (Azerbaijan)",
+    "matchTime": "16:00",
+    "homeTeam": "Cəbrayıl",
+    "awayTeam": "Şimal",
+    "prediction": "Şimal Win",
+    "odds": "1.61"
   },
   {
-    "id": 1507369,
+    "id": 1466982,
+    "league": "Birinci Dasta (Azerbaijan)",
+    "matchTime": "16:00",
+    "homeTeam": "MOIK",
+    "awayTeam": "Difai Ağsu",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1507365,
     "league": "Liga 3 (Georgia)",
-    "matchTime": "15:00",
-    "homeTeam": "WIT Georgia",
-    "awayTeam": "Irao",
-    "prediction": "Irao Win",
-    "odds": "2.11"
+    "matchTime": "16:00",
+    "homeTeam": "Saburtalo II",
+    "awayTeam": "Gardabani",
+    "prediction": "Saburtalo II Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1521123,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "16:00",
+    "homeTeam": "Damash Gilanian",
+    "awayTeam": "Be'sat Kermanshah",
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   }
 ]
