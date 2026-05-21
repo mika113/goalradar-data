@@ -1,21 +1,12 @@
 [
   {
-    "id": 1542504,
-    "league": "Ligue 1 (Congo-DR)",
-    "matchTime": "17:00",
-    "homeTeam": "Vita Club",
-    "awayTeam": "JSK",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1541074,
     "league": "Premier League (Ethiopia)",
     "matchTime": "18:00",
     "homeTeam": "Negelle Arsi",
     "awayTeam": "Suhul Shire",
-    "prediction": "Negelle Arsi Win",
-    "odds": "1.69"
+    "prediction": "Suhul Shire Win",
+    "odds": "2.61"
   },
   {
     "id": 1545521,
@@ -24,7 +15,7 @@
     "homeTeam": "Budaiya",
     "awayTeam": "Manama",
     "prediction": "Budaiya Win",
-    "odds": "1.5"
+    "odds": "1.68"
   },
   {
     "id": 1545522,
@@ -32,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Al Najma",
     "awayTeam": "Al Ittihad",
-    "prediction": "Al Najma Win",
-    "odds": "1.83"
+    "prediction": "Both Teams To Score",
+    "odds": "1.61"
   },
   {
     "id": 1526454,
@@ -42,7 +33,7 @@
     "homeTeam": "Al Arabi",
     "awayTeam": "Al Tadhamon",
     "prediction": "Al Arabi Win",
-    "odds": "1.83"
+    "odds": "1.61"
   },
   {
     "id": 1533655,
@@ -50,7 +41,16 @@
     "matchTime": "20:00",
     "homeTeam": "Wadi Degla",
     "awayTeam": "Masr",
-    "prediction": "Wadi Degla Win",
-    "odds": "1.56"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
+  },
+  {
+    "id": 1526456,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "20:20",
+    "homeTeam": "Al Fahaheel",
+    "awayTeam": "Al Kuwait",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   }
 ]
