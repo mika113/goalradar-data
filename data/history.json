@@ -1,14 +1,74 @@
 [
   {
+    "id": 1545136,
+    "league": "Cearense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Barbalha",
+    "awayTeam": "Uniclinic Atletico Clube",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Uniclinic Atletico Clube Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1538540,
     "league": "Brasileiro U20 B (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Mirassol U20",
     "awayTeam": "CRB U20",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Mirassol U20 Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1535306,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo La Guaira",
+    "awayTeam": "Independ. Rivadavia",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Deportivo La Guaira Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1535213,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchDate": "FT",
+    "homeTeam": "Puerto Cabello",
+    "awayTeam": "Juventud",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1535204,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchDate": "FT",
+    "homeTeam": "Atletico-MG",
+    "awayTeam": "Cienciano",
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Atletico-MG Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532004,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Fort Lauderdale Utd II W",
+    "awayTeam": "Brevard Riptide W",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Brevard Riptide W Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Talleres Córdoba Res.",
     "awayTeam": "Gimnasia La Plata Res.",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -41,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Jaguares",
     "awayTeam": "Ind. Yumbo",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Jaguares Win",
@@ -66,9 +126,9 @@
     "homeTeam": "Águilas Doradas",
     "awayTeam": "Deportivo Pereira",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Águilas Doradas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -81,66 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Benjamín Aceval Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543373,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "KFG",
-    "awayTeam": "Haukar",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Haukar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545412,
-    "league": "Eredivisie (Netherlands)",
-    "matchDate": "FT",
-    "homeTeam": "Utrecht",
-    "awayTeam": "Heerenveen",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Utrecht Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545234,
-    "league": "Premiership (Scotland)",
-    "matchDate": "FT",
-    "homeTeam": "Partick",
-    "awayTeam": "ST Mirren",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542920,
-    "league": "Copa Ecuador",
-    "matchDate": "FT",
-    "homeTeam": "San Antonio",
-    "awayTeam": "Aucas",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Aucas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511591,
-    "league": "Primera B (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Recoleta",
-    "awayTeam": "Cobreloa",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
