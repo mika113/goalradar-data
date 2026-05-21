@@ -8,7 +8,7 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "San Marino U19 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Lost"
   },
   {
@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Belarus U19",
     "awayTeam": "Slovakia U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Slovakia U19 Win",
-    "outcome": "Won"
+    "prediction": "Slovakia U19 Win & Over 2.5",
+    "outcome": "Lost"
   },
   {
     "id": 1410447,
@@ -32,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Widzew II Win & Over 2.5",
+    "outcome": "Lost"
   },
   {
     "id": 1542403,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Won"
+    "prediction": "Central Stallions Win",
+    "outcome": "Lost"
   },
   {
     "id": 1482134,
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Washington Spirit W Win & Over 2.5",
-    "outcome": "Won"
+    "prediction": "Pachuca W Win & Over 2.5",
+    "outcome": "Lost"
   },
   {
     "id": 1545148,
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Cavalier Win & Over 2.5",
-    "outcome": "Won"
+    "prediction": "Both Teams To Score",
+    "outcome": "Lost"
   },
   {
     "id": 1543869,
@@ -104,7 +104,7 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Won"
+    "prediction": "Both Teams To Score",
+    "outcome": "Lost"
   },
   {
     "id": 1508433,
@@ -128,7 +128,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Portland Thorns W Win & Over 2.5",
+    "prediction": "Portland Thorns W Win",
     "outcome": "Won"
   },
   {
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Kansas City W Win & Over 2.5",
+    "prediction": "Angel City W Win",
     "outcome": "Won"
   }
 ]
