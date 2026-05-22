@@ -1,12 +1,72 @@
 [
   {
+    "id": 1545359,
+    "league": "Copa Centro-Oeste (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Anápolis",
+    "awayTeam": "Rio Branco ES",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545173,
+    "league": "Eerste Divisie (Suriname)",
+    "matchDate": "FT",
+    "homeTeam": "Broki",
+    "awayTeam": "Leo Victor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524533,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Pittsburgh Riverhounds 2",
+    "awayTeam": "Erie Sports Center",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Erie Sports Center Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524532,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Oakland County",
+    "awayTeam": "Kalamazoo FC",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Oakland County Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524531,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Brooke House",
+    "awayTeam": "Sporting Jax 2",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sporting Jax 2 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1545136,
     "league": "Cearense - 2 (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Barbalha",
     "awayTeam": "Uniclinic Atletico Clube",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Uniclinic Atletico Clube Win",
     "outcome": "Won"
@@ -17,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Mirassol U20",
     "awayTeam": "CRB U20",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Mirassol U20 Win",
-    "outcome": "Lost"
+    "prediction": "CRB U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1535306,
@@ -29,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo La Guaira",
     "awayTeam": "Independ. Rivadavia",
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Deportivo La Guaira Win",
-    "outcome": "Lost"
+    "prediction": "Independ. Rivadavia Win",
+    "outcome": "Won"
   },
   {
     "id": 1535213,
@@ -65,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Fort Lauderdale Utd II W",
     "awayTeam": "Brevard Riptide W",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Brevard Riptide W Win",
     "outcome": "Won"
@@ -78,69 +138,9 @@
     "homeTeam": "Talleres Córdoba Res.",
     "awayTeam": "Gimnasia La Plata Res.",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545754,
-    "league": "Primera B (Colombia)",
-    "matchDate": "FT",
-    "homeTeam": "Union Magdalena",
-    "awayTeam": "Bogota FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544280,
-    "league": "Copa Colombia",
-    "matchDate": "FT",
-    "homeTeam": "Jaguares",
-    "awayTeam": "Ind. Yumbo",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Jaguares Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546030,
-    "league": "Liga Women (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "UNSAAC W",
-    "awayTeam": "Sporting Cristal W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Sporting Cristal W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544275,
-    "league": "Copa Colombia",
-    "matchDate": "FT",
-    "homeTeam": "Águilas Doradas",
-    "awayTeam": "Deportivo Pereira",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544834,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Benjamín Aceval",
-    "awayTeam": "Sportivo Carapeguá",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Benjamín Aceval Win",
+    "prediction": "Gimnasia La Plata Res. Win",
     "outcome": "Won"
   }
 ]
