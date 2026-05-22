@@ -1,14 +1,110 @@
 [
   {
+    "id": 1545755,
+    "league": "Primera B (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Real Cartagena",
+    "awayTeam": "Barranquilla",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1535313,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchDate": "FT",
+    "homeTeam": "U. Catolica",
+    "awayTeam": "Barcelona SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1535310,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchDate": "FT",
+    "homeTeam": "Penarol",
+    "awayTeam": "Corinthians",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Corinthians Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1535205,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchDate": "FT",
+    "homeTeam": "Blooming",
+    "awayTeam": "Carabobo FC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Carabobo FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526148,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Flamengo U20",
+    "awayTeam": "Santos U20",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1535214,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchDate": "FT",
+    "homeTeam": "Racing Club",
+    "awayTeam": "Caracas FC",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Racing Club Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532016,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Minnesota Aurora W",
+    "awayTeam": "Rochester W",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Rochester W Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524534,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "FC Motown II",
+    "awayTeam": "Westchester Flames",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "FC Motown II Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1545359,
     "league": "Copa Centro-Oeste (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Anápolis",
     "awayTeam": "Rio Branco ES",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Anápolis Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +114,10 @@
     "homeTeam": "Broki",
     "awayTeam": "Leo Victor",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Leo Victor Win",
+    "outcome": "Won"
   },
   {
     "id": 1524533,
@@ -29,11 +125,11 @@
     "matchDate": "FT",
     "homeTeam": "Pittsburgh Riverhounds 2",
     "awayTeam": "Erie Sports Center",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Erie Sports Center Win",
-    "outcome": "Lost"
+    "prediction": "Pittsburgh Riverhounds 2 Win",
+    "outcome": "Won"
   },
   {
     "id": 1524532,
@@ -45,102 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Oakland County Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524531,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Brooke House",
-    "awayTeam": "Sporting Jax 2",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Sporting Jax 2 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545136,
-    "league": "Cearense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Barbalha",
-    "awayTeam": "Uniclinic Atletico Clube",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Uniclinic Atletico Clube Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538540,
-    "league": "Brasileiro U20 B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Mirassol U20",
-    "awayTeam": "CRB U20",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "CRB U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1535306,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchDate": "FT",
-    "homeTeam": "Deportivo La Guaira",
-    "awayTeam": "Independ. Rivadavia",
-    "homeScore": 2,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Independ. Rivadavia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1535213,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchDate": "FT",
-    "homeTeam": "Puerto Cabello",
-    "awayTeam": "Juventud",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1535204,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico-MG",
-    "awayTeam": "Cienciano",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Atletico-MG Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532004,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Fort Lauderdale Utd II W",
-    "awayTeam": "Brevard Riptide W",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Brevard Riptide W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1512414,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Talleres Córdoba Res.",
-    "awayTeam": "Gimnasia La Plata Res.",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gimnasia La Plata Res. Win",
     "outcome": "Won"
   }
 ]
