@@ -1,30 +1,12 @@
 [
   {
-    "id": 1513486,
-    "league": "Ligue 1 (Algeria)",
-    "matchTime": "16:00",
-    "homeTeam": "Olympique Akbou",
-    "awayTeam": "Ben Aknoun",
-    "prediction": "Olympique Akbou Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1513487,
-    "league": "Ligue 1 (Algeria)",
-    "matchTime": "16:00",
-    "homeTeam": "MC Oran",
-    "awayTeam": "USM Alger",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.23"
-  },
-  {
     "id": 1513488,
     "league": "Ligue 1 (Algeria)",
     "matchTime": "16:00",
     "homeTeam": "Paradou AC",
     "awayTeam": "ES Setif",
-    "prediction": "Paradou AC Win",
-    "odds": "1.92"
+    "prediction": "Paradou AC Win & Over 1.5",
+    "odds": "2.78"
   },
   {
     "id": 1513489,
@@ -33,7 +15,7 @@
     "homeTeam": "JS Saoura",
     "awayTeam": "CS Constantine",
     "prediction": "JS Saoura Win",
-    "odds": "1.97"
+    "odds": "1.48"
   },
   {
     "id": 1516350,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Buhimba Saints",
     "awayTeam": "URA",
-    "prediction": "Buhimba Saints Win",
-    "odds": "1.3"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1542503,
@@ -50,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Saint Eloi Lupopo",
     "awayTeam": "Simba",
-    "prediction": "Simba Win",
-    "odds": "1.97"
+    "prediction": "Saint Eloi Lupopo Win",
+    "odds": "1.83"
   },
   {
     "id": 1544541,
@@ -59,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Al Ittihad",
     "awayTeam": "Omaya SC",
-    "prediction": "Omaya SC Win",
-    "odds": "2.5"
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   },
   {
     "id": 1544542,
@@ -68,7 +50,25 @@
     "matchTime": "16:00",
     "homeTeam": "Al Taliya",
     "awayTeam": "Al Shouleh",
-    "prediction": "Al Taliya Win",
+    "prediction": "Al Taliya Win & Over 1.5",
+    "odds": "2.68"
+  },
+  {
+    "id": 1544543,
+    "league": "Premier League (Syria)",
+    "matchTime": "16:00",
+    "homeTeam": "Damascus Al-Ahli",
+    "awayTeam": "Al Wahda",
+    "prediction": "Double Chance 1X",
     "odds": "1.59"
+  },
+  {
+    "id": 1544544,
+    "league": "Premier League (Syria)",
+    "matchTime": "16:00",
+    "homeTeam": "Foutoua",
+    "awayTeam": "Hottin",
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
   }
 ]
