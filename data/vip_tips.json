@@ -1,39 +1,12 @@
 [
   {
-    "id": 1513111,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Crown Legacy",
-    "awayTeam": "New England II",
-    "prediction": "Crown Legacy Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1520697,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Nautico Recife",
-    "awayTeam": "Cuiaba",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.68"
-  },
-  {
-    "id": 1524539,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Charlotte Eagles",
-    "awayTeam": "Port City",
-    "prediction": "Port City Win",
-    "odds": "3.05"
-  },
-  {
     "id": 1499437,
     "league": "Primera B Metropolitana (Argentina)",
     "matchTime": "01:30",
     "homeTeam": "Ituzaingó",
     "awayTeam": "UAI Urquiza",
-    "prediction": "Ituzaingó Win & Over 1.5",
-    "odds": "2.31"
+    "prediction": "Ituzaingó Win",
+    "odds": "1.53"
   },
   {
     "id": 1545236,
@@ -42,7 +15,7 @@
     "homeTeam": "Liverpool Montevideo",
     "awayTeam": "Racing Montevideo",
     "prediction": "Racing Montevideo Win",
-    "odds": "2.1"
+    "odds": "2.74"
   },
   {
     "id": 1499435,
@@ -51,7 +24,7 @@
     "homeTeam": "Excursionistas",
     "awayTeam": "Liniers",
     "prediction": "Excursionistas Win",
-    "odds": "1.55"
+    "odds": "1.86"
   },
   {
     "id": 1499438,
@@ -59,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Deportivo Laferrere",
     "awayTeam": "Deportivo Camioneros",
-    "prediction": "Deportivo Laferrere Win",
-    "odds": "1.52"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   },
   {
     "id": 1524540,
@@ -68,7 +41,34 @@
     "matchTime": "02:00",
     "homeTeam": "Kings Hammer Columbus",
     "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "prediction": "Kings Hammer Columbus Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1524541,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Ocean City Nor'easters",
+    "awayTeam": "Lone Star II",
+    "prediction": "Lone Star II Win",
+    "odds": "2.88"
+  },
+  {
+    "id": 1524543,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Vermont Green",
+    "awayTeam": "Blackwatch Rush",
+    "prediction": "Vermont Green Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1532019,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Buffalo W",
+    "awayTeam": "Steel City W",
+    "prediction": "Buffalo W Win",
+    "odds": "1.59"
   }
 ]
