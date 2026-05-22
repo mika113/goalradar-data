@@ -1,5 +1,89 @@
 [
   {
+    "id": 1539042,
+    "league": "Kansallinen Liiga (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "KuPS W",
+    "awayTeam": "IF Gnistan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1504228,
+    "league": "Ykkösliiga (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "SJK Akatemia",
+    "awayTeam": "Haka",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1410755,
+    "league": "III Liga - Group 2 (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Tłuchowia",
+    "awayTeam": "Stargard Szczeciński",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1541012,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Spartak Varna",
+    "awayTeam": "Lokomotiv Sofia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Spartak Varna Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1541010,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Septemvri Sofia",
+    "awayTeam": "Dobrudzha",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1541009,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Botev Vratsa",
+    "awayTeam": "Beroe",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Botev Vratsa Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540296,
+    "league": "Super Liga (Serbia)",
+    "matchDate": "FT",
+    "homeTeam": "Železničar Pančevo",
+    "awayTeam": "Cukaricki",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1539929,
     "league": "Prva Liga (Serbia)",
     "matchDate": "FT",
@@ -9,6 +93,42 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1539559,
+    "league": "Liga III - Play-offs (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Viitorul Arad",
+    "awayTeam": "SCM Zalău",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "SCM Zalău Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1539553,
+    "league": "Liga III - Play-offs (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "LPS HD Clinceni",
+    "awayTeam": "CSM Ramnicu Valcea",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1539552,
+    "league": "Liga III - Play-offs (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Înainte Modelu",
+    "awayTeam": "Tricolorul Breaza",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Înainte Modelu Win",
     "outcome": "Won"
   }
 ]
