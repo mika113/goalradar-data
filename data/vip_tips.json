@@ -1,21 +1,12 @@
 [
   {
-    "id": 1513485,
-    "league": "Ligue 1 (Algeria)",
-    "matchTime": "16:00",
-    "homeTeam": "Mostaganem",
-    "awayTeam": "El Bayadh",
-    "prediction": "Mostaganem Win",
-    "odds": "1.33"
-  },
-  {
     "id": 1513486,
     "league": "Ligue 1 (Algeria)",
     "matchTime": "16:00",
     "homeTeam": "Olympique Akbou",
     "awayTeam": "Ben Aknoun",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
+    "prediction": "Olympique Akbou Win",
+    "odds": "1.58"
   },
   {
     "id": 1513487,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "MC Oran",
     "awayTeam": "USM Alger",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "MC Oran Win & Over 1.5",
+    "odds": "2.78"
   },
   {
     "id": 1513488,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Paradou AC",
     "awayTeam": "ES Setif",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
+    "prediction": "Paradou AC Win",
+    "odds": "1.6"
   },
   {
     "id": 1513489,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "JS Saoura",
     "awayTeam": "CS Constantine",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "JS Saoura Win",
+    "odds": "1.83"
   },
   {
     "id": 1516350,
@@ -50,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Buhimba Saints",
     "awayTeam": "URA",
-    "prediction": "URA Win",
-    "odds": "3.09"
+    "prediction": "Buhimba Saints Win",
+    "odds": "1.4"
   },
   {
     "id": 1542503,
@@ -59,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Saint Eloi Lupopo",
     "awayTeam": "Simba",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Simba Win",
+    "odds": "2.56"
   },
   {
     "id": 1544541,
@@ -68,7 +59,16 @@
     "matchTime": "16:00",
     "homeTeam": "Al Ittihad",
     "awayTeam": "Omaya SC",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Al Ittihad Win & Over 1.5",
+    "odds": "2.69"
+  },
+  {
+    "id": 1544542,
+    "league": "Premier League (Syria)",
+    "matchTime": "16:00",
+    "homeTeam": "Al Taliya",
+    "awayTeam": "Al Shouleh",
+    "prediction": "Al Shouleh Win",
+    "odds": "2.27"
   }
 ]
