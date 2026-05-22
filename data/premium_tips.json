@@ -1,57 +1,12 @@
 [
   {
-    "id": 1540063,
-    "league": "Copa Argentina",
-    "matchTime": "02:00",
-    "homeTeam": "Union Santa Fe",
-    "awayTeam": "Independiente",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
-    "id": 1541194,
-    "league": "Paulista Série B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Assisense",
-    "awayTeam": "America SP",
-    "prediction": "Assisense Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1508434,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Boston Legacy W",
-    "awayTeam": "Seattle Reign FC W",
-    "prediction": "Seattle Reign FC W Win",
-    "odds": "2.1"
-  },
-  {
-    "id": 1511590,
-    "league": "Primera B (Chile)",
-    "matchTime": "03:00",
-    "homeTeam": "Rangers de Talca",
-    "awayTeam": "Santiago Wanderers",
-    "prediction": "Rangers de Talca Win",
-    "odds": "1.42"
-  },
-  {
-    "id": 1513112,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Sporting KC II",
-    "awayTeam": "Austin II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
-  },
-  {
     "id": 1519372,
     "league": "Liga Pro (Ecuador)",
     "matchTime": "03:00",
     "homeTeam": "Independiente del Valle",
     "awayTeam": "Libertad",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Independiente del Valle Win",
+    "odds": "1.89"
   },
   {
     "id": 1524542,
@@ -59,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Red River",
     "awayTeam": "Jackson Boom",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
+    "prediction": "Jackson Boom Win",
+    "odds": "3.37"
   },
   {
     "id": 1524545,
@@ -69,7 +24,7 @@
     "homeTeam": "Colorado Storm",
     "awayTeam": "Utah United",
     "prediction": "Colorado Storm Win",
-    "odds": "1.87"
+    "odds": "1.4"
   },
   {
     "id": 1524548,
@@ -78,7 +33,7 @@
     "homeTeam": "Lubbock Matadors",
     "awayTeam": "Fort Worth Vaqueros",
     "prediction": "Fort Worth Vaqueros Win",
-    "odds": "2.07"
+    "odds": "2.53"
   },
   {
     "id": 1526540,
@@ -87,7 +42,7 @@
     "homeTeam": "Santo Domingo",
     "awayTeam": "Cumbayá",
     "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "odds": "1.43"
   },
   {
     "id": 1538390,
@@ -95,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Gualberto Villarroel SJ",
     "awayTeam": "The Strongest",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
+    "prediction": "Gualberto Villarroel SJ Win",
+    "odds": "1.96"
   },
   {
     "id": 1493503,
@@ -105,6 +60,51 @@
     "homeTeam": "FC Tulsa",
     "awayTeam": "Hartford Athletic",
     "prediction": "Hartford Athletic Win",
-    "odds": "3.36"
+    "odds": "2.3"
+  },
+  {
+    "id": 1522406,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "03:30",
+    "homeTeam": "Internacional RS W",
+    "awayTeam": "Flamengo W",
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1524538,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Evergreen",
+    "awayTeam": "Loudoun 2",
+    "prediction": "Evergreen Win",
+    "odds": "1.47"
+  },
+  {
+    "id": 1530518,
+    "league": "Division di Honor (Aruba)",
+    "matchTime": "03:30",
+    "homeTeam": "Bubali",
+    "awayTeam": "RCA",
+    "prediction": "RCA Win",
+    "odds": "3.31"
+  },
+  {
+    "id": 1530344,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "04:00",
+    "homeTeam": "Juventud Antoniana",
+    "awayTeam": "Sarmiento Resistencia",
+    "prediction": "Sarmiento Resistencia Win",
+    "odds": "2.39"
+  },
+  {
+    "id": 1524546,
+    "league": "USL League Two (USA)",
+    "matchTime": "04:30",
+    "homeTeam": "Midlakes United",
+    "awayTeam": "Tacoma Stars",
+    "prediction": "Tacoma Stars Win",
+    "odds": "3.25"
   }
 ]
