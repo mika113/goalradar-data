@@ -1,84 +1,12 @@
 [
   {
-    "id": 1389107,
-    "league": "Premijer Liga (Bosnia)",
-    "matchTime": "19:00",
-    "homeTeam": "Radnik Bijeljina",
-    "awayTeam": "Borac Banja Luka",
-    "prediction": "Both Teams To Score",
-    "odds": "2.0"
-  },
-  {
-    "id": 1396107,
-    "league": "II Liga - East (Poland)",
-    "matchTime": "19:00",
-    "homeTeam": "Zaglebie Sosnowiec",
-    "awayTeam": "Kalisz",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
-  },
-  {
-    "id": 1410450,
-    "league": "III Liga - Group 1 (Poland)",
-    "matchTime": "19:00",
-    "homeTeam": "Warta Sieradz",
-    "awayTeam": "Wigry Suwałki",
-    "prediction": "Warta Sieradz Win & Over 1.5",
-    "odds": "2.81"
-  },
-  {
-    "id": 1410748,
-    "league": "III Liga - Group 2 (Poland)",
-    "matchTime": "19:00",
-    "homeTeam": "Flota Świnoujście",
-    "awayTeam": "Cartusia Kartuzy",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.19"
-  },
-  {
-    "id": 1418131,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "19:00",
-    "homeTeam": "Leobendorf",
-    "awayTeam": "Favoritner AC",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
-  },
-  {
-    "id": 1495479,
-    "league": "Damallsvenskan (Sweden)",
-    "matchTime": "19:00",
-    "homeTeam": "Piteå W",
-    "awayTeam": "Djurgården W",
-    "prediction": "Piteå W Win & Over 1.5",
-    "odds": "2.97"
-  },
-  {
-    "id": 1495685,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "VPS",
-    "awayTeam": "HJK Helsinki",
-    "prediction": "HJK Helsinki Win",
-    "odds": "3.47"
-  },
-  {
-    "id": 1519069,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "19:00",
-    "homeTeam": "Lokomotiv Moskva U19",
-    "awayTeam": "Ural U20",
-    "prediction": "Lokomotiv Moskva U19 Win",
-    "odds": "1.93"
-  },
-  {
     "id": 1529721,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "19:00",
     "homeTeam": "Dainava",
     "awayTeam": "Be1 NFA",
-    "prediction": "Be1 NFA Win",
-    "odds": "3.4"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1529722,
@@ -86,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ekranas",
     "awayTeam": "Transinvest 2",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
+    "prediction": "Transinvest 2 Win",
+    "odds": "2.73"
   },
   {
     "id": 1529723,
@@ -95,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Hegelmann II",
     "awayTeam": "Neptūną Klaipėda",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Neptūną Klaipėda Win",
+    "odds": "2.49"
   },
   {
     "id": 1529724,
@@ -104,7 +32,79 @@
     "matchTime": "19:00",
     "homeTeam": "Jonava",
     "awayTeam": "Babrungas",
-    "prediction": "Jonava Win",
-    "odds": "1.85"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
+  },
+  {
+    "id": 1538282,
+    "league": "1. Division (Denmark)",
+    "matchTime": "19:00",
+    "homeTeam": "Aarhus Fremad",
+    "awayTeam": "Aalborg",
+    "prediction": "Aarhus Fremad Win & Over 1.5",
+    "odds": "2.09"
+  },
+  {
+    "id": 1539043,
+    "league": "Kansallinen Liiga (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "Ilves W",
+    "awayTeam": "HPS W",
+    "prediction": "HPS W Win",
+    "odds": "2.55"
+  },
+  {
+    "id": 1541605,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "Atlantis",
+    "awayTeam": "PuiU Helsinki",
+    "prediction": "Atlantis Win & Over 1.5",
+    "odds": "2.69"
+  },
+  {
+    "id": 1541606,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "HIFK Helsinki",
+    "awayTeam": "HPS",
+    "prediction": "HIFK Helsinki Win",
+    "odds": "1.47"
+  },
+  {
+    "id": 1541607,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "PPJ",
+    "awayTeam": "Reipas",
+    "prediction": "PPJ Win",
+    "odds": "1.32"
+  },
+  {
+    "id": 1545233,
+    "league": "Campionato Primavera - 1 (Italy)",
+    "matchTime": "19:00",
+    "homeTeam": "Cesena U20",
+    "awayTeam": "Internazionale U20",
+    "prediction": "Internazionale U20 Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1545420,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchTime": "19:00",
+    "homeTeam": "Schwaben Augsburg",
+    "awayTeam": "Kirchanschöring",
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
+  },
+  {
+    "id": 1384095,
+    "league": "HNL (Croatia)",
+    "matchTime": "19:15",
+    "homeTeam": "HNK Hajduk Split",
+    "awayTeam": "Vukovar",
+    "prediction": "Vukovar Win",
+    "odds": "3.17"
   }
 ]
