@@ -1,46 +1,10 @@
 [
   {
-    "id": 1384095,
-    "league": "HNL (Croatia)",
+    "id": 1540410,
+    "league": "2. Division (Denmark)",
     "matchDate": "FT",
-    "homeTeam": "HNK Hajduk Split",
-    "awayTeam": "Vukovar",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545420,
-    "league": "Regionalliga - Bayern (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Schwaben Augsburg",
-    "awayTeam": "Kirchanschöring",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Kirchanschöring Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541607,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "PPJ",
-    "awayTeam": "Reipas",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "PPJ Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541606,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "HIFK Helsinki",
-    "awayTeam": "HPS",
+    "homeTeam": "Brabrand",
+    "awayTeam": "Skive",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -48,51 +12,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1541605,
-    "league": "Kakkonen - Lohko A (Finland)",
+    "id": 1534215,
+    "league": "First NL (Croatia)",
     "matchDate": "FT",
-    "homeTeam": "Atlantis",
-    "awayTeam": "PuiU Helsinki",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Atlantis Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1539043,
-    "league": "Kansallinen Liiga (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Ilves W",
-    "awayTeam": "HPS W",
+    "homeTeam": "Karlovac 1919",
+    "awayTeam": "Jarun",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1538282,
-    "league": "1. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Aarhus Fremad",
-    "awayTeam": "Aalborg",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529724,
-    "league": "1 Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "Jonava",
-    "awayTeam": "Babrungas",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Babrungas Win",
     "outcome": "Won"
   }
 ]
