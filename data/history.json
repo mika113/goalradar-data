@@ -5,10 +5,70 @@
     "matchDate": "FT",
     "homeTeam": "Assisense",
     "awayTeam": "America SP",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Assisense Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540063,
+    "league": "Copa Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Union Santa Fe",
+    "awayTeam": "Independiente",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Independiente Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532415,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "New England Mutiny W",
+    "awayTeam": "Hartford Athletic W",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524541,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Ocean City Nor'easters",
+    "awayTeam": "Lone Star II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499438,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Laferrere",
+    "awayTeam": "Deportivo Camioneros",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Deportivo Camioneros Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499435,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Excursionistas",
+    "awayTeam": "Liniers",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Excursionistas Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Crown Legacy Win",
-    "outcome": "Lost"
+    "prediction": "New England II Win",
+    "outcome": "Won"
   },
   {
     "id": 1499433,
@@ -69,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1542060,
@@ -77,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Porto Vitória",
     "awayTeam": "Audax São Mateus",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Porto Vitória Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526535,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico FC",
-    "awayTeam": "Gualaceo SC",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Atletico FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545577,
-    "league": "Segunda División (Uruguay)",
-    "matchDate": "FT",
-    "homeTeam": "Plaza Colonia",
-    "awayTeam": "Oriental",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Plaza Colonia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1505085,
-    "league": "Division Profesional - Apertura (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "2 de Mayo",
-    "awayTeam": "Club Sp. San Lorenzo",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Club Sp. San Lorenzo Win",
     "outcome": "Won"
   }
 ]
