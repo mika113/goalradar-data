@@ -1,48 +1,12 @@
 [
   {
-    "id": 1532017,
-    "league": "USL W League (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "San Juan SC W",
-    "awayTeam": "Oakland Soul W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
-    "id": 1535214,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "03:00",
-    "homeTeam": "Racing Club",
-    "awayTeam": "Caracas FC",
-    "prediction": "Racing Club Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1526148,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchTime": "03:30",
-    "homeTeam": "Flamengo U20",
-    "awayTeam": "Santos U20",
-    "prediction": "Flamengo U20 Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1535205,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "03:30",
-    "homeTeam": "Blooming",
-    "awayTeam": "Carabobo FC",
-    "prediction": "Blooming Win",
-    "odds": "1.5"
-  },
-  {
     "id": 1535310,
     "league": "CONMEBOL Libertadores (World)",
     "matchTime": "03:30",
     "homeTeam": "Penarol",
     "awayTeam": "Corinthians",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1535313,
@@ -50,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "U. Catolica",
     "awayTeam": "Barcelona SC",
-    "prediction": "Barcelona SC Win",
-    "odds": "2.9"
+    "prediction": "Double Chance X2",
+    "odds": "1.32"
   },
   {
     "id": 1545755,
@@ -59,8 +23,8 @@
     "matchTime": "03:30",
     "homeTeam": "Real Cartagena",
     "awayTeam": "Barranquilla",
-    "prediction": "Barranquilla Win",
-    "odds": "2.55"
+    "prediction": "Real Cartagena Win",
+    "odds": "1.58"
   },
   {
     "id": 1524537,
@@ -68,7 +32,43 @@
     "matchTime": "04:00",
     "homeTeam": "Laredo Heat",
     "awayTeam": "San Antonio FC 2",
-    "prediction": "Laredo Heat Win & Over 1.5",
-    "odds": "1.86"
+    "prediction": "Laredo Heat Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1532414,
+    "league": "USL W League (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Portland Cherry Bombs FC W",
+    "awayTeam": "West Seattle Rhodies W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
+  },
+  {
+    "id": 1535210,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "05:00",
+    "homeTeam": "Macara",
+    "awayTeam": "Alianza Atletico",
+    "prediction": "Alianza Atletico Win",
+    "odds": "2.49"
+  },
+  {
+    "id": 1545452,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "05:00",
+    "homeTeam": "Cruz Azul",
+    "awayTeam": "U.N.A.M. - Pumas",
+    "prediction": "Cruz Azul Win",
+    "odds": "1.4"
+  },
+  {
+    "id": 1545706,
+    "league": "Liga Nacional (Honduras)",
+    "matchTime": "05:00",
+    "homeTeam": "CD Marathon",
+    "awayTeam": "CD Motagua",
+    "prediction": "CD Marathon Win",
+    "odds": "1.48"
   }
 ]
