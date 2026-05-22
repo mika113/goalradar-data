@@ -1,21 +1,12 @@
 [
   {
-    "id": 1544542,
-    "league": "Premier League (Syria)",
-    "matchTime": "16:00",
-    "homeTeam": "Al Taliya",
-    "awayTeam": "Al Shouleh",
-    "prediction": "Al Taliya Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1544543,
     "league": "Premier League (Syria)",
     "matchTime": "16:00",
     "homeTeam": "Damascus Al-Ahli",
     "awayTeam": "Al Wahda",
-    "prediction": "Al Wahda Win",
-    "odds": "2.61"
+    "prediction": "Damascus Al-Ahli Win",
+    "odds": "1.68"
   },
   {
     "id": 1544544,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Foutoua",
     "awayTeam": "Hottin",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.24"
   },
   {
     "id": 1544545,
@@ -32,79 +23,88 @@
     "matchTime": "16:00",
     "homeTeam": "Wathba",
     "awayTeam": "Horriya",
-    "prediction": "Double Chance X2",
-    "odds": "1.37"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   },
   {
-    "id": 1521938,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Green Gully",
-    "awayTeam": "Heidelberg United",
-    "prediction": "Green Gully Win",
-    "odds": "1.75"
-  },
-  {
-    "id": 1521940,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Bentleigh Greens",
-    "awayTeam": "Sunshine Georgies",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
-  },
-  {
-    "id": 1524035,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Moreton City Excelsior",
-    "awayTeam": "Brisbane City",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
-  },
-  {
-    "id": 1524036,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "WDSC Wolves",
-    "awayTeam": "Olympic",
+    "id": 1544546,
+    "league": "Premier League (Syria)",
+    "matchTime": "16:00",
+    "homeTeam": "Khan Shaykhun SC",
+    "awayTeam": "Jabala",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.58"
   },
   {
-    "id": 1541423,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Box Hill",
-    "awayTeam": "Springvale",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
+    "id": 1544547,
+    "league": "Premier League (Syria)",
+    "matchTime": "16:00",
+    "homeTeam": "Tishreen",
+    "awayTeam": "Shorta",
+    "prediction": "Shorta Win",
+    "odds": "2.02"
   },
   {
-    "id": 1521939,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Dandenong City",
-    "awayTeam": "St. Albans Saints",
-    "prediction": "Dandenong City Win",
-    "odds": "1.92"
+    "id": 1527600,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchTime": "17:00",
+    "homeTeam": "OshMU Aldier",
+    "awayTeam": "Toktogul",
+    "prediction": "Toktogul Win",
+    "odds": "3.3"
   },
   {
-    "id": 1541309,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Kingston City",
-    "awayTeam": "Werribee City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "id": 1527601,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchTime": "17:00",
+    "homeTeam": "Ozgon",
+    "awayTeam": "Talant",
+    "prediction": "Ozgon Win",
+    "odds": "1.81"
   },
   {
-    "id": 1541424,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Keilor Park",
-    "awayTeam": "Eastern Lions",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "id": 1527976,
+    "league": "Premier League (Kazakhstan)",
+    "matchTime": "17:00",
+    "homeTeam": "Kaspiy",
+    "awayTeam": "Irtysh",
+    "prediction": "Kaspiy Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1533650,
+    "league": "Premier League (Egypt)",
+    "matchTime": "17:00",
+    "homeTeam": "El Gouna FC",
+    "awayTeam": "El Geish",
+    "prediction": "El Gouna FC Win & Over 1.5",
+    "odds": "2.09"
+  },
+  {
+    "id": 1527373,
+    "league": "South Australia State League 1",
+    "matchTime": "13:15",
+    "homeTeam": "Eastern United",
+    "awayTeam": "Adelaide Blue Eagles",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
+  },
+  {
+    "id": 1533097,
+    "league": "Tasmania Northern Championship (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Ulverstone U21",
+    "awayTeam": "Launceston U21",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
+  },
+  {
+    "id": 1504819,
+    "league": "J1 League (Japan)",
+    "matchTime": "13:30",
+    "homeTeam": "Machida Zelvia",
+    "awayTeam": "Urawa",
+    "prediction": "Machida Zelvia Win",
+    "odds": "1.74"
   }
 ]
