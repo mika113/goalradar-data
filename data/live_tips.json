@@ -1,39 +1,12 @@
 [
   {
-    "id": 1524548,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Lubbock Matadors",
-    "awayTeam": "Fort Worth Vaqueros",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
-  },
-  {
-    "id": 1526540,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Santo Domingo",
-    "awayTeam": "Cumbayá",
-    "prediction": "Santo Domingo Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1538390,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "03:00",
-    "homeTeam": "Gualberto Villarroel SJ",
-    "awayTeam": "The Strongest",
-    "prediction": "The Strongest Win",
-    "odds": "2.39"
-  },
-  {
     "id": 1493503,
     "league": "USL Championship (USA)",
     "matchTime": "03:30",
     "homeTeam": "FC Tulsa",
     "awayTeam": "Hartford Athletic",
-    "prediction": "Hartford Athletic Win",
-    "odds": "3.4"
+    "prediction": "Double Chance X2",
+    "odds": "1.22"
   },
   {
     "id": 1522406,
@@ -41,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "Internacional RS W",
     "awayTeam": "Flamengo W",
-    "prediction": "Internacional RS W Win",
-    "odds": "1.39"
+    "prediction": "Internacional RS W Win & Over 1.5",
+    "odds": "1.9"
   },
   {
     "id": 1524538,
@@ -51,7 +24,7 @@
     "homeTeam": "Evergreen",
     "awayTeam": "Loudoun 2",
     "prediction": "Loudoun 2 Win",
-    "odds": "2.07"
+    "odds": "3.46"
   },
   {
     "id": 1530518,
@@ -60,7 +33,7 @@
     "homeTeam": "Bubali",
     "awayTeam": "RCA",
     "prediction": "Bubali Win",
-    "odds": "1.38"
+    "odds": "1.9"
   },
   {
     "id": 1530344,
@@ -68,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Juventud Antoniana",
     "awayTeam": "Sarmiento Resistencia",
-    "prediction": "Juventud Antoniana Win",
-    "odds": "1.86"
+    "prediction": "Double Chance X2",
+    "odds": "1.61"
   },
   {
     "id": 1524546,
@@ -77,8 +50,8 @@
     "matchTime": "04:30",
     "homeTeam": "Midlakes United",
     "awayTeam": "Tacoma Stars",
-    "prediction": "Midlakes United Win",
-    "odds": "1.48"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1513113,
@@ -86,7 +59,34 @@
     "matchTime": "05:00",
     "homeTeam": "Tacoma Defiance",
     "awayTeam": "Ventura County",
-    "prediction": "Tacoma Defiance Win",
-    "odds": "1.87"
+    "prediction": "Ventura County Win",
+    "odds": "2.35"
+  },
+  {
+    "id": 1524547,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Oly Town",
+    "awayTeam": "Snohomish United",
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
+  },
+  {
+    "id": 1524576,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Seahorses",
+    "awayTeam": "Ventura County Fusion",
+    "prediction": "Seahorses Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1528281,
+    "league": "Friendlies (World)",
+    "matchTime": "05:00",
+    "homeTeam": "Mexico",
+    "awayTeam": "Ghana",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   }
 ]
