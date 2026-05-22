@@ -1,57 +1,12 @@
 [
   {
-    "id": 1545236,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Liverpool Montevideo",
-    "awayTeam": "Racing Montevideo",
-    "prediction": "Racing Montevideo Win",
-    "odds": "3.29"
-  },
-  {
-    "id": 1499435,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Excursionistas",
-    "awayTeam": "Liniers",
-    "prediction": "Excursionistas Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1499438,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Deportivo Laferrere",
-    "awayTeam": "Deportivo Camioneros",
-    "prediction": "Deportivo Laferrere Win",
-    "odds": "1.71"
-  },
-  {
-    "id": 1524540,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Kings Hammer Columbus",
-    "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Kings Hammer Columbus Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1524541,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Ocean City Nor'easters",
-    "awayTeam": "Lone Star II",
-    "prediction": "Ocean City Nor'easters Win",
-    "odds": "1.65"
-  },
-  {
     "id": 1524543,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Vermont Green",
     "awayTeam": "Blackwatch Rush",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "Blackwatch Rush Win",
+    "odds": "2.95"
   },
   {
     "id": 1532019,
@@ -59,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Buffalo W",
     "awayTeam": "Steel City W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Buffalo W Win",
+    "odds": "1.76"
   },
   {
     "id": 1532415,
@@ -68,7 +23,52 @@
     "matchTime": "02:00",
     "homeTeam": "New England Mutiny W",
     "awayTeam": "Hartford Athletic W",
-    "prediction": "New England Mutiny W Win",
-    "odds": "1.88"
+    "prediction": "Hartford Athletic W Win",
+    "odds": "2.99"
+  },
+  {
+    "id": 1540063,
+    "league": "Copa Argentina",
+    "matchTime": "02:00",
+    "homeTeam": "Union Santa Fe",
+    "awayTeam": "Independiente",
+    "prediction": "Independiente Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1541194,
+    "league": "Paulista Série B (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Assisense",
+    "awayTeam": "America SP",
+    "prediction": "America SP Win",
+    "odds": "2.19"
+  },
+  {
+    "id": 1508434,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Boston Legacy W",
+    "awayTeam": "Seattle Reign FC W",
+    "prediction": "Boston Legacy W Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1511590,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:00",
+    "homeTeam": "Rangers de Talca",
+    "awayTeam": "Santiago Wanderers",
+    "prediction": "Rangers de Talca Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1513112,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Sporting KC II",
+    "awayTeam": "Austin II",
+    "prediction": "Sporting KC II Win & Over 1.5",
+    "odds": "1.87"
   }
 ]
