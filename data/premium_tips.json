@@ -1,57 +1,12 @@
 [
   {
-    "id": 1535381,
-    "league": "Premiership Women (Northern-Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Glentoran BU W",
-    "awayTeam": "Larne W",
-    "prediction": "Glentoran BU W Win & Over 1.5",
-    "odds": "2.92"
-  },
-  {
-    "id": 1535383,
-    "league": "Premiership Women (Northern-Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Lisburn Ladies W",
-    "awayTeam": "Crusaders W",
-    "prediction": "Lisburn Ladies W Win",
-    "odds": "1.47"
-  },
-  {
-    "id": 1492702,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "22:00",
-    "homeTeam": "Drogheda United",
-    "awayTeam": "Dundalk",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
-  },
-  {
-    "id": 1492705,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "22:00",
-    "homeTeam": "Shamrock Rovers",
-    "awayTeam": "Sligo Rovers",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
-  },
-  {
-    "id": 1505445,
-    "league": "Primera División (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Everton de Vina",
-    "awayTeam": "Coquimbo Unido",
-    "prediction": "Everton de Vina Win",
-    "odds": "1.39"
-  },
-  {
     "id": 1535380,
     "league": "Premiership Women (Northern-Ireland)",
     "matchTime": "22:00",
     "homeTeam": "Cliftonville W",
     "awayTeam": "Linfield W",
-    "prediction": "Linfield W Win",
-    "odds": "3.11"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1535382,
@@ -60,7 +15,7 @@
     "homeTeam": "Lisburn Ladies W",
     "awayTeam": "Derry City W",
     "prediction": "Lisburn Ladies W Win",
-    "odds": "1.67"
+    "odds": "1.77"
   },
   {
     "id": 1538389,
@@ -69,7 +24,7 @@
     "homeTeam": "San Antonio Bulo Bulo",
     "awayTeam": "ABB",
     "prediction": "ABB Win",
-    "odds": "1.94"
+    "odds": "2.06"
   },
   {
     "id": 1542551,
@@ -77,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Lens",
     "awayTeam": "Nice",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
+    "prediction": "Lens Win",
+    "odds": "1.68"
   },
   {
     "id": 1542853,
@@ -86,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "Rebordosa",
     "awayTeam": "Leça",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
+    "prediction": "Leça Win",
+    "odds": "2.38"
   },
   {
     "id": 1508769,
@@ -95,8 +50,8 @@
     "matchTime": "22:15",
     "homeTeam": "Stjarnan",
     "awayTeam": "Fram Reykjavik",
-    "prediction": "Stjarnan Win",
-    "odds": "1.93"
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   },
   {
     "id": 1508770,
@@ -104,7 +59,52 @@
     "matchTime": "22:15",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "FH hafnarfjordur",
+    "prediction": "FH hafnarfjordur Win",
+    "odds": "2.75"
+  },
+  {
+    "id": 1508771,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Breidablik",
+    "awayTeam": "KR Reykjavik",
+    "prediction": "Breidablik Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1514177,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Afturelding",
+    "awayTeam": "Throttur Reykjavik",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "odds": "1.73"
+  },
+  {
+    "id": 1514178,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "IR Reykjavik",
+    "awayTeam": "HK Kopavogur",
+    "prediction": "Double Chance X2",
+    "odds": "1.64"
+  },
+  {
+    "id": 1514179,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Leiknir R.",
+    "awayTeam": "Grindavik",
+    "prediction": "Grindavik Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1545112,
+    "league": "Segunda División (Venezuela)",
+    "matchTime": "22:30",
+    "homeTeam": "Monagas II",
+    "awayTeam": "Atletico Avila FC",
+    "prediction": "Monagas II Win",
+    "odds": "1.5"
   }
 ]
