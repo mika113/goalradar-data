@@ -1,15 +1,39 @@
 [
   {
+    "id": 1542060,
+    "league": "Copa Espírito Santo (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Porto Vitória",
+    "awayTeam": "Audax São Mateus",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Porto Vitória Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526535,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Atletico FC",
+    "awayTeam": "Gualaceo SC",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Atletico FC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1545577,
     "league": "Segunda División (Uruguay)",
     "matchDate": "FT",
     "homeTeam": "Plaza Colonia",
     "awayTeam": "Oriental",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1505085,
@@ -30,9 +54,9 @@
     "homeTeam": "Deportivo Binacional",
     "awayTeam": "Sport Huancayo 2",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sport Huancayo 2 Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Kawkab Marrakech",
     "awayTeam": "CODM Meknès",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Kawkab Marrakech Win",
-    "outcome": "Won"
+    "prediction": "CODM Meknès Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542931,
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "IR Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1514177,
-    "league": "1. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Afturelding",
-    "awayTeam": "Throttur Reykjavik",
-    "homeScore": 4,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Afturelding Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508771,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Breidablik",
-    "awayTeam": "KR Reykjavik",
-    "homeScore": 6,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Breidablik Win",
     "outcome": "Won"
   }
 ]
