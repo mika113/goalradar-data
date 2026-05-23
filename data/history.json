@@ -1,5 +1,17 @@
 [
   {
+    "id": 1521604,
+    "league": "Esiliiga B (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tallinna Kalev II",
+    "awayTeam": "Levadia U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1517543,
     "league": "New South Wales NPL (Australia)",
     "matchDate": "FT",
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Trnava W",
     "awayTeam": "Komárno W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Spartak Trnava W Win",
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1517771,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Vysočina Jihlava U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1490704,
-    "league": "1. Liga U19 (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Hradec Králové U19",
-    "awayTeam": "Slavia Praha U19",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
