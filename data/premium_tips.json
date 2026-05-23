@@ -1,57 +1,12 @@
 [
   {
-    "id": 1524148,
-    "league": "Queensland Premier League (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "Broadbeach United",
-    "awayTeam": "Redlands United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
-  },
-  {
-    "id": 1532569,
-    "league": "NNSW League 1 (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "South Cardiff",
-    "awayTeam": "West Wallsend",
-    "prediction": "West Wallsend Win",
-    "odds": "2.84"
-  },
-  {
-    "id": 1537461,
-    "league": "Capital Territory NPL (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "Cooma Tigers FC",
-    "awayTeam": "Brindabella",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
-  },
-  {
-    "id": 1541425,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "Bayside Argonauts",
-    "awayTeam": "Malvern",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
-  },
-  {
-    "id": 1541426,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "Whittlesea United",
-    "awayTeam": "Goulburn Valley Suns",
-    "prediction": "Whittlesea United Win",
-    "odds": "1.36"
-  },
-  {
     "id": 1544706,
     "league": "Liga II (Romania)",
     "matchTime": "11:00",
     "homeTeam": "Viitorul Şelimbăr",
     "awayTeam": "CS Dinamo București",
-    "prediction": "CS Dinamo București Win",
-    "odds": "2.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
   },
   {
     "id": 1545369,
@@ -60,7 +15,7 @@
     "homeTeam": "Auckland",
     "awayTeam": "Sydney",
     "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "odds": "1.99"
   },
   {
     "id": 1487436,
@@ -68,8 +23,8 @@
     "matchTime": "11:15",
     "homeTeam": "Blansko",
     "awayTeam": "Vítkovice",
-    "prediction": "Vítkovice Win",
-    "odds": "1.83"
+    "prediction": "Blansko Win",
+    "odds": "1.7"
   },
   {
     "id": 1487443,
@@ -77,8 +32,8 @@
     "matchTime": "11:15",
     "homeTeam": "Třinec",
     "awayTeam": "Frýdek-Místek",
-    "prediction": "Frýdek-Místek Win",
-    "odds": "2.49"
+    "prediction": "Třinec Win",
+    "odds": "1.47"
   },
   {
     "id": 1487588,
@@ -86,8 +41,8 @@
     "matchTime": "11:15",
     "homeTeam": "Havlíčkův Brod",
     "awayTeam": "Humpolec",
-    "prediction": "Humpolec Win",
-    "odds": "1.88"
+    "prediction": "Havlíčkův Brod Win",
+    "odds": "1.74"
   },
   {
     "id": 1487589,
@@ -95,8 +50,8 @@
     "matchTime": "11:15",
     "homeTeam": "Kuřim",
     "awayTeam": "Pelhřimov",
-    "prediction": "Double Chance X2",
-    "odds": "1.78"
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
   },
   {
     "id": 1489708,
@@ -105,6 +60,51 @@
     "homeTeam": "Aritma Praha",
     "awayTeam": "Příbram II",
     "prediction": "Aritma Praha Win",
-    "odds": "1.91"
+    "odds": "1.32"
+  },
+  {
+    "id": 1489844,
+    "league": "4. liga - Divizie A (Czech-Republic)",
+    "matchTime": "11:15",
+    "homeTeam": "Benešov",
+    "awayTeam": "Rokycany",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
+  },
+  {
+    "id": 1489964,
+    "league": "4. liga - Divizie C (Czech-Republic)",
+    "matchTime": "11:15",
+    "homeTeam": "Chrudim II",
+    "awayTeam": "Kosmonosy",
+    "prediction": "Chrudim II Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1489966,
+    "league": "4. liga - Divizie C (Czech-Republic)",
+    "matchTime": "11:15",
+    "homeTeam": "Horní Ředice",
+    "awayTeam": "Chlumec nad Cidlinou",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1490086,
+    "league": "4. liga - Divizie B (Czech-Republic)",
+    "matchTime": "11:15",
+    "homeTeam": "Olympie Březová",
+    "awayTeam": "Baník Sokolov",
+    "prediction": "Baník Sokolov Win",
+    "odds": "1.85"
+  },
+  {
+    "id": 1490088,
+    "league": "4. liga - Divizie B (Czech-Republic)",
+    "matchTime": "11:15",
+    "homeTeam": "Spoje Praha",
+    "awayTeam": "Ústí nad Labem II",
+    "prediction": "Ústí nad Labem II Win",
+    "odds": "1.69"
   }
 ]
