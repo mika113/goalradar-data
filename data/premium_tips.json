@@ -1,48 +1,12 @@
 [
   {
-    "id": 1533099,
-    "league": "Tasmania Northern Championship (Australia)",
-    "matchTime": "05:15",
-    "homeTeam": "Riverside Olympic U21",
-    "awayTeam": "Northern Rangers",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
-  },
-  {
-    "id": 1524544,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:30",
-    "homeTeam": "Davis Legacy",
-    "awayTeam": "Almaden",
-    "prediction": "Almaden Win",
-    "odds": "3.33"
-  },
-  {
-    "id": 1532022,
-    "league": "USL W League (USA)",
-    "matchTime": "05:30",
-    "homeTeam": "Colorado Storm W",
-    "awayTeam": "Utah United W",
-    "prediction": "Colorado Storm W Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1523750,
-    "league": "Northern NSW NPL (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "Hamilton Olympic",
-    "awayTeam": "Charlestown City Blues",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
-  },
-  {
     "id": 1523751,
     "league": "Northern NSW NPL (Australia)",
     "matchTime": "07:00",
     "homeTeam": "Weston Bears",
     "awayTeam": "Maitland",
     "prediction": "Weston Bears Win & Over 1.5",
-    "odds": "1.88"
+    "odds": "2.16"
   },
   {
     "id": 1532567,
@@ -51,7 +15,7 @@
     "homeTeam": "Cessnock City Hornets",
     "awayTeam": "New Lambton",
     "prediction": "New Lambton Win",
-    "odds": "2.26"
+    "odds": "2.59"
   },
   {
     "id": 1517661,
@@ -59,8 +23,8 @@
     "matchTime": "07:15",
     "homeTeam": "UNSW",
     "awayTeam": "Sydney United",
-    "prediction": "UNSW Win & Over 1.5",
-    "odds": "2.93"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1529239,
@@ -68,8 +32,8 @@
     "matchTime": "07:30",
     "homeTeam": "Riverside",
     "awayTeam": "South Hobart",
-    "prediction": "Double Chance X2",
-    "odds": "1.7"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1529240,
@@ -78,7 +42,7 @@
     "homeTeam": "Clarence Zebras",
     "awayTeam": "Kingborough Lions",
     "prediction": "Clarence Zebras Win",
-    "odds": "1.55"
+    "odds": "1.4"
   },
   {
     "id": 1529241,
@@ -86,8 +50,8 @@
     "matchTime": "07:30",
     "homeTeam": "South East Utd.",
     "awayTeam": "Ulverstone",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.64"
   },
   {
     "id": 1533016,
@@ -96,7 +60,7 @@
     "homeTeam": "Hobart City",
     "awayTeam": "South Hobart II",
     "prediction": "Hobart City Win",
-    "odds": "1.72"
+    "odds": "1.92"
   },
   {
     "id": 1533017,
@@ -104,7 +68,43 @@
     "matchTime": "07:30",
     "homeTeam": "Hobart Utd.",
     "awayTeam": "Glenorchy Knights U21",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Hobart Utd. Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1533098,
+    "league": "Tasmania Northern Championship (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Burnie Utd.",
+    "awayTeam": "Devonport U21",
+    "prediction": "Devonport U21 Win",
+    "odds": "2.4"
+  },
+  {
+    "id": 1537458,
+    "league": "Capital Territory NPL (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Canberra Olympic",
+    "awayTeam": "Belconnen United",
+    "prediction": "Canberra Olympic Win",
+    "odds": "1.37"
+  },
+  {
+    "id": 1504820,
+    "league": "J1 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Avispa Fukuoka",
+    "awayTeam": "Vissel Kobe",
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
+  },
+  {
+    "id": 1504821,
+    "league": "J1 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Sanfrecce Hiroshima",
+    "awayTeam": "Nagoya Grampus",
+    "prediction": "Sanfrecce Hiroshima Win",
+    "odds": "1.69"
   }
 ]
