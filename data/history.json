@@ -1,5 +1,17 @@
 [
   {
+    "id": 1511590,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Rangers de Talca",
+    "awayTeam": "Santiago Wanderers",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1541194,
     "league": "Paulista Série B (Brazil)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Assisense Win",
-    "outcome": "Won"
+    "prediction": "America SP Win",
+    "outcome": "Lost"
   },
   {
     "id": 1540063,
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "Lone Star II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Lone Star II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499438,
@@ -90,57 +102,9 @@
     "homeTeam": "Ituzaingó",
     "awayTeam": "UAI Urquiza",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Ituzaingó Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520697,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Nautico Recife",
-    "awayTeam": "Cuiaba",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513111,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Crown Legacy",
-    "awayTeam": "New England II",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "New England II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1499433,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Brown DE Adrogue",
-    "awayTeam": "Deportivo Merlo",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542060,
-    "league": "Copa Espírito Santo (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Porto Vitória",
-    "awayTeam": "Audax São Mateus",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Porto Vitória Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
