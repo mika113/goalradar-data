@@ -1,48 +1,12 @@
 [
   {
-    "id": 1513113,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Tacoma Defiance",
-    "awayTeam": "Ventura County",
-    "prediction": "Ventura County Win",
-    "odds": "2.21"
-  },
-  {
-    "id": 1524547,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Oly Town",
-    "awayTeam": "Snohomish United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
-  },
-  {
-    "id": 1524576,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Seahorses",
-    "awayTeam": "Ventura County Fusion",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
-    "id": 1528281,
-    "league": "Friendlies (World)",
-    "matchTime": "05:00",
-    "homeTeam": "Mexico",
-    "awayTeam": "Ghana",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
-  },
-  {
     "id": 1532020,
     "league": "USL W League (USA)",
     "matchTime": "05:00",
     "homeTeam": "Tacoma Galaxy W",
     "awayTeam": "Olympia W",
-    "prediction": "Tacoma Galaxy W Win",
-    "odds": "1.68"
+    "prediction": "Olympia W Win",
+    "odds": "2.41"
   },
   {
     "id": 1532021,
@@ -50,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Salmon Bay W",
     "awayTeam": "Bigfoot W",
-    "prediction": "Salmon Bay W Win",
-    "odds": "1.32"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1533014,
@@ -59,8 +23,8 @@
     "matchTime": "05:15",
     "homeTeam": "Clarence Zebras II",
     "awayTeam": "Olympia Warriors",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "prediction": "Clarence Zebras II Win",
+    "odds": "1.74"
   },
   {
     "id": 1533015,
@@ -68,7 +32,43 @@
     "matchTime": "05:15",
     "homeTeam": "Taroona",
     "awayTeam": "University of Tasmania",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "University of Tasmania Win",
+    "odds": "1.89"
+  },
+  {
+    "id": 1533099,
+    "league": "Tasmania Northern Championship (Australia)",
+    "matchTime": "05:15",
+    "homeTeam": "Riverside Olympic U21",
+    "awayTeam": "Northern Rangers",
+    "prediction": "Double Chance X2",
+    "odds": "1.46"
+  },
+  {
+    "id": 1524544,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Davis Legacy",
+    "awayTeam": "Almaden",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1532022,
+    "league": "USL W League (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Colorado Storm W",
+    "awayTeam": "Utah United W",
+    "prediction": "Utah United W Win",
+    "odds": "2.97"
+  },
+  {
+    "id": 1523750,
+    "league": "Northern NSW NPL (Australia)",
+    "matchTime": "07:00",
+    "homeTeam": "Hamilton Olympic",
+    "awayTeam": "Charlestown City Blues",
+    "prediction": "Charlestown City Blues Win",
+    "odds": "1.93"
   }
 ]
