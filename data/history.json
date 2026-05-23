@@ -1,11 +1,23 @@
 [
   {
+    "id": 1524546,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Midlakes United",
+    "awayTeam": "Tacoma Stars",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1530344,
     "league": "Torneo Federal A (Argentina)",
     "matchDate": "FT",
     "homeTeam": "Juventud Antoniana",
     "awayTeam": "Sarmiento Resistencia",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Juventud Antoniana Win",
@@ -18,9 +30,9 @@
     "homeTeam": "Bubali",
     "awayTeam": "RCA",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Bubali Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,10 +42,10 @@
     "homeTeam": "Evergreen",
     "awayTeam": "Loudoun 2",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Loudoun 2 Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1522406,
@@ -42,9 +54,9 @@
     "homeTeam": "Internacional RS W",
     "awayTeam": "Flamengo W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Flamengo W Win",
     "outcome": "Won"
   },
   {
@@ -77,22 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Colorado Storm",
     "awayTeam": "Utah United",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Utah United Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1524542,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Red River",
-    "awayTeam": "Jackson Boom",
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Red River Win",
+    "prediction": "Colorado Storm Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +102,9 @@
     "homeTeam": "Independiente del Valle",
     "awayTeam": "Libertad",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Independiente del Valle Win",
+    "prediction": "Libertad Win",
     "outcome": "Won"
   },
   {
@@ -114,7 +114,7 @@
     "homeTeam": "Sporting KC II",
     "awayTeam": "Austin II",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Austin II Win",
     "outcome": "Won"
@@ -126,21 +126,9 @@
     "homeTeam": "Rangers de Talca",
     "awayTeam": "Santiago Wanderers",
     "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Santiago Wanderers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508434,
-    "league": "NWSL Women (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Boston Legacy W",
-    "awayTeam": "Seattle Reign FC W",
-    "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Seattle Reign FC W Win",
+    "prediction": "Santiago Wanderers Win",
     "outcome": "Won"
   }
 ]
