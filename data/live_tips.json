@@ -1,21 +1,12 @@
 [
   {
-    "id": 1516850,
-    "league": "J2/J3 League (Japan)",
-    "matchTime": "08:00",
-    "homeTeam": "Thespakusatsu Gunma",
-    "awayTeam": "Sagamihara",
-    "prediction": "Sagamihara Win",
-    "odds": "2.62"
-  },
-  {
     "id": 1516851,
     "league": "J2/J3 League (Japan)",
     "matchTime": "08:00",
     "homeTeam": "Consadole Sapporo",
     "awayTeam": "Jubilo Iwata",
-    "prediction": "Consadole Sapporo Win & Over 1.5",
-    "odds": "2.59"
+    "prediction": "Consadole Sapporo Win",
+    "odds": "1.4"
   },
   {
     "id": 1516852,
@@ -23,8 +14,8 @@
     "matchTime": "08:00",
     "homeTeam": "FC Gifu",
     "awayTeam": "Omiya Ardija",
-    "prediction": "FC Gifu Win",
-    "odds": "1.56"
+    "prediction": "Both Teams To Score",
+    "odds": "1.95"
   },
   {
     "id": 1516853,
@@ -32,8 +23,8 @@
     "matchTime": "08:00",
     "homeTeam": "Fujieda MYFC",
     "awayTeam": "Iwaki",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.67"
+    "prediction": "Fujieda MYFC Win",
+    "odds": "1.58"
   },
   {
     "id": 1516854,
@@ -41,8 +32,8 @@
     "matchTime": "08:00",
     "homeTeam": "Albirex Niigata",
     "awayTeam": "Ehime FC",
-    "prediction": "Albirex Niigata Win & Over 1.5",
-    "odds": "2.05"
+    "prediction": "Albirex Niigata Win",
+    "odds": "1.57"
   },
   {
     "id": 1516855,
@@ -51,7 +42,7 @@
     "homeTeam": "Nara Club",
     "awayTeam": "Kataller Toyama",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "odds": "2.06"
   },
   {
     "id": 1516856,
@@ -60,7 +51,7 @@
     "homeTeam": "Sagan Tosu",
     "awayTeam": "FC Ryukyu",
     "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "odds": "1.23"
   },
   {
     "id": 1516857,
@@ -68,8 +59,8 @@
     "matchTime": "08:00",
     "homeTeam": "Renofa Yamaguchi",
     "awayTeam": "Roasso Kumamoto",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.9"
+    "prediction": "Roasso Kumamoto Win",
+    "odds": "2.48"
   },
   {
     "id": 1520483,
@@ -78,7 +69,7 @@
     "homeTeam": "Busan Transportation",
     "awayTeam": "Chuncheon",
     "prediction": "Busan Transportation Win",
-    "odds": "1.75"
+    "odds": "1.88"
   },
   {
     "id": 1520484,
@@ -86,7 +77,16 @@
     "matchTime": "08:00",
     "homeTeam": "Gyeongju HNP",
     "awayTeam": "Yeoju Sejong",
-    "prediction": "Gyeongju HNP Win",
-    "odds": "1.57"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
+  },
+  {
+    "id": 1520485,
+    "league": "K3 League (South-Korea)",
+    "matchTime": "08:00",
+    "homeTeam": "Siheung Citizen",
+    "awayTeam": "Dangjin Citizen",
+    "prediction": "Both Teams To Score",
+    "odds": "1.61"
   }
 ]
