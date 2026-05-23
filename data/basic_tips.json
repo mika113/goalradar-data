@@ -1,21 +1,12 @@
 [
   {
-    "id": 1524546,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Midlakes United",
-    "awayTeam": "Tacoma Stars",
-    "prediction": "Midlakes United Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1513113,
     "league": "MLS Next Pro (USA)",
     "matchTime": "05:00",
     "homeTeam": "Tacoma Defiance",
     "awayTeam": "Ventura County",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Tacoma Defiance Win",
+    "odds": "1.39"
   },
   {
     "id": 1524547,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Oly Town",
     "awayTeam": "Snohomish United",
-    "prediction": "Snohomish United Win",
-    "odds": "2.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.01"
   },
   {
     "id": 1524576,
@@ -32,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "Seahorses",
     "awayTeam": "Ventura County Fusion",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Seahorses Win",
+    "odds": "1.97"
   },
   {
     "id": 1528281,
@@ -42,7 +33,7 @@
     "homeTeam": "Mexico",
     "awayTeam": "Ghana",
     "prediction": "Mexico Win",
-    "odds": "1.69"
+    "odds": "1.35"
   },
   {
     "id": 1532020,
@@ -50,7 +41,16 @@
     "matchTime": "05:00",
     "homeTeam": "Tacoma Galaxy W",
     "awayTeam": "Olympia W",
-    "prediction": "Tacoma Galaxy W Win",
-    "odds": "1.63"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
+  },
+  {
+    "id": 1532021,
+    "league": "USL W League (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Salmon Bay W",
+    "awayTeam": "Bigfoot W",
+    "prediction": "Salmon Bay W Win",
+    "odds": "1.79"
   }
 ]
