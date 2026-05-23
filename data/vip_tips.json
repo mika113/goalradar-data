@@ -1,57 +1,12 @@
 [
   {
-    "id": 1544098,
-    "league": "PFL (Philippines)",
-    "matchTime": "13:15",
-    "homeTeam": "Taguig",
-    "awayTeam": "Kaya",
-    "prediction": "Taguig Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1481992,
-    "league": "Central Youth League (Poland)",
-    "matchTime": "13:30",
-    "homeTeam": "Stal Rzeszów U19",
-    "awayTeam": "Legia Warszawa U19",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
-    "id": 1396102,
-    "league": "II Liga - East (Poland)",
-    "matchTime": "13:45",
-    "homeTeam": "Podhale Nowy Targ",
-    "awayTeam": "Warta Poznań",
-    "prediction": "Warta Poznań Win",
-    "odds": "2.01"
-  },
-  {
-    "id": 1398932,
-    "league": "Regionalliga - West (Austria)",
-    "matchTime": "14:00",
-    "homeTeam": "Pinzgau Saalfelden",
-    "awayTeam": "TSV St. Johann",
-    "prediction": "Pinzgau Saalfelden Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1410455,
-    "league": "III Liga - Group 1 (Poland)",
-    "matchTime": "14:00",
-    "homeTeam": "Swit",
-    "awayTeam": "Wisła Płock II",
-    "prediction": "Wisła Płock II Win",
-    "odds": "1.77"
-  },
-  {
     "id": 1410752,
     "league": "III Liga - Group 2 (Poland)",
     "matchTime": "14:00",
     "homeTeam": "Unia Swarzędz",
     "awayTeam": "Wybrzeże Rewalskie Rewal",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "prediction": "Wybrzeże Rewalskie Rewal Win",
+    "odds": "3.2"
   },
   {
     "id": 1446698,
@@ -60,7 +15,7 @@
     "homeTeam": "Kapaz",
     "awayTeam": "Neftchi Baku",
     "prediction": "Kapaz Win",
-    "odds": "1.65"
+    "odds": "1.56"
   },
   {
     "id": 1481988,
@@ -69,6 +24,51 @@
     "homeTeam": "Miedź Legnica U19",
     "awayTeam": "Zagłębie Lubin U19",
     "prediction": "Zagłębie Lubin U19 Win",
-    "odds": "2.95"
+    "odds": "3.5"
+  },
+  {
+    "id": 1495474,
+    "league": "Damallsvenskan (Sweden)",
+    "matchTime": "14:00",
+    "homeTeam": "AIK W",
+    "awayTeam": "Malmö FF W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1495686,
+    "league": "Veikkausliiga (Finland)",
+    "matchTime": "14:00",
+    "homeTeam": "Inter Turku",
+    "awayTeam": "Turku PS",
+    "prediction": "Turku PS Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1496429,
+    "league": "3. Division - Girone 1 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "Frigg",
+    "awayTeam": "Nordstrand",
+    "prediction": "Frigg Win & Over 1.5",
+    "odds": "1.91"
+  },
+  {
+    "id": 1496430,
+    "league": "3. Division - Girone 1 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "SF Grei",
+    "awayTeam": "KFUM II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
+  },
+  {
+    "id": 1496432,
+    "league": "3. Division - Girone 1 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "IF Ready",
+    "awayTeam": "Bærum",
+    "prediction": "IF Ready Win",
+    "odds": "1.8"
   }
 ]
