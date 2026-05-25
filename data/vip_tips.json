@@ -1,57 +1,12 @@
 [
   {
-    "id": 1526833,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Paysandu",
-    "awayTeam": "Floresta",
-    "prediction": "Double Chance X2",
-    "odds": "1.56"
-  },
-  {
-    "id": 1546035,
-    "league": "Liga Women (Peru)",
-    "matchTime": "02:00",
-    "homeTeam": "Flamengo FBC W",
-    "awayTeam": "U. de Deportes W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
-  },
-  {
-    "id": 1537945,
-    "league": "Serie D (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Democrata GV",
-    "awayTeam": "Porto BA",
-    "prediction": "Porto BA Win",
-    "odds": "3.07"
-  },
-  {
-    "id": 1511586,
-    "league": "Primera B (Chile)",
-    "matchTime": "03:00",
-    "homeTeam": "Deportes Copiapo",
-    "awayTeam": "Union Espanola",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
-  },
-  {
-    "id": 1519368,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Aucas",
-    "awayTeam": "Manta FC",
-    "prediction": "Aucas Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1522468,
     "league": "Brasileiro Women (Brazil)",
     "matchTime": "03:00",
     "homeTeam": "Corinthians W",
     "awayTeam": "Mixto W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Mixto W Win",
+    "odds": "2.67"
   },
   {
     "id": 1532044,
@@ -59,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Rochester W",
     "awayTeam": "Sioux Falls City W",
-    "prediction": "Rochester W Win",
-    "odds": "1.31"
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   },
   {
     "id": 1545557,
@@ -68,7 +23,52 @@
     "matchTime": "03:30",
     "homeTeam": "Estudiantes",
     "awayTeam": "Real Koyari",
-    "prediction": "Double Chance X2",
-    "odds": "1.68"
+    "prediction": "Real Koyari Win",
+    "odds": "3.08"
+  },
+  {
+    "id": 1546056,
+    "league": "Primera B (Colombia)",
+    "matchTime": "04:00",
+    "homeTeam": "Real Cartagena",
+    "awayTeam": "Envigado",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
+  },
+  {
+    "id": 1532735,
+    "league": "League Two (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Tai'an Tiankuang",
+    "awayTeam": "Dalian Kewei",
+    "prediction": "Dalian Kewei Win",
+    "odds": "2.04"
+  },
+  {
+    "id": 1532736,
+    "league": "League Two (China)",
+    "matchTime": "11:00",
+    "homeTeam": "Shanghai Port II",
+    "awayTeam": "Rizhao Yuqi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1532737,
+    "league": "League Two (China)",
+    "matchTime": "11:00",
+    "homeTeam": "Shenzhen 2028",
+    "awayTeam": "Yichun Grand Tiger",
+    "prediction": "Shenzhen 2028 Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1534755,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "13:00",
+    "homeTeam": "Shakhter Karagandy",
+    "awayTeam": "Yelimay Semey 2",
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
   }
 ]
