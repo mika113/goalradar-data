@@ -1,12 +1,24 @@
 [
   {
+    "id": 1538260,
+    "league": "1. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Kolding IF",
+    "awayTeam": "Hillerød",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1521943,
     "league": "Victoria NPL (Australia)",
     "matchDate": "FT",
     "homeTeam": "South Melbourne",
     "awayTeam": "Avondale",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Avondale Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513124,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Columbus Crew II",
-    "awayTeam": "Toronto II",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
