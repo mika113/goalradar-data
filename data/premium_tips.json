@@ -1,84 +1,12 @@
 [
   {
-    "id": 1492867,
-    "league": "First Division (Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Treaty United",
-    "awayTeam": "Cork City",
-    "prediction": "Treaty United Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1530337,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "21:45",
-    "homeTeam": "Bartolomé Mitre",
-    "awayTeam": "Tucuman Central",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
-  },
-  {
-    "id": 1492731,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "22:00",
-    "homeTeam": "Bohemians",
-    "awayTeam": "Shamrock Rovers",
-    "prediction": "Shamrock Rovers Win",
-    "odds": "3.03"
-  },
-  {
-    "id": 1524596,
-    "league": "USL League Two (USA)",
-    "matchTime": "22:00",
-    "homeTeam": "Lorain County Leviathan",
-    "awayTeam": "Buffalo",
-    "prediction": "Lorain County Leviathan Win",
-    "odds": "1.96"
-  },
-  {
-    "id": 1529100,
-    "league": "Segunda División (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Provincial Ovalle",
-    "awayTeam": "Municipal Salamanca",
-    "prediction": "Provincial Ovalle Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1530340,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "22:00",
-    "homeTeam": "Defensores de Vilelas",
-    "awayTeam": "San Martin Formosa",
-    "prediction": "Defensores de Vilelas Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1530347,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "22:00",
-    "homeTeam": "Sarmiento de La Banda",
-    "awayTeam": "Boca Unidos",
-    "prediction": "Boca Unidos Win",
-    "odds": "2.92"
-  },
-  {
-    "id": 1532043,
-    "league": "USL W League (USA)",
-    "matchTime": "22:00",
-    "homeTeam": "Ann Arbor W",
-    "awayTeam": "Union Macomb W",
-    "prediction": "Ann Arbor W Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1545235,
     "league": "Premiership (Scotland)",
     "matchTime": "22:00",
     "homeTeam": "ST Mirren",
     "awayTeam": "Partick",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "ST Mirren Win",
+    "odds": "1.85"
   },
   {
     "id": 1524595,
@@ -86,8 +14,8 @@
     "matchTime": "22:30",
     "homeTeam": "Oly Town",
     "awayTeam": "West Seattle Junction",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Oly Town Win",
+    "odds": "1.93"
   },
   {
     "id": 1544840,
@@ -95,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Sportivo Carapeguá",
     "awayTeam": "Atlético Tembetary",
-    "prediction": "Sportivo Carapeguá Win",
-    "odds": "1.98"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1546034,
@@ -104,7 +32,79 @@
     "matchTime": "23:15",
     "homeTeam": "FBC Melgar W",
     "awayTeam": "Atl. Andahuaylas W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "FBC Melgar W Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1512618,
+    "league": "Primera División (Peru)",
+    "matchTime": "23:30",
+    "homeTeam": "Comerciantes Unidos",
+    "awayTeam": "Deportivo Garcilaso",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
+  },
+  {
+    "id": 1522405,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "23:30",
+    "homeTeam": "São Paulo W",
+    "awayTeam": "Santos W",
+    "prediction": "São Paulo W Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1526537,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Ind. Juniors",
+    "awayTeam": "9 de Octubre",
+    "prediction": "Ind. Juniors Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1545583,
+    "league": "Segunda División (Uruguay)",
+    "matchTime": "00:00",
+    "homeTeam": "Miramar",
+    "awayTeam": "Fenix",
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1520693,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Botafogo SP",
+    "awayTeam": "Athletic Club",
+    "prediction": "Double Chance X2",
+    "odds": "1.44"
+  },
+  {
+    "id": 1544841,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "01:30",
+    "homeTeam": "General Caballero",
+    "awayTeam": "Guairena FC",
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
+  },
+  {
+    "id": 1526830,
+    "league": "Serie C (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Ituano",
+    "awayTeam": "Botafogo PB",
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
+  },
+  {
+    "id": 1526833,
+    "league": "Serie C (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Paysandu",
+    "awayTeam": "Floresta",
+    "prediction": "Paysandu Win",
+    "odds": "1.49"
   }
 ]
