@@ -1,30 +1,12 @@
 [
   {
-    "id": 1497339,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "16:00",
-    "homeTeam": "Brumunddal",
-    "awayTeam": "Lillehammer",
-    "prediction": "Lillehammer Win",
-    "odds": "2.01"
-  },
-  {
-    "id": 1497340,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "16:00",
-    "homeTeam": "Fram",
-    "awayTeam": "Raelingen",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
-  },
-  {
     "id": 1506610,
     "league": "1. Deild (Faroe-Islands)",
     "matchTime": "16:00",
     "homeTeam": "B71",
     "awayTeam": "Suduroy",
-    "prediction": "Suduroy Win",
-    "odds": "1.83"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1538259,
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Hvidovre",
     "awayTeam": "Esbjerg",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.57"
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
   },
   {
     "id": 1425135,
@@ -41,8 +23,8 @@
     "matchTime": "16:30",
     "homeTeam": "VfL Vichttal",
     "awayTeam": "Siegburger SV",
-    "prediction": "VfL Vichttal Win",
-    "odds": "1.57"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
   },
   {
     "id": 1425136,
@@ -50,8 +32,8 @@
     "matchTime": "16:30",
     "homeTeam": "Frechen",
     "awayTeam": "Wegberg-Beeck",
-    "prediction": "Frechen Win",
-    "odds": "1.95"
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
   },
   {
     "id": 1425137,
@@ -59,8 +41,8 @@
     "matchTime": "16:30",
     "homeTeam": "Fortuna Köln II",
     "awayTeam": "Eintracht Hohkeppel",
-    "prediction": "Eintracht Hohkeppel Win",
-    "odds": "2.51"
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
   },
   {
     "id": 1496796,
@@ -68,8 +50,8 @@
     "matchTime": "16:30",
     "homeTeam": "Fyllingsdalen",
     "awayTeam": "Brann II",
-    "prediction": "Fyllingsdalen Win",
-    "odds": "1.76"
+    "prediction": "Both Teams To Score",
+    "odds": "1.61"
   },
   {
     "id": 1412248,
@@ -77,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Verl II",
     "awayTeam": "Gievenbeck",
-    "prediction": "Gievenbeck Win",
-    "odds": "3.12"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1496249,
@@ -86,7 +68,25 @@
     "matchTime": "17:00",
     "homeTeam": "Lørenskog",
     "awayTeam": "Levanger",
-    "prediction": "Lørenskog Win",
-    "odds": "1.62"
+    "prediction": "Levanger Win",
+    "odds": "2.5"
+  },
+  {
+    "id": 1497160,
+    "league": "3. Division - Girone 5 (Norway)",
+    "matchTime": "17:00",
+    "homeTeam": "Skjetten",
+    "awayTeam": "Harstad",
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
+  },
+  {
+    "id": 1506474,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "17:00",
+    "homeTeam": "KI Klaksvik",
+    "awayTeam": "AB",
+    "prediction": "KI Klaksvik Win & Over 1.5",
+    "odds": "2.93"
   }
 ]
