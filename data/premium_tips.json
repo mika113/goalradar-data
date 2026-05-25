@@ -1,48 +1,12 @@
 [
   {
-    "id": 1496249,
-    "league": "2. Division - Group 2 (Norway)",
-    "matchTime": "17:00",
-    "homeTeam": "Lørenskog",
-    "awayTeam": "Levanger",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1497160,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchTime": "17:00",
-    "homeTeam": "Skjetten",
-    "awayTeam": "Harstad",
-    "prediction": "Skjetten Win",
-    "odds": "1.33"
-  },
-  {
-    "id": 1506474,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchTime": "17:00",
-    "homeTeam": "KI Klaksvik",
-    "awayTeam": "AB",
-    "prediction": "KI Klaksvik Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1506475,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchTime": "17:00",
-    "homeTeam": "EB / Streymur",
-    "awayTeam": "NSI Runavik",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
-  },
-  {
     "id": 1506477,
     "league": "Meistaradeildin (Faroe-Islands)",
     "matchTime": "17:00",
     "homeTeam": "Vikingur Gota",
     "awayTeam": "Skála",
-    "prediction": "Vikingur Gota Win",
-    "odds": "1.84"
+    "prediction": "Double Chance X2",
+    "odds": "1.57"
   },
   {
     "id": 1535608,
@@ -50,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Arna-Bjørnar W",
     "awayTeam": "Kolbotn W",
-    "prediction": "Arna-Bjørnar W Win",
-    "odds": "1.72"
+    "prediction": "Kolbotn W Win",
+    "odds": "3.22"
   },
   {
     "id": 1545251,
@@ -59,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Notts County",
     "awayTeam": "Salford City",
-    "prediction": "Salford City Win",
-    "odds": "2.35"
+    "prediction": "Notts County Win",
+    "odds": "1.48"
   },
   {
     "id": 1545584,
@@ -68,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Enppi",
     "awayTeam": "Wadi Degla",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Enppi Win",
+    "odds": "1.77"
   },
   {
     "id": 1545750,
@@ -77,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "ATSV Erlangen",
     "awayTeam": "Großbardorf",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "ATSV Erlangen Win",
+    "odds": "1.31"
   },
   {
     "id": 1545751,
@@ -86,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Coburg",
     "awayTeam": "FSV Pfaffenhofen/Ilm",
-    "prediction": "FSV Pfaffenhofen/Ilm Win",
-    "odds": "2.27"
+    "prediction": "Coburg Win",
+    "odds": "1.49"
   },
   {
     "id": 1545752,
@@ -96,7 +60,7 @@
     "homeTeam": "Kottern",
     "awayTeam": "Seebach",
     "prediction": "Kottern Win",
-    "odds": "1.75"
+    "odds": "1.64"
   },
   {
     "id": 1545753,
@@ -105,6 +69,42 @@
     "homeTeam": "Sturm Hauzenberg",
     "awayTeam": "TSV 1880 Wasserburg",
     "prediction": "TSV 1880 Wasserburg Win",
-    "odds": "2.92"
+    "odds": "1.99"
+  },
+  {
+    "id": 1531748,
+    "league": "First League (Macedonia)",
+    "matchTime": "17:30",
+    "homeTeam": "Makedonija GjP",
+    "awayTeam": "Sileks",
+    "prediction": "Makedonija GjP Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1531750,
+    "league": "First League (Macedonia)",
+    "matchTime": "17:30",
+    "homeTeam": "FK Rabotnicki",
+    "awayTeam": "Tikveš",
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
+  },
+  {
+    "id": 1540971,
+    "league": "First League (Bulgaria)",
+    "matchTime": "17:45",
+    "homeTeam": "Cherno More Varna",
+    "awayTeam": "Arda Kardzhali",
+    "prediction": "Arda Kardzhali Win",
+    "odds": "3.26"
+  },
+  {
+    "id": 1540972,
+    "league": "First League (Bulgaria)",
+    "matchTime": "17:45",
+    "homeTeam": "Lokomotiv Plovdiv",
+    "awayTeam": "Botev Plovdiv",
+    "prediction": "Lokomotiv Plovdiv Win",
+    "odds": "1.64"
   }
 ]
