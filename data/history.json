@@ -6,9 +6,9 @@
     "homeTeam": "Croatia U17",
     "awayTeam": "Belgium U17",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Belgium U17 Win",
     "outcome": "Won"
   },
   {
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kolding IF Win",
-    "outcome": "Won"
+    "prediction": "Hillerød Win",
+    "outcome": "Lost"
   },
   {
     "id": 1521943,
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Gimpo Citizen Win",
-    "outcome": "Won"
+    "prediction": "Paju Citizen Win",
+    "outcome": "Lost"
   },
   {
     "id": 1524594,
@@ -70,77 +70,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1524592,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Bangers",
-    "awayTeam": "Tacoma Stars",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1490324,
-    "league": "Major League Soccer (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Los Angeles FC",
-    "awayTeam": "Seattle Sounders",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Los Angeles FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545771,
-    "league": "Premier League (Jamaica)",
-    "matchDate": "FT",
-    "homeTeam": "Cavalier",
-    "awayTeam": "Portmore United",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545451,
-    "league": "Liga MX (Mexico)",
-    "matchDate": "FT",
-    "homeTeam": "U.N.A.M. - Pumas",
-    "awayTeam": "Cruz Azul",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Cruz Azul Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532042,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "West Seattle Rhodies W",
-    "awayTeam": "Salmon Bay W",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "West Seattle Rhodies W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524591,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Colorado ISA",
-    "awayTeam": "Utah United",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
   }
 ]
