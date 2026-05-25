@@ -1,14 +1,26 @@
 [
   {
+    "id": 1496246,
+    "league": "2. Division - Group 2 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Eidsvold",
+    "awayTeam": "Rana",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Eidsvold Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1494674,
     "league": "Eliteserien (Norway)",
     "matchDate": "FT",
     "homeTeam": "Start",
     "awayTeam": "Valerenga",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Start Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1545374,
@@ -32,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Servette Chênois W Win",
-    "outcome": "Won"
+    "prediction": "Young Boys W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1545246,
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Nardo Win",
-    "outcome": "Lost"
+    "prediction": "Strindheim Win",
+    "outcome": "Won"
   },
   {
     "id": 1496434,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Heming Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496069,
-    "league": "2. Division - Group 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Sotra",
-    "awayTeam": "Bjarg",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Bjarg Win",
     "outcome": "Won"
   }
 ]
