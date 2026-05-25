@@ -1,5 +1,53 @@
 [
   {
+    "id": 1496796,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Fyllingsdalen",
+    "awayTeam": "Brann II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1425137,
+    "league": "Oberliga - Mittelrhein (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Fortuna Köln II",
+    "awayTeam": "Eintracht Hohkeppel",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1425136,
+    "league": "Oberliga - Mittelrhein (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Frechen",
+    "awayTeam": "Wegberg-Beeck",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1425135,
+    "league": "Oberliga - Mittelrhein (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "VfL Vichttal",
+    "awayTeam": "Siegburger SV",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1542507,
     "league": "Ligue 1 (Congo-DR)",
     "matchDate": "FT",
@@ -8,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Simba Win",
-    "outcome": "Lost"
+    "prediction": "Don Bosco Win",
+    "outcome": "Won"
   },
   {
     "id": 1542506,
@@ -21,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1538259,
@@ -33,6 +81,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Esbjerg Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1506610,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "B71",
+    "awayTeam": "Suduroy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -68,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1497157,
@@ -77,66 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Fauske Sprint",
     "awayTeam": "Skjervøy",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496980,
-    "league": "3. Division - Girone 4 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Varhaug",
-    "awayTeam": "Våg",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496431,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Konnerud",
-    "awayTeam": "Lokomotiv Oslo",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496248,
-    "league": "2. Division - Group 2 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Junkeren",
-    "awayTeam": "Ull/Kisa",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Junkeren Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496067,
-    "league": "2. Division - Group 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Lysekloster",
-    "awayTeam": "Arendal",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Lysekloster Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496064,
-    "league": "2. Division - Group 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Brattvåg",
-    "awayTeam": "Notodden",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
