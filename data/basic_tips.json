@@ -1,21 +1,12 @@
 [
   {
-    "id": 1527602,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Alay",
-    "awayTeam": "Dordoi Bishkek",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
-  },
-  {
     "id": 1513398,
     "league": "Ligue 1 (Algeria)",
     "matchTime": "18:00",
     "homeTeam": "Khenchela",
     "awayTeam": "USM Alger",
-    "prediction": "Khenchela Win",
-    "odds": "1.54"
+    "prediction": "USM Alger Win",
+    "odds": "1.85"
   },
   {
     "id": 1545665,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Rapid Vienna",
     "awayTeam": "Ried",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
+    "prediction": "Ried Win",
+    "odds": "2.43"
   },
   {
     "id": 1545523,
@@ -32,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Budaiya",
     "awayTeam": "Al Najma",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
+    "prediction": "Al Najma Win",
+    "odds": "1.82"
   },
   {
     "id": 1545524,
@@ -42,7 +33,7 @@
     "homeTeam": "Manama",
     "awayTeam": "Al Ittihad",
     "prediction": "Al Ittihad Win",
-    "odds": "2.08"
+    "odds": "3.06"
   },
   {
     "id": 1526459,
@@ -50,7 +41,16 @@
     "matchTime": "19:15",
     "homeTeam": "Al Jahra",
     "awayTeam": "Al Arabi",
-    "prediction": "Al Jahra Win",
-    "odds": "1.92"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
+  },
+  {
+    "id": 1545093,
+    "league": "Premier League (Mauritania)",
+    "matchTime": "19:30",
+    "homeTeam": "N'Zidane",
+    "awayTeam": "AC Douane",
+    "prediction": "N'Zidane Win",
+    "odds": "1.69"
   }
 ]
