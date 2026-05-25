@@ -1,21 +1,12 @@
 [
   {
-    "id": 1520693,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Botafogo SP",
-    "awayTeam": "Athletic Club",
-    "prediction": "Athletic Club Win",
-    "odds": "1.64"
-  },
-  {
     "id": 1544841,
     "league": "Division Intermedia (Paraguay)",
     "matchTime": "01:30",
     "homeTeam": "General Caballero",
     "awayTeam": "Guairena FC",
-    "prediction": "General Caballero Win",
-    "odds": "1.76"
+    "prediction": "General Caballero Win & Over 1.5",
+    "odds": "1.8"
   },
   {
     "id": 1526830,
@@ -23,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ituano",
     "awayTeam": "Botafogo PB",
-    "prediction": "Botafogo PB Win",
-    "odds": "3.29"
+    "prediction": "Ituano Win",
+    "odds": "1.83"
   },
   {
     "id": 1526833,
@@ -32,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Paysandu",
     "awayTeam": "Floresta",
-    "prediction": "Paysandu Win & Over 1.5",
-    "odds": "1.9"
+    "prediction": "Floresta Win",
+    "odds": "2.68"
   },
   {
     "id": 1546035,
@@ -41,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Flamengo FBC W",
     "awayTeam": "U. de Deportes W",
-    "prediction": "Double Chance X2",
-    "odds": "1.74"
+    "prediction": "Flamengo FBC W Win & Over 1.5",
+    "odds": "2.48"
   },
   {
     "id": 1537945,
@@ -51,7 +42,7 @@
     "homeTeam": "Democrata GV",
     "awayTeam": "Porto BA",
     "prediction": "Porto BA Win",
-    "odds": "2.74"
+    "odds": "3.14"
   },
   {
     "id": 1511586,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Deportes Copiapo",
     "awayTeam": "Union Espanola",
-    "prediction": "Deportes Copiapo Win",
-    "odds": "1.49"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1519368,
@@ -68,7 +59,16 @@
     "matchTime": "03:00",
     "homeTeam": "Aucas",
     "awayTeam": "Manta FC",
-    "prediction": "Aucas Win",
-    "odds": "1.64"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
+  },
+  {
+    "id": 1522468,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "03:00",
+    "homeTeam": "Corinthians W",
+    "awayTeam": "Mixto W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
   }
 ]
