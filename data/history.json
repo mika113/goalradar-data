@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Suwon Bluewings",
     "awayTeam": "Cheonan City",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Suwon Bluewings Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "Paju Citizen",
     "awayTeam": "Gimpo Citizen",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Gimpo Citizen Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1545451,
