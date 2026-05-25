@@ -1,21 +1,12 @@
 [
   {
-    "id": 1545093,
-    "league": "Premier League (Mauritania)",
-    "matchTime": "19:30",
-    "homeTeam": "N'Zidane",
-    "awayTeam": "AC Douane",
-    "prediction": "N'Zidane Win",
-    "odds": "1.41"
-  },
-  {
     "id": 1545096,
     "league": "Premier League (Mauritania)",
     "matchTime": "19:45",
     "homeTeam": "Chemal",
     "awayTeam": "Pompiers",
-    "prediction": "Chemal Win",
-    "odds": "1.6"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1545097,
@@ -23,8 +14,8 @@
     "matchTime": "19:45",
     "homeTeam": "Gendrim",
     "awayTeam": "Police",
-    "prediction": "Gendrim Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1526462,
@@ -32,26 +23,8 @@
     "matchTime": "20:25",
     "homeTeam": "Al Tadhamon",
     "awayTeam": "Al Qadsia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.14"
-  },
-  {
-    "id": 1531748,
-    "league": "First League (Macedonia)",
-    "matchTime": "17:30",
-    "homeTeam": "Makedonija GjP",
-    "awayTeam": "Sileks",
-    "prediction": "Sileks Win",
-    "odds": "2.36"
-  },
-  {
-    "id": 1531750,
-    "league": "First League (Macedonia)",
-    "matchTime": "17:30",
-    "homeTeam": "FK Rabotnicki",
-    "awayTeam": "Tikveš",
-    "prediction": "FK Rabotnicki Win",
-    "odds": "1.34"
+    "prediction": "Al Tadhamon Win",
+    "odds": "1.45"
   },
   {
     "id": 1540971,
@@ -59,8 +32,8 @@
     "matchTime": "17:45",
     "homeTeam": "Cherno More Varna",
     "awayTeam": "Arda Kardzhali",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   },
   {
     "id": 1540972,
@@ -68,7 +41,34 @@
     "matchTime": "17:45",
     "homeTeam": "Lokomotiv Plovdiv",
     "awayTeam": "Botev Plovdiv",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1494669,
+    "league": "Eliteserien (Norway)",
+    "matchTime": "18:00",
+    "homeTeam": "Ham-Kam",
+    "awayTeam": "Lillestrom",
+    "prediction": "Ham-Kam Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1494670,
+    "league": "Eliteserien (Norway)",
+    "matchTime": "18:00",
+    "homeTeam": "KFUM Oslo",
+    "awayTeam": "Rosenborg",
+    "prediction": "Rosenborg Win",
+    "odds": "3.38"
+  },
+  {
+    "id": 1494673,
+    "league": "Eliteserien (Norway)",
+    "matchTime": "18:00",
+    "homeTeam": "Sarpsborg 08 FF",
+    "awayTeam": "Molde",
+    "prediction": "Sarpsborg 08 FF Win",
+    "odds": "1.68"
   }
 ]
