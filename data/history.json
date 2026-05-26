@@ -1,14 +1,74 @@
 [
   {
+    "id": 1512431,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "San Martín San Juan Res.",
+    "awayTeam": "Colón Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1512429,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Racing Club Res.",
+    "awayTeam": "Tigre Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1512425,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Huracán Res.",
+    "awayTeam": "Ferro 2",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1512423,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Estudiantes Rio Cuarto 2",
+    "awayTeam": "Boca Juniors Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1512418,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Argentinos Juniors Res.",
+    "awayTeam": "Banfield Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1540946,
     "league": "State Cup (Israel)",
     "matchDate": "FT",
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "Maccabi Tel Aviv",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hapoel Beer Sheva Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +78,9 @@
     "homeTeam": "B68",
     "awayTeam": "HB Torshavn",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "HB Torshavn Win",
     "outcome": "Won"
   },
   {
@@ -54,7 +114,7 @@
     "homeTeam": "Orebro SK",
     "awayTeam": "Helsingborg",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Helsingborg Win",
     "outcome": "Won"
@@ -78,69 +138,9 @@
     "homeTeam": "Åsane II",
     "awayTeam": "Gneist",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Åsane II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1421913,
-    "league": "Primera División Femenina (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "FC Levante Badalona",
-    "awayTeam": "Real Madrid W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1397287,
-    "league": "Primera División Femenina (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Sevilla W",
-    "awayTeam": "Eibar W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1397286,
-    "league": "Primera División Femenina (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Granada",
-    "awayTeam": "Madrid CFF W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1397285,
-    "league": "Primera División Femenina (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Edf Logrono W",
-    "awayTeam": "Athletic Club W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Athletic Club W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1397280,
-    "league": "Primera División Femenina (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Alhama W",
-    "awayTeam": "Levante W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Levante W Win",
+    "prediction": "Gneist Win",
     "outcome": "Won"
   }
 ]
