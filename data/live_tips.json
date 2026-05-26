@@ -1,66 +1,12 @@
 [
   {
-    "id": 1470813,
-    "league": "FKF Premier League (Kenya)",
-    "matchTime": "01:00",
-    "homeTeam": "Sofapaka",
-    "awayTeam": "KCB",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
-  },
-  {
-    "id": 1499299,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Brown DE Adrogue",
-    "awayTeam": "Talleres Remedios",
-    "prediction": "Talleres Remedios Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1499300,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Comunicaciones",
-    "awayTeam": "UAI Urquiza",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
-  },
-  {
-    "id": 1499302,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Deportivo Merlo",
-    "awayTeam": "Liniers",
-    "prediction": "Deportivo Merlo Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1525385,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Colorado ISA",
-    "awayTeam": "Real Colorado Foxes",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "2.81"
-  },
-  {
-    "id": 1532045,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Brooke House W",
-    "awayTeam": "TLH Reckoning W",
-    "prediction": "Double Chance X2",
-    "odds": "1.67"
-  },
-  {
     "id": 1535223,
     "league": "CONMEBOL Sudamericana (World)",
     "matchTime": "01:00",
     "homeTeam": "Gremio",
     "awayTeam": "Atletico Torque",
-    "prediction": "Gremio Win & Over 1.5",
-    "odds": "1.96"
+    "prediction": "Gremio Win",
+    "odds": "1.93"
   },
   {
     "id": 1535224,
@@ -68,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Millonarios",
     "awayTeam": "O'Higgins",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Millonarios Win",
+    "odds": "1.87"
   },
   {
     "id": 1535226,
@@ -78,7 +24,7 @@
     "homeTeam": "Palestino",
     "awayTeam": "Deportivo Riestra",
     "prediction": "Deportivo Riestra Win",
-    "odds": "2.66"
+    "odds": "1.71"
   },
   {
     "id": 1535231,
@@ -86,7 +32,61 @@
     "matchTime": "01:00",
     "homeTeam": "Sao Paulo",
     "awayTeam": "Boston River",
-    "prediction": "Boston River Win",
-    "odds": "2.32"
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1535323,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Lanus",
+    "awayTeam": "Mirassol",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
+  },
+  {
+    "id": 1535324,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "01:00",
+    "homeTeam": "LDU de Quito",
+    "awayTeam": "Always Ready",
+    "prediction": "Double Chance X2",
+    "odds": "1.28"
+  },
+  {
+    "id": 1546489,
+    "league": "Friendlies (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Colombia U20",
+    "awayTeam": "Costa Rica U20",
+    "prediction": "Both Teams To Score",
+    "odds": "2.03"
+  },
+  {
+    "id": 1499307,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "01:30",
+    "homeTeam": "Ituzaingó",
+    "awayTeam": "Deportivo Laferrere",
+    "prediction": "Ituzaingó Win",
+    "odds": "1.59"
+  },
+  {
+    "id": 1532419,
+    "league": "USL W League (USA)",
+    "matchTime": "01:30",
+    "homeTeam": "Port City NC W",
+    "awayTeam": "Wake W",
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
+  },
+  {
+    "id": 1545807,
+    "league": "Copa do Brasil U17 (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Atlético Mineiro U17",
+    "awayTeam": "Athletico PR U17",
+    "prediction": "Atlético Mineiro U17 Win",
+    "odds": "1.53"
   }
 ]
