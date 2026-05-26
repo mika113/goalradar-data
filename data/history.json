@@ -1,14 +1,62 @@
 [
   {
+    "id": 1545406,
+    "league": "2. Bundesliga (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "SpVgg Greuther Fürth",
+    "awayTeam": "Rot-Weiß Essen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499305,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Dock Sud",
+    "awayTeam": "Real Pilar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545487,
+    "league": "Goiano U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Inhumas U20",
+    "awayTeam": "Aparecidense U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526158,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Fluminense U20",
+    "awayTeam": "Cruzeiro U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1512431,
     "league": "Reserve League (Argentina)",
     "matchDate": "FT",
     "homeTeam": "San Martín San Juan Res.",
     "awayTeam": "Colón Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Colón Res. Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Racing Club Res.",
     "awayTeam": "Tigre Res.",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Racing Club Res. Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Huracán Res.",
     "awayTeam": "Ferro 2",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Huracán Res. Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +90,9 @@
     "homeTeam": "Estudiantes Rio Cuarto 2",
     "awayTeam": "Boca Juniors Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Boca Juniors Res. Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Argentinos Juniors Res.",
     "awayTeam": "Banfield Res.",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Argentinos Juniors Res. Win",
     "outcome": "Won"
   },
   {
@@ -93,54 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Gil Vicente U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529540,
-    "league": "1. Liga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Super Nova 2",
-    "awayTeam": "Valmiera / BSS",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1497582,
-    "league": "Superettan (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Orebro SK",
-    "awayTeam": "Helsingborg",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Helsingborg Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1497343,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Råde",
-    "awayTeam": "Sarpsborg 08 II",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Sarpsborg 08 II Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1496792,
-    "league": "3. Division - Girone 3 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Åsane II",
-    "awayTeam": "Gneist",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gneist Win",
     "outcome": "Won"
   }
 ]
