@@ -1,21 +1,12 @@
 [
   {
-    "id": 1545408,
-    "league": "Ligue 1 (France)",
-    "matchTime": "21:45",
-    "homeTeam": "Saint Etienne",
-    "awayTeam": "Nice",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
-  },
-  {
     "id": 1514455,
     "league": "Premier League (Barbados)",
     "matchTime": "02:00",
     "homeTeam": "UWI Blackbirds",
     "awayTeam": "St. Andrew Lions",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "prediction": "UWI Blackbirds Win",
+    "odds": "1.57"
   },
   {
     "id": 1514451,
@@ -23,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Wotton",
     "awayTeam": "Bagatelle",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
+    "prediction": "Bagatelle Win",
+    "odds": "1.67"
   },
   {
     "id": 1527980,
@@ -32,8 +23,8 @@
     "matchTime": "14:00",
     "homeTeam": "Altay",
     "awayTeam": "FC Astana",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "FC Astana Win",
+    "odds": "1.99"
   },
   {
     "id": 1543573,
@@ -41,16 +32,25 @@
     "matchTime": "15:00",
     "homeTeam": "Thimphu",
     "awayTeam": "Bhutan U19",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
+    "prediction": "Bhutan U19 Win",
+    "odds": "3.22"
   },
   {
-    "id": 1397281,
-    "league": "Primera División Femenina (Spain)",
-    "matchTime": "22:00",
-    "homeTeam": "Atletico Madrid W",
-    "awayTeam": "Granad. Tenerife W",
-    "prediction": "Granad. Tenerife W Win",
-    "odds": "2.69"
+    "id": 1508802,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Stjarnan",
+    "awayTeam": "Vikingur Reykjavik",
+    "prediction": "Stjarnan Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1508814,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "KR Reykjavik",
+    "awayTeam": "Valur Reykjavik",
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   }
 ]
