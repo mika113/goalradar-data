@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Always Ready",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Lanus",
     "awayTeam": "Mirassol",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lanus Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Sao Paulo",
     "awayTeam": "Boston River",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sao Paulo Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Palestino",
     "awayTeam": "Deportivo Riestra",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo Riestra Win",
     "outcome": "Won"
   },
   {
@@ -53,6 +53,66 @@
     "matchDate": "FT",
     "homeTeam": "Millonarios",
     "awayTeam": "O'Higgins",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "O'Higgins Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1535223,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchDate": "FT",
+    "homeTeam": "Gremio",
+    "awayTeam": "Atletico Torque",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525385,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Colorado ISA",
+    "awayTeam": "Real Colorado Foxes",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Colorado ISA Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1499302,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Merlo",
+    "awayTeam": "Liniers",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499300,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Comunicaciones",
+    "awayTeam": "UAI Urquiza",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499299,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Brown DE Adrogue",
+    "awayTeam": "Talleres Remedios",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -65,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Real Soacha",
     "awayTeam": "Águilas Doradas",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Águilas Doradas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo Pereira",
     "awayTeam": "Jaguares",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508814,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "KR Reykjavik",
-    "awayTeam": "Valur Reykjavik",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "KR Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508802,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Stjarnan",
-    "awayTeam": "Vikingur Reykjavik",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Vikingur Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1537937,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Uniclinic Atletico Clube",
-    "awayTeam": "Tirol/CEFAT",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Tirol/CEFAT Win",
+    "prediction": "Deportivo Pereira Win",
     "outcome": "Won"
   }
 ]
