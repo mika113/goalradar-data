@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Democrata GV",
     "awayTeam": "Porto BA",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Democrata GV Win",
     "outcome": "Won"
   },
   {
@@ -18,7 +18,7 @@
     "homeTeam": "Flamengo FBC W",
     "awayTeam": "U. de Deportes W",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "U. de Deportes W Win",
     "outcome": "Won"
@@ -92,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1526537,
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546034,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "FBC Melgar W",
     "awayTeam": "Atl. Andahuaylas W",
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 0,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Atl. Andahuaylas W Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
