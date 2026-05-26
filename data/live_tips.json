@@ -1,30 +1,12 @@
 [
   {
-    "id": 1515847,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "FS Jelgava",
-    "awayTeam": "FK Liepaja",
-    "prediction": "FS Jelgava Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1539749,
-    "league": "Friendlies (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Nigeria",
-    "awayTeam": "India",
-    "prediction": "Nigeria Win",
-    "odds": "1.89"
-  },
-  {
     "id": 1545108,
     "league": "Suomen Cup (Finland)",
     "matchTime": "18:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "Lahti",
-    "prediction": "Mariehamn Win",
-    "odds": "1.92"
+    "prediction": "Mariehamn Win & Over 1.5",
+    "odds": "2.28"
   },
   {
     "id": 1545110,
@@ -32,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "SJK Akatemia",
     "awayTeam": "SJK",
-    "prediction": "SJK Akatemia Win",
-    "odds": "1.73"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
   },
   {
     "id": 1545111,
@@ -41,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "VPS",
     "awayTeam": "Haka",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.01"
   },
   {
     "id": 1546010,
@@ -50,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Yanapuma W",
     "awayTeam": "Alianza Lima W",
-    "prediction": "Yanapuma W Win",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1545106,
@@ -59,8 +41,8 @@
     "matchTime": "18:30",
     "homeTeam": "Inter Turku",
     "awayTeam": "EBK",
-    "prediction": "Inter Turku Win",
-    "odds": "1.64"
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
   },
   {
     "id": 1545107,
@@ -68,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "JäPS",
     "awayTeam": "KuPS",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "prediction": "KuPS Win",
+    "odds": "2.43"
   },
   {
     "id": 1389110,
@@ -77,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Posušje",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "prediction": "Posušje Win",
+    "odds": "2.14"
   },
   {
     "id": 1389113,
@@ -87,6 +69,24 @@
     "homeTeam": "Sloga Doboj",
     "awayTeam": "Rudar Prijedor",
     "prediction": "Rudar Prijedor Win",
-    "odds": "2.8"
+    "odds": "2.91"
+  },
+  {
+    "id": 1495342,
+    "league": "Toppserien (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Brann W",
+    "awayTeam": "Lyn W",
+    "prediction": "Brann W Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1495343,
+    "league": "Toppserien (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "LSK Kvinner W",
+    "awayTeam": "Hønefoss W",
+    "prediction": "Hønefoss W Win",
+    "odds": "3.03"
   }
 ]
