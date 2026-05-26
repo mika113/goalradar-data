@@ -1,21 +1,12 @@
 [
   {
-    "id": 1543572,
-    "league": "Premier League (Bhutan)",
-    "matchTime": "15:00",
-    "homeTeam": "Thimphu City",
-    "awayTeam": "RTC",
-    "prediction": "Double Chance X2",
-    "odds": "1.34"
-  },
-  {
     "id": 1527600,
     "league": "Premier League (Kyrgyzstan)",
     "matchTime": "17:30",
     "homeTeam": "OshMU Aldier",
     "awayTeam": "Toktogul",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "OshMU Aldier Win",
+    "odds": "1.39"
   },
   {
     "id": 1545026,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Alashkert",
     "awayTeam": "Shirak",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.9"
+    "prediction": "Shirak Win",
+    "odds": "3.24"
   },
   {
     "id": 1545027,
@@ -33,7 +24,7 @@
     "homeTeam": "Ararat",
     "awayTeam": "BKMA",
     "prediction": "Ararat Win",
-    "odds": "1.85"
+    "odds": "1.82"
   },
   {
     "id": 1545408,
@@ -42,15 +33,24 @@
     "homeTeam": "Saint Etienne",
     "awayTeam": "Nice",
     "prediction": "Saint Etienne Win",
-    "odds": "1.42"
+    "odds": "1.74"
   },
   {
-    "id": 1534752,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "15:00",
-    "homeTeam": "Arys",
-    "awayTeam": "Sport Academy Kairat",
-    "prediction": "Sport Academy Kairat Win",
-    "odds": "2.08"
+    "id": 1507946,
+    "league": "National Soccer League (Rwanda)",
+    "matchTime": "16:00",
+    "homeTeam": "Gorilla",
+    "awayTeam": "Etincelles",
+    "prediction": "Gorilla Win",
+    "odds": "1.94"
+  },
+  {
+    "id": 1545261,
+    "league": "Friendlies (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Morocco",
+    "awayTeam": "Burundi",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   }
 ]
