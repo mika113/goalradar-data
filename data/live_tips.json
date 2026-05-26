@@ -1,21 +1,12 @@
 [
   {
-    "id": 1546511,
-    "league": "Friendlies (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Tunisia U18",
-    "awayTeam": "Germany U18",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
-  },
-  {
     "id": 1545106,
     "league": "Suomen Cup (Finland)",
     "matchTime": "18:30",
     "homeTeam": "Inter Turku",
     "awayTeam": "EBK",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.13"
   },
   {
     "id": 1545107,
@@ -23,8 +14,8 @@
     "matchTime": "18:30",
     "homeTeam": "JäPS",
     "awayTeam": "KuPS",
-    "prediction": "JäPS Win & Over 1.5",
-    "odds": "1.8"
+    "prediction": "Double Chance X2",
+    "odds": "1.79"
   },
   {
     "id": 1389110,
@@ -33,7 +24,7 @@
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Posušje",
     "prediction": "Borac Banja Luka Win",
-    "odds": "1.3"
+    "odds": "1.41"
   },
   {
     "id": 1389113,
@@ -41,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Sloga Doboj",
     "awayTeam": "Rudar Prijedor",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1495342,
@@ -51,7 +42,7 @@
     "homeTeam": "Brann W",
     "awayTeam": "Lyn W",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "odds": "1.73"
   },
   {
     "id": 1495343,
@@ -59,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "LSK Kvinner W",
     "awayTeam": "Hønefoss W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Double Chance X2",
+    "odds": "1.51"
   },
   {
     "id": 1495344,
@@ -68,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "Molde W",
     "awayTeam": "Rosenborg W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Rosenborg W Win",
+    "odds": "2.65"
   },
   {
     "id": 1495345,
@@ -77,8 +68,8 @@
     "matchTime": "19:00",
     "homeTeam": "Røa W",
     "awayTeam": "Fortuna Ålesund W",
-    "prediction": "Fortuna Ålesund W Win",
-    "odds": "2.84"
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
   },
   {
     "id": 1495346,
@@ -86,7 +77,16 @@
     "matchTime": "19:00",
     "homeTeam": "Stabæk W",
     "awayTeam": "Haugesund W",
-    "prediction": "Stabæk W Win",
-    "odds": "1.44"
+    "prediction": "Haugesund W Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1495347,
+    "league": "Toppserien (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Vålerenga W",
+    "awayTeam": "Bodø / Glimt W",
+    "prediction": "Vålerenga W Win",
+    "odds": "2.0"
   }
 ]
