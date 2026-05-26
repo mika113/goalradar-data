@@ -1,21 +1,12 @@
 [
   {
-    "id": 1546363,
-    "league": "Championnat D1 (Gabon)",
-    "matchTime": "17:30",
-    "homeTeam": "Mangasport",
-    "awayTeam": "Oyem AC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
-  },
-  {
     "id": 1546364,
     "league": "Championnat D1 (Gabon)",
     "matchTime": "17:30",
     "homeTeam": "Stade Migoveen",
     "awayTeam": "Cercle Mbéri",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
+    "prediction": "Cercle Mbéri Win",
+    "odds": "2.73"
   },
   {
     "id": 1546365,
@@ -24,7 +15,7 @@
     "homeTeam": "US Oyem",
     "awayTeam": "Bouenguidi",
     "prediction": "US Oyem Win",
-    "odds": "1.43"
+    "odds": "1.93"
   },
   {
     "id": 1515847,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "FS Jelgava",
     "awayTeam": "FK Liepaja",
-    "prediction": "FS Jelgava Win",
-    "odds": "1.45"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   },
   {
     "id": 1539749,
@@ -41,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nigeria",
     "awayTeam": "India",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Nigeria Win & Over 1.5",
+    "odds": "2.43"
   },
   {
     "id": 1545108,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "Lahti",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   },
   {
     "id": 1545110,
@@ -59,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "SJK Akatemia",
     "awayTeam": "SJK",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
+    "prediction": "SJK Akatemia Win",
+    "odds": "1.56"
   },
   {
     "id": 1545111,
@@ -69,6 +60,15 @@
     "homeTeam": "VPS",
     "awayTeam": "Haka",
     "prediction": "VPS Win",
-    "odds": "1.52"
+    "odds": "1.56"
+  },
+  {
+    "id": 1546010,
+    "league": "Liga Women (Peru)",
+    "matchTime": "18:00",
+    "homeTeam": "Yanapuma W",
+    "awayTeam": "Alianza Lima W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.94"
   }
 ]
