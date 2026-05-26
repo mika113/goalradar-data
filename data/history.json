@@ -1,14 +1,26 @@
 [
   {
+    "id": 1546277,
+    "league": "Premier Soccer League (South-Africa)",
+    "matchDate": "FT",
+    "homeTeam": "Cape Town City",
+    "awayTeam": "Milford FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1545600,
     "league": "Ethiopia Cup",
     "matchDate": "FT",
     "homeTeam": "Sidama Bunna",
     "awayTeam": "Ethiopian Medhin",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Sidama Bunna Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Banants II",
     "awayTeam": "Lernayin Artsakh",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Banants II Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1543572,
@@ -66,9 +78,9 @@
     "homeTeam": "Arys",
     "awayTeam": "Sport Academy Kairat",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sport Academy Kairat Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +90,9 @@
     "homeTeam": "Chengdu Rongcheng II",
     "awayTeam": "Guizhou Zhucheng",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Guizhou Zhucheng Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Italy U17",
     "awayTeam": "France U17",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Italy U17 Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Hubei Chufeng Heli Win",
-    "outcome": "Lost"
+    "prediction": "Langfang Glory City Win",
+    "outcome": "Won"
   },
   {
     "id": 1534751,
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Akademiya Ontustik",
     "awayTeam": "Kaspij Aktau 2",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Akademiya Ontustik Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Pamba Jiji",
     "awayTeam": "Tanzania Prisons",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Pamba Jiji Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534755,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Shakhter Karagandy",
-    "awayTeam": "Yelimay Semey 2",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Shakhter Karagandy Win",
+    "prediction": "Tanzania Prisons Win",
     "outcome": "Won"
   }
 ]
