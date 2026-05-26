@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1497582,
+    "league": "Superettan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Orebro SK",
+    "awayTeam": "Helsingborg",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1497343,
     "league": "3. Division - Girone 6 (Norway)",
     "matchDate": "FT",
@@ -22,6 +34,66 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1421913,
+    "league": "Primera División Femenina (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "FC Levante Badalona",
+    "awayTeam": "Real Madrid W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1397287,
+    "league": "Primera División Femenina (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Sevilla W",
+    "awayTeam": "Eibar W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1397286,
+    "league": "Primera División Femenina (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Granada",
+    "awayTeam": "Madrid CFF W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1397285,
+    "league": "Primera División Femenina (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Edf Logrono W",
+    "awayTeam": "Athletic Club W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1397280,
+    "league": "Primera División Femenina (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Alhama W",
+    "awayTeam": "Levante W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1512421,
@@ -57,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1545620,
@@ -69,66 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545109,
-    "league": "Suomen Cup (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Honka",
-    "awayTeam": "VJS",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Honka Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545104,
-    "league": "Suomen Cup (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "HJK Helsinki",
-    "awayTeam": "MyPa",
-    "homeScore": 6,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "HJK Helsinki Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1540164,
-    "league": "UEFA U17 Championship (World)",
-    "matchDate": "FT",
-    "homeTeam": "Montenegro U17",
-    "awayTeam": "Denmark U17",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515848,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "BFC Daugavpils",
-    "awayTeam": "Auda",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1497341,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Lyn II",
-    "awayTeam": "Drøbak / Frogn",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
