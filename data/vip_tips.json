@@ -1,21 +1,12 @@
 [
   {
-    "id": 1532738,
-    "league": "League Two (China)",
-    "matchTime": "14:30",
-    "homeTeam": "Langfang Glory City",
-    "awayTeam": "Hubei Chufeng Heli",
-    "prediction": "Langfang Glory City Win",
-    "odds": "1.98"
-  },
-  {
     "id": 1540163,
     "league": "UEFA U17 Championship (World)",
     "matchTime": "14:30",
     "homeTeam": "Italy U17",
     "awayTeam": "France U17",
     "prediction": "France U17 Win",
-    "odds": "3.22"
+    "odds": "3.2"
   },
   {
     "id": 1532739,
@@ -23,8 +14,8 @@
     "matchTime": "14:35",
     "homeTeam": "Chengdu Rongcheng II",
     "awayTeam": "Guizhou Zhucheng",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
   },
   {
     "id": 1534752,
@@ -32,8 +23,8 @@
     "matchTime": "15:00",
     "homeTeam": "Arys",
     "awayTeam": "Sport Academy Kairat",
-    "prediction": "Arys Win",
-    "odds": "1.79"
+    "prediction": "Sport Academy Kairat Win",
+    "odds": "2.07"
   },
   {
     "id": 1545247,
@@ -41,8 +32,8 @@
     "matchTime": "15:00",
     "homeTeam": "Andranik",
     "awayTeam": "Araks Ararat",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "Andranik Win",
+    "odds": "1.97"
   },
   {
     "id": 1545248,
@@ -51,7 +42,7 @@
     "homeTeam": "Banants II",
     "awayTeam": "Lernayin Artsakh",
     "prediction": "Banants II Win",
-    "odds": "1.73"
+    "odds": "1.8"
   },
   {
     "id": 1545249,
@@ -59,8 +50,8 @@
     "matchTime": "15:00",
     "homeTeam": "Van II",
     "awayTeam": "Pyunik II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
+    "prediction": "Pyunik II Win",
+    "odds": "3.17"
   },
   {
     "id": 1545600,
@@ -68,7 +59,16 @@
     "matchTime": "15:00",
     "homeTeam": "Sidama Bunna",
     "awayTeam": "Ethiopian Medhin",
+    "prediction": "Ethiopian Medhin Win",
+    "odds": "3.5"
+  },
+  {
+    "id": 1507946,
+    "league": "National Soccer League (Rwanda)",
+    "matchTime": "16:00",
+    "homeTeam": "Gorilla",
+    "awayTeam": "Etincelles",
     "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "odds": "1.86"
   }
 ]
