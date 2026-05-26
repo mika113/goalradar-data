@@ -12,11 +12,35 @@
     "outcome": "Won"
   },
   {
+    "id": 1545111,
+    "league": "Suomen Cup (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "VPS",
+    "awayTeam": "Haka",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "VPS Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1545110,
     "league": "Suomen Cup (Finland)",
     "matchDate": "FT",
     "homeTeam": "SJK Akatemia",
     "awayTeam": "SJK",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "SJK Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545108,
+    "league": "Suomen Cup (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "Mariehamn",
+    "awayTeam": "Lahti",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -33,6 +57,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545026,
+    "league": "Premier League (Armenia)",
+    "matchDate": "FT",
+    "homeTeam": "Alashkert",
+    "awayTeam": "Shirak",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Shirak Win",
     "outcome": "Lost"
   },
   {
@@ -41,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "FS Jelgava",
     "awayTeam": "FK Liepaja",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FS Jelgava Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +102,9 @@
     "homeTeam": "OshMU Aldier",
     "awayTeam": "Toktogul",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "OshMU Aldier Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Astana II",
     "awayTeam": "Khan Tengri",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Astana II Win",
     "outcome": "Won"
   },
   {
@@ -89,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Singida Black Stars",
     "awayTeam": "Mbeya City",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Singida Black Stars Win",
@@ -105,42 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Milford FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507946,
-    "league": "National Soccer League (Rwanda)",
-    "matchDate": "FT",
-    "homeTeam": "Gorilla",
-    "awayTeam": "Etincelles",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545600,
-    "league": "Ethiopia Cup",
-    "matchDate": "FT",
-    "homeTeam": "Sidama Bunna",
-    "awayTeam": "Ethiopian Medhin",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545249,
-    "league": "First League (Armenia)",
-    "matchDate": "FT",
-    "homeTeam": "Van II",
-    "awayTeam": "Pyunik II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
