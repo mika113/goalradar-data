@@ -1,66 +1,12 @@
 [
   {
-    "id": 1545106,
-    "league": "Suomen Cup (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "Inter Turku",
-    "awayTeam": "EBK",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
-  },
-  {
-    "id": 1545107,
-    "league": "Suomen Cup (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "JäPS",
-    "awayTeam": "KuPS",
-    "prediction": "Double Chance X2",
-    "odds": "1.79"
-  },
-  {
-    "id": 1389110,
-    "league": "Premijer Liga (Bosnia)",
-    "matchTime": "19:00",
-    "homeTeam": "Borac Banja Luka",
-    "awayTeam": "Posušje",
-    "prediction": "Borac Banja Luka Win",
-    "odds": "1.41"
-  },
-  {
-    "id": 1389113,
-    "league": "Premijer Liga (Bosnia)",
-    "matchTime": "19:00",
-    "homeTeam": "Sloga Doboj",
-    "awayTeam": "Rudar Prijedor",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
-  },
-  {
-    "id": 1495342,
-    "league": "Toppserien (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Brann W",
-    "awayTeam": "Lyn W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
-    "id": 1495343,
-    "league": "Toppserien (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "LSK Kvinner W",
-    "awayTeam": "Hønefoss W",
-    "prediction": "Double Chance X2",
-    "odds": "1.51"
-  },
-  {
     "id": 1495344,
     "league": "Toppserien (Norway)",
     "matchTime": "19:00",
     "homeTeam": "Molde W",
     "awayTeam": "Rosenborg W",
-    "prediction": "Rosenborg W Win",
-    "odds": "2.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1495345,
@@ -68,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Røa W",
     "awayTeam": "Fortuna Ålesund W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
+    "prediction": "Røa W Win",
+    "odds": "1.31"
   },
   {
     "id": 1495346,
@@ -77,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Stabæk W",
     "awayTeam": "Haugesund W",
-    "prediction": "Haugesund W Win",
-    "odds": "1.79"
+    "prediction": "Stabæk W Win",
+    "odds": "1.62"
   },
   {
     "id": 1495347,
@@ -86,7 +32,61 @@
     "matchTime": "19:00",
     "homeTeam": "Vålerenga W",
     "awayTeam": "Bodø / Glimt W",
-    "prediction": "Vålerenga W Win",
-    "odds": "2.0"
+    "prediction": "Bodø / Glimt W Win",
+    "odds": "2.26"
+  },
+  {
+    "id": 1496611,
+    "league": "3. Division - Girone 2 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Herd",
+    "awayTeam": "Aalesund II",
+    "prediction": "Herd Win & Over 1.5",
+    "odds": "1.86"
+  },
+  {
+    "id": 1496974,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Åkra",
+    "awayTeam": "Haugesund II",
+    "prediction": "Åkra Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1496975,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Brodd",
+    "awayTeam": "Odd II",
+    "prediction": "Double Chance X2",
+    "odds": "1.66"
+  },
+  {
+    "id": 1496979,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Staal Jørpeland",
+    "awayTeam": "Stabæk II",
+    "prediction": "Stabæk II Win",
+    "odds": "2.51"
+  },
+  {
+    "id": 1497161,
+    "league": "3. Division - Girone 5 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Strømsgodset II",
+    "awayTeam": "Lillestrøm II",
+    "prediction": "Strømsgodset II Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1497341,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Lyn II",
+    "awayTeam": "Drøbak / Frogn",
+    "prediction": "Lyn II Win",
+    "odds": "1.8"
   }
 ]
