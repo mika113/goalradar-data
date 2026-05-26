@@ -1,39 +1,12 @@
 [
   {
-    "id": 1537937,
-    "league": "Serie D (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Uniclinic Atletico Clube",
-    "awayTeam": "Tirol/CEFAT",
-    "prediction": "Tirol/CEFAT Win",
-    "odds": "1.96"
-  },
-  {
-    "id": 1508802,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Stjarnan",
-    "awayTeam": "Vikingur Reykjavik",
-    "prediction": "Vikingur Reykjavik Win",
-    "odds": "3.23"
-  },
-  {
-    "id": 1508814,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "KR Reykjavik",
-    "awayTeam": "Valur Reykjavik",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
-  },
-  {
     "id": 1544288,
     "league": "Copa Colombia",
     "matchTime": "23:30",
     "homeTeam": "Deportivo Pereira",
     "awayTeam": "Jaguares",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Deportivo Pereira Win",
+    "odds": "1.88"
   },
   {
     "id": 1544289,
@@ -42,7 +15,7 @@
     "homeTeam": "Real Soacha",
     "awayTeam": "Águilas Doradas",
     "prediction": "Real Soacha Win",
-    "odds": "1.4"
+    "odds": "1.85"
   },
   {
     "id": 1470807,
@@ -50,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Police",
     "awayTeam": "Kariobangi Sharks",
-    "prediction": "Police Win",
-    "odds": "1.37"
+    "prediction": "Kariobangi Sharks Win",
+    "odds": "2.37"
   },
   {
     "id": 1470808,
@@ -59,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Ulinzi Stars",
     "awayTeam": "Tusker",
-    "prediction": "Ulinzi Stars Win",
-    "odds": "1.7"
+    "prediction": "Double Chance X2",
+    "odds": "1.57"
   },
   {
     "id": 1470813,
@@ -68,7 +41,34 @@
     "matchTime": "01:00",
     "homeTeam": "Sofapaka",
     "awayTeam": "KCB",
-    "prediction": "KCB Win",
-    "odds": "2.29"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
+  },
+  {
+    "id": 1499299,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Brown DE Adrogue",
+    "awayTeam": "Talleres Remedios",
+    "prediction": "Talleres Remedios Win",
+    "odds": "2.89"
+  },
+  {
+    "id": 1499300,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Comunicaciones",
+    "awayTeam": "UAI Urquiza",
+    "prediction": "Comunicaciones Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1499302,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Deportivo Merlo",
+    "awayTeam": "Liniers",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
