@@ -12,6 +12,18 @@
     "outcome": "Lost"
   },
   {
+    "id": 1507946,
+    "league": "National Soccer League (Rwanda)",
+    "matchDate": "FT",
+    "homeTeam": "Gorilla",
+    "awayTeam": "Etincelles",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1545600,
     "league": "Ethiopia Cup",
     "matchDate": "FT",
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1543572,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Akademiya Ontustik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1477233,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchDate": "FT",
-    "homeTeam": "Pamba Jiji",
-    "awayTeam": "Tanzania Prisons",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Tanzania Prisons Win",
     "outcome": "Won"
   }
 ]
