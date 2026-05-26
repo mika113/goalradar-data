@@ -1,15 +1,27 @@
 [
   {
+    "id": 1477235,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Singida Black Stars",
+    "awayTeam": "Mbeya City",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Mbeya City Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1546277,
     "league": "Premier Soccer League (South-Africa)",
     "matchDate": "FT",
     "homeTeam": "Cape Town City",
     "awayTeam": "Milford FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Milford FC Win",
+    "outcome": "Won"
   },
   {
     "id": 1507946,
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545600,
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Andranik",
     "awayTeam": "Araks Ararat",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Andranik Win",
     "outcome": "Won"
   },
   {
@@ -90,7 +102,7 @@
     "homeTeam": "Arys",
     "awayTeam": "Sport Academy Kairat",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sport Academy Kairat Win",
     "outcome": "Won"
@@ -101,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Chengdu Rongcheng II",
     "awayTeam": "Guizhou Zhucheng",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Guizhou Zhucheng Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Langfang Glory City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534751,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Akademiya Ontustik",
-    "awayTeam": "Kaspij Aktau 2",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Akademiya Ontustik Win",
     "outcome": "Won"
   }
 ]
