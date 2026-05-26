@@ -1,5 +1,17 @@
 [
   {
+    "id": 1540946,
+    "league": "State Cup (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Beer Sheva",
+    "awayTeam": "Maccabi Tel Aviv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1506476,
     "league": "Meistaradeildin (Faroe-Islands)",
     "matchDate": "FT",
@@ -53,8 +65,8 @@
     "matchDate": "FT",
     "homeTeam": "Råde",
     "awayTeam": "Sarpsborg 08 II",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Råde Win",
     "outcome": "Won"
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Gneist Win",
-    "outcome": "Lost"
+    "prediction": "Åsane II Win",
+    "outcome": "Won"
   },
   {
     "id": 1421913,
@@ -116,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Edf Logrono W Win",
-    "outcome": "Lost"
+    "prediction": "Athletic Club W Win",
+    "outcome": "Won"
   },
   {
     "id": 1397280,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Levante W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1389114,
-    "league": "Premijer Liga (Bosnia)",
-    "matchDate": "FT",
-    "homeTeam": "Zrinjski",
-    "awayTeam": "Velež",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zrinjski Win",
     "outcome": "Won"
   }
 ]
