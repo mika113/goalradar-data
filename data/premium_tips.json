@@ -1,21 +1,12 @@
 [
   {
-    "id": 1477235,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchTime": "16:15",
-    "homeTeam": "Singida Black Stars",
-    "awayTeam": "Mbeya City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
     "id": 1534753,
     "league": "1. Division (Kazakhstan)",
     "matchTime": "17:00",
     "homeTeam": "Astana II",
     "awayTeam": "Khan Tengri",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "prediction": "Khan Tengri Win",
+    "odds": "1.61"
   },
   {
     "id": 1546363,
@@ -23,8 +14,8 @@
     "matchTime": "17:30",
     "homeTeam": "Mangasport",
     "awayTeam": "Oyem AC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
   },
   {
     "id": 1546364,
@@ -32,8 +23,8 @@
     "matchTime": "17:30",
     "homeTeam": "Stade Migoveen",
     "awayTeam": "Cercle Mbéri",
-    "prediction": "Stade Migoveen Win & Over 1.5",
-    "odds": "2.04"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.83"
   },
   {
     "id": 1546365,
@@ -41,8 +32,8 @@
     "matchTime": "17:30",
     "homeTeam": "US Oyem",
     "awayTeam": "Bouenguidi",
-    "prediction": "US Oyem Win",
-    "odds": "1.76"
+    "prediction": "US Oyem Win & Over 1.5",
+    "odds": "1.99"
   },
   {
     "id": 1515847,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "FS Jelgava",
     "awayTeam": "FK Liepaja",
-    "prediction": "FK Liepaja Win",
-    "odds": "1.86"
+    "prediction": "FS Jelgava Win",
+    "odds": "1.59"
   },
   {
     "id": 1539749,
@@ -59,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nigeria",
     "awayTeam": "India",
-    "prediction": "Nigeria Win & Over 1.5",
-    "odds": "2.3"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1545108,
@@ -68,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "Lahti",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.07"
+    "prediction": "Lahti Win",
+    "odds": "3.0"
   },
   {
     "id": 1545110,
@@ -78,7 +69,7 @@
     "homeTeam": "SJK Akatemia",
     "awayTeam": "SJK",
     "prediction": "SJK Win",
-    "odds": "1.86"
+    "odds": "2.62"
   },
   {
     "id": 1545111,
@@ -86,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "VPS",
     "awayTeam": "Haka",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "prediction": "Haka Win",
+    "odds": "2.64"
   },
   {
     "id": 1546010,
@@ -95,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "Yanapuma W",
     "awayTeam": "Alianza Lima W",
-    "prediction": "Alianza Lima W Win",
-    "odds": "1.95"
+    "prediction": "Yanapuma W Win & Over 1.5",
+    "odds": "2.46"
   },
   {
     "id": 1546492,
@@ -104,7 +95,16 @@
     "matchTime": "18:00",
     "homeTeam": "North Macedonia U19",
     "awayTeam": "Slovenia U18",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.74"
+    "prediction": "Slovenia U18 Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1546511,
+    "league": "Friendlies (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Tunisia U18",
+    "awayTeam": "Germany U18",
+    "prediction": "Germany U18 Win",
+    "odds": "3.21"
   }
 ]
