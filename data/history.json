@@ -6,9 +6,9 @@
     "homeTeam": "Ituzaingó",
     "awayTeam": "Deportivo Laferrere",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo Laferrere Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "LDU de Quito",
     "awayTeam": "Always Ready",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Always Ready Win",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Lanus Win",
-    "outcome": "Won"
+    "prediction": "Mirassol Win",
+    "outcome": "Lost"
   },
   {
     "id": 1535231,
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Palestino",
     "awayTeam": "Deportivo Riestra",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Deportivo Riestra Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -66,7 +66,7 @@
     "homeTeam": "Millonarios",
     "awayTeam": "O'Higgins",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "O'Higgins Win",
     "outcome": "Won"
@@ -78,69 +78,9 @@
     "homeTeam": "Gremio",
     "awayTeam": "Atletico Torque",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1525385,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Colorado ISA",
-    "awayTeam": "Real Colorado Foxes",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Colorado ISA Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1499302,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Deportivo Merlo",
-    "awayTeam": "Liniers",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1499300,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Comunicaciones",
-    "awayTeam": "UAI Urquiza",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1499299,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Brown DE Adrogue",
-    "awayTeam": "Talleres Remedios",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544289,
-    "league": "Copa Colombia",
-    "matchDate": "FT",
-    "homeTeam": "Real Soacha",
-    "awayTeam": "Águilas Doradas",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Atletico Torque Win",
     "outcome": "Won"
   }
 ]
