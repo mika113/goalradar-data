@@ -1,30 +1,12 @@
 [
   {
-    "id": 1389114,
-    "league": "Premijer Liga (Bosnia)",
-    "matchTime": "20:00",
-    "homeTeam": "Zrinjski",
-    "awayTeam": "Velež",
-    "prediction": "Velež Win",
-    "odds": "2.21"
-  },
-  {
-    "id": 1397280,
-    "league": "Primera División Femenina (Spain)",
-    "matchTime": "20:00",
-    "homeTeam": "Alhama W",
-    "awayTeam": "Levante W",
-    "prediction": "Alhama W Win",
-    "odds": "1.48"
-  },
-  {
     "id": 1397285,
     "league": "Primera División Femenina (Spain)",
     "matchTime": "20:00",
     "homeTeam": "Edf Logrono W",
     "awayTeam": "Athletic Club W",
-    "prediction": "Edf Logrono W Win",
-    "odds": "1.61"
+    "prediction": "Athletic Club W Win",
+    "odds": "3.38"
   },
   {
     "id": 1397286,
@@ -32,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Granada",
     "awayTeam": "Madrid CFF W",
-    "prediction": "Madrid CFF W Win",
-    "odds": "2.17"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1397287,
@@ -41,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Sevilla W",
     "awayTeam": "Eibar W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Sevilla W Win",
+    "odds": "1.77"
   },
   {
     "id": 1421913,
@@ -50,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "FC Levante Badalona",
     "awayTeam": "Real Madrid W",
-    "prediction": "FC Levante Badalona Win & Over 1.5",
-    "odds": "2.07"
+    "prediction": "Real Madrid W Win",
+    "odds": "1.67"
   },
   {
     "id": 1496792,
@@ -59,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Åsane II",
     "awayTeam": "Gneist",
-    "prediction": "Åsane II Win",
-    "odds": "1.57"
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
   },
   {
     "id": 1497343,
@@ -68,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Råde",
     "awayTeam": "Sarpsborg 08 II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Sarpsborg 08 II Win",
+    "odds": "3.37"
   },
   {
     "id": 1497582,
@@ -77,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Orebro SK",
     "awayTeam": "Helsingborg",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
+    "prediction": "Helsingborg Win",
+    "odds": "3.26"
   },
   {
     "id": 1529540,
@@ -86,7 +68,25 @@
     "matchTime": "20:00",
     "homeTeam": "Super Nova 2",
     "awayTeam": "Valmiera / BSS",
-    "prediction": "Valmiera / BSS Win",
-    "odds": "2.73"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
+  },
+  {
+    "id": 1546329,
+    "league": "Taça Revelação U23 (Portugal)",
+    "matchTime": "20:00",
+    "homeTeam": "Gil Vicente U23",
+    "awayTeam": "Santa Clara U23",
+    "prediction": "Santa Clara U23 Win",
+    "odds": "3.06"
+  },
+  {
+    "id": 1506476,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "B68",
+    "awayTeam": "HB Torshavn",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
   }
 ]
