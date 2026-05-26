@@ -1,5 +1,29 @@
 [
   {
+    "id": 1545107,
+    "league": "Suomen Cup (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "JäPS",
+    "awayTeam": "KuPS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545106,
+    "league": "Suomen Cup (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "Inter Turku",
+    "awayTeam": "EBK",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1546010,
     "league": "Liga Women (Peru)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1545111,
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545027,
@@ -68,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Shirak Win",
-    "outcome": "Lost"
+    "prediction": "Alashkert Win",
+    "outcome": "Won"
   },
   {
     "id": 1515847,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Astana II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1477235,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchDate": "FT",
-    "homeTeam": "Singida Black Stars",
-    "awayTeam": "Mbeya City",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Singida Black Stars Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546277,
-    "league": "Premier Soccer League (South-Africa)",
-    "matchDate": "FT",
-    "homeTeam": "Cape Town City",
-    "awayTeam": "Milford FC",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Milford FC Win",
     "outcome": "Won"
   }
 ]
