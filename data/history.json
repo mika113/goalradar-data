@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Fort Lauderdale Utd II W",
     "awayTeam": "Miami AC W",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Miami AC W Win",
-    "outcome": "Lost"
+    "prediction": "Fort Lauderdale Utd II W Win",
+    "outcome": "Won"
   },
   {
     "id": 1532047,
@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kalamazoo FC W Win",
-    "outcome": "Won"
+    "prediction": "Midwest United W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532046,
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Marin FC Siren W",
     "awayTeam": "California Storm II W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525386,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Lehigh Valley United",
+    "awayTeam": "Eagle FC",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -77,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Delaware FC",
     "awayTeam": "Lone Star II",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Sao Paulo Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1535226,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchDate": "FT",
-    "homeTeam": "Palestino",
-    "awayTeam": "Deportivo Riestra",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
