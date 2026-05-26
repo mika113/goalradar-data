@@ -8,8 +8,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "KR Reykjavik Win",
-    "outcome": "Won"
+    "prediction": "Valur Reykjavik Win",
+    "outcome": "Lost"
   },
   {
     "id": 1508802,
@@ -18,9 +18,9 @@
     "homeTeam": "Stjarnan",
     "awayTeam": "Vikingur Reykjavik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vikingur Reykjavik Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Atletico Madrid W",
     "awayTeam": "Granad. Tenerife W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Atletico Madrid W Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1545408,
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Barrancas UMET Win",
-    "outcome": "Won"
+    "prediction": "Ezeiza Win",
+    "outcome": "Lost"
   },
   {
     "id": 1545406,
@@ -89,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Nigeria",
     "awayTeam": "Zimbabwe",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Nigeria Win",
@@ -105,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1499305,
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo Camioneros",
     "awayTeam": "Villa San Carlos",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Deportivo Camioneros Win",
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo Armenio",
     "awayTeam": "Argentino de Merlo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo Armenio Win",
     "outcome": "Won"
   }
 ]
