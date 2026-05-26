@@ -1,21 +1,12 @@
 [
   {
-    "id": 1546364,
-    "league": "Championnat D1 (Gabon)",
-    "matchTime": "17:30",
-    "homeTeam": "Stade Migoveen",
-    "awayTeam": "Cercle Mbéri",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
     "id": 1546365,
     "league": "Championnat D1 (Gabon)",
     "matchTime": "17:30",
     "homeTeam": "US Oyem",
     "awayTeam": "Bouenguidi",
-    "prediction": "US Oyem Win",
-    "odds": "1.61"
+    "prediction": "US Oyem Win & Over 1.5",
+    "odds": "2.07"
   },
   {
     "id": 1515847,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "FS Jelgava",
     "awayTeam": "FK Liepaja",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "FS Jelgava Win",
+    "odds": "1.9"
   },
   {
     "id": 1539749,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nigeria",
     "awayTeam": "India",
-    "prediction": "Nigeria Win & Over 1.5",
-    "odds": "2.39"
+    "prediction": "Nigeria Win",
+    "odds": "1.46"
   },
   {
     "id": 1545108,
@@ -41,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "Lahti",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "prediction": "Lahti Win",
+    "odds": "1.83"
   },
   {
     "id": 1545110,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "SJK Akatemia",
     "awayTeam": "SJK",
-    "prediction": "SJK Akatemia Win",
-    "odds": "1.66"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1545111,
@@ -60,7 +51,7 @@
     "homeTeam": "VPS",
     "awayTeam": "Haka",
     "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "odds": "1.92"
   },
   {
     "id": 1546010,
@@ -68,7 +59,16 @@
     "matchTime": "18:00",
     "homeTeam": "Yanapuma W",
     "awayTeam": "Alianza Lima W",
-    "prediction": "Alianza Lima W Win",
-    "odds": "3.37"
+    "prediction": "Yanapuma W Win & Over 1.5",
+    "odds": "1.99"
+  },
+  {
+    "id": 1546492,
+    "league": "Friendlies (World)",
+    "matchTime": "18:00",
+    "homeTeam": "North Macedonia U19",
+    "awayTeam": "Slovenia U18",
+    "prediction": "Slovenia U18 Win",
+    "odds": "2.78"
   }
 ]
