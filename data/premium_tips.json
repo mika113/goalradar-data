@@ -1,30 +1,12 @@
 [
   {
-    "id": 1535329,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchTime": "03:30",
-    "homeTeam": "Universitario",
-    "awayTeam": "Deportes Tolima",
-    "prediction": "Universitario Win",
-    "odds": "1.67"
-  },
-  {
-    "id": 1545558,
-    "league": "Division di Honor (Aruba)",
-    "matchTime": "03:30",
-    "homeTeam": "Unistars",
-    "awayTeam": "Jong Aruba",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.86"
-  },
-  {
     "id": 1532421,
     "league": "USL W League (USA)",
     "matchTime": "04:00",
     "homeTeam": "Colorado ISA W",
     "awayTeam": "Real Colorado W",
     "prediction": "Colorado ISA W Win & Over 1.5",
-    "odds": "1.89"
+    "odds": "2.04"
   },
   {
     "id": 1524597,
@@ -32,8 +14,8 @@
     "matchTime": "04:30",
     "homeTeam": "Midlakes United",
     "awayTeam": "Bigfoot",
-    "prediction": "Midlakes United Win & Over 1.5",
-    "odds": "2.95"
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
   },
   {
     "id": 1532740,
@@ -42,7 +24,7 @@
     "homeTeam": "Dalian Yingbo B",
     "awayTeam": "Shandong Taishan II",
     "prediction": "Shandong Taishan II Win",
-    "odds": "2.82"
+    "odds": "3.27"
   },
   {
     "id": 1532741,
@@ -50,8 +32,8 @@
     "matchTime": "10:00",
     "homeTeam": "Xi'an Ronghai",
     "awayTeam": "Qingdao Red Lions",
-    "prediction": "Qingdao Red Lions Win",
-    "odds": "2.75"
+    "prediction": "Xi'an Ronghai Win",
+    "odds": "1.53"
   },
   {
     "id": 1546490,
@@ -59,8 +41,8 @@
     "matchTime": "10:00",
     "homeTeam": "Cyprus U19",
     "awayTeam": "Greece U19",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Cyprus U19 Win",
+    "odds": "1.5"
   },
   {
     "id": 1544100,
@@ -68,8 +50,8 @@
     "matchTime": "10:30",
     "homeTeam": "Stallion",
     "awayTeam": "Dynamic Herb Cebu",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "prediction": "Stallion Win & Over 1.5",
+    "odds": "2.97"
   },
   {
     "id": 1532742,
@@ -77,8 +59,8 @@
     "matchTime": "11:00",
     "homeTeam": "Changchun Xidu",
     "awayTeam": "BIT",
-    "prediction": "Changchun Xidu Win",
-    "odds": "1.88"
+    "prediction": "BIT Win",
+    "odds": "2.92"
   },
   {
     "id": 1532743,
@@ -86,8 +68,17 @@
     "matchTime": "11:00",
     "homeTeam": "Xiamen Feilu",
     "awayTeam": "Jiangxi Liansheng",
-    "prediction": "Double Chance X2",
-    "odds": "1.75"
+    "prediction": "Xiamen Feilu Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1546462,
+    "league": "Super League (Kenya)",
+    "matchTime": "11:00",
+    "homeTeam": "Mombasa Elite",
+    "awayTeam": "3K",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   },
   {
     "id": 1489614,
@@ -95,8 +86,8 @@
     "matchTime": "11:15",
     "homeTeam": "Hradec Králové II",
     "awayTeam": "Pardubice II",
-    "prediction": "Hradec Králové II Win",
-    "odds": "1.53"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1533719,
@@ -104,7 +95,16 @@
     "matchTime": "13:00",
     "homeTeam": "Gumi Sportstoto W",
     "awayTeam": "Gyeongju W",
-    "prediction": "Gyeongju W Win",
-    "odds": "2.9"
+    "prediction": "Double Chance X2",
+    "odds": "1.69"
+  },
+  {
+    "id": 1533720,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Seoul W",
+    "awayTeam": "Incheon Red Angels W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   }
 ]
