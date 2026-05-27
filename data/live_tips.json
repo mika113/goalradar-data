@@ -1,39 +1,12 @@
 [
   {
-    "id": 1546461,
-    "league": "Super League (Kenya)",
-    "matchTime": "15:00",
-    "homeTeam": "Migori Youth",
-    "awayTeam": "MCF",
-    "prediction": "Migori Youth Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1546463,
-    "league": "Super League (Kenya)",
-    "matchTime": "15:00",
-    "homeTeam": "Talanta",
-    "awayTeam": "Nzoia Sugar",
-    "prediction": "Nzoia Sugar Win",
-    "odds": "2.3"
-  },
-  {
-    "id": 1546464,
-    "league": "Super League (Kenya)",
-    "matchTime": "15:00",
-    "homeTeam": "Vihiga United FC",
-    "awayTeam": "Gucha Stars",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
-  },
-  {
     "id": 1527833,
     "league": "Second League A - Division A Gold (Russia)",
     "matchTime": "15:30",
     "homeTeam": "Torpedo Miass",
     "awayTeam": "Tekstilshchik",
     "prediction": "Torpedo Miass Win",
-    "odds": "1.73"
+    "odds": "1.68"
   },
   {
     "id": 1527836,
@@ -42,7 +15,7 @@
     "homeTeam": "Novosibirsk",
     "awayTeam": "Veles",
     "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "odds": "1.55"
   },
   {
     "id": 1538576,
@@ -50,8 +23,8 @@
     "matchTime": "15:30",
     "homeTeam": "Be Forward Wanderers",
     "awayTeam": "Karonga United",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
+    "prediction": "Karonga United Win",
+    "odds": "2.33"
   },
   {
     "id": 1470807,
@@ -59,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Police",
     "awayTeam": "Kariobangi Sharks",
-    "prediction": "Kariobangi Sharks Win",
-    "odds": "3.08"
+    "prediction": "Police Win",
+    "odds": "1.92"
   },
   {
     "id": 1470808,
@@ -69,7 +42,7 @@
     "homeTeam": "Ulinzi Stars",
     "awayTeam": "Tusker",
     "prediction": "Tusker Win",
-    "odds": "2.73"
+    "odds": "1.91"
   },
   {
     "id": 1495110,
@@ -77,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Nesebar",
     "awayTeam": "Asenovets",
-    "prediction": "Nesebar Win",
-    "odds": "1.43"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1512921,
@@ -86,7 +59,34 @@
     "matchTime": "16:00",
     "homeTeam": "Gazelle",
     "awayTeam": "Stade Renard",
-    "prediction": "Stade Renard Win",
-    "odds": "2.09"
+    "prediction": "Gazelle Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1521135,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "16:00",
+    "homeTeam": "Shahrdari Noshahr",
+    "awayTeam": "Pars Jonoubi JAM",
+    "prediction": "Shahrdari Noshahr Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 1527698,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchTime": "16:00",
+    "homeTeam": "Istiqlol",
+    "awayTeam": "CSKA Pomir",
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
+  },
+  {
+    "id": 1527699,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchTime": "16:00",
+    "homeTeam": "Regar-TadAZ",
+    "awayTeam": "Istaravshan",
+    "prediction": "Regar-TadAZ Win",
+    "odds": "1.57"
   }
 ]
