@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1532054,
@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Fort Lauderdale Utd II W",
     "awayTeam": "Miami AC W",
-    "homeScore": 4,
+    "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Fort Lauderdale Utd II W Win",
@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Midwest United W Win",
-    "outcome": "Lost"
+    "prediction": "Kalamazoo FC W Win",
+    "outcome": "Won"
   },
   {
     "id": 1532046,
@@ -42,9 +42,9 @@
     "homeTeam": "Marin FC Siren W",
     "awayTeam": "California Storm II W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "California Storm II W Win",
     "outcome": "Won"
   },
   {
@@ -53,6 +53,18 @@
     "matchDate": "FT",
     "homeTeam": "Lehigh Valley United",
     "awayTeam": "Eagle FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524602,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Tobacco Road",
+    "awayTeam": "North Carolina Fusion",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -102,7 +114,7 @@
     "homeTeam": "Ituzaingó",
     "awayTeam": "Deportivo Laferrere",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Deportivo Laferrere Win",
     "outcome": "Won"
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Always Ready",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "LDU de Quito Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Lanus Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1535231,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sao Paulo",
-    "awayTeam": "Boston River",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sao Paulo Win",
     "outcome": "Won"
   }
 ]
