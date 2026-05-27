@@ -5,7 +5,7 @@
     "matchDate": "FT",
     "homeTeam": "Midlakes United",
     "awayTeam": "Bigfoot",
-    "homeScore": 1,
+    "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Midlakes United Win",
@@ -18,10 +18,10 @@
     "homeTeam": "Colorado ISA W",
     "awayTeam": "Real Colorado W",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 6,
     "status": "FT",
-    "prediction": "Colorado ISA W Win",
-    "outcome": "Lost"
+    "prediction": "Real Colorado W Win",
+    "outcome": "Won"
   },
   {
     "id": 1545558,
@@ -30,10 +30,10 @@
     "homeTeam": "Unistars",
     "awayTeam": "Jong Aruba",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Jong Aruba Win",
+    "outcome": "Won"
   },
   {
     "id": 1535329,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Flamengo",
     "awayTeam": "Cusco",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Cusco Win",
+    "outcome": "Lost"
   },
   {
     "id": 1535319,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Estudiantes L.P.",
     "awayTeam": "Independiente Medellin",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Estudiantes L.P. Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Lonestar San Antonio W Win",
-    "outcome": "Won"
+    "prediction": "Challenge W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1524601,
