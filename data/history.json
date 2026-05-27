@@ -1,5 +1,17 @@
 [
   {
+    "id": 1524597,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Midlakes United",
+    "awayTeam": "Bigfoot",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1532421,
     "league": "USL W League (USA)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1535326,
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Coquimbo Unido Win",
-    "outcome": "Lost"
+    "prediction": "Club Nacional Win",
+    "outcome": "Won"
   },
   {
     "id": 1535320,
@@ -92,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Deportivo Recoleta Win",
-    "outcome": "Won"
+    "prediction": "San Lorenzo Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532336,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "McKinney Chupacabras Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532420,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "New England Mutiny W",
-    "awayTeam": "Vermont Green W",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
