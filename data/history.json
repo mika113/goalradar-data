@@ -1,14 +1,26 @@
 [
   {
+    "id": 1532421,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Colorado ISA W",
+    "awayTeam": "Real Colorado W",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Real Colorado W Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1545558,
     "league": "Division di Honor (Aruba)",
     "matchDate": "FT",
     "homeTeam": "Unistars",
     "awayTeam": "Jong Aruba",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1535326,
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Club Nacional Win",
-    "outcome": "Won"
+    "prediction": "Coquimbo Unido Win",
+    "outcome": "Lost"
   },
   {
     "id": 1535320,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1535230,
@@ -78,9 +90,9 @@
     "homeTeam": "San Lorenzo",
     "awayTeam": "Deportivo Recoleta",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo Recoleta Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Edgewater Castle W",
     "awayTeam": "River Light W",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Edgewater Castle W Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +114,9 @@
     "homeTeam": "Challenge W",
     "awayTeam": "Lonestar San Antonio W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lonestar San Antonio W Win",
     "outcome": "Won"
   },
   {
@@ -114,10 +126,10 @@
     "homeTeam": "Texoma",
     "awayTeam": "McKinney Chupacabras",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "McKinney Chupacabras Win",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1532420,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532054,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Fort Lauderdale Utd II W",
-    "awayTeam": "Miami AC W",
-    "homeScore": 12,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Fort Lauderdale Utd II W Win",
     "outcome": "Won"
   }
 ]
