@@ -1,5 +1,17 @@
 [
   {
+    "id": 1546342,
+    "league": "CAF Cup of Nations - U17 (World)",
+    "matchDate": "FT",
+    "homeTeam": "Morocco U17",
+    "awayTeam": "Senegal U17",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1528282,
     "league": "Friendlies (World)",
     "matchDate": "FT",
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1526160,
@@ -128,19 +140,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Talleres Córdoba Res. Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546301,
-    "league": "Iraqi League",
-    "matchDate": "FT",
-    "homeTeam": "Zakho",
-    "awayTeam": "Erbil",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Erbil Win",
-    "outcome": "Won"
+    "prediction": "Aldosivi Res. Win",
+    "outcome": "Lost"
   }
 ]
