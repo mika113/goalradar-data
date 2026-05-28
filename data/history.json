@@ -24,6 +24,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1544370,
+    "league": "Cup (Montenegro)",
+    "matchDate": "FT",
+    "homeTeam": "Dečić",
+    "awayTeam": "Mornar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1543816,
     "league": "Friendlies (World)",
     "matchDate": "FT",
@@ -116,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Zakho Win",
-    "outcome": "Lost"
+    "prediction": "Erbil Win",
+    "outcome": "Won"
   },
   {
     "id": 1546300,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Al-Qasim Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545621,
-    "league": "Svenska Cupen (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Assyriska FF",
-    "awayTeam": "Vasalund",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vasalund Win",
     "outcome": "Won"
   }
 ]
