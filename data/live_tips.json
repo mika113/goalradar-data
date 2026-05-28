@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525388,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Memphis 901",
-    "awayTeam": "Louisiana Krewe",
-    "prediction": "Memphis 901 Win",
-    "odds": "1.45"
-  },
-  {
     "id": 1532338,
     "league": "USL W League (USA)",
     "matchTime": "03:00",
     "homeTeam": "Rockford Raptors W",
     "awayTeam": "Minnesota Aurora W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Rockford Raptors W Win",
+    "odds": "1.61"
   },
   {
     "id": 1544606,
@@ -23,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Nacional AM",
     "awayTeam": "Paysandu",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
+    "prediction": "Nacional AM Win",
+    "odds": "1.74"
   },
   {
     "id": 1525738,
@@ -32,8 +23,8 @@
     "matchTime": "03:30",
     "homeTeam": "Orsomarso W",
     "awayTeam": "Junior W",
-    "prediction": "Junior W Win",
-    "odds": "3.27"
+    "prediction": "Orsomarso W Win & Over 1.5",
+    "odds": "2.36"
   },
   {
     "id": 1535218,
@@ -41,8 +32,8 @@
     "matchTime": "03:30",
     "homeTeam": "America de Cali",
     "awayTeam": "Macara",
-    "prediction": "Macara Win",
-    "odds": "1.96"
+    "prediction": "America de Cali Win",
+    "odds": "1.69"
   },
   {
     "id": 1535232,
@@ -50,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "Tigre",
     "awayTeam": "Alianza Atletico",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.92"
+    "prediction": "Double Chance X2",
+    "odds": "1.68"
   },
   {
     "id": 1535314,
@@ -60,7 +51,7 @@
     "homeTeam": "Boca Juniors",
     "awayTeam": "U. Catolica",
     "prediction": "Boca Juniors Win",
-    "odds": "1.75"
+    "odds": "1.42"
   },
   {
     "id": 1535318,
@@ -68,8 +59,8 @@
     "matchTime": "03:30",
     "homeTeam": "Cruzeiro",
     "awayTeam": "Barcelona SC",
-    "prediction": "Barcelona SC Win",
-    "odds": "1.94"
+    "prediction": "Cruzeiro Win",
+    "odds": "1.96"
   },
   {
     "id": 1524633,
@@ -77,8 +68,8 @@
     "matchTime": "04:00",
     "homeTeam": "Flatirons Rush",
     "awayTeam": "Colorado Storm",
-    "prediction": "Colorado Storm Win",
-    "odds": "2.08"
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
   },
   {
     "id": 1524637,
@@ -87,6 +78,15 @@
     "homeTeam": "San Antonio FC 2",
     "awayTeam": "Lonestar",
     "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "odds": "1.59"
+  },
+  {
+    "id": 1532067,
+    "league": "USL W League (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Colorado Storm W",
+    "awayTeam": "Albion Colorado W",
+    "prediction": "Albion Colorado W Win",
+    "odds": "2.1"
   }
 ]
