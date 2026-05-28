@@ -1,39 +1,12 @@
 [
   {
-    "id": 1542935,
-    "league": "Copa Ecuador",
-    "matchTime": "02:00",
-    "homeTeam": "El Nacional",
-    "awayTeam": "Universidad Catolica",
-    "prediction": "El Nacional Win",
-    "odds": "1.47"
-  },
-  {
-    "id": 1524636,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Patuxent",
-    "awayTeam": "Annapolis Blues",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
-  },
-  {
-    "id": 1524632,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Edgewater Castle",
-    "awayTeam": "Sueno",
-    "prediction": "Sueno Win",
-    "odds": "2.14"
-  },
-  {
     "id": 1524634,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "Houston FC",
     "awayTeam": "Laredo Heat",
-    "prediction": "Laredo Heat Win",
-    "odds": "3.35"
+    "prediction": "Houston FC Win & Over 1.5",
+    "odds": "2.19"
   },
   {
     "id": 1525388,
@@ -42,7 +15,7 @@
     "homeTeam": "Memphis 901",
     "awayTeam": "Louisiana Krewe",
     "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "odds": "2.07"
   },
   {
     "id": 1532338,
@@ -50,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Rockford Raptors W",
     "awayTeam": "Minnesota Aurora W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
+    "prediction": "Minnesota Aurora W Win",
+    "odds": "2.93"
   },
   {
     "id": 1544606,
@@ -59,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Nacional AM",
     "awayTeam": "Paysandu",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.94"
   },
   {
     "id": 1525738,
@@ -69,7 +42,7 @@
     "homeTeam": "Orsomarso W",
     "awayTeam": "Junior W",
     "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "odds": "2.2"
   },
   {
     "id": 1535218,
@@ -78,7 +51,7 @@
     "homeTeam": "America de Cali",
     "awayTeam": "Macara",
     "prediction": "America de Cali Win",
-    "odds": "1.57"
+    "odds": "1.8"
   },
   {
     "id": 1535232,
@@ -86,7 +59,34 @@
     "matchTime": "03:30",
     "homeTeam": "Tigre",
     "awayTeam": "Alianza Atletico",
-    "prediction": "Alianza Atletico Win",
-    "odds": "2.7"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
+  },
+  {
+    "id": 1535314,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Boca Juniors",
+    "awayTeam": "U. Catolica",
+    "prediction": "U. Catolica Win",
+    "odds": "3.11"
+  },
+  {
+    "id": 1535318,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Barcelona SC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
+  },
+  {
+    "id": 1524633,
+    "league": "USL League Two (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Flatirons Rush",
+    "awayTeam": "Colorado Storm",
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   }
 ]
