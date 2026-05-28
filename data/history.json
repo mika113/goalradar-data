@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Qatar Win",
-    "outcome": "Lost"
+    "prediction": "Rep. Of Ireland Win",
+    "outcome": "Won"
   },
   {
     "id": 1546512,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Russia Win",
-    "outcome": "Lost"
+    "prediction": "Egypt Win",
+    "outcome": "Won"
   },
   {
     "id": 1526160,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Corinthians U20",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Corinthians U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
