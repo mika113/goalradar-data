@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Casa Pia",
     "awayTeam": "Torreense",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Casa Pia Win",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Rep. Of Ireland Win",
-    "outcome": "Won"
+    "prediction": "Qatar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546512,
@@ -54,9 +54,9 @@
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Polonia Warszawa",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Wieczysta Kraków Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "Dečić",
     "awayTeam": "Mornar",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mornar Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Corinthians U20",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Corinthians U20 Win",
     "outcome": "Won"
   },
   {
@@ -102,7 +102,7 @@
     "homeTeam": "Unión Santa Fe Res.",
     "awayTeam": "Gimnasia Mendoza 2",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Gimnasia Mendoza 2 Win",
     "outcome": "Won"
@@ -126,7 +126,7 @@
     "homeTeam": "Lanús Res.",
     "awayTeam": "Platense Res.",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Platense Res. Win",
     "outcome": "Won"
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   }
 ]
