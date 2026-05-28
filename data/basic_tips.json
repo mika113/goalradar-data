@@ -1,21 +1,12 @@
 [
   {
-    "id": 1545404,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "22:00",
-    "homeTeam": "Casa Pia",
-    "awayTeam": "Torreense",
-    "prediction": "Casa Pia Win",
-    "odds": "1.73"
-  },
-  {
     "id": 1514454,
     "league": "Premier League (Barbados)",
     "matchTime": "02:00",
     "homeTeam": "Paradise",
     "awayTeam": "Kick Start",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1514452,
@@ -23,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Pride of Gall Hill",
     "awayTeam": "Weymouth Wales",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "prediction": "Pride of Gall Hill Win",
+    "odds": "1.7"
   },
   {
     "id": 1541079,
@@ -33,7 +24,7 @@
     "homeTeam": "Ethiopia Nigd Bank",
     "awayTeam": "Mebrat Hayl",
     "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "odds": "1.39"
   },
   {
     "id": 1543575,
@@ -41,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Tensung",
     "awayTeam": "Ugyen Academy",
-    "prediction": "Ugyen Academy Win",
-    "odds": "3.08"
+    "prediction": "Tensung Win",
+    "odds": "1.31"
   },
   {
     "id": 1541080,
@@ -50,7 +41,16 @@
     "matchTime": "15:00",
     "homeTeam": "Suhul Shire",
     "awayTeam": "Hadiya Hosaena",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
+  },
+  {
+    "id": 1546764,
+    "league": "Ligue 1 (Congo-DR)",
+    "matchTime": "15:00",
+    "homeTeam": "Céleste",
+    "awayTeam": "JSK",
+    "prediction": "Céleste Win",
+    "odds": "1.62"
   }
 ]
