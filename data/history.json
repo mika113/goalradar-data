@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546513,
@@ -17,6 +17,54 @@
     "matchDate": "FT",
     "homeTeam": "Mladost Ždralovi",
     "awayTeam": "Kustosija",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Kustosija Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1544803,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Iran",
+    "awayTeam": "Gambia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1541745,
+    "league": "Kakkonen - Lohko C (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "JBK",
+    "awayTeam": "Jaro 2",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1541693,
+    "league": "Kakkonen - Lohko C (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "Huima / Urho",
+    "awayTeam": "GBK",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1541611,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "PuiU Helsinki",
+    "awayTeam": "HIFK Helsinki",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -45,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1541498,
@@ -72,35 +120,23 @@
     "outcome": "Won"
   },
   {
-    "id": 1534220,
+    "id": 1539049,
+    "league": "Kansallinen Liiga (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "HPS W",
+    "awayTeam": "KuPS W",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "HPS W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1534222,
     "league": "First NL (Croatia)",
     "matchDate": "FT",
-    "homeTeam": "Opatija",
-    "awayTeam": "Karlovac 1919",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517180,
-    "league": "Ykkönen (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "KPV-j",
-    "awayTeam": "Inter Turku II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1504234,
-    "league": "Ykkösliiga (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Kooteepee",
-    "awayTeam": "SJK Akatemia",
+    "homeTeam": "Rudes",
+    "awayTeam": "Sesvete",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
