@@ -1,30 +1,12 @@
 [
   {
-    "id": 1527609,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Toktogul",
-    "awayTeam": "Asiagoal",
-    "prediction": "Toktogul Win",
-    "odds": "1.96"
-  },
-  {
-    "id": 1533659,
-    "league": "Premier League (Egypt)",
-    "matchTime": "17:00",
-    "homeTeam": "Masr",
-    "awayTeam": "Kahraba Ismailia",
-    "prediction": "Kahraba Ismailia Win",
-    "odds": "1.91"
-  },
-  {
     "id": 1533660,
     "league": "Premier League (Egypt)",
     "matchTime": "17:00",
     "homeTeam": "El Mokawloon",
     "awayTeam": "Future FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
+    "prediction": "El Mokawloon Win",
+    "odds": "1.46"
   },
   {
     "id": 1546763,
@@ -32,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Vita Club",
     "awayTeam": "TP Mazembe",
-    "prediction": "Vita Club Win",
-    "odds": "1.68"
+    "prediction": "TP Mazembe Win",
+    "odds": "3.03"
   },
   {
     "id": 1525883,
@@ -41,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Naftan",
     "awayTeam": "Torpedo Zhodino",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "prediction": "Naftan Win",
+    "odds": "1.47"
   },
   {
     "id": 1541082,
@@ -50,25 +32,43 @@
     "matchTime": "18:00",
     "homeTeam": "Fasil Ketema",
     "awayTeam": "Sheger Ketema",
-    "prediction": "Sheger Ketema Win",
-    "odds": "2.98"
+    "prediction": "Both Teams To Score",
+    "odds": "1.93"
   },
   {
-    "id": 1530966,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "15:00",
-    "homeTeam": "FarDu",
-    "awayTeam": "Olimpik-Mobiuz",
+    "id": 1488999,
+    "league": "Third League - Southwest (Bulgaria)",
+    "matchTime": "16:00",
+    "homeTeam": "Bansko",
+    "awayTeam": "Balkan Botevgrad",
     "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "odds": "1.56"
   },
   {
-    "id": 1530969,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "15:00",
-    "homeTeam": "Qiziriq",
-    "awayTeam": "Aral",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.15"
+    "id": 1489723,
+    "league": "3. liga - CFL A (Czech-Republic)",
+    "matchTime": "16:00",
+    "homeTeam": "Příbram II",
+    "awayTeam": "Slavia III",
+    "prediction": "Příbram II Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1536146,
+    "league": "Mineiro U20 (Brazil)",
+    "matchTime": "16:00",
+    "homeTeam": "Itabirito U20",
+    "awayTeam": "Uberabinha U20",
+    "prediction": "Uberabinha U20 Win",
+    "odds": "3.05"
+  },
+  {
+    "id": 1547724,
+    "league": "Primeira Divisão (Macao)",
+    "matchTime": "16:00",
+    "homeTeam": "Universidade de Macau",
+    "awayTeam": "CPK",
+    "prediction": "Universidade de Macau Win",
+    "odds": "1.97"
   }
 ]
