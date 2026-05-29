@@ -1,30 +1,12 @@
 [
   {
-    "id": 1517289,
-    "league": "Canadian Premier League (Canada)",
-    "matchTime": "02:00",
-    "homeTeam": "Supra du Quebec",
-    "awayTeam": "York United",
-    "prediction": "Supra du Quebec Win",
-    "odds": "1.31"
-  },
-  {
-    "id": 1524638,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "AFC Ann Arbor",
-    "awayTeam": "Union Macomb",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
-  },
-  {
     "id": 1524640,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "Delaware FC",
-    "prediction": "Ocean City Nor'easters Win",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
   },
   {
     "id": 1544287,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Leones FC",
     "awayTeam": "Independiente Medellin",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
+    "prediction": "Leones FC Win",
+    "odds": "1.39"
   },
   {
     "id": 1524642,
@@ -41,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Western Mass Pioneers",
     "awayTeam": "Connecticut Rush",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1532339,
@@ -50,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "Hartford Athletic W",
     "awayTeam": "Hudson Valley Crusaders W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Hartford Athletic W Win",
+    "odds": "1.54"
   },
   {
     "id": 1542928,
@@ -60,7 +42,7 @@
     "homeTeam": "Huaquillas",
     "awayTeam": "Leones del Norte",
     "prediction": "Huaquillas Win",
-    "odds": "1.67"
+    "odds": "1.38"
   },
   {
     "id": 1498575,
@@ -69,7 +51,7 @@
     "homeTeam": "Racing Cordoba",
     "awayTeam": "Ferro Carril Oeste",
     "prediction": "Racing Cordoba Win",
-    "odds": "1.67"
+    "odds": "1.65"
   },
   {
     "id": 1508442,
@@ -77,8 +59,8 @@
     "matchTime": "03:00",
     "homeTeam": "Racing Louisville W",
     "awayTeam": "Denver Summit W",
-    "prediction": "Racing Louisville W Win",
-    "odds": "1.31"
+    "prediction": "Racing Louisville W Win & Over 1.5",
+    "odds": "2.39"
   },
   {
     "id": 1520705,
@@ -86,8 +68,8 @@
     "matchTime": "03:00",
     "homeTeam": "Juventude",
     "awayTeam": "America Mineiro",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Juventude Win",
+    "odds": "1.83"
   },
   {
     "id": 1505458,
@@ -95,8 +77,8 @@
     "matchTime": "03:30",
     "homeTeam": "Universidad de Concepcion",
     "awayTeam": "Union La Calera",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1544283,
@@ -104,7 +86,25 @@
     "matchTime": "04:10",
     "homeTeam": "Depor FC",
     "awayTeam": "Millonarios",
+    "prediction": "Millonarios Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1513127,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Real Monarchs",
+    "awayTeam": "Sporting KC II",
+    "prediction": "Sporting KC II Win",
+    "odds": "2.07"
+  },
+  {
+    "id": 1524639,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Ballard",
+    "awayTeam": "Midlakes United",
     "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "odds": "1.45"
   }
 ]
