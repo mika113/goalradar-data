@@ -36,6 +36,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1517548,
+    "league": "New South Wales NPL (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Sydney FC U23",
+    "awayTeam": "Western Sydney Wanderers U23",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Western Sydney Wanderers U23 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1400630,
     "league": "Persha Liga (Ukraine)",
     "matchDate": "FT",
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Weymouth Wales Win",
-    "outcome": "Won"
+    "prediction": "Pride of Gall Hill Win",
+    "outcome": "Lost"
   },
   {
     "id": 1535318,
@@ -128,19 +140,7 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Cruzeiro Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1535314,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchDate": "FT",
-    "homeTeam": "Boca Juniors",
-    "awayTeam": "U. Catolica",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "U. Catolica Win",
-    "outcome": "Won"
+    "prediction": "Barcelona SC Win",
+    "outcome": "Lost"
   }
 ]
