@@ -1,75 +1,12 @@
 [
   {
-    "id": 1495105,
-    "league": "Third League - Southeast (Bulgaria)",
-    "matchTime": "18:00",
-    "homeTeam": "Atletik Kuklen",
-    "awayTeam": "Dimitrovgrad",
-    "prediction": "Atletik Kuklen Win",
-    "odds": "1.58"
-  },
-  {
-    "id": 1495109,
-    "league": "Third League - Southeast (Bulgaria)",
-    "matchTime": "18:00",
-    "homeTeam": "Maritsa Plovdiv",
-    "awayTeam": "Zagorets",
-    "prediction": "Zagorets Win",
-    "odds": "3.12"
-  },
-  {
-    "id": 1509133,
-    "league": "Erovnuli Liga (Georgia)",
-    "matchTime": "18:00",
-    "homeTeam": "Dila",
-    "awayTeam": "Samgurali",
-    "prediction": "Dila Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1515849,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "Riga",
-    "awayTeam": "Grobiņa",
-    "prediction": "Riga Win & Over 1.5",
-    "odds": "2.48"
-  },
-  {
-    "id": 1529729,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "18:00",
-    "homeTeam": "Babrungas",
-    "awayTeam": "Minija",
-    "prediction": "Babrungas Win & Over 1.5",
-    "odds": "2.13"
-  },
-  {
-    "id": 1539930,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "18:00",
-    "homeTeam": "Borac Cacak",
-    "awayTeam": "Stepojevac Vaga",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
-  },
-  {
-    "id": 1539931,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "18:00",
-    "homeTeam": "Dubočica",
-    "awayTeam": "Tekstilac Odžaci",
-    "prediction": "Dubočica Win & Over 1.5",
-    "odds": "1.81"
-  },
-  {
     "id": 1539932,
     "league": "Prva Liga (Serbia)",
     "matchTime": "18:00",
     "homeTeam": "FAP",
     "awayTeam": "Grafičar",
     "prediction": "FAP Win",
-    "odds": "1.94"
+    "odds": "1.8"
   },
   {
     "id": 1539933,
@@ -77,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Kabel Novi Sad",
     "awayTeam": "Dinamo Jug",
-    "prediction": "Dinamo Jug Win",
-    "odds": "3.06"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1539934,
@@ -86,7 +23,70 @@
     "matchTime": "18:00",
     "homeTeam": "FK Trayal",
     "awayTeam": "Semendrija 1924",
-    "prediction": "FK Trayal Win",
-    "odds": "1.56"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
+  },
+  {
+    "id": 1543818,
+    "league": "Friendlies (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Mexico W U17",
+    "awayTeam": "England U17",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
+  },
+  {
+    "id": 1546313,
+    "league": "Ligue 2 (Tunisia)",
+    "matchTime": "18:00",
+    "homeTeam": "ES Hammam-Sousse",
+    "awayTeam": "Progrès Sakiet Eddaïer",
+    "prediction": "ES Hammam-Sousse Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1411367,
+    "league": "III Liga - Group 4 (Poland)",
+    "matchTime": "18:30",
+    "homeTeam": "Pogoń-Sokół Lubaczów",
+    "awayTeam": "Star Starachowice",
+    "prediction": "Pogoń-Sokół Lubaczów Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1487446,
+    "league": "3. liga - MSFL (Czech-Republic)",
+    "matchTime": "18:30",
+    "homeTeam": "Frýdek-Místek",
+    "awayTeam": "Hodonín",
+    "prediction": "Frýdek-Místek Win",
+    "odds": "1.87"
+  },
+  {
+    "id": 1504233,
+    "league": "Ykkösliiga (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "Haka",
+    "awayTeam": "JIPPO",
+    "prediction": "Haka Win & Over 1.5",
+    "odds": "1.86"
+  },
+  {
+    "id": 1504234,
+    "league": "Ykkösliiga (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "Kooteepee",
+    "awayTeam": "SJK Akatemia",
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
+  },
+  {
+    "id": 1517179,
+    "league": "Ykkönen (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "PKKU",
+    "awayTeam": "KuPS Akatemia",
+    "prediction": "KuPS Akatemia Win",
+    "odds": "2.5"
   }
 ]
