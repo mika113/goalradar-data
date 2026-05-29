@@ -1,15 +1,123 @@
 [
   {
+    "id": 1546371,
+    "league": "Liga I (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Dinamo Bucuresti",
+    "awayTeam": "FCSB",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1545103,
+    "league": "Cup (Luxembourg)",
+    "matchDate": "FT",
+    "homeTeam": "FC Differdange 03",
+    "awayTeam": "Victoria Rosport",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525882,
+    "league": "Premier League (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "FC Minsk",
+    "awayTeam": "FC Isloch Minsk R.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1510589,
+    "league": "Division 2 - Norra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Vänersborgs FK",
+    "awayTeam": "Grebbestad",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1418136,
+    "league": "Regionalliga - Ost (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "Favoritner AC",
+    "awayTeam": "Gloggnitz",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545375,
+    "league": "AXA Women’s Super League (Switzerland)",
+    "matchDate": "FT",
+    "homeTeam": "Servette Chênois W",
+    "awayTeam": "Young Boys W",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Servette Chênois W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540532,
+    "league": "3. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Hørsholm-Usserød",
+    "awayTeam": "FA 2000",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540441,
+    "league": "2. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Naestved",
+    "awayTeam": "AB Copenhagen",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Naestved Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1540413,
     "league": "2. Division (Denmark)",
     "matchDate": "FT",
     "homeTeam": "Fremad Amager",
     "awayTeam": "Skive",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Skive Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1533662,
+    "league": "Premier League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Ghazl El Mehalla",
+    "awayTeam": "Haras El Hodood",
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Ghazl El Mehalla Win",
+    "outcome": "Won"
   },
   {
     "id": 1533658,
@@ -18,45 +126,9 @@
     "homeTeam": "National Bank of Egypt",
     "awayTeam": "Al Ittihad",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al Ittihad Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1522819,
-    "league": "A Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "FK Trakai",
-    "awayTeam": "Suduva Marijampole",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510592,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Skara",
-    "awayTeam": "IFK Skövde",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507169,
-    "league": "Erovnuli Liga 2 (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Aragvi Dusheti",
-    "awayTeam": "Merani Martvili",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
   }
 ]
