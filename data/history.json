@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Differdange 03",
     "awayTeam": "Victoria Rosport",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Differdange 03 Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1510944,
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Berga",
     "awayTeam": "Sölvesborg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Berga Win",
+    "outcome": "Won"
   },
   {
     "id": 1510590,
@@ -120,23 +120,23 @@
     "outcome": "Won"
   },
   {
+    "id": 1406644,
+    "league": "Oberliga - Rheinland-Pfalz / Saar (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Cosmos Koblenz",
+    "awayTeam": "TuS Koblenz",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1510589,
     "league": "Division 2 - Norra Götaland (Sweden)",
     "matchDate": "FT",
     "homeTeam": "Vänersborgs FK",
     "awayTeam": "Grebbestad",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1418136,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Favoritner AC",
-    "awayTeam": "Gloggnitz",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
