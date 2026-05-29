@@ -1,30 +1,12 @@
 [
   {
-    "id": 1544663,
-    "league": "Premier League (Kuwait)",
-    "matchTime": "19:20",
-    "homeTeam": "Al Shabab",
-    "awayTeam": "Al Tadhamon",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.04"
-  },
-  {
-    "id": 1544664,
-    "league": "Premier League (Kuwait)",
-    "matchTime": "19:20",
-    "homeTeam": "Al Qadsia",
-    "awayTeam": "Al Jahra",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.21"
-  },
-  {
     "id": 1533658,
     "league": "Premier League (Egypt)",
     "matchTime": "20:00",
     "homeTeam": "National Bank of Egypt",
     "awayTeam": "Al Ittihad",
     "prediction": "National Bank of Egypt Win",
-    "odds": "1.66"
+    "odds": "1.44"
   },
   {
     "id": 1533662,
@@ -32,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Ghazl El Mehalla",
     "awayTeam": "Haras El Hodood",
-    "prediction": "Ghazl El Mehalla Win",
-    "odds": "1.82"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1525882,
@@ -42,15 +24,33 @@
     "homeTeam": "FC Minsk",
     "awayTeam": "FC Isloch Minsk R.",
     "prediction": "FC Minsk Win",
-    "odds": "1.66"
+    "odds": "1.32"
   },
   {
-    "id": 1397953,
+    "id": 1397955,
     "league": "Regionalliga - Mitte (Austria)",
-    "matchTime": "19:30",
-    "homeTeam": "Deutschlandsberger SC",
-    "awayTeam": "Velden",
-    "prediction": "Deutschlandsberger SC Win",
-    "odds": "1.45"
+    "matchTime": "20:00",
+    "homeTeam": "Gleisdorf 09",
+    "awayTeam": "Ried II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
+  },
+  {
+    "id": 1397959,
+    "league": "Regionalliga - Mitte (Austria)",
+    "matchTime": "20:00",
+    "homeTeam": "SV Lafnitz",
+    "awayTeam": "Treibach",
+    "prediction": "SV Lafnitz Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1397960,
+    "league": "Regionalliga - Mitte (Austria)",
+    "matchTime": "20:00",
+    "homeTeam": "LASK Juniors",
+    "awayTeam": "St. Anna",
+    "prediction": "St. Anna Win",
+    "odds": "2.2"
   }
 ]
