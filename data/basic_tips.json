@@ -1,30 +1,12 @@
 [
   {
-    "id": 1542934,
-    "league": "Copa Ecuador",
-    "matchTime": "23:30",
-    "homeTeam": "Cde Juventud Italiana",
-    "awayTeam": "Tecnico Universitario",
-    "prediction": "Cde Juventud Italiana Win",
-    "odds": "1.7"
-  },
-  {
-    "id": 1543876,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "23:30",
-    "homeTeam": "Internacional U17",
-    "awayTeam": "Flamengo RJ U17",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
     "id": 1525732,
     "league": "Liga Femenina (Colombia)",
     "matchTime": "00:00",
     "homeTeam": "América de Cali W",
     "awayTeam": "Internacional Palmira W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Internacional Palmira W Win",
+    "odds": "1.86"
   },
   {
     "id": 1534047,
@@ -32,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "Halifax Tides W",
     "awayTeam": "Ottawa Rapid W",
-    "prediction": "Halifax Tides W Win",
-    "odds": "1.31"
+    "prediction": "Ottawa Rapid W Win",
+    "odds": "3.33"
   },
   {
     "id": 1544286,
@@ -41,8 +23,8 @@
     "matchTime": "00:00",
     "homeTeam": "Cucuta",
     "awayTeam": "Fortaleza FC",
-    "prediction": "Cucuta Win",
-    "odds": "1.66"
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   },
   {
     "id": 1505451,
@@ -50,7 +32,25 @@
     "matchTime": "01:00",
     "homeTeam": "Cobresal",
     "awayTeam": "Nublense",
-    "prediction": "Nublense Win",
-    "odds": "3.18"
+    "prediction": "Cobresal Win",
+    "odds": "1.77"
+  },
+  {
+    "id": 1541260,
+    "league": "Paulista Série B (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Santa Fé FC",
+    "awayTeam": "José Bonifácio",
+    "prediction": "Santa Fé FC Win",
+    "odds": "1.44"
+  },
+  {
+    "id": 1493842,
+    "league": "USL League One (USA)",
+    "matchTime": "01:30",
+    "homeTeam": "One Knoxville",
+    "awayTeam": "Greenville Triumph",
+    "prediction": "One Knoxville Win",
+    "odds": "1.61"
   }
 ]
