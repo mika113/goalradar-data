@@ -1,84 +1,12 @@
 [
   {
-    "id": 1541260,
-    "league": "Paulista Série B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Santa Fé FC",
-    "awayTeam": "José Bonifácio",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
-  },
-  {
-    "id": 1493842,
-    "league": "USL League One (USA)",
-    "matchTime": "01:30",
-    "homeTeam": "One Knoxville",
-    "awayTeam": "Greenville Triumph",
-    "prediction": "One Knoxville Win",
-    "odds": "1.86"
-  },
-  {
-    "id": 1537984,
-    "league": "Serie D (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "America-RN",
-    "awayTeam": "Central SC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
-  },
-  {
-    "id": 1546532,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Independiente F.b.c.",
-    "awayTeam": "12 de Junio VH",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
-  },
-  {
-    "id": 1546797,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Cerro Largo",
-    "awayTeam": "Cerro",
-    "prediction": "Cerro Largo Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1491521,
-    "league": "USL League One (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Forward Madison",
-    "awayTeam": "Corpus Christi",
-    "prediction": "Forward Madison Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1508441,
-    "league": "NWSL Women (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Orlando Pride W",
-    "awayTeam": "Bay FC W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
-    "id": 1513126,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Toronto II",
-    "awayTeam": "Philadelphia Union II",
-    "prediction": "Philadelphia Union II Win",
-    "odds": "1.99"
-  },
-  {
     "id": 1517289,
     "league": "Canadian Premier League (Canada)",
     "matchTime": "02:00",
     "homeTeam": "Supra du Quebec",
     "awayTeam": "York United",
     "prediction": "Supra du Quebec Win",
-    "odds": "1.73"
+    "odds": "1.42"
   },
   {
     "id": 1524638,
@@ -86,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "AFC Ann Arbor",
     "awayTeam": "Union Macomb",
-    "prediction": "Double Chance X2",
-    "odds": "1.36"
+    "prediction": "AFC Ann Arbor Win",
+    "odds": "1.97"
   },
   {
     "id": 1524640,
@@ -95,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "Delaware FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
+    "prediction": "Ocean City Nor'easters Win & Over 1.5",
+    "odds": "2.49"
   },
   {
     "id": 1544287,
@@ -104,7 +32,79 @@
     "matchTime": "02:00",
     "homeTeam": "Leones FC",
     "awayTeam": "Independiente Medellin",
-    "prediction": "Leones FC Win",
-    "odds": "1.82"
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1524642,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Western Mass Pioneers",
+    "awayTeam": "Connecticut Rush",
+    "prediction": "Western Mass Pioneers Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1532339,
+    "league": "USL W League (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Hartford Athletic W",
+    "awayTeam": "Hudson Valley Crusaders W",
+    "prediction": "Hartford Athletic W Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1542928,
+    "league": "Copa Ecuador",
+    "matchTime": "02:30",
+    "homeTeam": "Huaquillas",
+    "awayTeam": "Leones del Norte",
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
+  },
+  {
+    "id": 1498575,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "03:00",
+    "homeTeam": "Racing Cordoba",
+    "awayTeam": "Ferro Carril Oeste",
+    "prediction": "Racing Cordoba Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1508442,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Racing Louisville W",
+    "awayTeam": "Denver Summit W",
+    "prediction": "Racing Louisville W Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1520705,
+    "league": "Serie B (Brazil)",
+    "matchTime": "03:00",
+    "homeTeam": "Juventude",
+    "awayTeam": "America Mineiro",
+    "prediction": "Juventude Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1505458,
+    "league": "Primera División (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Universidad de Concepcion",
+    "awayTeam": "Union La Calera",
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
+  },
+  {
+    "id": 1544283,
+    "league": "Copa Colombia",
+    "matchTime": "04:10",
+    "homeTeam": "Depor FC",
+    "awayTeam": "Millonarios",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
   }
 ]
