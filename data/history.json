@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Olimpik-Mobiuz Win",
-    "outcome": "Lost"
+    "prediction": "FarDu Win",
+    "outcome": "Won"
   },
   {
     "id": 1523171,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Ningbo Professional",
     "awayTeam": "Nantong Zhiyun",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nantong Zhiyun Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -92,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Olympic Kingsway Win",
-    "outcome": "Won"
+    "prediction": "Dianella White Eagle Win",
+    "outcome": "Lost"
   },
   {
     "id": 1527067,
@@ -116,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1517773,
@@ -129,18 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Blacktown Spartans Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543575,
-    "league": "Premier League (Bhutan)",
-    "matchDate": "FT",
-    "homeTeam": "Tensung",
-    "awayTeam": "Ugyen Academy",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Ugyen Academy Win",
     "outcome": "Won"
   }
 ]
