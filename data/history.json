@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Garliava Win",
-    "outcome": "Won"
+    "prediction": "FA Šiauliai II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1496982,
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1397958,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Wolfsberger AC II",
     "awayTeam": "Kalsdorf",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Wolfsberger AC II Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Al Shabab",
     "awayTeam": "Al Tadhamon",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al Tadhamon Win",
     "outcome": "Won"
   },
   {
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Jezero",
     "awayTeam": "Iskra",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Jezero Win",
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   }
 ]
