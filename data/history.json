@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Keilor Park Win",
-    "outcome": "Won"
+    "prediction": "Kingston City Win",
+    "outcome": "Lost"
   },
   {
     "id": 1541311,
@@ -114,10 +114,10 @@
     "homeTeam": "Heidelberg United",
     "awayTeam": "Dandenong Thunder",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Heidelberg United Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1517548,
@@ -126,7 +126,7 @@
     "homeTeam": "Sydney FC U23",
     "awayTeam": "Western Sydney Wanderers U23",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Western Sydney Wanderers U23 Win",
     "outcome": "Won"
