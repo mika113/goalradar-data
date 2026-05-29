@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Shenyang Urban",
     "awayTeam": "SHANGHAI SIPG",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -18,10 +18,10 @@
     "homeTeam": "Montenegro U17",
     "awayTeam": "Italy U17",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Montenegro U17 Win",
-    "outcome": "Lost"
+    "prediction": "Italy U17 Win",
+    "outcome": "Won"
   },
   {
     "id": 1528617,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1528772,
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1527067,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "West Torrens Birkalla",
     "awayTeam": "Adelaide Comets",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "West Torrens Birkalla Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +102,9 @@
     "homeTeam": "Malvern",
     "awayTeam": "Box Hill",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Box Hill Win",
     "outcome": "Won"
   },
   {
