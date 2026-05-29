@@ -1,5 +1,17 @@
 [
   {
+    "id": 1545421,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Cham",
+    "awayTeam": "Greuther Fürth II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1540531,
     "league": "3. Division (Denmark)",
     "matchDate": "FT",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Garliava",
     "awayTeam": "FA Šiauliai II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Garliava Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Wolfsberger AC II",
     "awayTeam": "Kalsdorf",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wolfsberger AC II Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546530,
@@ -92,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Iskra Win",
-    "outcome": "Lost"
+    "prediction": "Jezero Win",
+    "outcome": "Won"
   },
   {
     "id": 1544356,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541612,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Union Plaani",
-    "awayTeam": "Kiffen",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Kiffen Win",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
