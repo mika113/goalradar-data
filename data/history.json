@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1508772,
@@ -17,8 +17,8 @@
     "matchDate": "FT",
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "Breidablik",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Fram Reykjavik Win",
     "outcome": "Won"
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545376,
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Cork City",
     "awayTeam": "Finn Harps",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Cork City Win",
@@ -128,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Cobh Ramblers Win",
-    "outcome": "Won"
+    "prediction": "Kerry Win",
+    "outcome": "Lost"
   },
   {
     "id": 1492905,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Bray Wanderers",
     "awayTeam": "Wexford",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bray Wanderers Win",
     "outcome": "Won"
   }
 ]
