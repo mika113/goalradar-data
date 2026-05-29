@@ -1,39 +1,12 @@
 [
   {
-    "id": 1541081,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "16:00",
-    "homeTeam": "Welayta Dicha",
-    "awayTeam": "Negelle Arsi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1546765,
-    "league": "Ligue 1 (Congo-DR)",
-    "matchTime": "16:00",
-    "homeTeam": "Don Bosco",
-    "awayTeam": "Simba",
-    "prediction": "Don Bosco Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1546766,
-    "league": "Ligue 1 (Congo-DR)",
-    "matchTime": "16:00",
-    "homeTeam": "Saint Eloi Lupopo",
-    "awayTeam": "Maniema Union",
-    "prediction": "Saint Eloi Lupopo Win",
-    "odds": "1.95"
-  },
-  {
     "id": 1527608,
     "league": "Premier League (Kyrgyzstan)",
     "matchTime": "17:00",
     "homeTeam": "Dordoi Bishkek",
     "awayTeam": "Ilbirs",
-    "prediction": "Ilbirs Win",
-    "odds": "3.47"
+    "prediction": "Dordoi Bishkek Win & Over 1.5",
+    "odds": "3.0"
   },
   {
     "id": 1527609,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Toktogul",
     "awayTeam": "Asiagoal",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Toktogul Win",
+    "odds": "1.75"
   },
   {
     "id": 1533659,
@@ -50,7 +23,34 @@
     "matchTime": "17:00",
     "homeTeam": "Masr",
     "awayTeam": "Kahraba Ismailia",
-    "prediction": "Masr Win",
-    "odds": "1.84"
+    "prediction": "Both Teams To Score",
+    "odds": "1.82"
+  },
+  {
+    "id": 1533660,
+    "league": "Premier League (Egypt)",
+    "matchTime": "17:00",
+    "homeTeam": "El Mokawloon",
+    "awayTeam": "Future FC",
+    "prediction": "Future FC Win",
+    "odds": "3.28"
+  },
+  {
+    "id": 1546763,
+    "league": "Ligue 1 (Congo-DR)",
+    "matchTime": "17:00",
+    "homeTeam": "Vita Club",
+    "awayTeam": "TP Mazembe",
+    "prediction": "Vita Club Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1525883,
+    "league": "Premier League (Belarus)",
+    "matchTime": "18:00",
+    "homeTeam": "Naftan",
+    "awayTeam": "Torpedo Zhodino",
+    "prediction": "Torpedo Zhodino Win",
+    "odds": "1.74"
   }
 ]
