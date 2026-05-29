@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Blacktown Spartans",
     "awayTeam": "Mt Druitt Town",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Blacktown Spartans Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Malvern",
     "awayTeam": "Box Hill",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Box Hill Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Adelaide Olympic",
     "awayTeam": "Fulham United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Adelaide Olympic Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Keilor Park",
     "awayTeam": "Kingston City",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kingston City Win",
-    "outcome": "Lost"
+    "prediction": "Keilor Park Win",
+    "outcome": "Won"
   },
   {
     "id": 1541311,
@@ -101,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Brunswick City",
     "awayTeam": "Manningham United Blues",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Brunswick City Win",
     "outcome": "Won"
@@ -113,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Heidelberg United",
     "awayTeam": "Dandenong Thunder",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Heidelberg United Win",
+    "outcome": "Won"
   },
   {
     "id": 1517548,
@@ -126,7 +126,7 @@
     "homeTeam": "Sydney FC U23",
     "awayTeam": "Western Sydney Wanderers U23",
     "homeScore": 0,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Western Sydney Wanderers U23 Win",
     "outcome": "Won"
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
