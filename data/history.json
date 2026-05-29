@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545103,
@@ -36,6 +36,90 @@
     "outcome": "Won"
   },
   {
+    "id": 1511314,
+    "league": "Division 2 - Västra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Hestrafor",
+    "awayTeam": "Böljan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1510944,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Berga",
+    "awayTeam": "Sölvesborg",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1510590,
+    "league": "Division 2 - Norra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Lidköping",
+    "awayTeam": "IF Karlstad II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1506615,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "EB / Streymur II",
+    "awayTeam": "HB II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1506479,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "Skála",
+    "awayTeam": "07 Vestur",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1418138,
+    "league": "Regionalliga - Ost (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "Krems / Rehberg",
+    "awayTeam": "Donau",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1418137,
+    "league": "Regionalliga - Ost (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "Wiener SC",
+    "awayTeam": "Leobendorf",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1510589,
     "league": "Division 2 - Norra Götaland (Sweden)",
     "matchDate": "FT",
@@ -45,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1418136,
@@ -57,78 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545375,
-    "league": "AXA Women’s Super League (Switzerland)",
-    "matchDate": "FT",
-    "homeTeam": "Servette Chênois W",
-    "awayTeam": "Young Boys W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Servette Chênois W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1540532,
-    "league": "3. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Hørsholm-Usserød",
-    "awayTeam": "FA 2000",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1540441,
-    "league": "2. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Naestved",
-    "awayTeam": "AB Copenhagen",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Naestved Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1540413,
-    "league": "2. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Fremad Amager",
-    "awayTeam": "Skive",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Skive Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1533662,
-    "league": "Premier League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "Ghazl El Mehalla",
-    "awayTeam": "Haras El Hodood",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Ghazl El Mehalla Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1533658,
-    "league": "Premier League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "National Bank of Egypt",
-    "awayTeam": "Al Ittihad",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Al Ittihad Win",
     "outcome": "Won"
   }
 ]
