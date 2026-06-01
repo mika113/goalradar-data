@@ -1,21 +1,12 @@
 [
   {
-    "id": 1546830,
-    "league": "Regionalliga - Promotion Play-offs (Germany)",
-    "matchTime": "19:30",
-    "homeTeam": "Würzburger Kickers",
-    "awayTeam": "Lokomotive Leipzig",
-    "prediction": "Lokomotive Leipzig Win",
-    "odds": "2.44"
-  },
-  {
     "id": 1504448,
     "league": "Ettan - Södra (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Skövde AIK",
     "awayTeam": "Jonkopings Sodra",
-    "prediction": "Jonkopings Sodra Win",
-    "odds": "2.98"
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
   },
   {
     "id": 1536927,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Norway",
     "awayTeam": "Sweden",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "prediction": "Norway Win",
+    "odds": "1.75"
   },
   {
     "id": 1545587,
@@ -32,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Wadi Degla",
     "awayTeam": "Enppi",
-    "prediction": "Wadi Degla Win",
-    "odds": "1.99"
+    "prediction": "Wadi Degla Win & Over 1.5",
+    "odds": "2.19"
   },
   {
     "id": 1505163,
@@ -41,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Arlanda",
     "awayTeam": "Gefle IF",
-    "prediction": "Arlanda Win & Over 1.5",
-    "odds": "2.04"
+    "prediction": "Gefle IF Win",
+    "odds": "3.12"
   },
   {
     "id": 1543821,
@@ -50,8 +41,8 @@
     "matchTime": "20:30",
     "homeTeam": "Türkiye",
     "awayTeam": "FYR Macedonia",
-    "prediction": "Türkiye Win",
-    "odds": "1.62"
+    "prediction": "FYR Macedonia Win",
+    "odds": "2.66"
   },
   {
     "id": 1545548,
@@ -59,8 +50,8 @@
     "matchTime": "20:30",
     "homeTeam": "FC Voluntari",
     "awayTeam": "AFC Hermannstadt",
-    "prediction": "AFC Hermannstadt Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1546305,
@@ -68,7 +59,7 @@
     "matchTime": "20:30",
     "homeTeam": "Al Najaf",
     "awayTeam": "Al Zawra'a",
-    "prediction": "Al Najaf Win",
+    "prediction": "Double Chance X2",
     "odds": "1.44"
   },
   {
@@ -77,8 +68,8 @@
     "matchTime": "20:30",
     "homeTeam": "Al Talaba",
     "awayTeam": "Al Karkh",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "Al Talaba Win",
+    "odds": "1.98"
   },
   {
     "id": 1546575,
@@ -87,6 +78,15 @@
     "homeTeam": "Jeunesse Canach",
     "awayTeam": "Résidence Walferdange",
     "prediction": "Jeunesse Canach Win",
-    "odds": "1.87"
+    "odds": "1.53"
+  },
+  {
+    "id": 1497348,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchTime": "21:00",
+    "homeTeam": "Lyn II",
+    "awayTeam": "Gjøvik-Lyn",
+    "prediction": "Lyn II Win & Over 1.5",
+    "odds": "2.21"
   }
 ]
