@@ -1,5 +1,17 @@
 [
   {
+    "id": 1497169,
+    "league": "3. Division - Girone 5 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Tromsø II",
+    "awayTeam": "Strømsgodset II",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1522118,
     "league": "Victoria NPL 2 (Australia)",
     "matchDate": "FT",
@@ -44,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Probiy Horodenka Win",
-    "outcome": "Lost"
+    "prediction": "Prykarpattia Win",
+    "outcome": "Won"
   },
   {
     "id": 1400648,
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "UCSA",
     "awayTeam": "Nyva Ternopil",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "UCSA Win",
@@ -68,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Inhulets Win",
-    "outcome": "Lost"
+    "prediction": "Livyi Bereh Win",
+    "outcome": "Won"
   },
   {
     "id": 1400645,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ahrobiznes Volochysk Win",
-    "outcome": "Won"
+    "prediction": "Chernihiv Win",
+    "outcome": "Lost"
   },
   {
     "id": 1400644,
@@ -116,8 +128,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vietnam U19 Win",
-    "outcome": "Won"
+    "prediction": "Timor-Leste U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532380,
@@ -129,18 +141,6 @@
     "awayScore": 6,
     "status": "FT",
     "prediction": "Los Angeles SC W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524696,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Albion Colorado",
-    "awayTeam": "Flatirons Rush",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Albion Colorado Win",
     "outcome": "Won"
   }
 ]
