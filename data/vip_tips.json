@@ -1,48 +1,12 @@
 [
   {
-    "id": 1534321,
-    "league": "1. Division (Belarus)",
-    "matchTime": "18:00",
-    "homeTeam": "Volna",
-    "awayTeam": "Niva",
-    "prediction": "Volna Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1546302,
-    "league": "Iraqi League",
-    "matchTime": "18:00",
-    "homeTeam": "Mosul",
-    "awayTeam": "Al-Qasim",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
-  },
-  {
-    "id": 1546303,
-    "league": "Iraqi League",
-    "matchTime": "18:00",
-    "homeTeam": "Naft",
-    "awayTeam": "Newroz",
-    "prediction": "Naft Win",
-    "odds": "1.5"
-  },
-  {
-    "id": 1546304,
-    "league": "Iraqi League",
-    "matchTime": "18:00",
-    "homeTeam": "Diyala",
-    "awayTeam": "Duhok",
-    "prediction": "Duhok Win",
-    "odds": "2.44"
-  },
-  {
     "id": 1496799,
     "league": "3. Division - Girone 3 (Norway)",
     "matchTime": "19:00",
     "homeTeam": "Brann II",
     "awayTeam": "Askøy",
-    "prediction": "Brann II Win",
-    "odds": "1.52"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.11"
   },
   {
     "id": 1496805,
@@ -50,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Vard",
     "awayTeam": "Åsane II",
-    "prediction": "Vard Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1519570,
@@ -59,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Elva",
     "awayTeam": "Tartu Welco",
-    "prediction": "Elva Win",
-    "odds": "1.31"
+    "prediction": "Tartu Welco Win",
+    "odds": "3.21"
   },
   {
     "id": 1519571,
@@ -68,7 +32,43 @@
     "matchTime": "19:00",
     "homeTeam": "Nõmme Kalju II",
     "awayTeam": "FC Tallinn",
+    "prediction": "Nõmme Kalju II Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1521615,
+    "league": "Esiliiga B (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Levadia U19",
+    "awayTeam": "Legion",
+    "prediction": "Levadia U19 Win",
+    "odds": "1.53"
+  },
+  {
+    "id": 1521616,
+    "league": "Esiliiga B (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Tallinna Kalev II",
+    "awayTeam": "Tartu Kalev",
     "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "odds": "1.69"
+  },
+  {
+    "id": 1521617,
+    "league": "Esiliiga B (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Luunja",
+    "awayTeam": "Parnu JK Vaprus U21",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
+  },
+  {
+    "id": 1542176,
+    "league": "Friendlies (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Montenegro",
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   }
 ]
