@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1400645,
@@ -81,6 +81,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ahrobiznes Volochysk Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1400644,
+    "league": "Persha Liga (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Chornomorets",
+    "awayTeam": "Metal Kharkiv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -101,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Vietnam U19",
     "awayTeam": "Timor-Leste U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Timor-Leste U19 Win",
-    "outcome": "Lost"
+    "prediction": "Vietnam U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1532380,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Albion Colorado Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546068,
-    "league": "Segunda División (Uruguay)",
-    "matchDate": "FT",
-    "homeTeam": "Oriental",
-    "awayTeam": "Tacuarembo",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Oriental Win",
     "outcome": "Won"
   }
 ]
