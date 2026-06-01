@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Diyala",
     "awayTeam": "Duhok",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Diyala Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Volna Win",
-    "outcome": "Won"
+    "prediction": "Niva Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534317,
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Molodechno-DYuSSh 4 Win",
-    "outcome": "Lost"
+    "prediction": "Dinamo Minsk II Win",
+    "outcome": "Won"
   },
   {
     "id": 1512920,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Masr Win",
-    "outcome": "Lost"
+    "prediction": "AL Masry Win",
+    "outcome": "Won"
   },
   {
     "id": 1534314,
@@ -90,7 +90,7 @@
     "homeTeam": "BATE II",
     "awayTeam": "Slonim",
     "homeScore": 2,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Slonim Win",
     "outcome": "Won"
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
