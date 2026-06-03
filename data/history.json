@@ -6,6 +6,30 @@
     "homeTeam": "Philippines U19",
     "awayTeam": "Australia U19",
     "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Australia U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546832,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Tanzania W",
+    "awayTeam": "Malawi W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546770,
+    "league": "Ligue 1 (Congo-DR)",
+    "matchDate": "FT",
+    "homeTeam": "TP Mazembe",
+    "awayTeam": "Simba",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -24,16 +48,40 @@
     "outcome": "Won"
   },
   {
+    "id": 1545459,
+    "league": "Tournoi Maurice Revello (World)",
+    "matchDate": "FT",
+    "homeTeam": "Japan U20",
+    "awayTeam": "Portugal U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531054,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Aral",
+    "awayTeam": "Pakhtakor II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1546768,
     "league": "Ligue 1 (Congo-DR)",
     "matchDate": "FT",
     "homeTeam": "Céleste",
     "awayTeam": "Vita Club",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Vita Club Win",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546554,
@@ -44,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Indonesia W Win",
-    "outcome": "Lost"
+    "prediction": "Singapore W Win",
+    "outcome": "Won"
   },
   {
     "id": 1545734,
@@ -54,9 +102,9 @@
     "homeTeam": "China W",
     "awayTeam": "Russia W",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Russia W Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Philippines",
     "awayTeam": "Guam",
-    "homeScore": 4,
+    "homeScore": 5,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Philippines Win",
