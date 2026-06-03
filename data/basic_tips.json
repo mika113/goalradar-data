@@ -1,12 +1,21 @@
 [
   {
+    "id": 1526547,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:00",
+    "homeTeam": "Atletico FC",
+    "awayTeam": "9 de Octubre",
+    "prediction": "Atletico FC Win",
+    "odds": "1.97"
+  },
+  {
     "id": 1545541,
     "league": "Botola Pro (Morocco)",
     "matchTime": "23:00",
     "homeTeam": "Raja Casablanca",
     "awayTeam": "Renaissance Berkane",
-    "prediction": "Raja Casablanca Win & Over 1.5",
-    "odds": "2.95"
+    "prediction": "Raja Casablanca Win",
+    "odds": "1.73"
   },
   {
     "id": 1542932,
@@ -14,8 +23,8 @@
     "matchTime": "23:30",
     "homeTeam": "Gualaceo SC",
     "awayTeam": "Mushuc Runa SC",
-    "prediction": "Gualaceo SC Win",
-    "odds": "1.81"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1524710,
@@ -23,8 +32,8 @@
     "matchTime": "00:00",
     "homeTeam": "Union Macomb",
     "awayTeam": "Midwest United",
-    "prediction": "Midwest United Win",
-    "odds": "3.15"
+    "prediction": "Union Macomb Win",
+    "odds": "1.61"
   },
   {
     "id": 1532097,
@@ -33,7 +42,7 @@
     "homeTeam": "Patuxent W",
     "awayTeam": "Northern Virginia FC W",
     "prediction": "Patuxent W Win",
-    "odds": "1.68"
+    "odds": "1.57"
   },
   {
     "id": 1532098,
@@ -42,15 +51,6 @@
     "homeTeam": "Capo W",
     "awayTeam": "OC Sporting W",
     "prediction": "Double Chance 1X",
-    "odds": "1.21"
-  },
-  {
-    "id": 1512438,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Boca Juniors Res.",
-    "awayTeam": "Defensa y Justicia Res.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "odds": "1.55"
   }
 ]
