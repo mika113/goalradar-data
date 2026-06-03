@@ -1,14 +1,26 @@
 [
   {
+    "id": 1524710,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Union Macomb",
+    "awayTeam": "Midwest United",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Union Macomb Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1542932,
     "league": "Copa Ecuador",
     "matchDate": "FT",
     "homeTeam": "Gualaceo SC",
     "awayTeam": "Mushuc Runa SC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Gualaceo SC Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Santa Clara U23 Win",
-    "outcome": "Lost"
+    "prediction": "Gil Vicente U23 Win",
+    "outcome": "Won"
   },
   {
     "id": 1540589,
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Luxembourg Win",
-    "outcome": "Lost"
+    "prediction": "Italy Win",
+    "outcome": "Won"
   },
   {
     "id": 1539431,
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Algeria Win",
-    "outcome": "Won"
+    "prediction": "Netherlands Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548293,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548291,
-    "league": "1. Liga Classic - Play-offs (Switzerland)",
-    "matchDate": "FT",
-    "homeTeam": "Courtételle",
-    "awayTeam": "YF Juventus",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Courtételle Win",
     "outcome": "Won"
   }
 ]
