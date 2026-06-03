@@ -1,30 +1,12 @@
 [
   {
-    "id": 1546832,
-    "league": "Friendlies Women (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Tanzania W",
-    "awayTeam": "Malawi W",
-    "prediction": "Tanzania W Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1547210,
-    "league": "ASEAN Championship U19 (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Philippines U19",
-    "awayTeam": "Australia U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
-  },
-  {
     "id": 1547523,
     "league": "Championnat D1 (Gabon)",
     "matchTime": "16:00",
     "homeTeam": "Dikaki",
     "awayTeam": "Oyem AC",
-    "prediction": "Oyem AC Win",
-    "odds": "2.12"
+    "prediction": "Double Chance X2",
+    "odds": "1.67"
   },
   {
     "id": 1512926,
@@ -32,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Dynamo de Douala",
     "awayTeam": "Gazelle",
-    "prediction": "Dynamo de Douala Win",
-    "odds": "1.67"
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   },
   {
     "id": 1512923,
@@ -41,8 +23,8 @@
     "matchTime": "17:30",
     "homeTeam": "Aigle Royal",
     "awayTeam": "Cotonsport",
-    "prediction": "Aigle Royal Win",
-    "odds": "1.56"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.28"
   },
   {
     "id": 1531056,
@@ -50,8 +32,8 @@
     "matchTime": "17:30",
     "homeTeam": "Gazalkent",
     "awayTeam": "Jayxun",
-    "prediction": "Gazalkent Win",
-    "odds": "1.63"
+    "prediction": "Jayxun Win",
+    "odds": "2.79"
   },
   {
     "id": 1545698,
@@ -59,8 +41,8 @@
     "matchTime": "17:30",
     "homeTeam": "Kyrgyzstan",
     "awayTeam": "Kenya",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "prediction": "Kenya Win",
+    "odds": "2.56"
   },
   {
     "id": 1547524,
@@ -69,7 +51,7 @@
     "homeTeam": "FC 105",
     "awayTeam": "Cercle Mbéri",
     "prediction": "FC 105 Win",
-    "odds": "1.4"
+    "odds": "1.58"
   },
   {
     "id": 1547525,
@@ -77,8 +59,8 @@
     "matchTime": "17:30",
     "homeTeam": "Stade Mandji",
     "awayTeam": "Bouenguidi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Stade Mandji Win",
+    "odds": "1.62"
   },
   {
     "id": 1489591,
@@ -86,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Teplice II",
     "awayTeam": "Arsenal Česká Lípa",
-    "prediction": "Arsenal Česká Lípa Win",
-    "odds": "1.7"
+    "prediction": "Teplice II Win",
+    "odds": "1.62"
   },
   {
     "id": 1512927,
@@ -95,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "Fortuna Mfou",
     "awayTeam": "Aigle Royal de Moungo",
-    "prediction": "Fortuna Mfou Win",
-    "odds": "1.86"
+    "prediction": "Aigle Royal de Moungo Win",
+    "odds": "2.99"
   },
   {
     "id": 1538897,
@@ -104,7 +86,25 @@
     "matchTime": "18:00",
     "homeTeam": "Greece U19",
     "awayTeam": "Serbia U19",
-    "prediction": "Greece U19 Win",
+    "prediction": "Greece U19 Win & Over 1.5",
     "odds": "1.83"
+  },
+  {
+    "id": 1538938,
+    "league": "UEFA U19 Championship - Qualification (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Montenegro U19",
+    "awayTeam": "Georgia U19",
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
+  },
+  {
+    "id": 1543520,
+    "league": "1st League - RS (Bosnia)",
+    "matchTime": "18:00",
+    "homeTeam": "Famos Vojkovići",
+    "awayTeam": "FK Romanija Pale",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
   }
 ]
