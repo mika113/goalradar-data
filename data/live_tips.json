@@ -1,75 +1,12 @@
 [
   {
-    "id": 1418144,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "20:00",
-    "homeTeam": "Mannsdorf-Großenzersdorf",
-    "awayTeam": "Fach-Donaufeld",
-    "prediction": "Mannsdorf-Großenzersdorf Win",
-    "odds": "1.49"
-  },
-  {
-    "id": 1465494,
-    "league": "Landesliga - Vorarlbergliga (Austria)",
-    "matchTime": "20:00",
-    "homeTeam": "Bizau",
-    "awayTeam": "Göfis",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
-    "id": 1465500,
-    "league": "Landesliga - Vorarlbergliga (Austria)",
-    "matchTime": "20:00",
-    "homeTeam": "Lochau",
-    "awayTeam": "Austria Lustenau II",
-    "prediction": "Lochau Win & Over 1.5",
-    "odds": "2.06"
-  },
-  {
-    "id": 1496648,
-    "league": "3. Division - Girone 2 (Norway)",
-    "matchTime": "20:00",
-    "homeTeam": "NTNUI",
-    "awayTeam": "Kvik Trondheim",
-    "prediction": "NTNUI Win",
-    "odds": "1.31"
-  },
-  {
-    "id": 1504446,
-    "league": "Ettan - Södra (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Olympic",
-    "awayTeam": "Lund",
-    "prediction": "Olympic Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1515742,
-    "league": "Division 2 - Norrland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "IFK Umeå",
-    "awayTeam": "Täfteå",
-    "prediction": "Täfteå Win",
-    "odds": "2.02"
-  },
-  {
-    "id": 1515744,
-    "league": "Division 2 - Norrland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Umeå FC Akademi",
-    "awayTeam": "IFK Luleå",
-    "prediction": "Umeå FC Akademi Win",
-    "odds": "1.96"
-  },
-  {
     "id": 1545266,
     "league": "Friendlies (World)",
     "matchTime": "20:00",
     "homeTeam": "Gibraltar",
     "awayTeam": "British Virgin Islands",
-    "prediction": "Gibraltar Win",
-    "odds": "1.72"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1545625,
@@ -77,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Högaborg",
     "awayTeam": "IFK Trelleborg",
-    "prediction": "Double Chance X2",
-    "odds": "1.43"
+    "prediction": "Högaborg Win & Over 1.5",
+    "odds": "2.05"
   },
   {
     "id": 1545628,
@@ -86,7 +23,70 @@
     "matchTime": "20:00",
     "homeTeam": "Viggbyholms IK",
     "awayTeam": "Sollentuna",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
+  },
+  {
+    "id": 1545645,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Hovshaga",
+    "awayTeam": "Växjö Norra",
+    "prediction": "Hovshaga Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1545646,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Ostra Ersboda",
+    "awayTeam": "Piteå",
+    "prediction": "Ostra Ersboda Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1547199,
+    "league": "Serie C - Promotion - Play-offs (Italy)",
+    "matchTime": "20:00",
+    "homeTeam": "Union Brescia",
+    "awayTeam": "Ascoli",
+    "prediction": "Union Brescia Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1548195,
+    "league": "U21 Divisie 1 (Netherlands)",
+    "matchTime": "20:00",
+    "homeTeam": "Groningen U21",
+    "awayTeam": "De Graafschap U21",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
+  },
+  {
+    "id": 1548284,
+    "league": "Oberliga - Promotion Round (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Blumenthaler SV",
+    "awayTeam": "Germania Egestorf",
+    "prediction": "Blumenthaler SV Win & Over 1.5",
+    "odds": "1.82"
+  },
+  {
+    "id": 1548285,
+    "league": "Oberliga - Promotion Round (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Eimsbütteler TV",
+    "awayTeam": "Todesfelde",
+    "prediction": "Todesfelde Win",
+    "odds": "2.89"
+  },
+  {
+    "id": 1545629,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:15",
+    "homeTeam": "Forssa",
+    "awayTeam": "Franke",
+    "prediction": "Forssa Win & Over 1.5",
+    "odds": "1.94"
   }
 ]
