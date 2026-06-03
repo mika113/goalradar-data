@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Céleste",
     "awayTeam": "Vita Club",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Céleste Win",
     "outcome": "Won"
   },
   {
@@ -20,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Singapore W Win",
-    "outcome": "Won"
+    "prediction": "Indonesia W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1545734,
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "China W",
     "awayTeam": "Russia W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1545697,
@@ -41,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Philippines",
     "awayTeam": "Guam",
-    "homeScore": 3,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Philippines Win",
     "outcome": "Won"
@@ -70,77 +70,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1546831,
-    "league": "Friendlies Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Myanmar W",
-    "awayTeam": "Uzbekistan W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Uzbekistan W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524032,
-    "league": "Queensland NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Rochedale Rovers",
-    "awayTeam": "Magic United",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rochedale Rovers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1537432,
-    "league": "Capital Territory NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Belconnen United",
-    "awayTeam": "Tuggeranong United",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Tuggeranong United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524145,
-    "league": "Queensland Premier League (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "SC Wanderers",
-    "awayTeam": "St George Willawong",
-    "homeScore": 8,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "SC Wanderers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538898,
-    "league": "UEFA U19 Championship - Qualification (World)",
-    "matchDate": "FT",
-    "homeTeam": "Portugal U19",
-    "awayTeam": "Kazakhstan U19",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524703,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Bangers",
-    "awayTeam": "Midlakes United",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Midlakes United Win",
-    "outcome": "Lost"
   }
 ]
