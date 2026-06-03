@@ -8,8 +8,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Gil Vicente U23 Win",
-    "outcome": "Won"
+    "prediction": "Santa Clara U23 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1540589,
@@ -18,10 +18,10 @@
     "homeTeam": "Luxembourg",
     "awayTeam": "Italy",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Luxembourg Win",
+    "outcome": "Lost"
   },
   {
     "id": 1539431,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Portugal U21",
     "awayTeam": "Northern Ireland U21",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Portugal U21 Win",
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Berazategui Win",
-    "outcome": "Lost"
+    "prediction": "Sacachispas Win",
+    "outcome": "Won"
   },
   {
     "id": 1548292,
@@ -102,7 +102,7 @@
     "homeTeam": "ADO '20",
     "awayTeam": "Ijsselmeervogels",
     "homeScore": 0,
-    "awayScore": 6,
+    "awayScore": 7,
     "status": "FT",
     "prediction": "Ijsselmeervogels Win",
     "outcome": "Won"
@@ -125,22 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Ittihad Tanger",
     "awayTeam": "Wydad AC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544581,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Farroupilha",
-    "awayTeam": "Guarany de Bagé",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Farroupilha Win",
+    "prediction": "Ittihad Tanger Win",
     "outcome": "Won"
   }
 ]
