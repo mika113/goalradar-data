@@ -1,12 +1,21 @@
 [
   {
+    "id": 1512438,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Boca Juniors Res.",
+    "awayTeam": "Defensa y Justicia Res.",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
     "id": 1524709,
     "league": "USL League Two (USA)",
     "matchTime": "01:00",
     "homeTeam": "Chicago Dutch Lions",
     "awayTeam": "Rochester",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Rochester Win",
+    "odds": "3.35"
   },
   {
     "id": 1524712,
@@ -14,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Inter Gainesville",
     "awayTeam": "Shark Coast",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Inter Gainesville Win",
+    "odds": "1.43"
   },
   {
     "id": 1524713,
@@ -23,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Miami",
     "awayTeam": "Weston",
-    "prediction": "Miami Win",
-    "odds": "1.82"
+    "prediction": "Weston Win",
+    "odds": "3.46"
   },
   {
     "id": 1524714,
@@ -32,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Northern Indiana",
     "awayTeam": "Louisville City II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "prediction": "Northern Indiana Win",
+    "odds": "1.91"
   },
   {
     "id": 1524715,
@@ -41,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Pittsburgh Riverhounds 2",
     "awayTeam": "Buffalo",
-    "prediction": "Pittsburgh Riverhounds 2 Win",
-    "odds": "1.55"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1524717,
@@ -51,7 +60,7 @@
     "homeTeam": "Staten Island Athletic",
     "awayTeam": "Manhattan",
     "prediction": "Manhattan Win",
-    "odds": "1.62"
+    "odds": "1.98"
   },
   {
     "id": 1532099,
@@ -59,16 +68,7 @@
     "matchTime": "01:00",
     "homeTeam": "Brevard Riptide W",
     "awayTeam": "Fort Lauderdale Utd II W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
-  },
-  {
-    "id": 1538374,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "01:00",
-    "homeTeam": "Gualberto Villarroel SJ",
-    "awayTeam": "Real Tomayapo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "prediction": "Brevard Riptide W Win",
+    "odds": "2.0"
   }
 ]
