@@ -6,7 +6,7 @@
     "homeTeam": "Union Macomb",
     "awayTeam": "Midwest United",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Midwest United Win",
     "outcome": "Won"
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Mushuc Runa SC Win",
-    "outcome": "Lost"
+    "prediction": "Gualaceo SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1545541,
@@ -30,9 +30,9 @@
     "homeTeam": "Raja Casablanca",
     "awayTeam": "Renaissance Berkane",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Raja Casablanca Win",
     "outcome": "Lost"
   },
   {
@@ -93,54 +93,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Algeria Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548293,
-    "league": "1. Liga Classic - Play-offs (Switzerland)",
-    "matchDate": "FT",
-    "homeTeam": "Amical Saint-Prex",
-    "awayTeam": "Grasshopper II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545267,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Portugal U21",
-    "awayTeam": "Northern Ireland U21",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Portugal U21 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1499926,
-    "league": "Primera C (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Sacachispas",
-    "awayTeam": "Berazategui",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sacachispas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548292,
-    "league": "1. Liga Classic - Play-offs (Switzerland)",
-    "matchDate": "FT",
-    "homeTeam": "Taverne",
-    "awayTeam": "Servette II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
