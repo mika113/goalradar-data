@@ -1,93 +1,12 @@
 [
   {
-    "id": 1524720,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Appalachian",
-    "awayTeam": "North Carolina II",
-    "prediction": "Appalachian Win",
-    "odds": "1.88"
-  },
-  {
-    "id": 1524722,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Black Rock",
-    "awayTeam": "Western Mass Pioneers",
-    "prediction": "Double Chance X2",
-    "odds": "1.44"
-  },
-  {
-    "id": 1524723,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Brevard",
-    "awayTeam": "Inter Miami II",
-    "prediction": "Brevard Win",
-    "odds": "1.69"
-  },
-  {
-    "id": 1524724,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Charlotte Eagles",
-    "awayTeam": "Tobacco Road",
-    "prediction": "Charlotte Eagles Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1524725,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Charlotte Independence 2",
-    "awayTeam": "Asheville City",
-    "prediction": "Asheville City Win",
-    "odds": "2.5"
-  },
-  {
-    "id": 1524726,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Dayton Dutch Lions",
-    "awayTeam": "Toledo Villa",
-    "prediction": "Dayton Dutch Lions Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1524729,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Hill City",
-    "awayTeam": "Bethesda SC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
-  },
-  {
-    "id": 1524731,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Lorain County Leviathan",
-    "awayTeam": "Cleveland Force",
-    "prediction": "Lorain County Leviathan Win",
-    "odds": "1.59"
-  },
-  {
-    "id": 1524735,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "New England FC",
-    "awayTeam": "Connecticut Rush",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.15"
-  },
-  {
     "id": 1524736,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "Real Central New Jersey",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Ocean City Nor'easters Win",
+    "odds": "1.97"
   },
   {
     "id": 1524737,
@@ -95,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Patuxent",
     "awayTeam": "Evergreen",
-    "prediction": "Evergreen Win",
-    "odds": "2.14"
+    "prediction": "Patuxent Win",
+    "odds": "1.38"
   },
   {
     "id": 1524740,
@@ -104,7 +23,88 @@
     "matchTime": "02:00",
     "homeTeam": "North Carolina Fusion",
     "awayTeam": "Hickory",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.0"
+  },
+  {
+    "id": 1524743,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Sporting Jax 2",
+    "awayTeam": "Brooke House",
     "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "odds": "1.95"
+  },
+  {
+    "id": 1524746,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Wake",
+    "awayTeam": "SC United Bantams",
+    "prediction": "Wake Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1525393,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Jackson Boom",
+    "awayTeam": "Memphis 901",
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
+  },
+  {
+    "id": 1525394,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "PA Classics",
+    "awayTeam": "Lone Star II",
+    "prediction": "Lone Star II Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1532094,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Cleveland Force W",
+    "awayTeam": "Pittsburgh Riveters W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
+  },
+  {
+    "id": 1532095,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Union Macomb W",
+    "awayTeam": "Midwest United W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
+  },
+  {
+    "id": 1532100,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "NC Courage II W",
+    "awayTeam": "Wake W",
+    "prediction": "NC Courage II W Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1532101,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Knoxville W",
+    "awayTeam": "Asheville City W",
+    "prediction": "Knoxville W Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1532102,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Toledo Villa W",
+    "awayTeam": "Indy Eleven W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   }
 ]
