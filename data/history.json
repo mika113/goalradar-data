@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545541,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546330,
@@ -42,10 +42,10 @@
     "homeTeam": "Santa Clara U23",
     "awayTeam": "Gil Vicente U23",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Santa Clara U23 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1540589,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Poland",
     "awayTeam": "Nigeria",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Nigeria Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -81,6 +81,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Algeria Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548293,
+    "league": "1. Liga Classic - Play-offs (Switzerland)",
+    "matchDate": "FT",
+    "homeTeam": "Amical Saint-Prex",
+    "awayTeam": "Grasshopper II",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -114,33 +126,21 @@
     "homeTeam": "Taverne",
     "awayTeam": "Servette II",
     "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Taverne Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548079,
-    "league": "Derde Divisie - Relegation Round (Netherlands)",
-    "matchDate": "FT",
-    "homeTeam": "SteDoCo",
-    "awayTeam": "EVV",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "EVV Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
-    "id": 1548078,
-    "league": "Derde Divisie - Relegation Round (Netherlands)",
+    "id": 1548291,
+    "league": "1. Liga Classic - Play-offs (Switzerland)",
     "matchDate": "FT",
-    "homeTeam": "NEO",
-    "awayTeam": "TEC",
+    "homeTeam": "Courtételle",
+    "awayTeam": "YF Juventus",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "NEO Win",
+    "prediction": "Courtételle Win",
     "outcome": "Won"
   }
 ]
