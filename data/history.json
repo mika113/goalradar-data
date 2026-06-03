@@ -1,15 +1,75 @@
 [
   {
+    "id": 1524715,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Pittsburgh Riverhounds 2",
+    "awayTeam": "Buffalo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524714,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Northern Indiana",
+    "awayTeam": "Louisville City II",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Northern Indiana Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524713,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Miami",
+    "awayTeam": "Weston",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Miami Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524712,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Inter Gainesville",
+    "awayTeam": "Shark Coast",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524709,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Chicago Dutch Lions",
+    "awayTeam": "Rochester",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1512438,
     "league": "Reserve League (Argentina)",
     "matchDate": "FT",
     "homeTeam": "Boca Juniors Res.",
     "awayTeam": "Defensa y Justicia Res.",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Boca Juniors Res. Win",
+    "outcome": "Won"
   },
   {
     "id": 1524710,
@@ -18,7 +78,7 @@
     "homeTeam": "Union Macomb",
     "awayTeam": "Midwest United",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Midwest United Win",
     "outcome": "Won"
@@ -44,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Raja Casablanca Win",
-    "outcome": "Lost"
+    "prediction": "Renaissance Berkane Win",
+    "outcome": "Won"
   },
   {
     "id": 1526547,
@@ -68,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Gil Vicente U23 Win",
-    "outcome": "Won"
+    "prediction": "Santa Clara U23 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1540589,
@@ -81,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Italy Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1539431,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Poland",
-    "awayTeam": "Nigeria",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1536930,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Netherlands",
-    "awayTeam": "Algeria",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Algeria Win",
     "outcome": "Won"
   }
 ]
