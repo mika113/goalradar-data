@@ -1,5 +1,17 @@
 [
   {
+    "id": 1546330,
+    "league": "Taça Revelação U23 (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Santa Clara U23",
+    "awayTeam": "Gil Vicente U23",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1540589,
     "league": "Friendlies (World)",
     "matchDate": "FT",
@@ -18,9 +30,9 @@
     "homeTeam": "Poland",
     "awayTeam": "Nigeria",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nigeria Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1545267,
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Portugal U21",
     "awayTeam": "Northern Ireland U21",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Portugal U21 Win",
-    "outcome": "Won"
+    "prediction": "Northern Ireland U21 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499926,
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Sacachispas",
     "awayTeam": "Berazategui",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sacachispas Win",
     "outcome": "Won"
   },
   {
@@ -90,7 +102,7 @@
     "homeTeam": "ADO '20",
     "awayTeam": "Ijsselmeervogels",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Ijsselmeervogels Win",
     "outcome": "Won"
@@ -101,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Iskra",
     "awayTeam": "Jezero",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Jezero Win",
     "outcome": "Won"
@@ -114,9 +126,9 @@
     "homeTeam": "Ittihad Tanger",
     "awayTeam": "Wydad AC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wydad AC Win",
     "outcome": "Won"
   },
   {
