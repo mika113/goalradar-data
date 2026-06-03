@@ -1,48 +1,12 @@
 [
   {
-    "id": 1547816,
-    "league": "II Liga - East (Poland)",
-    "matchTime": "20:26",
-    "homeTeam": "Łomża",
-    "awayTeam": "Górnik Polkowice",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
-  },
-  {
-    "id": 1547817,
-    "league": "II Liga - East (Poland)",
-    "matchTime": "20:29",
-    "homeTeam": "KSZO 1929",
-    "awayTeam": "Luzino",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
-  },
-  {
-    "id": 1398950,
-    "league": "Regionalliga - West (Austria)",
-    "matchTime": "20:30",
-    "homeTeam": "Wacker Innsbruck",
-    "awayTeam": "Kufstein",
-    "prediction": "Wacker Innsbruck Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1418142,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "20:30",
-    "homeTeam": "Neusiedl",
-    "awayTeam": "Wiener Viktoria",
-    "prediction": "Neusiedl Win",
-    "odds": "1.34"
-  },
-  {
     "id": 1418146,
     "league": "Regionalliga - Ost (Austria)",
     "matchTime": "20:30",
     "homeTeam": "Leobendorf",
     "awayTeam": "Traiskirchen",
-    "prediction": "Leobendorf Win",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1418148,
@@ -50,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "Donau",
     "awayTeam": "Parndorf",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "prediction": "Donau Win",
+    "odds": "1.4"
   },
   {
     "id": 1505170,
@@ -59,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Vasalund",
     "awayTeam": "Järfälla",
-    "prediction": "Vasalund Win",
-    "odds": "1.49"
+    "prediction": "Järfälla Win",
+    "odds": "1.65"
   },
   {
     "id": 1515743,
@@ -69,7 +33,7 @@
     "homeTeam": "Storfors",
     "awayTeam": "Skellefteå",
     "prediction": "Storfors Win",
-    "odds": "1.6"
+    "odds": "1.79"
   },
   {
     "id": 1548290,
@@ -77,8 +41,8 @@
     "matchTime": "20:30",
     "homeTeam": "Langenthal",
     "awayTeam": "Tuggen",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Langenthal Win",
+    "odds": "1.75"
   },
   {
     "id": 1543267,
@@ -86,7 +50,43 @@
     "matchTime": "20:45",
     "homeTeam": "América RJ",
     "awayTeam": "São Gonçalo EC RJ",
-    "prediction": "Double Chance X2",
-    "odds": "1.78"
+    "prediction": "América RJ Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1545626,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:45",
+    "homeTeam": "IFK Östersund",
+    "awayTeam": "Kubikenborg",
+    "prediction": "Kubikenborg Win",
+    "odds": "3.26"
+  },
+  {
+    "id": 1512441,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Estudiantes La Plata Res",
+    "awayTeam": "Independiente Riva. Res.",
+    "prediction": "Independiente Riva. Res. Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1512443,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Gimnasia Mendoza 2",
+    "awayTeam": "Gimnasia La Plata Res.",
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
+  },
+  {
+    "id": 1512446,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Instituto Res.",
+    "awayTeam": "Atlético Tucumán Res.",
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
   }
 ]
