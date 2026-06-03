@@ -1,66 +1,12 @@
 [
   {
-    "id": 1524713,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Miami",
-    "awayTeam": "Weston",
-    "prediction": "Weston Win",
-    "odds": "3.43"
-  },
-  {
-    "id": 1524714,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Northern Indiana",
-    "awayTeam": "Louisville City II",
-    "prediction": "Louisville City II Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1524715,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Pittsburgh Riverhounds 2",
-    "awayTeam": "Buffalo",
-    "prediction": "Pittsburgh Riverhounds 2 Win",
-    "odds": "1.8"
-  },
-  {
-    "id": 1524717,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Staten Island Athletic",
-    "awayTeam": "Manhattan",
-    "prediction": "Manhattan Win",
-    "odds": "3.08"
-  },
-  {
-    "id": 1532099,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Brevard Riptide W",
-    "awayTeam": "Fort Lauderdale Utd II W",
-    "prediction": "Brevard Riptide W Win",
-    "odds": "1.41"
-  },
-  {
-    "id": 1538374,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "01:00",
-    "homeTeam": "Gualberto Villarroel SJ",
-    "awayTeam": "Real Tomayapo",
-    "prediction": "Real Tomayapo Win",
-    "odds": "2.29"
-  },
-  {
     "id": 1532428,
     "league": "USL W League (USA)",
     "matchTime": "01:30",
     "homeTeam": "Port City NC W",
     "awayTeam": "SC United Bantams W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "prediction": "Port City NC W Win",
+    "odds": "1.81"
   },
   {
     "id": 1524706,
@@ -68,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Christos",
     "awayTeam": "Charlottesville Blues",
-    "prediction": "Christos Win",
-    "odds": "1.42"
+    "prediction": "Charlottesville Blues Win",
+    "odds": "2.45"
   },
   {
     "id": 1524707,
@@ -77,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Davis Legacy",
     "awayTeam": "SF Glens",
-    "prediction": "SF Glens Win",
-    "odds": "2.8"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1524716,
@@ -86,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Rockford Raptors",
     "awayTeam": "St. Croix",
-    "prediction": "St. Croix Win",
-    "odds": "2.15"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
   },
   {
     "id": 1524719,
@@ -95,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Annapolis Blues",
     "awayTeam": "Lionsbridge",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
+    "prediction": "Lionsbridge Win",
+    "odds": "2.29"
   },
   {
     "id": 1524720,
@@ -104,7 +50,61 @@
     "matchTime": "02:00",
     "homeTeam": "Appalachian",
     "awayTeam": "North Carolina II",
+    "prediction": "North Carolina II Win",
+    "odds": "2.52"
+  },
+  {
+    "id": 1524722,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Black Rock",
+    "awayTeam": "Western Mass Pioneers",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.59"
+  },
+  {
+    "id": 1524723,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Brevard",
+    "awayTeam": "Inter Miami II",
+    "prediction": "Brevard Win & Over 1.5",
+    "odds": "2.95"
+  },
+  {
+    "id": 1524724,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Charlotte Eagles",
+    "awayTeam": "Tobacco Road",
+    "prediction": "Tobacco Road Win",
+    "odds": "2.32"
+  },
+  {
+    "id": 1524725,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Charlotte Independence 2",
+    "awayTeam": "Asheville City",
+    "prediction": "Charlotte Independence 2 Win & Over 1.5",
+    "odds": "2.06"
+  },
+  {
+    "id": 1524726,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Dayton Dutch Lions",
+    "awayTeam": "Toledo Villa",
+    "prediction": "Toledo Villa Win",
+    "odds": "3.27"
+  },
+  {
+    "id": 1524729,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Hill City",
+    "awayTeam": "Bethesda SC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   }
 ]
