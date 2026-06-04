@@ -6,7 +6,7 @@
     "homeTeam": "Myanmar U19",
     "awayTeam": "Vietnam U19",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Vietnam U19 Win",
     "outcome": "Won"
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "České Budějovice II",
     "awayTeam": "Příbram II",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Příbram II Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1524741,
