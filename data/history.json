@@ -18,9 +18,9 @@
     "homeTeam": "Timor-Leste U19",
     "awayTeam": "Indonesia U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Indonesia U19 Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Respublika FA",
     "awayTeam": "Qiziriq",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Respublika FA Win",
-    "outcome": "Won"
+    "prediction": "Qiziriq Win",
+    "outcome": "Lost"
   },
   {
     "id": 1530972,
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Fortuna Mfou Win",
-    "outcome": "Lost"
+    "prediction": "Aigle Royal de Moungo Win",
+    "outcome": "Won"
   },
   {
     "id": 1530970,
@@ -68,8 +68,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kattaqurgon Win",
-    "outcome": "Won"
+    "prediction": "FarDu Win",
+    "outcome": "Lost"
   },
   {
     "id": 1398946,
@@ -89,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "VfR Mannheim",
     "awayTeam": "Eddersheim",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
     "prediction": "VfR Mannheim Win",
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Cambodia",
     "awayTeam": "Bhutan",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Cambodia Win",
@@ -117,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1530850,
@@ -138,9 +138,9 @@
     "homeTeam": "Wals-Grünau",
     "awayTeam": "Rheindorf Altach II",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Rheindorf Altach II Win",
     "outcome": "Won"
   }
 ]
