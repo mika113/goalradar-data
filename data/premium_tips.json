@@ -1,39 +1,12 @@
 [
   {
-    "id": 1547211,
-    "league": "ASEAN Championship U19 (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Myanmar U19",
-    "awayTeam": "Vietnam U19",
-    "prediction": "Myanmar U19 Win",
-    "odds": "1.87"
-  },
-  {
-    "id": 1548193,
-    "league": "UEFA U17 Championship (World)",
-    "matchTime": "14:30",
-    "homeTeam": "Belgium U17",
-    "awayTeam": "France U17",
-    "prediction": "Belgium U17 Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1398947,
-    "league": "Regionalliga - West (Austria)",
-    "matchTime": "15:00",
-    "homeTeam": "Lauterach",
-    "awayTeam": "Kuchl",
-    "prediction": "Lauterach Win & Over 1.5",
-    "odds": "1.82"
-  },
-  {
     "id": 1398949,
     "league": "Regionalliga - West (Austria)",
     "matchTime": "15:00",
     "homeTeam": "Wals-Grünau",
     "awayTeam": "Rheindorf Altach II",
     "prediction": "Wals-Grünau Win",
-    "odds": "1.72"
+    "odds": "1.45"
   },
   {
     "id": 1530850,
@@ -42,7 +15,7 @@
     "homeTeam": "SSA U20",
     "awayTeam": "Galícia U20",
     "prediction": "SSA U20 Win",
-    "odds": "1.6"
+    "odds": "1.9"
   },
   {
     "id": 1544358,
@@ -50,8 +23,8 @@
     "matchTime": "15:00",
     "homeTeam": "Cambodia",
     "awayTeam": "Bhutan",
-    "prediction": "Cambodia Win",
-    "odds": "1.87"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.74"
   },
   {
     "id": 1548283,
@@ -59,8 +32,17 @@
     "matchTime": "15:00",
     "homeTeam": "VfR Mannheim",
     "awayTeam": "Eddersheim",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.86"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1548465,
+    "league": "Friendlies Women (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Saudi Arabia W",
+    "awayTeam": "Sri Lanka W",
+    "prediction": "Sri Lanka W Win",
+    "odds": "2.26"
   },
   {
     "id": 1398946,
@@ -68,8 +50,8 @@
     "matchTime": "15:30",
     "homeTeam": "Kitzbühel",
     "awayTeam": "TSV St. Johann",
-    "prediction": "TSV St. Johann Win",
-    "odds": "2.31"
+    "prediction": "Kitzbühel Win",
+    "odds": "1.83"
   },
   {
     "id": 1530970,
@@ -77,8 +59,8 @@
     "matchTime": "15:30",
     "homeTeam": "Kattaqurgon",
     "awayTeam": "FarDu",
-    "prediction": "FarDu Win",
-    "odds": "1.9"
+    "prediction": "Double Chance X2",
+    "odds": "1.51"
   },
   {
     "id": 1512927,
@@ -87,7 +69,7 @@
     "homeTeam": "Fortuna Mfou",
     "awayTeam": "Aigle Royal de Moungo",
     "prediction": "Fortuna Mfou Win",
-    "odds": "1.39"
+    "odds": "1.88"
   },
   {
     "id": 1530972,
@@ -96,7 +78,7 @@
     "homeTeam": "Shortan",
     "awayTeam": "Metalourg",
     "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "odds": "1.98"
   },
   {
     "id": 1531057,
@@ -104,7 +86,25 @@
     "matchTime": "16:00",
     "homeTeam": "Respublika FA",
     "awayTeam": "Qiziriq",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
+  },
+  {
+    "id": 1547212,
+    "league": "ASEAN Championship U19 (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Timor-Leste U19",
+    "awayTeam": "Indonesia U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
+  },
+  {
+    "id": 1548286,
+    "league": "Oberliga - Hessen (Germany)",
+    "matchTime": "16:00",
+    "homeTeam": "SG Bornheim",
+    "awayTeam": "Bad Soden",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
   }
 ]
