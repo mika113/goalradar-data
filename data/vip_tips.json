@@ -1,39 +1,12 @@
 [
   {
-    "id": 1544359,
-    "league": "Friendlies (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Spain",
-    "awayTeam": "Iraq",
-    "prediction": "Spain Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1546539,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "22:00",
-    "homeTeam": "Paraguari AC",
-    "awayTeam": "Atlético Tembetary",
-    "prediction": "Paraguari AC Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1536931,
-    "league": "Friendlies (World)",
-    "matchTime": "22:10",
-    "homeTeam": "France",
-    "awayTeam": "Ivory Coast",
-    "prediction": "France Win & Over 1.5",
-    "odds": "1.84"
-  },
-  {
     "id": 1545543,
     "league": "Botola Pro (Morocco)",
     "matchTime": "23:00",
     "homeTeam": "FAR Rabat",
     "awayTeam": "Difaa EL Jadida",
-    "prediction": "Difaa EL Jadida Win",
-    "odds": "2.75"
+    "prediction": "FAR Rabat Win",
+    "odds": "1.76"
   },
   {
     "id": 1548469,
@@ -41,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "San Diego Wave W",
     "awayTeam": "Philippines W",
-    "prediction": "Philippines W Win",
-    "odds": "3.47"
+    "prediction": "San Diego Wave W Win",
+    "odds": "1.96"
   },
   {
     "id": 1525737,
@@ -50,8 +23,8 @@
     "matchTime": "23:30",
     "homeTeam": "Millonarios W",
     "awayTeam": "Independiente Medellín W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
   },
   {
     "id": 1526552,
@@ -59,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Cuniburo",
     "awayTeam": "Cumbayá",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.86"
+    "prediction": "Cuniburo Win",
+    "odds": "1.41"
   },
   {
     "id": 1546540,
@@ -68,7 +41,34 @@
     "matchTime": "00:30",
     "homeTeam": "Deportivo Santani",
     "awayTeam": "Resistencia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
+    "prediction": "Both Teams To Score",
+    "odds": "2.08"
+  },
+  {
+    "id": 1512439,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Central Córdoba SdE Res.",
+    "awayTeam": "San Martín San Juan Res.",
+    "prediction": "San Martín San Juan Res. Win",
+    "odds": "3.12"
+  },
+  {
+    "id": 1512451,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Talleres Córdoba Res.",
+    "awayTeam": "Argentinos Juniors Res.",
+    "prediction": "Talleres Córdoba Res. Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1524750,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Albion Colorado",
+    "awayTeam": "Utah United",
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   }
 ]
