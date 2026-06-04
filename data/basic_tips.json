@@ -1,21 +1,12 @@
 [
   {
-    "id": 1541081,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "15:00",
-    "homeTeam": "Welayta Dicha",
-    "awayTeam": "Negelle Arsi",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
-  },
-  {
     "id": 1513466,
     "league": "Ligue 1 (Algeria)",
     "matchTime": "19:00",
     "homeTeam": "Ben Aknoun",
     "awayTeam": "USM Alger",
     "prediction": "Ben Aknoun Win",
-    "odds": "1.85"
+    "odds": "1.52"
   },
   {
     "id": 1546561,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "AS Camberene",
     "awayTeam": "Jaraaf",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Jaraaf Win",
+    "odds": "2.81"
   },
   {
     "id": 1546562,
@@ -32,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "HLM",
     "awayTeam": "Pikine",
-    "prediction": "Double Chance X2",
-    "odds": "1.62"
+    "prediction": "Pikine Win",
+    "odds": "3.13"
   },
   {
     "id": 1546563,
@@ -42,7 +33,7 @@
     "homeTeam": "Casa Sport",
     "awayTeam": "DSC",
     "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "odds": "1.29"
   },
   {
     "id": 1546564,
@@ -50,7 +41,16 @@
     "matchTime": "20:00",
     "homeTeam": "Génération Foot",
     "awayTeam": "AJEL",
-    "prediction": "Double Chance X2",
-    "odds": "1.37"
+    "prediction": "Génération Foot Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1546565,
+    "league": "Ligue 1 (Senegal)",
+    "matchTime": "20:00",
+    "homeTeam": "Guédiawaye",
+    "awayTeam": "Teungueth",
+    "prediction": "Guédiawaye Win",
+    "odds": "1.64"
   }
 ]
