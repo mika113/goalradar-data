@@ -1,39 +1,12 @@
 [
   {
-    "id": 1541502,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "ÅIFK",
-    "awayTeam": "P-Iirot",
-    "prediction": "Double Chance X2",
-    "odds": "1.75"
-  },
-  {
-    "id": 1321353,
-    "league": "Asian Cup - Qualification (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Lebanon",
-    "awayTeam": "Yemen",
-    "prediction": "Lebanon Win & Over 1.5",
-    "odds": "2.78"
-  },
-  {
-    "id": 1398944,
-    "league": "Regionalliga - West (Austria)",
-    "matchTime": "19:00",
-    "homeTeam": "Dornbirn",
-    "awayTeam": "SVG Reichenau",
-    "prediction": "Dornbirn Win",
-    "odds": "1.59"
-  },
-  {
     "id": 1533349,
     "league": "Friendlies Women (World)",
     "matchTime": "19:00",
     "homeTeam": "Germany U23 W",
     "awayTeam": "Denmark U23 W",
-    "prediction": "Double Chance X2",
-    "odds": "1.39"
+    "prediction": "Denmark U23 W Win",
+    "odds": "3.24"
   },
   {
     "id": 1540352,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Slovenia",
     "awayTeam": "Cyprus",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "prediction": "Cyprus Win",
+    "odds": "1.97"
   },
   {
     "id": 1541615,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "PEPO",
     "awayTeam": "Reipas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Reipas Win",
+    "odds": "2.1"
   },
   {
     "id": 1543823,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Northern Ireland",
     "awayTeam": "Guinea",
-    "prediction": "Northern Ireland Win",
-    "odds": "1.74"
+    "prediction": "Northern Ireland Win & Over 1.5",
+    "odds": "1.81"
   },
   {
     "id": 1545268,
@@ -69,7 +42,7 @@
     "homeTeam": "Burundi",
     "awayTeam": "Equatorial Guinea",
     "prediction": "Burundi Win",
-    "odds": "1.63"
+    "odds": "1.72"
   },
   {
     "id": 1545269,
@@ -77,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Moldova U21",
     "awayTeam": "Malta U21",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1548427,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "Afghanistan",
     "awayTeam": "Bangladesh U23",
+    "prediction": "Afghanistan Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1548466,
+    "league": "Friendlies Women (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Burkina Faso W",
+    "awayTeam": "Mali W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1548467,
+    "league": "Friendlies Women (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Portugal U18 W",
+    "awayTeam": "Finland U18 W",
     "prediction": "Both Teams To Score",
-    "odds": "1.8"
+    "odds": "2.0"
+  },
+  {
+    "id": 1487455,
+    "league": "3. liga - MSFL (Czech-Republic)",
+    "matchTime": "19:30",
+    "homeTeam": "Hlučín",
+    "awayTeam": "Vsetín",
+    "prediction": "Hlučín Win",
+    "odds": "1.97"
   }
 ]
