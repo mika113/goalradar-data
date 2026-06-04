@@ -1,5 +1,17 @@
 [
   {
+    "id": 1545732,
+    "league": "Première Division (Mali)",
+    "matchDate": "FT",
+    "homeTeam": "Mali Coura",
+    "awayTeam": "Bougouni",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1545728,
     "league": "Première Division (Mali)",
     "matchDate": "FT",
@@ -30,9 +42,9 @@
     "homeTeam": "Gremio Prudente U20",
     "awayTeam": "Palmeiras U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Palmeiras U20 Win",
     "outcome": "Won"
   },
   {
@@ -42,7 +54,7 @@
     "homeTeam": "América-SP U20",
     "awayTeam": "Juventus U20",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Juventus U20 Win",
     "outcome": "Won"
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Nação U20 Win",
-    "outcome": "Lost"
+    "prediction": "Avaí U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1512450,
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Lanús Res. Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545630,
-    "league": "Svenska Cupen (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Stocksund",
-    "awayTeam": "Stockholm Internazionale",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Stockholm Internazionale Win",
     "outcome": "Won"
   }
 ]
