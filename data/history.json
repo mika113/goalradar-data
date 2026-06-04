@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1524748,
@@ -18,9 +18,9 @@
     "homeTeam": "Morris Elite",
     "awayTeam": "FC Motown II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Motown II Win",
     "outcome": "Won"
   },
   {
@@ -33,66 +33,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Long Island Rough Riders Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493852,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Greenville Triumph",
-    "awayTeam": "Forward Madison",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493851,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Naples",
-    "awayTeam": "Charlotte Independence",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548294,
-    "league": "Matogrossense 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Cacerense",
-    "awayTeam": "Sinop Fc",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547201,
-    "league": "Copa Sul-Sudeste (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Avai",
-    "awayTeam": "Chapecoense-sc",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Chapecoense-sc Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1532103,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Tacoma Galaxy W",
-    "awayTeam": "Salmon Bay W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Salmon Bay W Win",
     "outcome": "Won"
   }
 ]
