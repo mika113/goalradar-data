@@ -1,21 +1,12 @@
 [
   {
-    "id": 1547738,
-    "league": "Premier League (Ukraine)",
-    "matchTime": "18:00",
-    "homeTeam": "Kudrivka",
-    "awayTeam": "Ahrobiznes Volochysk",
-    "prediction": "Ahrobiznes Volochysk Win",
-    "odds": "2.3"
-  },
-  {
     "id": 1513483,
     "league": "Ligue 1 (Algeria)",
     "matchTime": "19:00",
     "homeTeam": "Khenchela",
     "awayTeam": "MB Rouisset",
-    "prediction": "Khenchela Win & Over 1.5",
-    "odds": "1.83"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1513485,
@@ -24,7 +15,7 @@
     "homeTeam": "Mostaganem",
     "awayTeam": "El Bayadh",
     "prediction": "El Bayadh Win",
-    "odds": "3.17"
+    "odds": "3.27"
   },
   {
     "id": 1513488,
@@ -33,7 +24,7 @@
     "homeTeam": "Paradou AC",
     "awayTeam": "ES Setif",
     "prediction": "Paradou AC Win",
-    "odds": "1.52"
+    "odds": "1.9"
   },
   {
     "id": 1513484,
@@ -42,15 +33,24 @@
     "homeTeam": "MC Alger",
     "awayTeam": "ASO Chlef",
     "prediction": "MC Alger Win",
-    "odds": "1.84"
+    "odds": "1.77"
   },
   {
-    "id": 1487603,
+    "id": 1487609,
     "league": "4. liga - Divizie D (Czech-Republic)",
-    "matchTime": "18:00",
-    "homeTeam": "Líšeň II",
-    "awayTeam": "Humpolec",
-    "prediction": "Líšeň II Win & Over 1.5",
-    "odds": "2.81"
+    "matchTime": "18:30",
+    "homeTeam": "Velké Meziříčí",
+    "awayTeam": "Tatran Bohunice",
+    "prediction": "Velké Meziříčí Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 1487610,
+    "league": "4. liga - Divizie D (Czech-Republic)",
+    "matchTime": "18:30",
+    "homeTeam": "Znojmo",
+    "awayTeam": "Žďár nad Sázavou",
+    "prediction": "Znojmo Win",
+    "odds": "1.99"
   }
 ]
