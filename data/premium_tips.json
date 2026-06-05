@@ -1,39 +1,12 @@
 [
   {
-    "id": 1495286,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchTime": "16:00",
-    "homeTeam": "Hunters",
-    "awayTeam": "Bulawayo Chiefs",
-    "prediction": "Hunters Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1531055,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "16:00",
-    "homeTeam": "BuxDu",
-    "awayTeam": "Yaypan",
-    "prediction": "BuxDu Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1543826,
-    "league": "Friendlies (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Indonesia",
-    "awayTeam": "Oman",
-    "prediction": "Indonesia Win",
-    "odds": "1.6"
-  },
-  {
     "id": 1545461,
     "league": "Tournoi Maurice Revello (World)",
     "matchTime": "16:00",
     "homeTeam": "Colombia U19",
     "awayTeam": "China PR U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Colombia U19 Win",
+    "odds": "1.97"
   },
   {
     "id": 1547214,
@@ -41,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Singapore U19",
     "awayTeam": "Thailand U19",
-    "prediction": "Singapore U19 Win",
-    "odds": "1.4"
+    "prediction": "Thailand U19 Win",
+    "odds": "2.25"
   },
   {
     "id": 1548470,
@@ -50,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Norway U23 W",
     "awayTeam": "Mexico U23 W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Double Chance X2",
+    "odds": "1.41"
   },
   {
     "id": 1523912,
@@ -59,8 +32,8 @@
     "matchTime": "16:30",
     "homeTeam": "Georgia W",
     "awayTeam": "Faroe Islands W",
-    "prediction": "Georgia W Win",
-    "odds": "1.73"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
   },
   {
     "id": 1549873,
@@ -68,8 +41,8 @@
     "matchTime": "16:45",
     "homeTeam": "Al-Hilal Omdurman II",
     "awayTeam": "Hilal El-Fasher",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
+    "prediction": "Hilal El-Fasher Win",
+    "odds": "3.37"
   },
   {
     "id": 1549874,
@@ -77,8 +50,8 @@
     "matchTime": "16:45",
     "homeTeam": "Al Ahli Wad Medani",
     "awayTeam": "Umm Mughad",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "prediction": "Umm Mughad Win",
+    "odds": "2.87"
   },
   {
     "id": 1489726,
@@ -86,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Dukla Praha II",
     "awayTeam": "Písek",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
+    "prediction": "Písek Win",
+    "odds": "2.04"
   },
   {
     "id": 1523924,
@@ -95,8 +68,8 @@
     "matchTime": "17:00",
     "homeTeam": "Slovakia W",
     "awayTeam": "Finland W",
-    "prediction": "Slovakia W Win & Over 1.5",
-    "odds": "2.44"
+    "prediction": "Slovakia W Win",
+    "odds": "1.79"
   },
   {
     "id": 1523931,
@@ -105,6 +78,33 @@
     "homeTeam": "Azerbaijan W",
     "awayTeam": "Hungary W",
     "prediction": "Azerbaijan W Win",
-    "odds": "1.67"
+    "odds": "1.59"
+  },
+  {
+    "id": 1523934,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "17:00",
+    "homeTeam": "Armenia W",
+    "awayTeam": "Kazakhstan W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.72"
+  },
+  {
+    "id": 1548430,
+    "league": "Friendlies (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Belarus U21",
+    "awayTeam": "Kazakhstan U21",
+    "prediction": "Kazakhstan U21 Win",
+    "odds": "2.65"
+  },
+  {
+    "id": 1548429,
+    "league": "Friendlies (World)",
+    "matchTime": "17:30",
+    "homeTeam": "Montenegro U21",
+    "awayTeam": "Cyprus U21",
+    "prediction": "Montenegro U21 Win",
+    "odds": "1.43"
   }
 ]
