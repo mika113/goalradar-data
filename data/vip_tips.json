@@ -1,30 +1,12 @@
 [
   {
-    "id": 1495286,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchTime": "16:00",
-    "homeTeam": "Hunters",
-    "awayTeam": "Bulawayo Chiefs",
-    "prediction": "Bulawayo Chiefs Win",
-    "odds": "2.44"
-  },
-  {
-    "id": 1531055,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "16:00",
-    "homeTeam": "BuxDu",
-    "awayTeam": "Yaypan",
-    "prediction": "BuxDu Win",
-    "odds": "1.31"
-  },
-  {
     "id": 1543826,
     "league": "Friendlies (World)",
     "matchTime": "16:00",
     "homeTeam": "Indonesia",
     "awayTeam": "Oman",
-    "prediction": "Indonesia Win",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1545461,
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Colombia U19",
     "awayTeam": "China PR U20",
-    "prediction": "Double Chance X2",
-    "odds": "1.32"
+    "prediction": "Colombia U19 Win",
+    "odds": "1.55"
   },
   {
     "id": 1547214,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Singapore U19",
     "awayTeam": "Thailand U19",
-    "prediction": "Singapore U19 Win",
-    "odds": "1.31"
+    "prediction": "Thailand U19 Win",
+    "odds": "1.71"
   },
   {
     "id": 1548470,
@@ -50,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Norway U23 W",
     "awayTeam": "Mexico U23 W",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
+    "prediction": "Norway U23 W Win",
+    "odds": "1.7"
   },
   {
     "id": 1523912,
@@ -60,7 +42,7 @@
     "homeTeam": "Georgia W",
     "awayTeam": "Faroe Islands W",
     "prediction": "Faroe Islands W Win",
-    "odds": "2.16"
+    "odds": "3.14"
   },
   {
     "id": 1549873,
@@ -69,6 +51,24 @@
     "homeTeam": "Al-Hilal Omdurman II",
     "awayTeam": "Hilal El-Fasher",
     "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "odds": "2.06"
+  },
+  {
+    "id": 1549874,
+    "league": "Sudani Premier League",
+    "matchTime": "16:45",
+    "homeTeam": "Al Ahli Wad Medani",
+    "awayTeam": "Umm Mughad",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
+  },
+  {
+    "id": 1489726,
+    "league": "3. liga - CFL A (Czech-Republic)",
+    "matchTime": "17:00",
+    "homeTeam": "Dukla Praha II",
+    "awayTeam": "Písek",
+    "prediction": "Písek Win",
+    "odds": "3.32"
   }
 ]
