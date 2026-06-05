@@ -1,75 +1,12 @@
 [
   {
-    "id": 1498587,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "03:30",
-    "homeTeam": "Gimnasia Y Tiro",
-    "awayTeam": "Midland",
-    "prediction": "Gimnasia Y Tiro Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1532384,
-    "league": "USL W League (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Hill Country Linces W",
-    "awayTeam": "Lonestar II W",
-    "prediction": "Hill Country Linces W Win & Over 1.5",
-    "odds": "2.74"
-  },
-  {
-    "id": 1513137,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Vancouver Whitecaps II",
-    "awayTeam": "Portland Timbers II",
-    "prediction": "Portland Timbers II Win",
-    "odds": "3.35"
-  },
-  {
-    "id": 1524752,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Snohomish United",
-    "awayTeam": "Midlakes United",
-    "prediction": "Snohomish United Win",
-    "odds": "1.39"
-  },
-  {
-    "id": 1545445,
-    "league": "Friendlies Women (World)",
-    "matchTime": "04:00",
-    "homeTeam": "Panama W",
-    "awayTeam": "Jamaica W",
-    "prediction": "Panama W Win & Over 1.5",
-    "odds": "1.89"
-  },
-  {
-    "id": 1524753,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Oly Town",
-    "awayTeam": "Bigfoot",
-    "prediction": "Oly Town Win & Over 1.5",
-    "odds": "2.41"
-  },
-  {
-    "id": 1517293,
-    "league": "Canadian Premier League (Canada)",
-    "matchTime": "05:00",
-    "homeTeam": "Vancouver FC",
-    "awayTeam": "Atlético Ottawa",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
-  },
-  {
     "id": 1524754,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Redlands",
     "awayTeam": "AMSG",
-    "prediction": "Redlands Win & Over 1.5",
-    "odds": "2.2"
+    "prediction": "Redlands Win",
+    "odds": "1.98"
   },
   {
     "id": 1545735,
@@ -78,7 +15,7 @@
     "homeTeam": "El Salvador W",
     "awayTeam": "Costa Rica W",
     "prediction": "Costa Rica W Win",
-    "odds": "3.23"
+    "odds": "3.49"
   },
   {
     "id": 1522121,
@@ -86,7 +23,70 @@
     "matchTime": "07:00",
     "homeTeam": "Port Melbourne",
     "awayTeam": "Brunswick City",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
+  },
+  {
+    "id": 1524049,
+    "league": "Queensland NPL (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Magic United",
+    "awayTeam": "Brisbane Roar II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
+  },
+  {
+    "id": 1517556,
+    "league": "New South Wales NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Western Sydney Wanderers U23",
+    "awayTeam": "Sydney United",
+    "prediction": "Western Sydney Wanderers U23 Win & Over 1.5",
+    "odds": "2.11"
+  },
+  {
+    "id": 1520498,
+    "league": "K3 League (South-Korea)",
+    "matchTime": "08:00",
+    "homeTeam": "Pocheon",
+    "awayTeam": "Busan Transportation",
+    "prediction": "Pocheon Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1522120,
+    "league": "Victoria NPL 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "North Sunshine Eagles",
+    "awayTeam": "Melbourne Knights",
+    "prediction": "North Sunshine Eagles Win",
+    "odds": "1.43"
+  },
+  {
+    "id": 1522123,
+    "league": "Victoria NPL 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Melbourne Srbija",
+    "awayTeam": "North Geelong Warriors",
+    "prediction": "Melbourne Srbija Win",
+    "odds": "2.0"
+  },
+  {
+    "id": 1532569,
+    "league": "NNSW League 1 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "South Cardiff",
+    "awayTeam": "West Wallsend",
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
+  },
+  {
+    "id": 1546316,
+    "league": "J1 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "JEF United Chiba",
+    "awayTeam": "Avispa Fukuoka",
+    "prediction": "Both Teams To Score",
+    "odds": "1.95"
   }
 ]
