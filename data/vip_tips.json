@@ -1,21 +1,12 @@
 [
   {
-    "id": 1549874,
-    "league": "Sudani Premier League",
-    "matchTime": "16:45",
-    "homeTeam": "Al Ahli Wad Medani",
-    "awayTeam": "Umm Mughad",
-    "prediction": "Umm Mughad Win",
-    "odds": "2.75"
-  },
-  {
     "id": 1489726,
     "league": "3. liga - CFL A (Czech-Republic)",
     "matchTime": "17:00",
     "homeTeam": "Dukla Praha II",
     "awayTeam": "Písek",
-    "prediction": "Dukla Praha II Win & Over 1.5",
-    "odds": "1.99"
+    "prediction": "Písek Win",
+    "odds": "2.95"
   },
   {
     "id": 1523924,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Slovakia W",
     "awayTeam": "Finland W",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
+    "prediction": "Slovakia W Win",
+    "odds": "1.92"
   },
   {
     "id": 1523931,
@@ -33,7 +24,7 @@
     "homeTeam": "Azerbaijan W",
     "awayTeam": "Hungary W",
     "prediction": "Hungary W Win",
-    "odds": "3.37"
+    "odds": "1.97"
   },
   {
     "id": 1523934,
@@ -42,7 +33,7 @@
     "homeTeam": "Armenia W",
     "awayTeam": "Kazakhstan W",
     "prediction": "Armenia W Win",
-    "odds": "1.41"
+    "odds": "1.4"
   },
   {
     "id": 1548430,
@@ -50,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Belarus U21",
     "awayTeam": "Kazakhstan U21",
-    "prediction": "Belarus U21 Win & Over 1.5",
-    "odds": "2.88"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1548431,
@@ -59,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "Russia U21",
     "awayTeam": "Iraq U23",
-    "prediction": "Iraq U23 Win",
-    "odds": "2.04"
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
   },
   {
     "id": 1487603,
@@ -68,7 +59,16 @@
     "matchTime": "18:00",
     "homeTeam": "Líšeň II",
     "awayTeam": "Humpolec",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
+    "prediction": "Líšeň II Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1489729,
+    "league": "3. liga - CFL A (Czech-Republic)",
+    "matchTime": "18:00",
+    "homeTeam": "Viktoria Plzeň II",
+    "awayTeam": "Loko Vltavín",
+    "prediction": "Loko Vltavín Win",
+    "odds": "3.46"
   }
 ]
