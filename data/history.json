@@ -6,9 +6,9 @@
     "homeTeam": "Singapore U19",
     "awayTeam": "Thailand U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Thailand U19 Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +18,46 @@
     "homeTeam": "Colombia U19",
     "awayTeam": "China PR U20",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Colombia U19 Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1543826,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Indonesia",
+    "awayTeam": "Oman",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Indonesia Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531055,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "BuxDu",
+    "awayTeam": "Yaypan",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1495286,
+    "league": "Premier Soccer League (Zimbabwe)",
+    "matchDate": "FT",
+    "homeTeam": "Hunters",
+    "awayTeam": "Bulawayo Chiefs",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1548187,
@@ -41,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Thailand",
     "awayTeam": "Kuwait",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Thailand Win",
+    "outcome": "Won"
   },
   {
     "id": 1545699,
@@ -56,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Mongolia Win",
-    "outcome": "Lost"
+    "prediction": "Hong Kong Win",
+    "outcome": "Won"
   },
   {
     "id": 1544809,
@@ -65,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Singapore",
     "awayTeam": "China",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
     "prediction": "China Win",
@@ -105,42 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1527204,
-    "league": "Western Australia NPL",
-    "matchDate": "FT",
-    "homeTeam": "Bayswater City",
-    "awayTeam": "Dianella White Eagle",
-    "homeScore": 4,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Bayswater City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541432,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Whittlesea United",
-    "awayTeam": "Malvern",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Whittlesea United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541430,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Essendon Royals SC",
-    "awayTeam": "Springvale",
-    "homeScore": 8,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Essendon Royals SC Win",
     "outcome": "Won"
   }
 ]
