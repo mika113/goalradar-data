@@ -1,5 +1,17 @@
 [
   {
+    "id": 1487603,
+    "league": "4. liga - Divizie D (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Líšeň II",
+    "awayTeam": "Humpolec",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1548431,
     "league": "Friendlies (World)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548430,
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Slovakia W Win",
-    "outcome": "Lost"
+    "prediction": "Finland W Win",
+    "outcome": "Won"
   },
   {
     "id": 1489726,
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Georgia W",
     "awayTeam": "Faroe Islands W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Georgia W Win",
     "outcome": "Won"
   },
   {
@@ -90,57 +102,9 @@
     "homeTeam": "Singapore U19",
     "awayTeam": "Thailand U19",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Thailand U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545461,
-    "league": "Tournoi Maurice Revello (World)",
-    "matchDate": "FT",
-    "homeTeam": "Colombia U19",
-    "awayTeam": "China PR U20",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "China PR U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543826,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Indonesia",
-    "awayTeam": "Oman",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Indonesia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531055,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "BuxDu",
-    "awayTeam": "Yaypan",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1495286,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Hunters",
-    "awayTeam": "Bulawayo Chiefs",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Hunters Win",
     "outcome": "Won"
   }
 ]
