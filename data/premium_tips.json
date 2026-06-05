@@ -1,93 +1,12 @@
 [
   {
-    "id": 1487610,
-    "league": "4. liga - Divizie D (Czech-Republic)",
-    "matchTime": "18:30",
-    "homeTeam": "Znojmo",
-    "awayTeam": "Žďár nad Sázavou",
-    "prediction": "Znojmo Win",
-    "odds": "1.39"
-  },
-  {
-    "id": 1487831,
-    "league": "4. liga - Divizie F (Czech-Republic)",
-    "matchTime": "18:30",
-    "homeTeam": "Nový Jičín",
-    "awayTeam": "Jiskra Rýmařov",
-    "prediction": "Jiskra Rýmařov Win",
-    "odds": "2.55"
-  },
-  {
-    "id": 1487835,
-    "league": "4. liga - Divizie F (Czech-Republic)",
-    "matchTime": "18:30",
-    "homeTeam": "Valašské Meziříčí",
-    "awayTeam": "Zabreh",
-    "prediction": "Valašské Meziříčí Win",
-    "odds": "1.86"
-  },
-  {
-    "id": 1489728,
-    "league": "3. liga - CFL A (Czech-Republic)",
-    "matchTime": "18:30",
-    "homeTeam": "Petřín Plzeň",
-    "awayTeam": "Slavia III",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1504240,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "Haka",
-    "awayTeam": "JäPS",
-    "prediction": "Haka Win",
-    "odds": "1.54"
-  },
-  {
-    "id": 1517184,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "KuPS Akatemia",
-    "awayTeam": "KPV-j",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
-  },
-  {
-    "id": 1523911,
-    "league": "World Cup - Women - Qualification Europe",
-    "matchTime": "18:30",
-    "homeTeam": "Czech Republic W",
-    "awayTeam": "Albania W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
-  },
-  {
-    "id": 1541695,
-    "league": "Kakkonen - Lohko C (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "JS Hercules",
-    "awayTeam": "VPS II",
-    "prediction": "JS Hercules Win",
-    "odds": "1.88"
-  },
-  {
-    "id": 1487715,
-    "league": "4. liga - Divizie E (Czech-Republic)",
-    "matchTime": "19:00",
-    "homeTeam": "Uherský Brod",
-    "awayTeam": "Nové Sady",
-    "prediction": "Uherský Brod Win",
-    "odds": "1.99"
-  },
-  {
     "id": 1487716,
     "league": "4. liga - Divizie E (Czech-Republic)",
     "matchTime": "19:00",
     "homeTeam": "Tatran Všechovice",
     "awayTeam": "Brumov",
-    "prediction": "Tatran Všechovice Win",
-    "odds": "1.54"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   },
   {
     "id": 1489864,
@@ -95,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Křimice",
     "awayTeam": "Tachov",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Křimice Win",
+    "odds": "1.4"
   },
   {
     "id": 1504238,
@@ -104,7 +23,88 @@
     "matchTime": "19:00",
     "homeTeam": "KäPa",
     "awayTeam": "Kooteepee",
+    "prediction": "KäPa Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1523910,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "19:00",
+    "homeTeam": "Montenegro W",
+    "awayTeam": "Wales W",
     "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "odds": "1.25"
+  },
+  {
+    "id": 1523914,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "19:00",
+    "homeTeam": "Austria W",
+    "awayTeam": "Slovenia W",
+    "prediction": "Austria W Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1523916,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "19:00",
+    "homeTeam": "Ukraine W",
+    "awayTeam": "Iceland W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
+  },
+  {
+    "id": 1523919,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "19:00",
+    "homeTeam": "Poland W",
+    "awayTeam": "France W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.0"
+  },
+  {
+    "id": 1523926,
+    "league": "World Cup - Women - Qualification Europe",
+    "matchTime": "19:00",
+    "homeTeam": "Scotland W",
+    "awayTeam": "Israel W",
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
+  },
+  {
+    "id": 1529737,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "19:00",
+    "homeTeam": "Ekranas",
+    "awayTeam": "Neptūną Klaipėda",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
+  },
+  {
+    "id": 1541503,
+    "league": "Kakkonen - Lohko B (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "Musa",
+    "awayTeam": "NJS",
+    "prediction": "Musa Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1542179,
+    "league": "Friendlies (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Georgia",
+    "awayTeam": "Bahrain",
+    "prediction": "Bahrain Win",
+    "odds": "3.4"
+  },
+  {
+    "id": 1543825,
+    "league": "Friendlies (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Belarus",
+    "awayTeam": "Syria",
+    "prediction": "Double Chance X2",
+    "odds": "1.24"
   }
 ]
