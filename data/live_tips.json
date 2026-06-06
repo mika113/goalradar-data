@@ -1,48 +1,12 @@
 [
   {
-    "id": 1536217,
-    "league": "Second League - Group 1 (Russia)",
-    "matchTime": "16:00",
-    "homeTeam": "Druzhba",
-    "awayTeam": "PSK Dinskaya",
-    "prediction": "Druzhba Win & Over 1.5",
-    "odds": "2.0"
-  },
-  {
-    "id": 1536593,
-    "league": "Second League - Group 3 (Russia)",
-    "matchTime": "16:00",
-    "homeTeam": "Metallurg Lipetsk",
-    "awayTeam": "Arsenal Tula II",
-    "prediction": "Arsenal Tula II Win",
-    "odds": "3.28"
-  },
-  {
-    "id": 1541504,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "Honka",
-    "awayTeam": "EBK",
-    "prediction": "Honka Win",
-    "odds": "1.44"
-  },
-  {
-    "id": 1541616,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "Atlantis",
-    "awayTeam": "HIFK Helsinki",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
-  },
-  {
     "id": 1541617,
     "league": "Kakkonen - Lohko A (Finland)",
     "matchTime": "16:00",
     "homeTeam": "Union Plaani",
     "awayTeam": "HPS",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.3"
+    "prediction": "HPS Win",
+    "odds": "3.15"
   },
   {
     "id": 1541696,
@@ -50,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "SJK-juniorit",
     "awayTeam": "Kraft",
-    "prediction": "Double Chance X2",
-    "odds": "1.47"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   },
   {
     "id": 1541746,
@@ -59,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Huima / Urho",
     "awayTeam": "Jaro 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Double Chance X2",
+    "odds": "1.52"
   },
   {
     "id": 1545463,
@@ -68,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Japan U20",
     "awayTeam": "Canada U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Canada U20 Win",
+    "odds": "2.31"
   },
   {
     "id": 1546280,
@@ -77,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Milford FC",
     "awayTeam": "Cape Town City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.29"
   },
   {
     "id": 1546541,
@@ -87,6 +51,42 @@
     "homeTeam": "Benjamín Aceval",
     "awayTeam": "Tacuary",
     "prediction": "Benjamín Aceval Win",
-    "odds": "1.99"
+    "odds": "1.63"
+  },
+  {
+    "id": 1546542,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "16:00",
+    "homeTeam": "Sportivo Carapeguá",
+    "awayTeam": "Independiente F.b.c.",
+    "prediction": "Sportivo Carapeguá Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1546806,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchTime": "16:00",
+    "homeTeam": "Central Espanol",
+    "awayTeam": "Racing Montevideo",
+    "prediction": "Central Espanol Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1547215,
+    "league": "ASEAN Championship U19 (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Cambodia U19",
+    "awayTeam": "Philippines U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
+  },
+  {
+    "id": 1548075,
+    "league": "Tweede Divisie (Netherlands)",
+    "matchTime": "16:00",
+    "homeTeam": "Ijsselmeervogels",
+    "awayTeam": "ADO '20",
+    "prediction": "Ijsselmeervogels Win & Over 1.5",
+    "odds": "2.18"
   }
 ]
