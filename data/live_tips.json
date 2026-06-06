@@ -1,39 +1,12 @@
 [
   {
-    "id": 1537649,
-    "league": "Friendlies (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Armenia",
-    "awayTeam": "Kazakhstan",
-    "prediction": "Kazakhstan Win",
-    "odds": "3.22"
-  },
-  {
-    "id": 1541505,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchTime": "17:00",
-    "homeTeam": "HJS Akatemia",
-    "awayTeam": "EPS",
-    "prediction": "HJS Akatemia Win",
-    "odds": "1.67"
-  },
-  {
-    "id": 1541618,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchTime": "17:00",
-    "homeTeam": "MyPa",
-    "awayTeam": "PPJ",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
     "id": 1541697,
     "league": "Kakkonen - Lohko C (Finland)",
     "matchTime": "17:00",
     "homeTeam": "GBK",
     "awayTeam": "Vaajakoski",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
+    "prediction": "GBK Win & Over 1.5",
+    "odds": "2.91"
   },
   {
     "id": 1541698,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "TP-47",
     "awayTeam": "JBK",
-    "prediction": "TP-47 Win & Over 1.5",
-    "odds": "2.38"
+    "prediction": "Double Chance X2",
+    "odds": "1.77"
   },
   {
     "id": 1543387,
@@ -50,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Fjolnir",
     "awayTeam": "Selfoss",
-    "prediction": "Fjolnir Win",
-    "odds": "1.96"
+    "prediction": "Selfoss Win",
+    "odds": "1.89"
   },
   {
     "id": 1548438,
@@ -59,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Azerbaijan U21",
     "awayTeam": "Bahrain U20",
-    "prediction": "Azerbaijan U21 Win",
-    "odds": "1.59"
+    "prediction": "Bahrain U20 Win",
+    "odds": "2.22"
   },
   {
     "id": 1548439,
@@ -68,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Estonia U19",
     "awayTeam": "Lithuania U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.68"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
   },
   {
     "id": 1549882,
@@ -77,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Vado",
     "awayTeam": "Scafatese",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
+    "prediction": "Vado Win",
+    "odds": "1.88"
   },
   {
     "id": 1549883,
@@ -86,7 +59,34 @@
     "matchTime": "17:00",
     "homeTeam": "YF Juventus",
     "awayTeam": "Courtételle",
-    "prediction": "Courtételle Win",
-    "odds": "3.31"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1549886,
+    "league": "1. Liga Classic - Play-offs (Switzerland)",
+    "matchTime": "17:00",
+    "homeTeam": "Tuggen",
+    "awayTeam": "Langenthal",
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
+  },
+  {
+    "id": 1550044,
+    "league": "Superliga (Kosovo)",
+    "matchTime": "17:00",
+    "homeTeam": "Dinamo Ferizaj",
+    "awayTeam": "Llapi",
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
+  },
+  {
+    "id": 1536214,
+    "league": "Second League - Group 1 (Russia)",
+    "matchTime": "17:30",
+    "homeTeam": "Astrakhan",
+    "awayTeam": "Shahter Taganrog",
+    "prediction": "Astrakhan Win",
+    "odds": "1.6"
   }
 ]
