@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1538950,
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1538911,
@@ -53,6 +53,18 @@
     "matchDate": "FT",
     "homeTeam": "Portugal U19",
     "awayTeam": "Greece U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1536596,
+    "league": "Second League - Group 3 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Rotor-2",
+    "awayTeam": "Avangard Kursk",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
