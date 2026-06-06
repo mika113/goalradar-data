@@ -1,5 +1,41 @@
 [
   {
+    "id": 1547735,
+    "league": "Primera División RFEF - Play Offs (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Atlético Madrid II",
+    "awayTeam": "Ponferradina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1531368,
+    "league": "GFA League (Gambia)",
+    "matchDate": "FT",
+    "homeTeam": "GPA",
+    "awayTeam": "Dutch Lions",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548443,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sierra Leone",
+    "awayTeam": "Liberia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1548312,
     "league": "Botola 2 (Morocco)",
     "matchDate": "FT",
@@ -41,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Pamplona",
     "awayTeam": "Izarra",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Izarra Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543390,
@@ -72,6 +108,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1490101,
+    "league": "4. liga - Divizie B (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Karlovy Vary",
+    "awayTeam": "Olympie Březová",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1545270,
     "league": "Friendlies (World)",
     "matchDate": "FT",
@@ -89,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Vikingur Olafsiik",
     "awayTeam": "Kári",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Vikingur Olafsiik Win",
     "outcome": "Won"
   }
 ]
