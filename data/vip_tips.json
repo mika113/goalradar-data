@@ -1,21 +1,12 @@
 [
   {
-    "id": 1532124,
-    "league": "USL W League (USA)",
-    "matchTime": "00:00",
-    "homeTeam": "Carolina Ascent II W",
-    "awayTeam": "NC Courage II W",
-    "prediction": "Carolina Ascent II W Win",
-    "odds": "1.96"
-  },
-  {
     "id": 1538365,
     "league": "Primera División (Bolivia)",
     "matchTime": "00:15",
     "homeTeam": "Nacional Potosí",
     "awayTeam": "Aurora",
-    "prediction": "Aurora Win",
-    "odds": "3.16"
+    "prediction": "Nacional Potosí Win",
+    "odds": "1.5"
   },
   {
     "id": 1524763,
@@ -23,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "Miami",
     "awayTeam": "Brevard",
-    "prediction": "Miami Win & Over 1.5",
-    "odds": "2.16"
+    "prediction": "Brevard Win",
+    "odds": "2.09"
   },
   {
     "id": 1532126,
@@ -32,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Charlottesville Blues W",
     "awayTeam": "Annapolis Blues W",
-    "prediction": "Charlottesville Blues W Win",
-    "odds": "1.82"
+    "prediction": "Annapolis Blues W Win",
+    "odds": "2.38"
   },
   {
     "id": 1542895,
@@ -41,8 +32,8 @@
     "matchTime": "00:30",
     "homeTeam": "Brazil W",
     "awayTeam": "USA W",
-    "prediction": "USA W Win",
-    "odds": "1.97"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1546808,
@@ -51,7 +42,7 @@
     "homeTeam": "Club Nacional",
     "awayTeam": "Juventud",
     "prediction": "Club Nacional Win",
-    "odds": "1.42"
+    "odds": "1.85"
   },
   {
     "id": 1498594,
@@ -59,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Tristan Suarez",
     "awayTeam": "Almagro",
-    "prediction": "Almagro Win",
-    "odds": "2.01"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1524764,
@@ -68,7 +59,16 @@
     "matchTime": "01:00",
     "homeTeam": "Blackwatch Rush",
     "awayTeam": "Boston City",
+    "prediction": "Blackwatch Rush Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1524767,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Northern Indiana",
+    "awayTeam": "Dayton Dutch Lions",
     "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "odds": "2.13"
   }
 ]
