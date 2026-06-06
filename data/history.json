@@ -1,5 +1,17 @@
 [
   {
+    "id": 1550467,
+    "league": "Tweede Divisie (Netherlands)",
+    "matchDate": "FT",
+    "homeTeam": "Groningen U21",
+    "awayTeam": "Sparta Rotterdam II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1546455,
     "league": "Tercera División RFEF - Group 4 (Spain)",
     "matchDate": "FT",
@@ -9,7 +21,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1545272,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Gibraltar",
+    "awayTeam": "Cayman Islands",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1513487,
@@ -17,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "MC Oran",
     "awayTeam": "USM Alger",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "USM Alger Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1498580,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Atlanta",
+    "awayTeam": "Gimnasia Jujuy",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -45,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1531368,
@@ -77,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Deportes Copiapo",
     "awayTeam": "Santiago Wanderers",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Santiago Wanderers Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548443,
@@ -106,41 +142,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1548311,
-    "league": "Botola 2 (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Riadi Salmi",
-    "awayTeam": "Raja Beni Mellal",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546457,
-    "league": "Tercera División RFEF - Group 3 (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Laredo",
-    "awayTeam": "Tropezón",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546437,
-    "league": "Tercera División RFEF - Group 15 (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Pamplona",
-    "awayTeam": "Izarra",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Izarra Win",
-    "outcome": "Lost"
   }
 ]
