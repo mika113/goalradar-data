@@ -9,7 +9,55 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1548440,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kyrgyzstan",
+    "awayTeam": "Palestine",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1547530,
+    "league": "Elite Two (Cameroon)",
+    "matchDate": "FT",
+    "homeTeam": "Yafoot",
+    "awayTeam": "Sable",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547528,
+    "league": "Elite Two (Cameroon)",
+    "matchDate": "FT",
+    "homeTeam": "Foncha ST",
+    "awayTeam": "Bamboutos",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1536214,
+    "league": "Second League - Group 1 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Astrakhan",
+    "awayTeam": "Shahter Taganrog",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1550044,
@@ -90,33 +138,9 @@
     "homeTeam": "Fjolnir",
     "awayTeam": "Selfoss",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541698,
-    "league": "Kakkonen - Lohko C (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "TP-47",
-    "awayTeam": "JBK",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "TP-47 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541697,
-    "league": "Kakkonen - Lohko C (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "GBK",
-    "awayTeam": "Vaajakoski",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Selfoss Win",
     "outcome": "Won"
   }
 ]
