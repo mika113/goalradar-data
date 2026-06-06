@@ -1,14 +1,26 @@
 [
   {
+    "id": 1548473,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zimbabwe W",
+    "awayTeam": "Lesotho W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1546834,
     "league": "Friendlies Women (World)",
     "matchDate": "FT",
     "homeTeam": "Thailand W",
     "awayTeam": "Uzbekistan W",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Thailand W Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Hong Kong W",
     "awayTeam": "Fiji W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Hong Kong W Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1520499,
@@ -126,21 +138,9 @@
     "homeTeam": "Nacka Iliria",
     "awayTeam": "Haninge",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Haninge Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510947,
-    "league": "Division 2 - Södra Götaland (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Linero",
-    "awayTeam": "Berga",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Linero Win",
     "outcome": "Won"
   }
 ]
