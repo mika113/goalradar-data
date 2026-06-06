@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1548075,
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Cambodia U19",
     "awayTeam": "Philippines U19",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Cambodia U19 Win",
@@ -138,9 +138,9 @@
     "homeTeam": "Sportivo Carapeguá",
     "awayTeam": "Independiente F.b.c.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Independiente F.b.c. Win",
     "outcome": "Won"
   }
 ]
