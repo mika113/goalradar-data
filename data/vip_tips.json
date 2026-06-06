@@ -1,66 +1,12 @@
 [
   {
-    "id": 1538365,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "00:15",
-    "homeTeam": "Nacional Potosí",
-    "awayTeam": "Aurora",
-    "prediction": "Nacional Potosí Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1524763,
-    "league": "USL League Two (USA)",
-    "matchTime": "00:30",
-    "homeTeam": "Miami",
-    "awayTeam": "Brevard",
-    "prediction": "Brevard Win",
-    "odds": "2.23"
-  },
-  {
-    "id": 1532126,
-    "league": "USL W League (USA)",
-    "matchTime": "00:30",
-    "homeTeam": "Charlottesville Blues W",
-    "awayTeam": "Annapolis Blues W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
-  },
-  {
-    "id": 1542895,
-    "league": "Friendlies Women (World)",
-    "matchTime": "00:30",
-    "homeTeam": "Brazil W",
-    "awayTeam": "USA W",
-    "prediction": "Double Chance X2",
-    "odds": "1.59"
-  },
-  {
-    "id": 1546808,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "00:30",
-    "homeTeam": "Club Nacional",
-    "awayTeam": "Juventud",
-    "prediction": "Juventud Win",
-    "odds": "2.58"
-  },
-  {
-    "id": 1498594,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Tristan Suarez",
-    "awayTeam": "Almagro",
-    "prediction": "Tristan Suarez Win",
-    "odds": "1.99"
-  },
-  {
     "id": 1524764,
     "league": "USL League Two (USA)",
     "matchTime": "01:00",
     "homeTeam": "Blackwatch Rush",
     "awayTeam": "Boston City",
-    "prediction": "Blackwatch Rush Win & Over 1.5",
-    "odds": "2.19"
+    "prediction": "Blackwatch Rush Win",
+    "odds": "1.89"
   },
   {
     "id": 1524767,
@@ -68,7 +14,61 @@
     "matchTime": "01:00",
     "homeTeam": "Northern Indiana",
     "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Northern Indiana Win",
-    "odds": "1.9"
+    "prediction": "Dayton Dutch Lions Win",
+    "odds": "2.26"
+  },
+  {
+    "id": 1524768,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "West Virginia Alliance",
+    "awayTeam": "Kings Hammer Columbus",
+    "prediction": "West Virginia Alliance Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1528287,
+    "league": "Friendlies (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Brazil",
+    "awayTeam": "Egypt",
+    "prediction": "Brazil Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1531203,
+    "league": "USL League One Cup (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Loudoun United",
+    "awayTeam": "Richmond Kickers",
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
+  },
+  {
+    "id": 1531889,
+    "league": "Segunda División (Chile)",
+    "matchTime": "01:00",
+    "homeTeam": "Deportes Rengo",
+    "awayTeam": "Lota Schwager",
+    "prediction": "Lota Schwager Win",
+    "odds": "2.53"
+  },
+  {
+    "id": 1532119,
+    "league": "USL W League (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "AC Connecticut W",
+    "awayTeam": "Hudson Valley Crusaders W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
+  },
+  {
+    "id": 1532125,
+    "league": "USL W League (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Colorado ISA W",
+    "awayTeam": "Flatirons II W",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   }
 ]
