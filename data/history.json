@@ -1,14 +1,38 @@
 [
   {
+    "id": 1546544,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "12 de Junio VH",
+    "awayTeam": "Deportivo Capiata",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1543829,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Venezuela",
+    "awayTeam": "Türkiye",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Venezuela Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1540361,
     "league": "Copa De La Liga (Chile)",
     "matchDate": "FT",
     "homeTeam": "U. Catolica",
     "awayTeam": "Cobresal",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cobresal Win",
     "outcome": "Won"
   },
   {
@@ -21,6 +45,42 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1532127,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "North Carolina Fusion W",
+    "awayTeam": "Charlotte Eagles II W",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "North Carolina Fusion W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532125,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Colorado ISA W",
+    "awayTeam": "Flatirons II W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532119,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "AC Connecticut W",
+    "awayTeam": "Hudson Valley Crusaders W",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Hudson Valley Crusaders W Win",
     "outcome": "Won"
   },
   {
@@ -36,15 +96,39 @@
     "outcome": "Won"
   },
   {
+    "id": 1528287,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Brazil",
+    "awayTeam": "Egypt",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1498594,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Tristan Suarez",
+    "awayTeam": "Almagro",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1546808,
     "league": "Primera División - Apertura (Uruguay)",
     "matchDate": "FT",
     "homeTeam": "Club Nacional",
     "awayTeam": "Juventud",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Juventud Win",
     "outcome": "Won"
   },
   {
@@ -57,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Brazil W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524763,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Miami",
-    "awayTeam": "Brevard",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
