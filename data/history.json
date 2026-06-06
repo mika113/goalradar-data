@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1543829,
@@ -78,7 +78,7 @@
     "homeTeam": "AC Connecticut W",
     "awayTeam": "Hudson Valley Crusaders W",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Hudson Valley Crusaders W Win",
     "outcome": "Won"
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1498594,
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Juventud Win",
-    "outcome": "Won"
+    "prediction": "Club Nacional Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542895,
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "USA W Win",
-    "outcome": "Lost"
+    "prediction": "Brazil W Win",
+    "outcome": "Won"
   }
 ]
