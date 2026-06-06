@@ -1,5 +1,41 @@
 [
   {
+    "id": 1531205,
+    "league": "USL League One Cup (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Naples",
+    "awayTeam": "Sarasota Paradise",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531204,
+    "league": "USL League One Cup (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Rhode Island",
+    "awayTeam": "Westchester SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524755,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "East Atlanta",
+    "awayTeam": "Apotheos",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1542661,
     "league": "USL League One Cup (USA)",
     "matchDate": "FT",
@@ -17,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Detroit City",
     "awayTeam": "Lexington",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Detroit City Win",
     "outcome": "Won"
   },
   {
