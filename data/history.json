@@ -9,7 +9,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1545464,
+    "league": "Tournoi Maurice Revello (World)",
+    "matchDate": "FT",
+    "homeTeam": "Portugal U20",
+    "awayTeam": "Côte d'Ivoire U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1531368,
@@ -17,6 +29,30 @@
     "matchDate": "FT",
     "homeTeam": "GPA",
     "awayTeam": "Dutch Lions",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511605,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "D. Puerto Montt",
+    "awayTeam": "Cobreloa",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511602,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Deportes Copiapo",
+    "awayTeam": "Santiago Wanderers",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548312,
@@ -69,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1546437,
@@ -80,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Izarra Win",
-    "outcome": "Lost"
+    "prediction": "Pamplona Win",
+    "outcome": "Won"
   },
   {
     "id": 1543390,
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1490101,
-    "league": "4. liga - Divizie B (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Karlovy Vary",
-    "awayTeam": "Olympie Březová",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545270,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Croatia U21",
-    "awayTeam": "Republic of Ireland U21",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543389,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Vikingur Olafsiik",
-    "awayTeam": "Kári",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vikingur Olafsiik Win",
     "outcome": "Won"
   }
 ]
