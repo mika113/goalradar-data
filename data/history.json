@@ -6,9 +6,9 @@
     "homeTeam": "Tulevik",
     "awayTeam": "Johvi Phoenix",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Johvi Phoenix Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1517559,
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1524051,
@@ -101,46 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Long An",
     "awayTeam": "Binh Dinh",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1518171,
-    "league": "V.League 2 (Vietnam)",
-    "matchDate": "FT",
-    "homeTeam": "Ho Chi Minh",
-    "awayTeam": "Dong Thap",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1518170,
-    "league": "V.League 2 (Vietnam)",
-    "matchDate": "FT",
-    "homeTeam": "Bắc Ninh",
-    "awayTeam": "PVF-CAND",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "PVF-CAND Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517784,
-    "league": "New South Wales NPL 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Mt Druitt Town",
-    "awayTeam": "Canterbury Bankstown",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Long An Win",
     "outcome": "Won"
   }
 ]
