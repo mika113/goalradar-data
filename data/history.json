@@ -1,10 +1,70 @@
 [
   {
+    "id": 1549877,
+    "league": "Brasiliense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Real Brasília U20",
+    "awayTeam": "Santa Maria U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1548477,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zambia W",
+    "awayTeam": "Kenya W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548474,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Tanzania W",
+    "awayTeam": "Malawi W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548309,
+    "league": "Baltic Cup (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lithuania",
+    "awayTeam": "Latvia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Lithuania Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1548197,
     "league": "Segunda División (Uruguay)",
     "matchDate": "FT",
     "homeTeam": "Fenix",
     "awayTeam": "CA River Plate",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548075,
+    "league": "Tweede Divisie (Netherlands)",
+    "matchDate": "FT",
+    "homeTeam": "Ijsselmeervogels",
+    "awayTeam": "ADO '20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -17,11 +77,35 @@
     "matchDate": "FT",
     "homeTeam": "Cambodia U19",
     "awayTeam": "Philippines U19",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Cambodia U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546806,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchDate": "FT",
+    "homeTeam": "Central Espanol",
+    "awayTeam": "Racing Montevideo",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1546774,
+    "league": "Ligue 1 (Congo-DR)",
+    "matchDate": "FT",
+    "homeTeam": "Simba",
+    "awayTeam": "Saint Eloi Lupopo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Simba Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546542,
@@ -42,9 +126,9 @@
     "homeTeam": "Benjamín Aceval",
     "awayTeam": "Tacuary",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tacuary Win",
     "outcome": "Won"
   },
   {
