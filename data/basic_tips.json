@@ -1,21 +1,12 @@
 [
   {
-    "id": 1547669,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchTime": "23:30",
-    "homeTeam": "Guarani MG",
-    "awayTeam": "CAP",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
-  },
-  {
     "id": 1513141,
     "league": "MLS Next Pro (USA)",
     "matchTime": "00:00",
     "homeTeam": "Inter Miami II",
     "awayTeam": "New York City II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Inter Miami II Win",
+    "odds": "1.9"
   },
   {
     "id": 1524758,
@@ -23,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "Edgewater Castle",
     "awayTeam": "Rochester",
-    "prediction": "Edgewater Castle Win",
-    "odds": "1.39"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
   },
   {
     "id": 1524761,
@@ -32,8 +23,8 @@
     "matchTime": "00:00",
     "homeTeam": "Brooke House",
     "awayTeam": "The Villages",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1526549,
@@ -41,8 +32,8 @@
     "matchTime": "00:00",
     "homeTeam": "LDU Portoviejo",
     "awayTeam": "Gualaceo SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
+    "prediction": "LDU Portoviejo Win",
+    "odds": "1.56"
   },
   {
     "id": 1532123,
@@ -50,7 +41,16 @@
     "matchTime": "00:00",
     "homeTeam": "Minnesota Aurora W",
     "awayTeam": "RKC Third Coast W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "Minnesota Aurora W Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1532124,
+    "league": "USL W League (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "Carolina Ascent II W",
+    "awayTeam": "NC Courage II W",
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   }
 ]
