@@ -1,39 +1,12 @@
 [
   {
-    "id": 1398956,
-    "league": "Regionalliga - West (Austria)",
-    "matchTime": "17:00",
-    "homeTeam": "Schwaz",
-    "awayTeam": "Imst",
-    "prediction": "Imst Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1418147,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "17:00",
-    "homeTeam": "Retz",
-    "awayTeam": "Favoritner AC",
-    "prediction": "Retz Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1465501,
-    "league": "Landesliga - Vorarlbergliga (Austria)",
-    "matchTime": "17:00",
-    "homeTeam": "Göfis",
-    "awayTeam": "Dornbirner SV",
-    "prediction": "Dornbirner SV Win",
-    "odds": "1.63"
-  },
-  {
     "id": 1465504,
     "league": "Landesliga - Vorarlbergliga (Austria)",
     "matchTime": "17:00",
     "homeTeam": "Admira Dornbirn",
     "awayTeam": "Hard",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
   },
   {
     "id": 1504454,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Jonkopings Sodra",
     "awayTeam": "Trollhättan",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
+    "prediction": "Trollhättan Win",
+    "odds": "2.37"
   },
   {
     "id": 1505174,
@@ -50,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Gefle IF",
     "awayTeam": "Hammarby Talang",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
+    "prediction": "Gefle IF Win",
+    "odds": "1.44"
   },
   {
     "id": 1510776,
@@ -59,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Skiljebo",
     "awayTeam": "Enskede",
-    "prediction": "Enskede Win",
-    "odds": "1.62"
+    "prediction": "Skiljebo Win",
+    "odds": "1.66"
   },
   {
     "id": 1510777,
@@ -68,7 +41,34 @@
     "matchTime": "17:00",
     "homeTeam": "Falu BS",
     "awayTeam": "Korsnäs",
-    "prediction": "Falu BS Win",
-    "odds": "1.49"
+    "prediction": "Falu BS Win & Over 1.5",
+    "odds": "2.12"
+  },
+  {
+    "id": 1510950,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchTime": "17:00",
+    "homeTeam": "Nosaby",
+    "awayTeam": "Karlskrona",
+    "prediction": "Nosaby Win & Over 1.5",
+    "odds": "2.92"
+  },
+  {
+    "id": 1511142,
+    "league": "Division 2 - Södra Svealand (Sweden)",
+    "matchTime": "17:00",
+    "homeTeam": "Eker Örebro",
+    "awayTeam": "Syrianska FC",
+    "prediction": "Eker Örebro Win",
+    "odds": "1.43"
+  },
+  {
+    "id": 1511327,
+    "league": "Division 2 - Västra Götaland (Sweden)",
+    "matchTime": "17:00",
+    "homeTeam": "Qviding FIF",
+    "awayTeam": "Åstorp",
+    "prediction": "Qviding FIF Win",
+    "odds": "1.34"
   }
 ]
