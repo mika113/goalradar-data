@@ -1,14 +1,62 @@
 [
   {
+    "id": 1540536,
+    "league": "3. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Vanløse",
+    "awayTeam": "Hørsholm-Usserød",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540535,
+    "league": "3. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Næsby",
+    "awayTeam": "FA 2000",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540534,
+    "league": "3. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Brønshøj",
+    "awayTeam": "Nykobing FC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Nykobing FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1540445,
+    "league": "2. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Vendsyssel FF",
+    "awayTeam": "Naestved",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Vendsyssel FF Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1540444,
     "league": "2. Division (Denmark)",
     "matchDate": "FT",
     "homeTeam": "Roskilde",
     "awayTeam": "HIK",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "HIK Win",
     "outcome": "Won"
   },
   {
@@ -24,15 +72,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1540418,
+    "league": "2. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "VSK Århus",
+    "awayTeam": "FC Helsingor",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "VSK Århus Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1540417,
     "league": "2. Division (Denmark)",
     "matchDate": "FT",
     "homeTeam": "Skive",
     "awayTeam": "Ishøj",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ishøj Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +105,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1536597,
+    "league": "Second League - Group 3 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Ryazan",
+    "awayTeam": "Volna Nizhegorodskaya",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Volna Nizhegorodskaya Win",
+    "outcome": "Won"
   },
   {
     "id": 1534322,
@@ -54,9 +126,9 @@
     "homeTeam": "Dinamo Minsk II",
     "awayTeam": "Uni Minsk",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Uni Minsk Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +138,9 @@
     "homeTeam": "Alaniya Vladikavkaz",
     "awayTeam": "Amkar",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Amkar Win",
     "outcome": "Won"
   }
 ]
