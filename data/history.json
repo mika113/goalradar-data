@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1542895,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Brazil W",
+    "awayTeam": "USA W",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "USA W Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1524763,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1526549,
@@ -33,6 +45,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524761,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Brooke House",
+    "awayTeam": "The Villages",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "The Villages Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Bermuda Win",
-    "outcome": "Lost"
+    "prediction": "Cape Verde Islands Win",
+    "outcome": "Won"
   },
   {
     "id": 1544361,
@@ -113,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Qatar",
     "awayTeam": "El Salvador",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543276,
-    "league": "Carioca A2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Resende",
-    "awayTeam": "CEAC / Araruama",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
