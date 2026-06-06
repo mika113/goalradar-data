@@ -1,39 +1,12 @@
 [
   {
-    "id": 1499453,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "20:30",
-    "homeTeam": "Arsenal Sarandi",
-    "awayTeam": "Sportivo Italiano",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
-  },
-  {
-    "id": 1499932,
-    "league": "Primera C (Argentina)",
-    "matchTime": "20:30",
-    "homeTeam": "Centro Español",
-    "awayTeam": "Leandro N. Alem",
-    "prediction": "Double Chance X2",
-    "odds": "1.29"
-  },
-  {
-    "id": 1548687,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "20:30",
-    "homeTeam": "Alumni Los Hornos",
-    "awayTeam": "Buenos Aires City",
-    "prediction": "Alumni Los Hornos Win",
-    "odds": "1.44"
-  },
-  {
     "id": 1528286,
     "league": "Friendlies (World)",
     "matchTime": "20:45",
     "homeTeam": "Portugal",
     "awayTeam": "Chile",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "prediction": "Chile Win",
+    "odds": "1.76"
   },
   {
     "id": 1542180,
@@ -41,8 +14,8 @@
     "matchTime": "20:45",
     "homeTeam": "Romania",
     "awayTeam": "Wales",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
+    "prediction": "Wales Win",
+    "odds": "2.43"
   },
   {
     "id": 1543274,
@@ -50,7 +23,34 @@
     "matchTime": "20:45",
     "homeTeam": "Americano Campos",
     "awayTeam": "Audax Rio",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1543275,
+    "league": "Carioca A2 (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "São Gonçalo EC RJ",
+    "awayTeam": "Olaria",
+    "prediction": "Olaria Win",
+    "odds": "1.77"
+  },
+  {
+    "id": 1543277,
+    "league": "Carioca A2 (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Pérolas Negras",
+    "awayTeam": "Serrano RJ",
+    "prediction": "Pérolas Negras Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1449475,
+    "league": "1st League - FBiH (Bosnia)",
+    "matchTime": "21:00",
+    "homeTeam": "GOŠK Gabela",
+    "awayTeam": "Čelik",
+    "prediction": "GOŠK Gabela Win",
+    "odds": "1.53"
   }
 ]
