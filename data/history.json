@@ -6,9 +6,21 @@
     "homeTeam": "Yaracuyanos FC",
     "awayTeam": "Club Atletico Barinas",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Club Atletico Barinas Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548393,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Urena SC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Urena SC Win",
     "outcome": "Won"
   },
   {
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Marítimo",
     "awayTeam": "Dinamo de Puerto La Cruz",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Dinamo de Puerto La Cruz Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548388,
@@ -30,9 +42,9 @@
     "homeTeam": "Aragua FC",
     "awayTeam": "Monagas II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Monagas II Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +53,35 @@
     "matchDate": "FT",
     "homeTeam": "Fernando De La Mora",
     "awayTeam": "Guairena FC",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Fernando De La Mora Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546499,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cape Verde Islands",
+    "awayTeam": "Bermuda",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1544361,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Qatar",
+    "awayTeam": "El Salvador",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1543276,
@@ -60,87 +96,51 @@
     "outcome": "Won"
   },
   {
+    "id": 1540949,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Bolivia",
+    "awayTeam": "Scotland",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Scotland Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531890,
+    "league": "Segunda División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Provincial Osorno",
+    "awayTeam": "Linares Unido",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Provincial Osorno Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525492,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "England",
+    "awayTeam": "New Zealand",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1524760,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "Lone Star II",
     "awayTeam": "Lehigh Valley United",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548392,
-    "league": "Segunda División (Venezuela)",
-    "matchDate": "FT",
-    "homeTeam": "Real Frontera",
-    "awayTeam": "Fundación Lara Deportiva",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1532346,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Rockford Raptors W",
-    "awayTeam": "River Light W",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "River Light W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532122,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "SSA Royals W",
-    "awayTeam": "Birmingham Legion W",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "SSA Royals W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498581,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico DE Rafaela",
-    "awayTeam": "Colegiales",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Atletico DE Rafaela Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548387,
-    "league": "Segunda División (Venezuela)",
-    "matchDate": "FT",
-    "homeTeam": "Bolívar",
-    "awayTeam": "Petare FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548052,
-    "league": "Segunda División (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Castellón",
-    "awayTeam": "Almeria",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Castellón Win",
+    "prediction": "Lehigh Valley United Win",
     "outcome": "Won"
   }
 ]
