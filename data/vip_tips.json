@@ -1,48 +1,12 @@
 [
   {
-    "id": 1525492,
-    "league": "Friendlies (World)",
-    "matchTime": "23:00",
-    "homeTeam": "England",
-    "awayTeam": "New Zealand",
-    "prediction": "New Zealand Win",
-    "odds": "2.65"
-  },
-  {
-    "id": 1531890,
-    "league": "Segunda División (Chile)",
-    "matchTime": "23:00",
-    "homeTeam": "Provincial Osorno",
-    "awayTeam": "Linares Unido",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
-  },
-  {
-    "id": 1540949,
-    "league": "Friendlies (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Bolivia",
-    "awayTeam": "Scotland",
-    "prediction": "Bolivia Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1543272,
-    "league": "Carioca A2 (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "CFRJ / Maricá",
-    "awayTeam": "Bonsucesso",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
-  },
-  {
     "id": 1543276,
     "league": "Carioca A2 (Brazil)",
     "matchTime": "23:00",
     "homeTeam": "Resende",
     "awayTeam": "CEAC / Araruama",
-    "prediction": "Resende Win",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.46"
   },
   {
     "id": 1544361,
@@ -50,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Qatar",
     "awayTeam": "El Salvador",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1546499,
@@ -59,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Cape Verde Islands",
     "awayTeam": "Bermuda",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
   },
   {
     "id": 1546543,
@@ -68,7 +32,43 @@
     "matchTime": "23:00",
     "homeTeam": "Fernando De La Mora",
     "awayTeam": "Guairena FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.66"
+    "prediction": "Fernando De La Mora Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1548388,
+    "league": "Segunda División (Venezuela)",
+    "matchTime": "23:00",
+    "homeTeam": "Aragua FC",
+    "awayTeam": "Monagas II",
+    "prediction": "Monagas II Win",
+    "odds": "2.68"
+  },
+  {
+    "id": 1548389,
+    "league": "Segunda División (Venezuela)",
+    "matchTime": "23:00",
+    "homeTeam": "Marítimo",
+    "awayTeam": "Dinamo de Puerto La Cruz",
+    "prediction": "Marítimo Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1548393,
+    "league": "Segunda División (Venezuela)",
+    "matchTime": "23:00",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Urena SC",
+    "prediction": "Deportivo Lara Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1548394,
+    "league": "Segunda División (Venezuela)",
+    "matchTime": "23:00",
+    "homeTeam": "Yaracuyanos FC",
+    "awayTeam": "Club Atletico Barinas",
+    "prediction": "Yaracuyanos FC Win",
+    "odds": "1.9"
   }
 ]
