@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Dinamo de Puerto La Cruz Win",
-    "outcome": "Lost"
+    "prediction": "Marítimo Win",
+    "outcome": "Won"
   },
   {
     "id": 1548388,
@@ -44,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Monagas II Win",
-    "outcome": "Won"
+    "prediction": "Aragua FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546543,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1544361,
@@ -102,7 +102,7 @@
     "homeTeam": "Bolivia",
     "awayTeam": "Scotland",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Scotland Win",
     "outcome": "Won"
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Lone Star II",
     "awayTeam": "Lehigh Valley United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Lehigh Valley United Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
