@@ -21,6 +21,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1498581,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Atletico DE Rafaela",
+    "awayTeam": "Colegiales",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547222,
@@ -54,9 +66,9 @@
     "homeTeam": "Vitoria",
     "awayTeam": "Fortaleza EC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fortaleza EC Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Australia Win",
-    "outcome": "Lost"
+    "prediction": "Switzerland Win",
+    "outcome": "Won"
   },
   {
     "id": 1538075,
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Imperatriz",
     "awayTeam": "Tuna Luso",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Imperatriz Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Treze Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532121,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Flower City 1872 W",
-    "awayTeam": "Pittsburgh Riveters W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Pittsburgh Riveters W Win",
     "outcome": "Won"
   }
 ]
