@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Zamora",
     "awayTeam": "Villarreal II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zamora Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Compostela",
     "awayTeam": "Atlético Arteixo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Compostela Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "China PR U20",
     "awayTeam": "Tunisia U23",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tunisia U23 Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Denmark",
     "awayTeam": "Ukraine",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Denmark Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +54,9 @@
     "homeTeam": "Universidad de Chile",
     "awayTeam": "A. Italiano",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "A. Italiano Win",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1548316,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "El Massira",
     "awayTeam": "Amal Tiznit",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Amal Tiznit Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
