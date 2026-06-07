@@ -1,84 +1,12 @@
 [
   {
-    "id": 1510596,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Herrestads",
-    "awayTeam": "Motala",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
-  },
-  {
-    "id": 1510778,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Helges",
-    "awayTeam": "Kungsängen",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.68"
-  },
-  {
-    "id": 1510779,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Franke",
-    "awayTeam": "Bollstanäs",
-    "prediction": "Franke Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1510781,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Viggbyholms IK",
-    "awayTeam": "Lidingö",
-    "prediction": "Viggbyholms IK Win",
-    "odds": "1.86"
-  },
-  {
-    "id": 1511143,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Karlslund",
-    "awayTeam": "Sleipner",
-    "prediction": "Karlslund Win",
-    "odds": "1.7"
-  },
-  {
-    "id": 1515749,
-    "league": "Division 2 - Norrland (Sweden)",
-    "matchTime": "14:00",
-    "homeTeam": "Storfors",
-    "awayTeam": "Boden",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
-  },
-  {
-    "id": 1518103,
-    "league": "V.League 1 (Vietnam)",
-    "matchTime": "14:00",
-    "homeTeam": "Binh Duong",
-    "awayTeam": "Hoang Anh Gia Lai",
-    "prediction": "Binh Duong Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1518104,
-    "league": "V.League 1 (Vietnam)",
-    "matchTime": "14:00",
-    "homeTeam": "Da Nang",
-    "awayTeam": "Thanh Hóa",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
-  },
-  {
     "id": 1518105,
     "league": "V.League 1 (Vietnam)",
     "matchTime": "14:00",
     "homeTeam": "Hai Phong",
     "awayTeam": "Nam Dinh",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1518106,
@@ -86,8 +14,8 @@
     "matchTime": "14:00",
     "homeTeam": "Ha Noi",
     "awayTeam": "Ho Chi Minh",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Double Chance X2",
+    "odds": "1.77"
   },
   {
     "id": 1518107,
@@ -95,8 +23,8 @@
     "matchTime": "14:00",
     "homeTeam": "Phu Dong",
     "awayTeam": "Hồng Lĩnh Hà Tĩnh",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "prediction": "Hồng Lĩnh Hà Tĩnh Win",
+    "odds": "2.52"
   },
   {
     "id": 1518108,
@@ -104,7 +32,79 @@
     "matchTime": "14:00",
     "homeTeam": "Song Lam Nghe An",
     "awayTeam": "Pho Hien",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Pho Hien Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1518109,
+    "league": "V.League 1 (Vietnam)",
+    "matchTime": "14:00",
+    "homeTeam": "Viettel",
+    "awayTeam": "Công An Nhân Dân",
+    "prediction": "Công An Nhân Dân Win",
+    "odds": "2.01"
+  },
+  {
+    "id": 1527844,
+    "league": "Second League A - Division A Gold (Russia)",
+    "matchTime": "14:00",
+    "homeTeam": "Irtysh Omsk",
+    "awayTeam": "Volgar Astrakhan",
+    "prediction": "Volgar Astrakhan Win",
+    "odds": "2.13"
+  },
+  {
+    "id": 1534325,
+    "league": "1. Division (Belarus)",
+    "matchTime": "14:00",
+    "homeTeam": "Niva",
+    "awayTeam": "Orsha",
+    "prediction": "Orsha Win",
+    "odds": "2.81"
+  },
+  {
+    "id": 1536813,
+    "league": "Second League - Group 4 (Russia)",
+    "matchTime": "14:00",
+    "homeTeam": "KDV",
+    "awayTeam": "Izhevsk",
+    "prediction": "KDV Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1545739,
+    "league": "Friendlies Women (World)",
+    "matchTime": "14:00",
+    "homeTeam": "China W",
+    "awayTeam": "Russia W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
+  },
+  {
+    "id": 1546443,
+    "league": "Tercera División RFEF - Group 12 (Spain)",
+    "matchTime": "14:00",
+    "homeTeam": "San Fernando CD",
+    "awayTeam": "Tamaraceite",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.12"
+  },
+  {
+    "id": 1548444,
+    "league": "Friendlies (World)",
+    "matchTime": "14:00",
+    "homeTeam": "Afghanistan",
+    "awayTeam": "Pakistan",
+    "prediction": "Afghanistan Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1505176,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "15:00",
+    "homeTeam": "Piteå",
+    "awayTeam": "Enköping",
+    "prediction": "Piteå Win",
+    "odds": "1.58"
   }
 ]
