@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Vihiga United FC",
     "awayTeam": "Luanda Villa",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 0,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1548403,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Talanta",
     "awayTeam": "Nairobi City Stars",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Talanta Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548400,
@@ -78,9 +78,9 @@
     "homeTeam": "Kibera Black Stars",
     "awayTeam": "MCF",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "MCF Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Fortune Sacco",
     "awayTeam": "Gucha Stars",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Fortune Sacco Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Darajani Gogo",
     "awayTeam": "Kisumu All Stars",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Darajani Gogo Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -116,7 +116,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Slutsk Win",
-    "outcome": "Lost"
+    "prediction": "Molodechno-DYuSSh 4 Win",
+    "outcome": "Won"
   }
 ]
