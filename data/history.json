@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Atletico Avila FC",
     "awayTeam": "Mineros de Guyana",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Atletico Avila FC Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Feira FC",
     "awayTeam": "SSA",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Feira FC Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Morocco",
     "awayTeam": "Norway",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Morocco Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +54,9 @@
     "homeTeam": "Greece",
     "awayTeam": "Italy",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Italy Win",
     "outcome": "Won"
   },
   {
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Huachipato",
     "awayTeam": "Colo Colo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Huachipato Win",
+    "outcome": "Won"
   },
   {
     "id": 1538070,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "São Luiz",
     "awayTeam": "Joinville",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "São Luiz Win",
     "outcome": "Won"
   },
   {
@@ -114,10 +114,10 @@
     "homeTeam": "Tacoma Galaxy W",
     "awayTeam": "Bigfoot W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Tacoma Galaxy W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532136,
@@ -129,18 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Morris Elite W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529112,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Santiago Morning",
-    "awayTeam": "General Velásquez",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
