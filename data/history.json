@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Eddersheim",
     "awayTeam": "Pirmasens",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Eddersheim Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Vihiga United FC",
     "awayTeam": "Luanda Villa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Luanda Villa Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1548403,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1548398,
@@ -92,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Gucha Stars Win",
-    "outcome": "Lost"
+    "prediction": "Fortune Sacco Win",
+    "outcome": "Won"
   },
   {
     "id": 1548395,
@@ -116,7 +116,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Molodechno-DYuSSh 4 Win",
-    "outcome": "Won"
+    "prediction": "FC Slutsk Win",
+    "outcome": "Lost"
   }
 ]
