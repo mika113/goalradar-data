@@ -1,57 +1,12 @@
 [
   {
-    "id": 1532141,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Indy Eleven W",
-    "awayTeam": "Dayton Dutch Lions W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
-  },
-  {
-    "id": 1532142,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Brevard Riptide W",
-    "awayTeam": "Brooke House W",
-    "prediction": "Brevard Riptide W Win & Over 1.5",
-    "odds": "1.86"
-  },
-  {
-    "id": 1532143,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "OC Sporting W",
-    "awayTeam": "AMSG W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
-  },
-  {
-    "id": 1532435,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Albion Colorado W",
-    "awayTeam": "Real Colorado W",
-    "prediction": "Albion Colorado W Win",
-    "odds": "1.68"
-  },
-  {
-    "id": 1540365,
-    "league": "Copa De La Liga (Chile)",
-    "matchTime": "01:00",
-    "homeTeam": "Deportes Limache",
-    "awayTeam": "Everton de Vina",
-    "prediction": "Deportes Limache Win",
-    "odds": "1.34"
-  },
-  {
     "id": 1540366,
     "league": "Copa De La Liga (Chile)",
     "matchTime": "01:00",
     "homeTeam": "O'Higgins",
     "awayTeam": "Palestino",
-    "prediction": "O'Higgins Win & Over 1.5",
-    "odds": "2.3"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   },
   {
     "id": 1546558,
@@ -59,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Bermuda W",
     "awayTeam": "Belize W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Bermuda W Win & Over 1.5",
+    "odds": "2.3"
   },
   {
     "id": 1548295,
@@ -69,7 +24,7 @@
     "homeTeam": "Sinop Fc",
     "awayTeam": "Cacerense",
     "prediction": "Sinop Fc Win",
-    "odds": "1.48"
+    "odds": "1.55"
   },
   {
     "id": 1548335,
@@ -77,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Carabobo FC",
     "awayTeam": "Puerto Cabello",
-    "prediction": "Carabobo FC Win",
-    "odds": "1.44"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1524814,
@@ -86,8 +41,8 @@
     "matchTime": "01:30",
     "homeTeam": "Asheville City",
     "awayTeam": "Wake",
-    "prediction": "Asheville City Win & Over 1.5",
-    "odds": "2.41"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1513147,
@@ -96,7 +51,7 @@
     "homeTeam": "Orlando City II",
     "awayTeam": "Carolina Core",
     "prediction": "Orlando City II Win",
-    "odds": "1.3"
+    "odds": "1.39"
   },
   {
     "id": 1524809,
@@ -104,7 +59,52 @@
     "matchTime": "02:00",
     "homeTeam": "Tacoma Stars",
     "awayTeam": "Bigfoot",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Tacoma Stars Win & Over 1.5",
+    "odds": "2.62"
+  },
+  {
+    "id": 1524813,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "RKC",
+    "awayTeam": "St. Croix",
+    "prediction": "RKC Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1528288,
+    "league": "Friendlies (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Colombia",
+    "awayTeam": "Jordan",
+    "prediction": "Jordan Win",
+    "odds": "1.89"
+  },
+  {
+    "id": 1532388,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Hill Country Linces W",
+    "awayTeam": "Challenge W",
+    "prediction": "Challenge W Win",
+    "odds": "2.24"
+  },
+  {
+    "id": 1524804,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Virginia Marauders",
+    "awayTeam": "Christos",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.89"
+  },
+  {
+    "id": 1524815,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Loudoun 2",
+    "awayTeam": "Lionsbridge",
+    "prediction": "Loudoun 2 Win",
+    "odds": "1.36"
   }
 ]
