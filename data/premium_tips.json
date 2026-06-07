@@ -1,39 +1,12 @@
 [
   {
-    "id": 1540366,
-    "league": "Copa De La Liga (Chile)",
-    "matchTime": "01:00",
-    "homeTeam": "O'Higgins",
-    "awayTeam": "Palestino",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
-  },
-  {
-    "id": 1546558,
-    "league": "Friendlies Women (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Bermuda W",
-    "awayTeam": "Belize W",
-    "prediction": "Bermuda W Win",
-    "odds": "1.44"
-  },
-  {
-    "id": 1548295,
-    "league": "Matogrossense 2 (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Sinop Fc",
-    "awayTeam": "Cacerense",
-    "prediction": "Cacerense Win",
-    "odds": "1.96"
-  },
-  {
     "id": 1548335,
     "league": "Primera División (Venezuela)",
     "matchTime": "01:00",
     "homeTeam": "Carabobo FC",
     "awayTeam": "Puerto Cabello",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "prediction": "Carabobo FC Win",
+    "odds": "1.87"
   },
   {
     "id": 1524814,
@@ -42,7 +15,7 @@
     "homeTeam": "Asheville City",
     "awayTeam": "Wake",
     "prediction": "Asheville City Win",
-    "odds": "1.4"
+    "odds": "1.6"
   },
   {
     "id": 1513147,
@@ -51,7 +24,7 @@
     "homeTeam": "Orlando City II",
     "awayTeam": "Carolina Core",
     "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "odds": "1.41"
   },
   {
     "id": 1524809,
@@ -59,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Tacoma Stars",
     "awayTeam": "Bigfoot",
-    "prediction": "Tacoma Stars Win",
-    "odds": "1.83"
+    "prediction": "Bigfoot Win",
+    "odds": "1.74"
   },
   {
     "id": 1524813,
@@ -68,7 +41,7 @@
     "matchTime": "02:00",
     "homeTeam": "RKC",
     "awayTeam": "St. Croix",
-    "prediction": "Double Chance 1X",
+    "prediction": "RKC Win",
     "odds": "1.33"
   },
   {
@@ -77,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Colombia",
     "awayTeam": "Jordan",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Colombia Win",
+    "odds": "1.55"
   },
   {
     "id": 1532388,
@@ -86,8 +59,8 @@
     "matchTime": "02:00",
     "homeTeam": "Hill Country Linces W",
     "awayTeam": "Challenge W",
-    "prediction": "Challenge W Win",
-    "odds": "1.67"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1524804,
@@ -96,7 +69,7 @@
     "homeTeam": "Virginia Marauders",
     "awayTeam": "Christos",
     "prediction": "Christos Win",
-    "odds": "2.23"
+    "odds": "3.02"
   },
   {
     "id": 1524815,
@@ -104,7 +77,34 @@
     "matchTime": "02:30",
     "homeTeam": "Loudoun 2",
     "awayTeam": "Lionsbridge",
-    "prediction": "Loudoun 2 Win",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
+  },
+  {
+    "id": 1538384,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "02:30",
+    "homeTeam": "Blooming",
+    "awayTeam": "Gualberto Villarroel SJ",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1513145,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "The Town",
+    "awayTeam": "Real Monarchs",
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
+  },
+  {
+    "id": 1532144,
+    "league": "USL W League (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "AHFC Royals W",
+    "awayTeam": "Lonestar II W",
+    "prediction": "AHFC Royals W Win",
+    "odds": "1.77"
   }
 ]
