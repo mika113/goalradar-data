@@ -1,14 +1,38 @@
 [
   {
+    "id": 1526548,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Cuenca Juniors",
+    "awayTeam": "El Nacional",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Deportivo Cuenca Juniors Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1498591,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "San Martin Tucuman",
+    "awayTeam": "Quilmes",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1542182,
     "league": "Friendlies (World)",
     "matchDate": "FT",
     "homeTeam": "Ecuador",
     "awayTeam": "Guatemala",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ecuador Win",
     "outcome": "Won"
   },
   {
@@ -92,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CEOV Operário Win",
-    "outcome": "Lost"
+    "prediction": "Goiatuba EC Win",
+    "outcome": "Won"
   },
   {
     "id": 1538043,
@@ -102,9 +126,9 @@
     "homeTeam": "Gama",
     "awayTeam": "Aparecidense",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Aparecidense Win",
     "outcome": "Won"
   },
   {
@@ -113,30 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Capital Brasilia",
     "awayTeam": "União Rondonópolis",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524808,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Lakeland United",
-    "awayTeam": "Weston",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498585,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Colon Santa Fe",
-    "awayTeam": "Ciudad de Bolívar",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
