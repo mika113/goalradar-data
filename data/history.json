@@ -1,14 +1,26 @@
 [
   {
+    "id": 1425154,
+    "league": "Oberliga - Mittelrhein (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Pesch",
+    "awayTeam": "Eintracht Hohkeppel",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1425153,
     "league": "Oberliga - Mittelrhein (Germany)",
     "matchDate": "FT",
     "homeTeam": "Frechen",
     "awayTeam": "Teutonia Weiden",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Frechen Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +30,9 @@
     "homeTeam": "VfL Vichttal",
     "awayTeam": "TuS BW Königsdorf",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "TuS BW Königsdorf Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Büderich",
     "awayTeam": "SF Baumberg",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1406078,
@@ -54,9 +66,9 @@
     "homeTeam": "Holzheimer SG",
     "awayTeam": "Schonnebeck",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Schonnebeck Win",
     "outcome": "Won"
   },
   {
@@ -65,82 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Union Frintrop",
     "awayTeam": "BW Dingden",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1406074,
-    "league": "Oberliga - Niederrhein (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Monheim",
-    "awayTeam": "Germania Ratingen",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1406073,
-    "league": "Oberliga - Niederrhein (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Homberg",
-    "awayTeam": "Kleve",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1406072,
-    "league": "Oberliga - Niederrhein (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "KFC Uerdingen 05",
-    "awayTeam": "Viktoria Jüchen-Garz.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548445,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Kenya",
-    "awayTeam": "Lesotho",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kenya Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548289,
-    "league": "Oberliga - Hessen (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Kassel",
-    "awayTeam": "Hornau",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kassel Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547670,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Caldense",
-    "awayTeam": "BOA",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Caldense Win",
+    "prediction": "Union Frintrop Win",
     "outcome": "Won"
   }
 ]
