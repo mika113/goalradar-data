@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1532347,
@@ -20,8 +20,8 @@
     "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Snohomish United W Win",
-    "outcome": "Won"
+    "prediction": "West Seattle Rhodies W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1531230,
@@ -66,9 +66,9 @@
     "homeTeam": "FC Tulsa",
     "awayTeam": "San Antonio",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Tulsa Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -102,7 +102,7 @@
     "homeTeam": "Rentistas",
     "awayTeam": "Colón",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Colón Win",
     "outcome": "Won"
@@ -118,29 +118,5 @@
     "status": "FT",
     "prediction": "Argentina Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1537650,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Curaçao",
-    "awayTeam": "Aruba",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Curaçao Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531210,
-    "league": "USL League One Cup (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Union Omaha",
-    "awayTeam": "Fort Wayne",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Fort Wayne Win",
-    "outcome": "Lost"
   }
 ]
