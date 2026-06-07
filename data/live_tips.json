@@ -1,57 +1,12 @@
 [
   {
-    "id": 1465503,
-    "league": "Landesliga - Vorarlbergliga (Austria)",
-    "matchTime": "11:00",
-    "homeTeam": "Ludesch",
-    "awayTeam": "Nenzing",
-    "prediction": "Nenzing Win",
-    "odds": "2.94"
-  },
-  {
-    "id": 1532760,
-    "league": "League Two (China)",
-    "matchTime": "11:00",
-    "homeTeam": "Changchun Xidu",
-    "awayTeam": "Qingdao Red Lions",
-    "prediction": "Changchun Xidu Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1487714,
-    "league": "4. liga - Divizie E (Czech-Republic)",
-    "matchTime": "11:15",
-    "homeTeam": "Slavičín",
-    "awayTeam": "Bzenec",
-    "prediction": "Slavičín Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1487830,
-    "league": "4. liga - Divizie F (Czech-Republic)",
-    "matchTime": "11:15",
-    "homeTeam": "Havířov",
-    "awayTeam": "Vratimov",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
-  },
-  {
-    "id": 1527077,
-    "league": "South Australia NPL",
-    "matchTime": "11:30",
-    "homeTeam": "West Adelaide",
-    "awayTeam": "Adelaide United II",
-    "prediction": "Adelaide United II Win",
-    "odds": "2.74"
-  },
-  {
     "id": 1398953,
     "league": "Regionalliga - West (Austria)",
     "matchTime": "12:00",
     "homeTeam": "Kuchl",
     "awayTeam": "Bischofshofen",
-    "prediction": "Bischofshofen Win",
-    "odds": "3.01"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1526746,
@@ -60,7 +15,7 @@
     "homeTeam": "Dinamo Vladivostok",
     "awayTeam": "Dinamo Kirov",
     "prediction": "Dinamo Vladivostok Win",
-    "odds": "1.46"
+    "odds": "1.6"
   },
   {
     "id": 1527846,
@@ -68,8 +23,8 @@
     "matchTime": "12:00",
     "homeTeam": "Novosibirsk",
     "awayTeam": "Kaluga",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
+    "prediction": "Kaluga Win",
+    "odds": "2.97"
   },
   {
     "id": 1536378,
@@ -77,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Yenisey II",
     "awayTeam": "Kosmos Dolgoprudny",
-    "prediction": "Yenisey II Win",
-    "odds": "1.31"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1546441,
@@ -86,7 +41,52 @@
     "matchTime": "12:00",
     "homeTeam": "Real Murcia II",
     "awayTeam": "Olímpico Totana",
-    "prediction": "Olímpico Totana Win",
-    "odds": "2.98"
+    "prediction": "Real Murcia II Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1546453,
+    "league": "Tercera División RFEF - Group 6 (Spain)",
+    "matchTime": "12:00",
+    "homeTeam": "Levante II",
+    "awayTeam": "La Nucía",
+    "prediction": "Double Chance X2",
+    "odds": "1.78"
+  },
+  {
+    "id": 1546451,
+    "league": "Tercera División RFEF - Group 7 (Spain)",
+    "matchTime": "12:30",
+    "homeTeam": "Trival Valderas",
+    "awayTeam": "Las Rozas",
+    "prediction": "Both Teams To Score",
+    "odds": "1.82"
+  },
+  {
+    "id": 1520502,
+    "league": "K3 League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Mokpo City",
+    "awayTeam": "Yangpyeong",
+    "prediction": "Yangpyeong Win",
+    "odds": "2.63"
+  },
+  {
+    "id": 1520503,
+    "league": "K3 League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Yeoju Sejong",
+    "awayTeam": "Siheung Citizen",
+    "prediction": "Yeoju Sejong Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1536812,
+    "league": "Second League - Group 4 (Russia)",
+    "matchTime": "13:00",
+    "homeTeam": "Dinamo Barnaul",
+    "awayTeam": "Pobeda Nizhniy Novgorod",
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   }
 ]
