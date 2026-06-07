@@ -1,5 +1,17 @@
 [
   {
+    "id": 1542662,
+    "league": "USL League One Cup (USA)",
+    "matchDate": "FT",
+    "homeTeam": "FC Tulsa",
+    "awayTeam": "San Antonio",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1511606,
     "league": "Primera B (Chile)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1540355,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1537650,
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "City SC Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1513143,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Colorado Rapids II",
-    "awayTeam": "St. Louis City II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
   }
 ]
