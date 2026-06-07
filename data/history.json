@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Trival Valderas",
     "awayTeam": "Las Rozas",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Trival Valderas Win",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Olímpico Totana Win",
-    "outcome": "Lost"
+    "prediction": "Real Murcia II Win",
+    "outcome": "Won"
   },
   {
     "id": 1536378,
@@ -92,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "West Adelaide Win",
-    "outcome": "Won"
+    "prediction": "Adelaide United II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1487830,
@@ -102,7 +102,7 @@
     "homeTeam": "Havířov",
     "awayTeam": "Vratimov",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Vratimov Win",
     "outcome": "Won"
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Slavičín Win",
-    "outcome": "Won"
+    "prediction": "Bzenec Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532760,
@@ -129,18 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548069,
-    "league": "J2/J3 League (Japan)",
-    "matchDate": "FT",
-    "homeTeam": "Oita Trinita",
-    "awayTeam": "Montedio Yamagata",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Oita Trinita Win",
     "outcome": "Won"
   }
 ]
