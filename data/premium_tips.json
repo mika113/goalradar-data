@@ -1,84 +1,12 @@
 [
   {
-    "id": 1532386,
-    "league": "USL W League (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Monterey Bay FC W",
-    "awayTeam": "Marin FC Siren W",
-    "prediction": "Marin FC Siren W Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1542664,
-    "league": "USL League One Cup (USA)",
-    "matchTime": "05:30",
-    "homeTeam": "Las Vegas Lights",
-    "awayTeam": "Oakland Roots",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
-  },
-  {
-    "id": 1523718,
-    "league": "Northern NSW NPL (Australia)",
-    "matchTime": "06:00",
-    "homeTeam": "Charlestown City Blues",
-    "awayTeam": "Cooks Hill United",
-    "prediction": "Cooks Hill United Win",
-    "odds": "3.28"
-  },
-  {
-    "id": 1524774,
-    "league": "USL League Two (USA)",
-    "matchTime": "06:00",
-    "homeTeam": "Capo",
-    "awayTeam": "Ventura County Fusion",
-    "prediction": "Capo Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1531208,
-    "league": "USL League One Cup (USA)",
-    "matchTime": "06:00",
-    "homeTeam": "Alta",
-    "awayTeam": "Orange County SC",
-    "prediction": "Orange County SC Win",
-    "odds": "3.44"
-  },
-  {
-    "id": 1532570,
-    "league": "NNSW League 1 (Australia)",
-    "matchTime": "06:00",
-    "homeTeam": "Wallsend Red Devils",
-    "awayTeam": "Newcastle Croatia FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1542665,
-    "league": "USL League One Cup (USA)",
-    "matchTime": "06:00",
-    "homeTeam": "Sacramento Republic",
-    "awayTeam": "Monterey Bay",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
-  },
-  {
-    "id": 1549290,
-    "league": "Npl Nsw U20 (Australia)",
-    "matchTime": "06:00",
-    "homeTeam": "Blacktown City U20",
-    "awayTeam": "Rockdale Ilinden U20",
-    "prediction": "Blacktown City U20 Win",
-    "odds": "1.32"
-  },
-  {
     "id": 1549291,
     "league": "Npl Nsw U20 (Australia)",
     "matchTime": "06:00",
     "homeTeam": "Marconi S. U20",
     "awayTeam": "Wollongong Wolves U20",
     "prediction": "Marconi S. U20 Win",
-    "odds": "1.34"
+    "odds": "1.71"
   },
   {
     "id": 1548189,
@@ -86,8 +14,8 @@
     "matchTime": "07:00",
     "homeTeam": "Vanraure Hachinohe",
     "awayTeam": "Imabari",
-    "prediction": "Vanraure Hachinohe Win",
-    "odds": "1.75"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1547846,
@@ -95,8 +23,8 @@
     "matchTime": "07:05",
     "homeTeam": "Tokushima Vortis",
     "awayTeam": "Iwaki",
-    "prediction": "Tokushima Vortis Win",
-    "odds": "1.81"
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
   },
   {
     "id": 1517560,
@@ -105,6 +33,78 @@
     "homeTeam": "Marconi Stallions",
     "awayTeam": "Wollongong Wolves",
     "prediction": "Marconi Stallions Win",
+    "odds": "1.47"
+  },
+  {
+    "id": 1517561,
+    "league": "New South Wales NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Blacktown City",
+    "awayTeam": "Rockdale City Suns",
+    "prediction": "Double Chance X2",
+    "odds": "1.75"
+  },
+  {
+    "id": 1548066,
+    "league": "J2/J3 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Blaublitz Akita",
+    "awayTeam": "Kagoshima United",
+    "prediction": "Kagoshima United Win",
+    "odds": "3.01"
+  },
+  {
+    "id": 1548067,
+    "league": "J2/J3 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Kanazawa",
+    "awayTeam": "Thespakusatsu Gunma",
+    "prediction": "Thespakusatsu Gunma Win",
+    "odds": "3.22"
+  },
+  {
+    "id": 1548068,
+    "league": "J2/J3 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Tochigi SC",
+    "awayTeam": "Kitakyushu",
+    "prediction": "Tochigi SC Win",
     "odds": "1.39"
+  },
+  {
+    "id": 1548190,
+    "league": "J2/J3 League (Japan)",
+    "matchTime": "08:00",
+    "homeTeam": "Fukushima United",
+    "awayTeam": "FC Ryukyu",
+    "prediction": "Fukushima United Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1524052,
+    "league": "Queensland NPL (Australia)",
+    "matchTime": "08:15",
+    "homeTeam": "Gold Coast United",
+    "awayTeam": "WDSC Wolves",
+    "prediction": "Gold Coast United Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1521955,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "08:30",
+    "homeTeam": "South Melbourne",
+    "awayTeam": "Altona Magic",
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
+  },
+  {
+    "id": 1524157,
+    "league": "Queensland Premier League (Australia)",
+    "matchTime": "09:30",
+    "homeTeam": "St George Willawong",
+    "awayTeam": "Redlands United",
+    "prediction": "St George Willawong Win",
+    "odds": "1.71"
   }
 ]
