@@ -1,30 +1,12 @@
 [
   {
-    "id": 1513147,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Orlando City II",
-    "awayTeam": "Carolina Core",
-    "prediction": "Orlando City II Win",
-    "odds": "1.68"
-  },
-  {
-    "id": 1524809,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Tacoma Stars",
-    "awayTeam": "Bigfoot",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
-  },
-  {
     "id": 1524813,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "RKC",
     "awayTeam": "St. Croix",
     "prediction": "RKC Win",
-    "odds": "1.41"
+    "odds": "1.88"
   },
   {
     "id": 1528288,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Colombia",
     "awayTeam": "Jordan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Colombia Win",
+    "odds": "1.95"
   },
   {
     "id": 1532388,
@@ -42,7 +24,7 @@
     "homeTeam": "Hill Country Linces W",
     "awayTeam": "Challenge W",
     "prediction": "Hill Country Linces W Win",
-    "odds": "1.38"
+    "odds": "1.48"
   },
   {
     "id": 1524804,
@@ -51,7 +33,7 @@
     "homeTeam": "Virginia Marauders",
     "awayTeam": "Christos",
     "prediction": "Virginia Marauders Win",
-    "odds": "1.48"
+    "odds": "1.77"
   },
   {
     "id": 1524815,
@@ -59,8 +41,8 @@
     "matchTime": "02:30",
     "homeTeam": "Loudoun 2",
     "awayTeam": "Lionsbridge",
-    "prediction": "Lionsbridge Win",
-    "odds": "3.17"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.15"
   },
   {
     "id": 1538384,
@@ -68,8 +50,8 @@
     "matchTime": "02:30",
     "homeTeam": "Blooming",
     "awayTeam": "Gualberto Villarroel SJ",
-    "prediction": "Blooming Win",
-    "odds": "1.81"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1513145,
@@ -77,8 +59,8 @@
     "matchTime": "03:00",
     "homeTeam": "The Town",
     "awayTeam": "Real Monarchs",
-    "prediction": "Real Monarchs Win",
-    "odds": "2.89"
+    "prediction": "The Town Win",
+    "odds": "1.32"
   },
   {
     "id": 1532144,
@@ -86,7 +68,25 @@
     "matchTime": "03:00",
     "homeTeam": "AHFC Royals W",
     "awayTeam": "Lonestar II W",
-    "prediction": "Lonestar II W Win",
-    "odds": "3.46"
+    "prediction": "AHFC Royals W Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1548202,
+    "league": "Segunda División (Uruguay)",
+    "matchTime": "03:00",
+    "homeTeam": "Miramar",
+    "awayTeam": "Oriental",
+    "prediction": "Miramar Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1513148,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Austin II",
+    "awayTeam": "Los Angeles FC II",
+    "prediction": "Austin II Win",
+    "odds": "1.79"
   }
 ]
