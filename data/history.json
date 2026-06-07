@@ -1,5 +1,17 @@
 [
   {
+    "id": 1532387,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Loudoun United FC W",
+    "awayTeam": "Eagle FC W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526548,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ecuador Win",
-    "outcome": "Won"
+    "prediction": "Guatemala Win",
+    "outcome": "Lost"
   },
   {
     "id": 1538077,
@@ -54,9 +66,9 @@
     "homeTeam": "Primavera MG",
     "awayTeam": "Brasiliense",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Primavera MG Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CEOV Operário Win",
-    "outcome": "Lost"
+    "prediction": "Goiatuba EC Win",
+    "outcome": "Won"
   },
   {
     "id": 1538043,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Aparecidense Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538038,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Capital Brasilia",
-    "awayTeam": "União Rondonópolis",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Capital Brasilia Win",
     "outcome": "Won"
   }
 ]
