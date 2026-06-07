@@ -1,5 +1,17 @@
 [
   {
+    "id": 1542663,
+    "league": "USL League One Cup (USA)",
+    "matchDate": "FT",
+    "homeTeam": "New Mexico United",
+    "awayTeam": "Phoenix Rising",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1532347,
     "league": "USL W League (USA)",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Recoleta Win",
-    "outcome": "Lost"
+    "prediction": "Deportes Iquique Win",
+    "outcome": "Won"
   },
   {
     "id": 1548199,
@@ -92,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Rentistas Win",
-    "outcome": "Lost"
+    "prediction": "Colón Win",
+    "outcome": "Won"
   },
   {
     "id": 1540355,
@@ -128,19 +140,7 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Union Omaha Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524801,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Charlottesville Blues",
-    "awayTeam": "Evergreen",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Charlottesville Blues Win",
-    "outcome": "Won"
+    "prediction": "Fort Wayne Win",
+    "outcome": "Lost"
   }
 ]
