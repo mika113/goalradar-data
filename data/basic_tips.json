@@ -1,30 +1,12 @@
 [
   {
-    "id": 1498591,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "23:30",
-    "homeTeam": "San Martin Tucuman",
-    "awayTeam": "Quilmes",
-    "prediction": "San Martin Tucuman Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1526548,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "Deportivo Cuenca Juniors",
-    "awayTeam": "El Nacional",
-    "prediction": "Deportivo Cuenca Juniors Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1524805,
     "league": "USL League Two (USA)",
     "matchTime": "00:00",
     "homeTeam": "West Seattle Junction",
     "awayTeam": "Midlakes United",
-    "prediction": "Midlakes United Win",
-    "odds": "2.5"
+    "prediction": "Double Chance X2",
+    "odds": "1.38"
   },
   {
     "id": 1524810,
@@ -33,7 +15,7 @@
     "homeTeam": "Toledo Villa",
     "awayTeam": "Louisville City II",
     "prediction": "Toledo Villa Win",
-    "odds": "1.7"
+    "odds": "1.52"
   },
   {
     "id": 1532138,
@@ -41,8 +23,8 @@
     "matchTime": "00:00",
     "homeTeam": "Fort Lauderdale Utd II W",
     "awayTeam": "TLH Reckoning W",
-    "prediction": "TLH Reckoning W Win",
-    "odds": "3.24"
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
   },
   {
     "id": 1532387,
@@ -50,7 +32,25 @@
     "matchTime": "00:00",
     "homeTeam": "Loudoun United FC W",
     "awayTeam": "Eagle FC W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "prediction": "Loudoun United FC W Win",
+    "odds": "1.37"
+  },
+  {
+    "id": 1548201,
+    "league": "Segunda División (Uruguay)",
+    "matchTime": "00:00",
+    "homeTeam": "Tacuarembo",
+    "awayTeam": "Uruguay Montevideo",
+    "prediction": "Tacuarembo Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1538386,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "00:15",
+    "homeTeam": "The Strongest",
+    "awayTeam": "Oriente Petrolero",
+    "prediction": "The Strongest Win",
+    "odds": "1.69"
   }
 ]
