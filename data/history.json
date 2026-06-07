@@ -9,6 +9,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532516,
+    "league": "Ýokary Liga (Turkmenistan)",
+    "matchDate": "FT",
+    "homeTeam": "Arkadag",
+    "awayTeam": "Nebitci",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Lost"
   },
   {
@@ -66,9 +78,9 @@
     "homeTeam": "Rodina Moskva II",
     "awayTeam": "Tekstilshchik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tekstilshchik Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Staffanstorp United Win",
-    "outcome": "Won"
+    "prediction": "Växjö Norra Win",
+    "outcome": "Lost"
   },
   {
     "id": 1510597,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Arlanda Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1504457,
-    "league": "Ettan - Södra (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Trelleborg",
-    "awayTeam": "Skövde AIK",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Trelleborg Win",
     "outcome": "Won"
   }
 ]
