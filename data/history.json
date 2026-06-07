@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1499939,
+    "league": "Primera C (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Victoriano Arenas",
+    "awayTeam": "Defensores de Cambaceres",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1499459,
     "league": "Primera B Metropolitana (Argentina)",
     "matchDate": "FT",
@@ -90,7 +102,7 @@
     "homeTeam": "China PR U20",
     "awayTeam": "Tunisia U23",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Tunisia U23 Win",
     "outcome": "Won"
@@ -104,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Ukraine Win",
-    "outcome": "Lost"
+    "prediction": "Denmark Win",
+    "outcome": "Won"
   },
   {
     "id": 1540363,
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "A. Italiano Win",
-    "outcome": "Won"
+    "prediction": "Universidad de Chile Win",
+    "outcome": "Lost"
   },
   {
     "id": 1540362,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Union La Calera Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546553,
-    "league": "Tercera División RFEF - Group 5 (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Badalona",
-    "awayTeam": "Cornellà",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Badalona Win",
     "outcome": "Won"
   }
 ]
