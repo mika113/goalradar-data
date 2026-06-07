@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Arnedo",
     "awayTeam": "Oyonesa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Arnedo Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tunisia U23 Win",
-    "outcome": "Won"
+    "prediction": "China PR U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543830,
@@ -78,7 +78,7 @@
     "homeTeam": "Denmark",
     "awayTeam": "Ukraine",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Denmark Win",
     "outcome": "Won"
@@ -90,10 +90,10 @@
     "homeTeam": "Universidad de Chile",
     "awayTeam": "A. Italiano",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "A. Italiano Win",
+    "outcome": "Won"
   },
   {
     "id": 1540362,
@@ -102,10 +102,10 @@
     "homeTeam": "D. La Serena",
     "awayTeam": "Union La Calera",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Union La Calera Win",
-    "outcome": "Won"
+    "prediction": "D. La Serena Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546553,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Badalona",
     "awayTeam": "Cornellà",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Badalona Win",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "Maldives",
     "awayTeam": "Bangladesh U23",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Maldives Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
