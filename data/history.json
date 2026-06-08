@@ -1,15 +1,51 @@
 [
   {
+    "id": 1548299,
+    "league": "League Cup (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Enppi",
+    "awayTeam": "AL Masry",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1505175,
+    "league": "Ettan - Norra (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Järfälla",
+    "awayTeam": "Stocksund",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1504458,
+    "league": "Ettan - Södra (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Utsikten",
+    "awayTeam": "Rosengård",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1515750,
     "league": "Division 2 - Norrland (Sweden)",
     "matchDate": "FT",
     "homeTeam": "Täfteå",
     "awayTeam": "Umeå FC Akademi",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Umeå FC Akademi Win",
-    "outcome": "Lost"
+    "prediction": "Täfteå Win",
+    "outcome": "Won"
   },
   {
     "id": 1505178,
@@ -45,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1545468,
@@ -78,9 +114,9 @@
     "homeTeam": "USA U21",
     "awayTeam": "Uzbekistan U23",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Uzbekistan U23 Win",
     "outcome": "Won"
   },
   {
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "FUS Rabat",
     "awayTeam": "Difaa EL Jadida",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541619,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Kiffen",
-    "awayTeam": "PuiU Helsinki",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kiffen Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532145,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Colorado Storm W",
-    "awayTeam": "Flatirons II W",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Colorado Storm W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530592,
-    "league": "1 Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "Dainava",
-    "awayTeam": "Garliava",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
