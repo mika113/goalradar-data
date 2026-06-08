@@ -6,9 +6,9 @@
     "homeTeam": "Provincial Ovalle",
     "awayTeam": "Trasandino",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Trasandino Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "France",
     "awayTeam": "Northern Ireland",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "France Win",
     "outcome": "Won"
   },
   {
@@ -30,7 +30,7 @@
     "homeTeam": "Ceres",
     "awayTeam": "Tigres do Brasil",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Tigres do Brasil Win",
     "outcome": "Won"
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1513138,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1544812,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Netherlands Win",
-    "outcome": "Won"
+    "prediction": "Uzbekistan Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499930,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Berazategui",
     "awayTeam": "Juventud Unida",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Berazategui Win",
     "outcome": "Won"
   },
   {
@@ -113,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Germany U23 W",
     "awayTeam": "Denmark U23 W",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
