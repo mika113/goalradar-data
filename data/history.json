@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Iraq U20",
     "awayTeam": "Jordan U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Iraq U20 Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Sable",
     "awayTeam": "Bafmeng United",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 0,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "Foncha ST",
     "awayTeam": "Tonnerre",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Tonnerre Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1548449,
@@ -114,9 +114,9 @@
     "homeTeam": "Masr",
     "awayTeam": "Wadi Degla",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wadi Degla Win",
     "outcome": "Won"
   },
   {
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Metalourg",
     "awayTeam": "FarDu",
-    "homeScore": 6,
+    "homeScore": 7,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Metalourg Win",
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ukraine U21 Win",
-    "outcome": "Lost"
+    "prediction": "Japan U21 Win",
+    "outcome": "Won"
   }
 ]
