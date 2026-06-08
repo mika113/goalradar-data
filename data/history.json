@@ -1,14 +1,26 @@
 [
   {
+    "id": 1533350,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Germany U23 W",
+    "awayTeam": "Denmark U23 W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1550760,
     "league": "Carioca C (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Uni Souza",
     "awayTeam": "Barcelona RJ",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Uni Souza Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548328,
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Monsoon",
     "awayTeam": "Santa Cruz RS",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Monsoon Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Unión Santa Fe Res. Win",
-    "outcome": "Won"
+    "prediction": "Atlético Tucumán Res. Win",
+    "outcome": "Lost"
   },
   {
     "id": 1512464,
@@ -66,9 +78,9 @@
     "homeTeam": "Racing Club Res.",
     "awayTeam": "Banfield Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Banfield Res. Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Independiente Riva. Res.",
     "awayTeam": "Quilmes 2",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Independiente Riva. Res. Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1512457,
@@ -102,9 +114,9 @@
     "homeTeam": "Defensa y Justicia Res.",
     "awayTeam": "Ferro 2",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ferro 2 Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Enppi",
     "awayTeam": "AL Masry",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1505175,
-    "league": "Ettan - Norra (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Järfälla",
-    "awayTeam": "Stocksund",
-    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "AL Masry Win",
     "outcome": "Won"
   }
 ]
