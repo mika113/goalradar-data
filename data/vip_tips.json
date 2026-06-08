@@ -1,57 +1,12 @@
 [
   {
-    "id": 1550761,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Ceres",
-    "awayTeam": "Tigres do Brasil",
-    "prediction": "Ceres Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1542183,
-    "league": "Friendlies (World)",
-    "matchTime": "22:10",
-    "homeTeam": "France",
-    "awayTeam": "Northern Ireland",
-    "prediction": "France Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1529109,
-    "league": "Segunda División (Chile)",
-    "matchTime": "22:30",
-    "homeTeam": "Provincial Ovalle",
-    "awayTeam": "Trasandino",
-    "prediction": "Trasandino Win",
-    "odds": "2.3"
-  },
-  {
-    "id": 1546545,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "23:00",
-    "homeTeam": "Encarnación",
-    "awayTeam": "SOL DE America",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
-  },
-  {
-    "id": 1548330,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "23:00",
-    "homeTeam": "Olympique Dcheïra",
-    "awayTeam": "Hassania Agadir",
-    "prediction": "Olympique Dcheïra Win",
-    "odds": "1.86"
-  },
-  {
     "id": 1546413,
     "league": "Primera A (Colombia)",
     "matchTime": "01:00",
     "homeTeam": "Atletico Nacional",
     "awayTeam": "Junior",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1546812,
@@ -59,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Liverpool Montevideo",
     "awayTeam": "Cerro Largo",
-    "prediction": "Liverpool Montevideo Win",
-    "odds": "1.64"
+    "prediction": "Cerro Largo Win",
+    "odds": "2.06"
   },
   {
     "id": 1546546,
@@ -68,7 +23,52 @@
     "matchTime": "01:30",
     "homeTeam": "3 de Noviembre",
     "awayTeam": "General Caballero",
-    "prediction": "General Caballero Win",
-    "odds": "2.68"
+    "prediction": "3 de Noviembre Win",
+    "odds": "1.94"
+  },
+  {
+    "id": 1547672,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Mamoré",
+    "awayTeam": "Uberaba",
+    "prediction": "Mamoré Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1520710,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "America Mineiro",
+    "awayTeam": "Atletico Goianiense",
+    "prediction": "Atletico Goianiense Win",
+    "odds": "3.45"
+  },
+  {
+    "id": 1520719,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Vila Nova",
+    "awayTeam": "Botafogo SP",
+    "prediction": "Botafogo SP Win",
+    "odds": "2.43"
+  },
+  {
+    "id": 1524817,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "The Villages",
+    "awayTeam": "Sporting Jax 2",
+    "prediction": "The Villages Win",
+    "odds": "1.3"
+  },
+  {
+    "id": 1511604,
+    "league": "Primera B (Chile)",
+    "matchTime": "02:30",
+    "homeTeam": "Deportes Temuco",
+    "awayTeam": "Curico Unido",
+    "prediction": "Deportes Temuco Win",
+    "odds": "1.85"
   }
 ]
