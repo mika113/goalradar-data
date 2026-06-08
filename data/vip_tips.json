@@ -1,30 +1,12 @@
 [
   {
-    "id": 1520710,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "America Mineiro",
-    "awayTeam": "Atletico Goianiense",
-    "prediction": "America Mineiro Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1520719,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Vila Nova",
-    "awayTeam": "Botafogo SP",
-    "prediction": "Vila Nova Win",
-    "odds": "1.69"
-  },
-  {
     "id": 1524817,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "The Villages",
     "awayTeam": "Sporting Jax 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "The Villages Win",
+    "odds": "1.31"
   },
   {
     "id": 1511604,
@@ -32,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Curico Unido",
-    "prediction": "Deportes Temuco Win",
-    "odds": "1.99"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1511608,
@@ -41,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Union Espanola",
     "awayTeam": "Union San Felipe",
-    "prediction": "Union San Felipe Win",
-    "odds": "2.15"
+    "prediction": "Union Espanola Win",
+    "odds": "1.4"
   },
   {
     "id": 1532146,
@@ -51,7 +33,7 @@
     "homeTeam": "Paisley Athletic W",
     "awayTeam": "Cedar Stars W",
     "prediction": "Paisley Athletic W Win",
-    "odds": "1.77"
+    "odds": "1.79"
   },
   {
     "id": 1532147,
@@ -59,8 +41,8 @@
     "matchTime": "02:30",
     "homeTeam": "Tormenta W",
     "awayTeam": "SC United Bantams W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
   },
   {
     "id": 1513144,
@@ -68,7 +50,25 @@
     "matchTime": "03:00",
     "homeTeam": "Minnesota United II",
     "awayTeam": "Sporting KC II",
-    "prediction": "Sporting KC II Win",
-    "odds": "3.09"
+    "prediction": "Minnesota United II Win",
+    "odds": "1.53"
+  },
+  {
+    "id": 1532348,
+    "league": "USL W League (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "RKC Third Coast W",
+    "awayTeam": "Edgewater Castle W",
+    "prediction": "RKC Third Coast W Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1545446,
+    "league": "Friendlies Women (World)",
+    "matchTime": "04:00",
+    "homeTeam": "Panama W",
+    "awayTeam": "Jamaica W",
+    "prediction": "Jamaica W Win",
+    "odds": "2.09"
   }
 ]
