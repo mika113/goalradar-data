@@ -1,39 +1,12 @@
 [
   {
-    "id": 1540190,
-    "league": "Cearense U20 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Ceará U20",
-    "awayTeam": "Fortaleza U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.09"
-  },
-  {
-    "id": 1544582,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Monsoon",
-    "awayTeam": "Santa Cruz RS",
-    "prediction": "Monsoon Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1548328,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "21:00",
-    "homeTeam": "Renaissance Berkane",
-    "awayTeam": "Ittihad Tanger",
-    "prediction": "Renaissance Berkane Win",
-    "odds": "1.55"
-  },
-  {
     "id": 1548329,
     "league": "Botola Pro (Morocco)",
     "matchTime": "21:00",
     "homeTeam": "Wydad AC",
     "awayTeam": "Olympique Safi",
-    "prediction": "Wydad AC Win",
-    "odds": "1.63"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
   },
   {
     "id": 1550760,
@@ -42,7 +15,7 @@
     "homeTeam": "Uni Souza",
     "awayTeam": "Barcelona RJ",
     "prediction": "Uni Souza Win",
-    "odds": "1.75"
+    "odds": "1.94"
   },
   {
     "id": 1533350,
@@ -50,8 +23,8 @@
     "matchTime": "21:15",
     "homeTeam": "Germany U23 W",
     "awayTeam": "Denmark U23 W",
-    "prediction": "Denmark U23 W Win",
-    "odds": "2.79"
+    "prediction": "Germany U23 W Win",
+    "odds": "1.99"
   },
   {
     "id": 1499461,
@@ -59,8 +32,8 @@
     "matchTime": "21:30",
     "homeTeam": "UAI Urquiza",
     "awayTeam": "Liniers",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.63"
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   },
   {
     "id": 1499930,
@@ -68,8 +41,8 @@
     "matchTime": "21:30",
     "homeTeam": "Berazategui",
     "awayTeam": "Juventud Unida",
-    "prediction": "Juventud Unida Win",
-    "odds": "2.41"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1544812,
@@ -77,8 +50,8 @@
     "matchTime": "21:45",
     "homeTeam": "Netherlands",
     "awayTeam": "Uzbekistan",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
+    "prediction": "Netherlands Win",
+    "odds": "1.61"
   },
   {
     "id": 1513138,
@@ -86,7 +59,34 @@
     "matchTime": "22:00",
     "homeTeam": "Columbus Crew II",
     "awayTeam": "Connecticut FC",
-    "prediction": "Columbus Crew II Win",
-    "odds": "1.61"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
+  },
+  {
+    "id": 1525691,
+    "league": "USL League Two (USA)",
+    "matchTime": "22:00",
+    "homeTeam": "Colorado Storm",
+    "awayTeam": "Flatirons Rush",
+    "prediction": "Colorado Storm Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1546495,
+    "league": "Friendlies (World)",
+    "matchTime": "22:00",
+    "homeTeam": "Niger",
+    "awayTeam": "Mauritania",
+    "prediction": "Both Teams To Score",
+    "odds": "1.63"
+  },
+  {
+    "id": 1546559,
+    "league": "Friendlies Women (World)",
+    "matchTime": "22:00",
+    "homeTeam": "Ivory Coast W",
+    "awayTeam": "Cape Verde W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   }
 ]
