@@ -1,84 +1,12 @@
 [
   {
-    "id": 1545740,
-    "league": "Friendlies Women (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Equatorial Guinea W",
-    "awayTeam": "Haiti W",
-    "prediction": "Equatorial Guinea W Win & Over 1.5",
-    "odds": "1.98"
-  },
-  {
-    "id": 1548327,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "19:00",
-    "homeTeam": "FUS Rabat",
-    "awayTeam": "Difaa EL Jadida",
-    "prediction": "FUS Rabat Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1548453,
-    "league": "Friendlies (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Norway U21",
-    "awayTeam": "Finland U21",
-    "prediction": "Double Chance X2",
-    "odds": "1.51"
-  },
-  {
-    "id": 1550826,
-    "league": "Friendlies (World)",
-    "matchTime": "19:00",
-    "homeTeam": "USA U21",
-    "awayTeam": "Uzbekistan U23",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
-  },
-  {
-    "id": 1546501,
-    "league": "Friendlies (World)",
-    "matchTime": "19:15",
-    "homeTeam": "Italy U21",
-    "awayTeam": "Albania U21",
-    "prediction": "Albania U21 Win",
-    "odds": "2.29"
-  },
-  {
-    "id": 1545468,
-    "league": "Tournoi Maurice Revello (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Venezuela U20",
-    "awayTeam": "Portugal U20",
-    "prediction": "Portugal U20 Win",
-    "odds": "2.29"
-  },
-  {
-    "id": 1548482,
-    "league": "Friendlies Women (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Sweden U18 W",
-    "awayTeam": "Iceland U19 W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.74"
-  },
-  {
-    "id": 1548483,
-    "league": "Friendlies Women (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Sweden U23 W",
-    "awayTeam": "Mexico U23 W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
-  },
-  {
     "id": 1504451,
     "league": "Ettan - Södra (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Angelholms FF",
     "awayTeam": "Olympic",
-    "prediction": "Olympic Win",
-    "odds": "3.38"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1505178,
@@ -86,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Stockholm Internazionale",
     "awayTeam": "Vasalund",
-    "prediction": "Stockholm Internazionale Win",
-    "odds": "1.95"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1515750,
@@ -95,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Täfteå",
     "awayTeam": "Umeå FC Akademi",
-    "prediction": "Umeå FC Akademi Win",
-    "odds": "2.58"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
   },
   {
     "id": 1504458,
@@ -104,7 +32,79 @@
     "matchTime": "20:30",
     "homeTeam": "Utsikten",
     "awayTeam": "Rosengård",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "Rosengård Win",
+    "odds": "2.88"
+  },
+  {
+    "id": 1505175,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "20:30",
+    "homeTeam": "Järfälla",
+    "awayTeam": "Stocksund",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.91"
+  },
+  {
+    "id": 1548299,
+    "league": "League Cup (Egypt)",
+    "matchTime": "20:30",
+    "homeTeam": "Enppi",
+    "awayTeam": "AL Masry",
+    "prediction": "AL Masry Win",
+    "odds": "2.49"
+  },
+  {
+    "id": 1550759,
+    "league": "Carioca C (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Búzios",
+    "awayTeam": "Cardoso Moreira",
+    "prediction": "Búzios Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1512457,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Defensa y Justicia Res.",
+    "awayTeam": "Ferro 2",
+    "prediction": "Defensa y Justicia Res. Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1512460,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Gimnasia La Plata Res.",
+    "awayTeam": "Godoy Cruz Res.",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
+  },
+  {
+    "id": 1512461,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Independiente Riva. Res.",
+    "awayTeam": "Quilmes 2",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
+  },
+  {
+    "id": 1512464,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Racing Club Res.",
+    "awayTeam": "Banfield Res.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.89"
+  },
+  {
+    "id": 1512469,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Unión Santa Fe Res.",
+    "awayTeam": "Atlético Tucumán Res.",
+    "prediction": "Unión Santa Fe Res. Win",
+    "odds": "1.9"
   }
 ]
