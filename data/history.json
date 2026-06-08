@@ -12,11 +12,35 @@
     "outcome": "Won"
   },
   {
+    "id": 1512469,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Unión Santa Fe Res.",
+    "awayTeam": "Atlético Tucumán Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1512464,
     "league": "Reserve League (Argentina)",
     "matchDate": "FT",
     "homeTeam": "Racing Club Res.",
     "awayTeam": "Banfield Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1512460,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Gimnasia La Plata Res.",
+    "awayTeam": "Godoy Cruz Res.",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -33,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1550759,
@@ -57,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1505175,
@@ -92,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Umeå FC Akademi Win",
-    "outcome": "Lost"
+    "prediction": "Täfteå Win",
+    "outcome": "Won"
   },
   {
     "id": 1505178,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Angelholms FF Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548483,
-    "league": "Friendlies Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sweden U23 W",
-    "awayTeam": "Mexico U23 W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Mexico U23 W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545468,
-    "league": "Tournoi Maurice Revello (World)",
-    "matchDate": "FT",
-    "homeTeam": "Venezuela U20",
-    "awayTeam": "Portugal U20",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Portugal U20 Win",
     "outcome": "Won"
   }
 ]
