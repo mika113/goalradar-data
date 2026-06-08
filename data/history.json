@@ -1,5 +1,53 @@
 [
   {
+    "id": 1550760,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Uni Souza",
+    "awayTeam": "Barcelona RJ",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1512464,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Racing Club Res.",
+    "awayTeam": "Banfield Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1512457,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Defensa y Justicia Res.",
+    "awayTeam": "Ferro 2",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1550759,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Búzios",
+    "awayTeam": "Cardoso Moreira",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1548299,
     "league": "League Cup (Egypt)",
     "matchDate": "FT",
@@ -17,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Järfälla",
     "awayTeam": "Stocksund",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Järfälla Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Täfteå Win",
-    "outcome": "Won"
+    "prediction": "Umeå FC Akademi Win",
+    "outcome": "Lost"
   },
   {
     "id": 1505178,
@@ -65,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Angelholms FF",
     "awayTeam": "Olympic",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Angelholms FF Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +126,9 @@
     "homeTeam": "Sweden U23 W",
     "awayTeam": "Mexico U23 W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mexico U23 W Win",
     "outcome": "Won"
   },
   {
@@ -90,57 +138,9 @@
     "homeTeam": "Venezuela U20",
     "awayTeam": "Portugal U20",
     "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Venezuela U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546501,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Italy U21",
-    "awayTeam": "Albania U21",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550826,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "USA U21",
-    "awayTeam": "Uzbekistan U23",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Uzbekistan U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548453,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Norway U21",
-    "awayTeam": "Finland U21",
-    "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Finland U21 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548327,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "FUS Rabat",
-    "awayTeam": "Difaa EL Jadida",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Portugal U20 Win",
     "outcome": "Won"
   }
 ]
