@@ -1,30 +1,12 @@
 [
   {
-    "id": 1546413,
-    "league": "Primera A (Colombia)",
-    "matchTime": "01:00",
-    "homeTeam": "Atletico Nacional",
-    "awayTeam": "Junior",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
-  },
-  {
-    "id": 1546812,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "01:00",
-    "homeTeam": "Liverpool Montevideo",
-    "awayTeam": "Cerro Largo",
-    "prediction": "Liverpool Montevideo Win",
-    "odds": "1.89"
-  },
-  {
     "id": 1546546,
     "league": "Division Intermedia (Paraguay)",
     "matchTime": "01:30",
     "homeTeam": "3 de Noviembre",
     "awayTeam": "General Caballero",
-    "prediction": "3 de Noviembre Win",
-    "odds": "1.82"
+    "prediction": "General Caballero Win",
+    "odds": "1.92"
   },
   {
     "id": 1547672,
@@ -32,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "Mamoré",
     "awayTeam": "Uberaba",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "prediction": "Double Chance X2",
+    "odds": "1.68"
   },
   {
     "id": 1520710,
@@ -42,7 +24,7 @@
     "homeTeam": "America Mineiro",
     "awayTeam": "Atletico Goianiense",
     "prediction": "America Mineiro Win",
-    "odds": "1.37"
+    "odds": "1.76"
   },
   {
     "id": 1520719,
@@ -50,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Vila Nova",
     "awayTeam": "Botafogo SP",
-    "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.83"
   },
   {
     "id": 1524817,
@@ -59,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "The Villages",
     "awayTeam": "Sporting Jax 2",
-    "prediction": "The Villages Win",
-    "odds": "1.63"
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
   },
   {
     "id": 1511604,
@@ -69,6 +51,24 @@
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Curico Unido",
     "prediction": "Deportes Temuco Win",
-    "odds": "1.54"
+    "odds": "1.84"
+  },
+  {
+    "id": 1511608,
+    "league": "Primera B (Chile)",
+    "matchTime": "02:30",
+    "homeTeam": "Union Espanola",
+    "awayTeam": "Union San Felipe",
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
+  },
+  {
+    "id": 1532146,
+    "league": "USL W League (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Paisley Athletic W",
+    "awayTeam": "Cedar Stars W",
+    "prediction": "Paisley Athletic W Win",
+    "odds": "1.58"
   }
 ]
