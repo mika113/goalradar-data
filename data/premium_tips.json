@@ -1,39 +1,12 @@
 [
   {
-    "id": 1544582,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Monsoon",
-    "awayTeam": "Santa Cruz RS",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1548328,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "21:00",
-    "homeTeam": "Renaissance Berkane",
-    "awayTeam": "Ittihad Tanger",
-    "prediction": "Renaissance Berkane Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1548329,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "21:00",
-    "homeTeam": "Wydad AC",
-    "awayTeam": "Olympique Safi",
-    "prediction": "Wydad AC Win",
-    "odds": "1.7"
-  },
-  {
     "id": 1550760,
     "league": "Carioca C (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "Uni Souza",
     "awayTeam": "Barcelona RJ",
-    "prediction": "Barcelona RJ Win",
-    "odds": "1.97"
+    "prediction": "Uni Souza Win",
+    "odds": "1.67"
   },
   {
     "id": 1533350,
@@ -41,8 +14,8 @@
     "matchTime": "21:15",
     "homeTeam": "Germany U23 W",
     "awayTeam": "Denmark U23 W",
-    "prediction": "Germany U23 W Win",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1499461,
@@ -51,7 +24,7 @@
     "homeTeam": "UAI Urquiza",
     "awayTeam": "Liniers",
     "prediction": "UAI Urquiza Win",
-    "odds": "1.4"
+    "odds": "1.78"
   },
   {
     "id": 1499930,
@@ -59,8 +32,8 @@
     "matchTime": "21:30",
     "homeTeam": "Berazategui",
     "awayTeam": "Juventud Unida",
-    "prediction": "Berazategui Win",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.15"
   },
   {
     "id": 1544812,
@@ -68,8 +41,8 @@
     "matchTime": "21:45",
     "homeTeam": "Netherlands",
     "awayTeam": "Uzbekistan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Netherlands Win",
+    "odds": "1.42"
   },
   {
     "id": 1513138,
@@ -77,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "Columbus Crew II",
     "awayTeam": "Connecticut FC",
-    "prediction": "Columbus Crew II Win",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1525691,
@@ -86,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Colorado Storm",
     "awayTeam": "Flatirons Rush",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "prediction": "Flatirons Rush Win",
+    "odds": "2.14"
   },
   {
     "id": 1546495,
@@ -96,7 +69,7 @@
     "homeTeam": "Niger",
     "awayTeam": "Mauritania",
     "prediction": "Niger Win",
-    "odds": "1.83"
+    "odds": "1.37"
   },
   {
     "id": 1546559,
@@ -104,7 +77,34 @@
     "matchTime": "22:00",
     "homeTeam": "Ivory Coast W",
     "awayTeam": "Cape Verde W",
-    "prediction": "Ivory Coast W Win & Over 1.5",
-    "odds": "2.97"
+    "prediction": "Ivory Coast W Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1550761,
+    "league": "Carioca C (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Ceres",
+    "awayTeam": "Tigres do Brasil",
+    "prediction": "Tigres do Brasil Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1542183,
+    "league": "Friendlies (World)",
+    "matchTime": "22:10",
+    "homeTeam": "France",
+    "awayTeam": "Northern Ireland",
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1529109,
+    "league": "Segunda División (Chile)",
+    "matchTime": "22:30",
+    "homeTeam": "Provincial Ovalle",
+    "awayTeam": "Trasandino",
+    "prediction": "Provincial Ovalle Win",
+    "odds": "1.61"
   }
 ]
