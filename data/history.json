@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Sable",
     "awayTeam": "Bafmeng United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sable Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +18,10 @@
     "homeTeam": "Foncha ST",
     "awayTeam": "Tonnerre",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Tonnerre Win",
+    "outcome": "Won"
   },
   {
     "id": 1512933,
@@ -54,9 +54,9 @@
     "homeTeam": "Latvia U19",
     "awayTeam": "Estonia U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Estonia U19 Win",
     "outcome": "Won"
   },
   {
@@ -92,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ukraine U21 Win",
-    "outcome": "Lost"
+    "prediction": "Japan U21 Win",
+    "outcome": "Won"
   },
   {
     "id": 1547219,
@@ -104,8 +104,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Thailand U19 Win",
-    "outcome": "Won"
+    "prediction": "Malaysia U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547218,
@@ -138,7 +138,7 @@
     "homeTeam": "Pakhtakor II",
     "awayTeam": "Respublika FA",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Respublika FA Win",
     "outcome": "Won"
