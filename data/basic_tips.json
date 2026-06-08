@@ -1,21 +1,12 @@
 [
   {
-    "id": 1550824,
-    "league": "Friendlies (World)",
-    "matchTime": "14:30",
-    "homeTeam": "Sri Lanka",
-    "awayTeam": "Bhutan",
-    "prediction": "Sri Lanka Win",
-    "odds": "1.86"
-  },
-  {
     "id": 1546500,
     "league": "Friendlies (World)",
     "matchTime": "15:00",
     "homeTeam": "Uganda",
     "awayTeam": "Madagascar",
     "prediction": "Uganda Win",
-    "odds": "1.54"
+    "odds": "1.81"
   },
   {
     "id": 1550825,
@@ -23,8 +14,17 @@
     "matchTime": "15:00",
     "homeTeam": "North Macedonia U21",
     "awayTeam": "United States U20",
-    "prediction": "Double Chance X2",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
+  },
+  {
+    "id": 1547531,
+    "league": "Elite Two (Cameroon)",
+    "matchTime": "15:30",
+    "homeTeam": "Bamboutos",
+    "awayTeam": "Union Douala",
+    "prediction": "Union Douala Win",
+    "odds": "2.5"
   },
   {
     "id": 1547534,
@@ -32,8 +32,8 @@
     "matchTime": "15:30",
     "homeTeam": "FAP",
     "awayTeam": "Yafoot",
-    "prediction": "Both Teams To Score",
-    "odds": "2.11"
+    "prediction": "FAP Win",
+    "odds": "1.52"
   },
   {
     "id": 1530973,
@@ -41,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Jayxun",
     "awayTeam": "Aral",
-    "prediction": "Aral Win",
-    "odds": "2.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1531058,
@@ -51,6 +51,6 @@
     "homeTeam": "Pakhtakor II",
     "awayTeam": "Respublika FA",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.05"
+    "odds": "1.95"
   }
 ]
