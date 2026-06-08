@@ -1,30 +1,12 @@
 [
   {
-    "id": 1532147,
-    "league": "USL W League (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Tormenta W",
-    "awayTeam": "SC United Bantams W",
-    "prediction": "Double Chance X2",
-    "odds": "1.47"
-  },
-  {
-    "id": 1513144,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Minnesota United II",
-    "awayTeam": "Sporting KC II",
-    "prediction": "Minnesota United II Win",
-    "odds": "1.74"
-  },
-  {
     "id": 1532348,
     "league": "USL W League (USA)",
     "matchTime": "03:00",
     "homeTeam": "RKC Third Coast W",
     "awayTeam": "Edgewater Castle W",
-    "prediction": "RKC Third Coast W Win & Over 1.5",
-    "odds": "2.71"
+    "prediction": "RKC Third Coast W Win",
+    "odds": "1.34"
   },
   {
     "id": 1545446,
@@ -33,7 +15,7 @@
     "homeTeam": "Panama W",
     "awayTeam": "Jamaica W",
     "prediction": "Panama W Win",
-    "odds": "1.81"
+    "odds": "1.64"
   },
   {
     "id": 1540356,
@@ -41,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "Peru",
     "awayTeam": "Spain",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Peru Win",
+    "odds": "1.3"
   },
   {
     "id": 1548454,
@@ -51,7 +33,7 @@
     "homeTeam": "Vanuatu",
     "awayTeam": "Fiji",
     "prediction": "Vanuatu Win",
-    "odds": "1.58"
+    "odds": "1.73"
   },
   {
     "id": 1542896,
@@ -59,8 +41,8 @@
     "matchTime": "09:30",
     "homeTeam": "Japan W",
     "awayTeam": "South Africa W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Japan W Win",
+    "odds": "1.56"
   },
   {
     "id": 1545736,
@@ -69,7 +51,7 @@
     "homeTeam": "Indonesia W",
     "awayTeam": "Cambodia W",
     "prediction": "Cambodia W Win",
-    "odds": "2.84"
+    "odds": "3.36"
   },
   {
     "id": 1544317,
@@ -77,8 +59,8 @@
     "matchTime": "12:00",
     "homeTeam": "Australia W",
     "awayTeam": "Mexico W",
-    "prediction": "Australia W Win",
-    "odds": "1.74"
+    "prediction": "Australia W Win & Over 1.5",
+    "odds": "2.43"
   },
   {
     "id": 1548087,
@@ -86,8 +68,8 @@
     "matchTime": "12:00",
     "homeTeam": "Timor-Leste",
     "awayTeam": "Brunei",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Timor-Leste Win & Over 1.5",
+    "odds": "2.14"
   },
   {
     "id": 1524215,
@@ -96,7 +78,7 @@
     "homeTeam": "Ipswich",
     "awayTeam": "Robina City",
     "prediction": "Ipswich Win",
-    "odds": "1.91"
+    "odds": "1.44"
   },
   {
     "id": 1532572,
@@ -104,7 +86,25 @@
     "matchTime": "13:00",
     "homeTeam": "Singleton Strikers",
     "awayTeam": "Cessnock City Hornets",
-    "prediction": "Singleton Strikers Win",
-    "odds": "1.77"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
+  },
+  {
+    "id": 1544363,
+    "league": "Friendlies (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Cambodia",
+    "awayTeam": "Hong Kong",
+    "prediction": "Hong Kong Win",
+    "odds": "3.5"
+  },
+  {
+    "id": 1546503,
+    "league": "Friendlies (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Thailand U23",
+    "awayTeam": "UAE U23",
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   }
 ]
