@@ -20,7 +20,19 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sweden U19 Win",
+    "prediction": "Wales U19 Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1550822,
+    "league": "Friendlies (World)",
+    "matchDate": "FT",
+    "homeTeam": "Albania U17",
+    "awayTeam": "Bulgaria U17",
+    "homeScore": 4,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Albania U17 Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Challenge W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1528288,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Colombia",
-    "awayTeam": "Jordan",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Colombia Win",
     "outcome": "Won"
   }
 ]
