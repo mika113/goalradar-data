@@ -6,9 +6,9 @@
     "homeTeam": "Olympique Dcheïra",
     "awayTeam": "Hassania Agadir",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hassania Agadir Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "France",
     "awayTeam": "Northern Ireland",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "France Win",
-    "outcome": "Won"
+    "prediction": "Northern Ireland Win",
+    "outcome": "Lost"
   },
   {
     "id": 1550761,
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Ceres",
     "awayTeam": "Tigres do Brasil",
-    "homeScore": 0,
-    "awayScore": 3,
+    "homeScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Tigres do Brasil Win",
     "outcome": "Won"
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Netherlands Win",
-    "outcome": "Won"
+    "prediction": "Uzbekistan Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499930,
