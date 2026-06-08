@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "France",
     "awayTeam": "Northern Ireland",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Northern Ireland Win",
-    "outcome": "Lost"
+    "prediction": "France Win",
+    "outcome": "Won"
   },
   {
     "id": 1550761,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Ceres",
     "awayTeam": "Tigres do Brasil",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 4,
     "status": "FT",
     "prediction": "Tigres do Brasil Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Niger",
     "awayTeam": "Mauritania",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mauritania Win",
     "outcome": "Won"
   },
   {
@@ -89,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Columbus Crew II",
     "awayTeam": "Connecticut FC",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Columbus Crew II Win",
+    "outcome": "Won"
   },
   {
     "id": 1544812,
@@ -101,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Netherlands",
     "awayTeam": "Uzbekistan",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Netherlands Win",
     "outcome": "Won"
@@ -116,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Berazategui Win",
-    "outcome": "Won"
+    "prediction": "Juventud Unida Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499461,
