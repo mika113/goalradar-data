@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Thailand U19",
     "awayTeam": "Malaysia U19",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1545467,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Côte d'Ivoire U20",
     "awayTeam": "Canada U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Côte d'Ivoire U20 Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "Jayxun",
     "awayTeam": "Aral",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Aral Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "FAP",
     "awayTeam": "Yafoot",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FAP Win",
-    "outcome": "Won"
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1547531,
@@ -113,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Sri Lanka",
     "awayTeam": "Bhutan",
-    "homeScore": 3,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Sri Lanka Win",
     "outcome": "Won"
@@ -128,8 +128,8 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Brunswick Juventus FC Win",
-    "outcome": "Lost"
+    "prediction": "Melbourne Victory II Win",
+    "outcome": "Won"
   },
   {
     "id": 1550823,
