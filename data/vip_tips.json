@@ -1,39 +1,12 @@
 [
   {
-    "id": 1525691,
-    "league": "USL League Two (USA)",
-    "matchTime": "22:00",
-    "homeTeam": "Colorado Storm",
-    "awayTeam": "Flatirons Rush",
-    "prediction": "Colorado Storm Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1546495,
-    "league": "Friendlies (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Niger",
-    "awayTeam": "Mauritania",
-    "prediction": "Niger Win & Over 1.5",
-    "odds": "2.35"
-  },
-  {
-    "id": 1546559,
-    "league": "Friendlies Women (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Ivory Coast W",
-    "awayTeam": "Cape Verde W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
-  },
-  {
     "id": 1550761,
     "league": "Carioca C (Brazil)",
     "matchTime": "22:00",
     "homeTeam": "Ceres",
     "awayTeam": "Tigres do Brasil",
     "prediction": "Ceres Win",
-    "odds": "1.55"
+    "odds": "1.69"
   },
   {
     "id": 1542183,
@@ -41,8 +14,8 @@
     "matchTime": "22:10",
     "homeTeam": "France",
     "awayTeam": "Northern Ireland",
-    "prediction": "Both Teams To Score",
-    "odds": "1.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   },
   {
     "id": 1529109,
@@ -50,8 +23,8 @@
     "matchTime": "22:30",
     "homeTeam": "Provincial Ovalle",
     "awayTeam": "Trasandino",
-    "prediction": "Provincial Ovalle Win",
-    "odds": "1.73"
+    "prediction": "Provincial Ovalle Win & Over 1.5",
+    "odds": "2.66"
   },
   {
     "id": 1546545,
@@ -59,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Encarnación",
     "awayTeam": "SOL DE America",
-    "prediction": "Encarnación Win & Over 1.5",
-    "odds": "2.93"
+    "prediction": "Encarnación Win",
+    "odds": "1.68"
   },
   {
     "id": 1548330,
@@ -69,6 +42,33 @@
     "homeTeam": "Olympique Dcheïra",
     "awayTeam": "Hassania Agadir",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.43"
+  },
+  {
+    "id": 1546413,
+    "league": "Primera A (Colombia)",
+    "matchTime": "01:00",
+    "homeTeam": "Atletico Nacional",
+    "awayTeam": "Junior",
+    "prediction": "Atletico Nacional Win & Over 1.5",
+    "odds": "2.18"
+  },
+  {
+    "id": 1546812,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Liverpool Montevideo",
+    "awayTeam": "Cerro Largo",
+    "prediction": "Liverpool Montevideo Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1546546,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "01:30",
+    "homeTeam": "3 de Noviembre",
+    "awayTeam": "General Caballero",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   }
 ]
