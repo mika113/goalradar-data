@@ -1,48 +1,12 @@
 [
   {
-    "id": 1550827,
-    "league": "Friendlies (World)",
-    "matchTime": "18:00",
-    "homeTeam": "USA U18",
-    "awayTeam": "Qatar U20",
-    "prediction": "USA U18 Win & Over 1.5",
-    "odds": "1.96"
-  },
-  {
-    "id": 1504192,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "Kooteepee",
-    "awayTeam": "Haka",
-    "prediction": "Kooteepee Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1550045,
-    "league": "Iraqi League",
-    "matchTime": "18:30",
-    "homeTeam": "Baghdad",
-    "awayTeam": "Karbala",
-    "prediction": "Baghdad Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1550828,
-    "league": "Friendlies (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Tunisia U20",
-    "awayTeam": "Algeria U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
     "id": 1530592,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "19:00",
     "homeTeam": "Dainava",
     "awayTeam": "Garliava",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1532145,
@@ -50,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Colorado Storm W",
     "awayTeam": "Flatirons II W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1541619,
@@ -59,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Kiffen",
     "awayTeam": "PuiU Helsinki",
-    "prediction": "Kiffen Win",
-    "odds": "1.85"
+    "prediction": "PuiU Helsinki Win",
+    "odds": "2.76"
   },
   {
     "id": 1545740,
@@ -68,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Equatorial Guinea W",
     "awayTeam": "Haiti W",
-    "prediction": "Equatorial Guinea W Win",
-    "odds": "1.91"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1548327,
@@ -77,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "FUS Rabat",
     "awayTeam": "Difaa EL Jadida",
-    "prediction": "FUS Rabat Win",
-    "odds": "1.93"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1548453,
@@ -86,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Norway U21",
     "awayTeam": "Finland U21",
-    "prediction": "Norway U21 Win",
-    "odds": "1.34"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1550826,
@@ -95,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "USA U21",
     "awayTeam": "Uzbekistan U23",
-    "prediction": "Uzbekistan U23 Win",
-    "odds": "1.63"
+    "prediction": "USA U21 Win",
+    "odds": "1.71"
   },
   {
     "id": 1546501,
@@ -104,7 +68,43 @@
     "matchTime": "19:15",
     "homeTeam": "Italy U21",
     "awayTeam": "Albania U21",
-    "prediction": "Italy U21 Win",
-    "odds": "1.68"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
+  },
+  {
+    "id": 1545468,
+    "league": "Tournoi Maurice Revello (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Venezuela U20",
+    "awayTeam": "Portugal U20",
+    "prediction": "Portugal U20 Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1548482,
+    "league": "Friendlies Women (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Sweden U18 W",
+    "awayTeam": "Iceland U19 W",
+    "prediction": "Sweden U18 W Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1548483,
+    "league": "Friendlies Women (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Sweden U23 W",
+    "awayTeam": "Mexico U23 W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
+  },
+  {
+    "id": 1504451,
+    "league": "Ettan - Södra (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Angelholms FF",
+    "awayTeam": "Olympic",
+    "prediction": "Angelholms FF Win",
+    "odds": "1.32"
   }
 ]
