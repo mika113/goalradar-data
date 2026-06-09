@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "China PR U23",
     "awayTeam": "Tajikistan U23",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "China PR U23 Win",
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Philippines",
     "awayTeam": "Myanmar",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Philippines Win",
     "outcome": "Won"
   },
   {
@@ -57,6 +57,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1550877,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Morocco U23 W",
+    "awayTeam": "Benin W",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Morocco U23 W Win",
     "outcome": "Won"
   },
   {
