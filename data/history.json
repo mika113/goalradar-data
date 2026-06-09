@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548485,
@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Korea Republic U20 W",
     "awayTeam": "Finland U23 W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Finland U23 W Win",
-    "outcome": "Won"
+    "prediction": "Korea Republic U20 W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546503,
@@ -42,9 +42,9 @@
     "homeTeam": "Ipswich",
     "awayTeam": "Robina City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Robina City Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Mexico W Win",
-    "outcome": "Lost"
+    "prediction": "Australia W Win",
+    "outcome": "Won"
   },
   {
     "id": 1545736,
@@ -104,8 +104,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1540356,
