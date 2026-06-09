@@ -1,39 +1,12 @@
 [
   {
-    "id": 1550659,
-    "league": "Baltic Cup (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Latvia",
-    "awayTeam": "Faroe Islands",
-    "prediction": "Latvia Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1550854,
-    "league": "Friendlies (World)",
-    "matchTime": "18:00",
-    "homeTeam": "USA U19",
-    "awayTeam": "Japan U19",
-    "prediction": "USA U19 Win & Over 1.5",
-    "odds": "1.99"
-  },
-  {
-    "id": 1542175,
-    "league": "Azadegan League (Iran)",
-    "matchTime": "18:15",
-    "homeTeam": "Sanat Naft",
-    "awayTeam": "Pars Jonoubi JAM",
-    "prediction": "Pars Jonoubi JAM Win",
-    "odds": "2.8"
-  },
-  {
     "id": 1548300,
     "league": "Suomen Cup (Finland)",
     "matchTime": "18:30",
     "homeTeam": "Honka",
     "awayTeam": "HJK Helsinki",
-    "prediction": "Honka Win",
-    "odds": "1.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.28"
   },
   {
     "id": 1548680,
@@ -42,7 +15,7 @@
     "homeTeam": "Sokół Kleczew",
     "awayTeam": "Górnik Polkowice",
     "prediction": "Górnik Polkowice Win",
-    "odds": "2.95"
+    "odds": "2.3"
   },
   {
     "id": 1504241,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "SJK Akatemia",
     "awayTeam": "JIPPO",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "SJK Akatemia Win",
+    "odds": "1.41"
   },
   {
     "id": 1523938,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Slovenia W",
     "awayTeam": "Germany W",
-    "prediction": "Germany W Win",
-    "odds": "2.73"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1523939,
@@ -68,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Norway W",
     "awayTeam": "Austria W",
-    "prediction": "Norway W Win",
-    "odds": "1.57"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.64"
   },
   {
     "id": 1544367,
@@ -78,7 +51,7 @@
     "homeTeam": "Congo DR",
     "awayTeam": "Chile",
     "prediction": "Congo DR Win",
-    "odds": "1.63"
+    "odds": "1.89"
   },
   {
     "id": 1544819,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "New Zealand W",
     "awayTeam": "Morocco W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.66"
+    "prediction": "Morocco W Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1545274,
+    "league": "Friendlies (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Moldova U21",
+    "awayTeam": "Georgia U21",
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
+  },
+  {
+    "id": 1548331,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "19:00",
+    "homeTeam": "Yacoub El Mansour",
+    "awayTeam": "CODM Meknès",
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
+  },
+  {
+    "id": 1550660,
+    "league": "Baltic Cup (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Lithuania",
+    "awayTeam": "Estonia",
+    "prediction": "Lithuania Win",
+    "odds": "1.8"
   }
 ]
