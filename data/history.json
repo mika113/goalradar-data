@@ -1,5 +1,17 @@
 [
   {
+    "id": 1493545,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Oakland Roots",
+    "awayTeam": "Birmingham Legion",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1553804,
     "league": "Brasileiro U20 B (Brazil)",
     "matchDate": "FT",
@@ -30,9 +42,21 @@
     "homeTeam": "Coimbra",
     "awayTeam": "Democrata SL",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Democrata SL Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1544591,
+    "league": "Copa Gaúcha (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Santa Cruz RS",
+    "awayTeam": "Gramadense",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -41,94 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Farroupilha",
     "awayTeam": "Bagé",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541984,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Tubarao",
-    "awayTeam": "Blumenau",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tubarao Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1526181,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Juventude U20",
-    "awayTeam": "São Paulo U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526180,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Fortaleza U20",
-    "awayTeam": "Avaí U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526179,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Flamengo U20",
-    "awayTeam": "Cuiabá U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1526177,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Corinthians U20",
-    "awayTeam": "Vitória U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526176,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Botafogo U20",
-    "awayTeam": "Grêmio U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526175,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Bahia U20",
-    "awayTeam": "Vasco da Gama U20",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vasco da Gama U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
