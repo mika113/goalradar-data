@@ -1,48 +1,12 @@
 [
   {
-    "id": 1547682,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Uberaba",
-    "awayTeam": "CAP",
-    "prediction": "Uberaba Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1489385,
-    "league": "World Cup",
-    "matchTime": "02:00",
-    "homeTeam": "Ghana",
-    "awayTeam": "Panama",
-    "prediction": "Panama Win",
-    "odds": "3.27"
-  },
-  {
-    "id": 1493544,
-    "league": "USL Championship (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Indy Eleven",
-    "awayTeam": "Brooklyn",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1512961,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "New York City II",
-    "awayTeam": "Carolina Core",
-    "prediction": "New York City II Win",
-    "odds": "1.61"
-  },
-  {
     "id": 1524948,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Christos",
     "awayTeam": "Evergreen",
-    "prediction": "Evergreen Win",
-    "odds": "2.2"
+    "prediction": "Christos Win",
+    "odds": "1.44"
   },
   {
     "id": 1524950,
@@ -51,7 +15,7 @@
     "homeTeam": "SF Glens",
     "awayTeam": "Academica",
     "prediction": "SF Glens Win",
-    "odds": "1.42"
+    "odds": "1.38"
   },
   {
     "id": 1524957,
@@ -59,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Blackwatch Rush",
     "awayTeam": "AC Connecticut",
-    "prediction": "Blackwatch Rush Win",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
   },
   {
     "id": 1524959,
@@ -69,6 +33,42 @@
     "homeTeam": "Annapolis Blues",
     "awayTeam": "Hill City",
     "prediction": "Annapolis Blues Win",
-    "odds": "1.78"
+    "odds": "1.63"
+  },
+  {
+    "id": 1524960,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Charlotte Independence 2",
+    "awayTeam": "North Carolina Fusion",
+    "prediction": "North Carolina Fusion Win",
+    "odds": "3.32"
+  },
+  {
+    "id": 1524961,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Connecticut Rush",
+    "awayTeam": "Western Mass Pioneers",
+    "prediction": "Western Mass Pioneers Win",
+    "odds": "2.95"
+  },
+  {
+    "id": 1524965,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Lionsbridge",
+    "awayTeam": "Patuxent",
+    "prediction": "Lionsbridge Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1524967,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Pittsburgh Riverhounds 2",
+    "awayTeam": "Lorain County Leviathan",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   }
 ]
