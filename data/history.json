@@ -1,5 +1,17 @@
 [
   {
+    "id": 1547564,
+    "league": "Elite Two (Cameroon)",
+    "matchDate": "FT",
+    "homeTeam": "APEJES Academy",
+    "awayTeam": "Kumba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1477247,
     "league": "Ligi kuu Bara (Tanzania)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Simba Win",
-    "outcome": "Won"
+    "prediction": "Mbeya City Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542414,
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hwacheon KSPO W Win",
-    "outcome": "Won"
+    "prediction": "Gyeongju W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1533729,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525407,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Delaware FC",
-    "awayTeam": "PA Classics",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "PA Classics Win",
     "outcome": "Won"
   }
 ]
