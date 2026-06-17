@@ -6,9 +6,9 @@
     "homeTeam": "Les Astres",
     "awayTeam": "Avion Academy",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Avion Academy Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1514203,
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1507181,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Kolkheti Poti",
     "awayTeam": "Gori",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kolkheti Poti Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Arsenal Tula",
     "awayTeam": "Volga Ulyanovsk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Arsenal Tula Win",
-    "outcome": "Lost"
+    "prediction": "Volga Ulyanovsk Win",
+    "outcome": "Won"
   },
   {
     "id": 1547798,
@@ -102,9 +102,9 @@
     "homeTeam": "Gazelle",
     "awayTeam": "Canon",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Canon Win",
     "outcome": "Won"
   },
   {
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Merani Martvili",
     "awayTeam": "Samtredia",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Merani Martvili Win",
     "outcome": "Won"
   },
   {
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547564,
