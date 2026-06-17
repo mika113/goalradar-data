@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 5,
     "status": "FT",
-    "prediction": "Ulaangom City Win",
-    "outcome": "Won"
+    "prediction": "Khoromkhon Win",
+    "outcome": "Lost"
   },
   {
     "id": 1533732,
@@ -117,30 +117,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Austria Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489381,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Argentina",
-    "awayTeam": "Algeria",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Argentina Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547745,
-    "league": "Division di Honor (Aruba)",
-    "matchDate": "FT",
-    "homeTeam": "La Fama",
-    "awayTeam": "Britannia",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
