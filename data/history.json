@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1547578,
+    "league": "A Lyga (Lithuania)",
+    "matchDate": "FT",
+    "homeTeam": "Hegelmann Litauen",
+    "awayTeam": "Džiugas Telšiai",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554360,
     "league": "Federation Cup (Nigeria)",
     "matchDate": "FT",
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "CR Khemis Zemamra",
     "awayTeam": "Raja Casablanca",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Raja Casablanca Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547799,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Tukums",
     "awayTeam": "Auda",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tukums Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "FS Jelgava Win",
-    "outcome": "Lost"
+    "prediction": "Ogre United Win",
+    "outcome": "Won"
   },
   {
     "id": 1514237,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1495706,
-    "league": "Veikkausliiga (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Turku PS",
-    "awayTeam": "KuPS",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "KuPS Win",
     "outcome": "Won"
   }
 ]
