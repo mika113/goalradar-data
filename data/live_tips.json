@@ -1,57 +1,12 @@
 [
   {
-    "id": 1543909,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Gremio U17",
-    "awayTeam": "Vitoria U17",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
-  },
-  {
-    "id": 1543910,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Sao Paulo U17",
-    "awayTeam": "Fluminense U17",
-    "prediction": "Sao Paulo U17 Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1544588,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Farroupilha",
-    "awayTeam": "Bagé",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
-  },
-  {
-    "id": 1544589,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Guarany de Bagé",
-    "awayTeam": "Brasil DE Pelotas",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
-  },
-  {
-    "id": 1544590,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Monsoon",
-    "awayTeam": "Brasil Farroupilha",
-    "prediction": "Brasil Farroupilha Win",
-    "odds": "2.07"
-  },
-  {
     "id": 1544591,
     "league": "Copa Gaúcha (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "Santa Cruz RS",
     "awayTeam": "Gramadense",
-    "prediction": "Santa Cruz RS Win & Over 1.5",
-    "odds": "2.94"
+    "prediction": "Santa Cruz RS Win",
+    "odds": "1.86"
   },
   {
     "id": 1547679,
@@ -59,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Coimbra",
     "awayTeam": "Democrata SL",
-    "prediction": "Coimbra Win",
-    "odds": "1.43"
+    "prediction": "Democrata SL Win",
+    "odds": "1.69"
   },
   {
     "id": 1547683,
@@ -68,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Ipatinga",
     "awayTeam": "Villa Nova",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Villa Nova Win",
+    "odds": "2.45"
   },
   {
     "id": 1553803,
@@ -77,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Coritiba U20",
     "awayTeam": "Atlético Mineiro U20",
-    "prediction": "Coritiba U20 Win & Over 1.5",
-    "odds": "2.37"
+    "prediction": "Atlético Mineiro U20 Win",
+    "odds": "2.79"
   },
   {
     "id": 1553804,
@@ -87,6 +42,51 @@
     "homeTeam": "CRB U20",
     "awayTeam": "Sport Recife U20",
     "prediction": "CRB U20 Win",
-    "odds": "1.46"
+    "odds": "1.77"
+  },
+  {
+    "id": 1544787,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchTime": "21:30",
+    "homeTeam": "Sao Luis",
+    "awayTeam": "Araioses",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1544788,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchTime": "21:30",
+    "homeTeam": "Tupan",
+    "awayTeam": "Expressinho",
+    "prediction": "Expressinho Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1549940,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Alumni Los Hornos",
+    "awayTeam": "Ezeiza",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
+  },
+  {
+    "id": 1549941,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Belgrano Zarate",
+    "awayTeam": "Buenos Aires City",
+    "prediction": "Double Chance 1X",
+    "odds": "1.6"
+  },
+  {
+    "id": 1549942,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Las Mandarinas",
+    "awayTeam": "Everton La Plata",
+    "prediction": "Everton La Plata Win",
+    "odds": "1.72"
   }
 ]
