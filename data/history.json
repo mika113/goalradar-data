@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Nasarawa United",
     "awayTeam": "Ikorodu City",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Ikorodu City Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -78,10 +78,10 @@
     "homeTeam": "Kawkab Marrakech",
     "awayTeam": "Ittihad Tanger",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Ittihad Tanger Win",
+    "outcome": "Won"
   },
   {
     "id": 1547799,
@@ -128,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Ægir Win",
-    "outcome": "Lost"
+    "prediction": "Vestri Win",
+    "outcome": "Won"
   },
   {
     "id": 1509145,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Saburtalo",
     "awayTeam": "Rustavi",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Saburtalo Win",
     "outcome": "Won"
   }
 ]
