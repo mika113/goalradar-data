@@ -6,9 +6,9 @@
     "homeTeam": "Mbeya City",
     "awayTeam": "Simba",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Simba Win",
     "outcome": "Won"
   },
   {
@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Khoromkhon",
     "awayTeam": "Ulaangom City",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeScore": 2,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Ulaangom City Win",
-    "outcome": "Won"
+    "prediction": "Khoromkhon Win",
+    "outcome": "Lost"
   },
   {
     "id": 1533732,
@@ -92,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ulaanbaatar Win",
-    "outcome": "Lost"
+    "prediction": "Central Stallions Win",
+    "outcome": "Won"
   },
   {
     "id": 1489382,
