@@ -1,21 +1,12 @@
 [
   {
-    "id": 1542414,
-    "league": "Premier League (Mongolia)",
-    "matchTime": "13:00",
-    "homeTeam": "Khoromkhon",
-    "awayTeam": "Ulaangom City",
-    "prediction": "Khoromkhon Win",
-    "odds": "1.38"
-  },
-  {
     "id": 1546784,
     "league": "Ligue 1 (Congo-DR)",
     "matchTime": "14:00",
     "homeTeam": "Maniema Union",
     "awayTeam": "JSK",
-    "prediction": "Maniema Union Win & Over 1.5",
-    "odds": "2.54"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1546785,
@@ -23,8 +14,8 @@
     "matchTime": "14:00",
     "homeTeam": "Simba",
     "awayTeam": "Vita Club",
-    "prediction": "Double Chance X2",
-    "odds": "1.31"
+    "prediction": "Simba Win",
+    "odds": "1.32"
   },
   {
     "id": 1546783,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Don Bosco",
     "awayTeam": "TP Mazembe",
-    "prediction": "Don Bosco Win",
-    "odds": "1.7"
+    "prediction": "Don Bosco Win & Over 1.5",
+    "odds": "1.8"
   },
   {
     "id": 1546786,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Saint Eloi Lupopo",
     "awayTeam": "Céleste",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Céleste Win",
+    "odds": "2.53"
   },
   {
     "id": 1528022,
@@ -50,7 +41,16 @@
     "matchTime": "17:00",
     "homeTeam": "Kairat Almaty",
     "awayTeam": "Kyzyl-Zhar",
-    "prediction": "Kairat Almaty Win",
-    "odds": "1.67"
+    "prediction": "Kyzyl-Zhar Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1553784,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "20:45",
+    "homeTeam": "Al Jahra",
+    "awayTeam": "Al Tadhamon",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.12"
   }
 ]
