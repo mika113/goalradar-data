@@ -1,10 +1,70 @@
 [
   {
+    "id": 1539003,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Portugal",
+    "awayTeam": "Congo DR",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Portugal Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511338,
+    "league": "Division 2 - Västra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Landvetter IS",
+    "awayTeam": "Jonsered",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511055,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Nosaby",
+    "awayTeam": "Lilla Torg W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1510964,
     "league": "Division 2 - Södra Götaland (Sweden)",
     "matchDate": "FT",
     "homeTeam": "Torns",
     "awayTeam": "Österlen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1510961,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Oskarshamns AIK",
+    "awayTeam": "Växjö Norra",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1510959,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "IFK Trelleborg",
+    "awayTeam": "Berga",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -21,6 +81,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1507179,
+    "league": "Erovnuli Liga 2 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Aragvi Dusheti",
+    "awayTeam": "Sioni",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Aragvi Dusheti Win",
     "outcome": "Lost"
   },
   {
@@ -29,11 +101,23 @@
     "matchDate": "FT",
     "homeTeam": "Hammarby W",
     "awayTeam": "AIK W",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Hammarby W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1495495,
+    "league": "Damallsvenskan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Djurgården W",
+    "awayTeam": "Malmö FF W",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1531388,
@@ -41,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Samger",
     "awayTeam": "Bombada",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Samger Win",
     "outcome": "Won"
   },
   {
@@ -54,93 +138,9 @@
     "homeTeam": "Medina United",
     "awayTeam": "Dutch Lions",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Medina United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531386,
-    "league": "GFA League (Gambia)",
-    "matchDate": "FT",
-    "homeTeam": "Hart Acedemy",
-    "awayTeam": "Brikama United",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531384,
-    "league": "GFA League (Gambia)",
-    "matchDate": "FT",
-    "homeTeam": "GPA",
-    "awayTeam": "Team Rhino",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531383,
-    "league": "GFA League (Gambia)",
-    "matchDate": "FT",
-    "homeTeam": "Fortune",
-    "awayTeam": "Real de Banjul",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Fortune Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511072,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Forward",
-    "awayTeam": "Karlslund",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Karlslund Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553806,
-    "league": "Second League A - Division A Gold (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Veles",
-    "awayTeam": "Novosibirsk",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Veles Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547579,
-    "league": "A Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "Kauno Žalgiris",
-    "awayTeam": "Banga",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515863,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Riga",
-    "awayTeam": "Rīgas FS",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Riga Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
