@@ -1,66 +1,12 @@
 [
   {
-    "id": 1514237,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "18:00",
-    "homeTeam": "Vestri",
-    "awayTeam": "Ægir",
-    "prediction": "Vestri Win & Over 1.5",
-    "odds": "1.87"
-  },
-  {
-    "id": 1515861,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "FS Jelgava",
-    "awayTeam": "Ogre United",
-    "prediction": "Ogre United Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1515862,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "Tukums",
-    "awayTeam": "Auda",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
-  },
-  {
-    "id": 1527692,
-    "league": "Vysshaya Liga (Tajikistan)",
-    "matchTime": "18:00",
-    "homeTeam": "Istaravshan",
-    "awayTeam": "Sardor Tursunzoda",
-    "prediction": "Istaravshan Win & Over 1.5",
-    "odds": "2.05"
-  },
-  {
-    "id": 1547799,
-    "league": "Coppa (Belarus)",
-    "matchTime": "18:00",
-    "homeTeam": "FC Energetik-Bgu Minsk",
-    "awayTeam": "ML Vitebsk",
-    "prediction": "ML Vitebsk Win",
-    "odds": "2.93"
-  },
-  {
-    "id": 1553763,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "18:00",
-    "homeTeam": "Kawkab Marrakech",
-    "awayTeam": "Ittihad Tanger",
-    "prediction": "Kawkab Marrakech Win",
-    "odds": "1.57"
-  },
-  {
     "id": 1553764,
     "league": "Botola Pro (Morocco)",
     "matchTime": "18:00",
     "homeTeam": "Maghreb Fès",
     "awayTeam": "Difaa EL Jadida",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "Maghreb Fès Win",
+    "odds": "1.63"
   },
   {
     "id": 1553765,
@@ -68,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "CR Khemis Zemamra",
     "awayTeam": "Raja Casablanca",
-    "prediction": "Both Teams To Score",
-    "odds": "2.2"
+    "prediction": "CR Khemis Zemamra Win",
+    "odds": "1.99"
   },
   {
     "id": 1553766,
@@ -77,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "UTS Rabat",
     "awayTeam": "CODM Meknès",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "UTS Rabat Win",
+    "odds": "1.8"
   },
   {
     "id": 1554359,
@@ -86,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "El Kanemi Warriors",
     "awayTeam": "Wikki Tourist",
-    "prediction": "El Kanemi Warriors Win",
-    "odds": "1.45"
+    "prediction": "Wikki Tourist Win",
+    "odds": "2.22"
   },
   {
     "id": 1554360,
@@ -95,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nasarawa United",
     "awayTeam": "Ikorodu City",
-    "prediction": "Nasarawa United Win & Over 1.5",
-    "odds": "1.96"
+    "prediction": "Ikorodu City Win",
+    "odds": "2.46"
   },
   {
     "id": 1547578,
@@ -104,7 +50,61 @@
     "matchTime": "18:30",
     "homeTeam": "Hegelmann Litauen",
     "awayTeam": "Džiugas Telšiai",
-    "prediction": "Hegelmann Litauen Win",
-    "odds": "1.52"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1547800,
+    "league": "Coppa (Belarus)",
+    "matchTime": "18:30",
+    "homeTeam": "FC Slutsk",
+    "awayTeam": "Dinamo Minsk",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1501416,
+    "league": "Elitettan (Sweden)",
+    "matchTime": "19:00",
+    "homeTeam": "Häcken II W",
+    "awayTeam": "Gamla Upsala W",
+    "prediction": "Häcken II W Win",
+    "odds": "1.87"
+  },
+  {
+    "id": 1507183,
+    "league": "Erovnuli Liga 2 (Georgia)",
+    "matchTime": "19:00",
+    "homeTeam": "Telavi",
+    "awayTeam": "Odishi 1919",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
+  },
+  {
+    "id": 1513571,
+    "league": "Meistriliiga (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Kalju Nomme",
+    "awayTeam": "Tammeka",
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
+  },
+  {
+    "id": 1513572,
+    "league": "Meistriliiga (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Nõmme United",
+    "awayTeam": "FC Levadia Tallinn",
+    "prediction": "Nõmme United Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1513573,
+    "league": "Meistriliiga (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Paide",
+    "awayTeam": "Laagri",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
   }
 ]
