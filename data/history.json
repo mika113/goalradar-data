@@ -1,5 +1,29 @@
 [
   {
+    "id": 1553785,
+    "league": "Premier League (Kuwait)",
+    "matchDate": "FT",
+    "homeTeam": "Al Shabab",
+    "awayTeam": "Al Nasar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1553784,
+    "league": "Premier League (Kuwait)",
+    "matchDate": "FT",
+    "homeTeam": "Al Jahra",
+    "awayTeam": "Al Tadhamon",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1547850,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -30,9 +54,9 @@
     "homeTeam": "Kongahälla",
     "awayTeam": "Hestrafor",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hestrafor Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +78,9 @@
     "homeTeam": "Utsikten",
     "awayTeam": "Atvidabergs FF",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Atvidabergs FF Win",
     "outcome": "Won"
   },
   {
@@ -66,10 +90,10 @@
     "homeTeam": "Portugal",
     "awayTeam": "Congo DR",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Congo DR Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1511338,
@@ -102,7 +126,7 @@
     "homeTeam": "Torns",
     "awayTeam": "Österlen",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Torns Win",
     "outcome": "Won"
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510959,
-    "league": "Division 2 - Södra Götaland (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "IFK Trelleborg",
-    "awayTeam": "Berga",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1509147,
-    "league": "Erovnuli Liga (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Torpedo Kutaisi",
-    "awayTeam": "Dinamo Batumi",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Dinamo Batumi Win",
     "outcome": "Won"
   }
 ]
