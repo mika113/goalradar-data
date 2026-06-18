@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1512485,
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Quilmes 2",
     "awayTeam": "San Martín San Juan Res.",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Quilmes 2 Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "Independiente Res.",
     "awayTeam": "Belgrano Córdoba Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Belgrano Córdoba Res. Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1512475,
@@ -78,7 +78,7 @@
     "homeTeam": "Storfors",
     "awayTeam": "Täfteå",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Täfteå Win",
     "outcome": "Won"
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Lindome",
     "awayTeam": "Åstorp",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Lindome Win",
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Dalstorps",
     "awayTeam": "Astrio",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dalstorps Win",
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Böljan Win",
-    "outcome": "Lost"
+    "prediction": "Onsala Win",
+    "outcome": "Won"
   },
   {
     "id": 1510611,
