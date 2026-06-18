@@ -1,48 +1,12 @@
 [
   {
-    "id": 1539004,
-    "league": "World Cup",
-    "matchTime": "19:00",
-    "homeTeam": "Czechia",
-    "awayTeam": "South Africa",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
-    "id": 1551261,
-    "league": "Cup (Estonia)",
-    "matchTime": "19:00",
-    "homeTeam": "Team Helm",
-    "awayTeam": "Deliirium",
-    "prediction": "Team Helm Win & Over 1.5",
-    "odds": "2.46"
-  },
-  {
-    "id": 1501418,
-    "league": "Elitettan (Sweden)",
-    "matchTime": "19:30",
-    "homeTeam": "Jitex W",
-    "awayTeam": "KIF Örebro W",
-    "prediction": "Jitex W Win & Over 1.5",
-    "odds": "1.84"
-  },
-  {
-    "id": 1510612,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "19:30",
-    "homeTeam": "Lidköping",
-    "awayTeam": "Husqvarna",
-    "prediction": "Husqvarna Win",
-    "odds": "2.26"
-  },
-  {
     "id": 1554469,
     "league": "Friendlies Clubs (World)",
     "matchTime": "19:30",
     "homeTeam": "Austria Klagenfurt",
     "awayTeam": "SV Kapfenberg",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
+    "prediction": "Austria Klagenfurt Win",
+    "odds": "1.46"
   },
   {
     "id": 1495501,
@@ -51,7 +15,7 @@
     "homeTeam": "Norrköping W",
     "awayTeam": "Växjö W",
     "prediction": "Norrköping W Win",
-    "odds": "1.56"
+    "odds": "1.67"
   },
   {
     "id": 1501417,
@@ -60,7 +24,7 @@
     "homeTeam": "Husqvarna W",
     "awayTeam": "Elfsborg W",
     "prediction": "Husqvarna W Win",
-    "odds": "1.68"
+    "odds": "1.53"
   },
   {
     "id": 1501419,
@@ -68,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Linköping W",
     "awayTeam": "Alingsås W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Alingsås W Win",
+    "odds": "1.65"
   },
   {
     "id": 1504468,
@@ -77,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Eskilsminne",
     "awayTeam": "Trollhättan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Eskilsminne Win",
+    "odds": "1.74"
   },
   {
     "id": 1504469,
@@ -86,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Jonkopings Sodra",
     "awayTeam": "Lund",
-    "prediction": "Jonkopings Sodra Win",
-    "odds": "1.49"
+    "prediction": "Jonkopings Sodra Win & Over 1.5",
+    "odds": "2.71"
   },
   {
     "id": 1504471,
@@ -95,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Skövde AIK",
     "awayTeam": "Hässleholms IF",
-    "prediction": "Skövde AIK Win",
-    "odds": "1.33"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1504472,
@@ -104,7 +68,43 @@
     "matchTime": "20:00",
     "homeTeam": "Trelleborg",
     "awayTeam": "Rosengård",
-    "prediction": "Rosengård Win",
-    "odds": "2.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
+  },
+  {
+    "id": 1504473,
+    "league": "Ettan - Södra (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Tvååker",
+    "awayTeam": "Angelholms FF",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
+  },
+  {
+    "id": 1505190,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Gefle IF",
+    "awayTeam": "Stockholm Internazionale",
+    "prediction": "Stockholm Internazionale Win",
+    "odds": "2.43"
+  },
+  {
+    "id": 1505191,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Hammarby Talang",
+    "awayTeam": "Järfälla",
+    "prediction": "Järfälla Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1505194,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Vasalund",
+    "awayTeam": "Karlberg",
+    "prediction": "Vasalund Win",
+    "odds": "1.34"
   }
 ]
