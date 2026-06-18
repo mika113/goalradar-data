@@ -1,66 +1,12 @@
 [
   {
-    "id": 1513164,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Connecticut FC",
-    "awayTeam": "FC Cincinnati II",
-    "prediction": "Connecticut FC Win",
-    "odds": "1.75"
-  },
-  {
-    "id": 1524985,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Lansing City",
-    "awayTeam": "Midwest United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
-  },
-  {
-    "id": 1524986,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Real Central New Jersey",
-    "awayTeam": "Ocean City Nor'easters",
-    "prediction": "Real Central New Jersey Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1505449,
-    "league": "Primera División (Chile)",
-    "matchTime": "03:00",
-    "homeTeam": "Universidad de Chile",
-    "awayTeam": "O'Higgins",
-    "prediction": "Universidad de Chile Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1520738,
-    "league": "Serie B (Brazil)",
-    "matchTime": "03:00",
-    "homeTeam": "Sport Recife",
-    "awayTeam": "Atletico Goianiense",
-    "prediction": "Sport Recife Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1524988,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Texoma",
-    "awayTeam": "West Texas",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.19"
-  },
-  {
     "id": 1532234,
     "league": "USL W League (USA)",
     "matchTime": "03:00",
     "homeTeam": "AHFC Royals W",
     "awayTeam": "Challenge W",
     "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "odds": "1.91"
   },
   {
     "id": 1489388,
@@ -68,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Mexico",
     "awayTeam": "South Korea",
-    "prediction": "Mexico Win",
-    "odds": "1.84"
+    "prediction": "South Korea Win",
+    "odds": "2.16"
   },
   {
     "id": 1524989,
@@ -77,8 +23,8 @@
     "matchTime": "04:30",
     "homeTeam": "Flatirons Rush",
     "awayTeam": "Albion Colorado",
-    "prediction": "Flatirons Rush Win & Over 1.5",
-    "odds": "1.98"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1524990,
@@ -86,7 +32,61 @@
     "matchTime": "04:30",
     "homeTeam": "Utah United",
     "awayTeam": "Unión Villa Krause",
-    "prediction": "Double Chance 1X",
-    "odds": "1.34"
+    "prediction": "Utah United Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1532235,
+    "league": "USL W League (USA)",
+    "matchTime": "04:30",
+    "homeTeam": "Bigfoot W",
+    "awayTeam": "Olympia W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
+  },
+  {
+    "id": 1524984,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Ballard",
+    "awayTeam": "Bigfoot",
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
+  },
+  {
+    "id": 1524987,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Sportivo San Juan",
+    "awayTeam": "San Francisco City",
+    "prediction": "San Francisco City Win",
+    "odds": "2.8"
+  },
+  {
+    "id": 1532236,
+    "league": "USL W League (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Pleasanton Rage W",
+    "awayTeam": "Stockton Cargo W",
+    "prediction": "Pleasanton Rage W Win",
+    "odds": "1.32"
+  },
+  {
+    "id": 1545488,
+    "league": "FA Cup (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Dalian Kewei",
+    "awayTeam": "Shenyang Urban",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
+  },
+  {
+    "id": 1545497,
+    "league": "FA Cup (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Shanghai Second",
+    "awayTeam": "SHANGHAI SIPG",
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
   }
 ]
