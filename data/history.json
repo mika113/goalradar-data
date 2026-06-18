@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "FCI Levadia II",
     "awayTeam": "Tartu Welco",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "FCI Levadia II Win",
+    "outcome": "Won"
   },
   {
     "id": 1554467,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Yacoub El Mansour",
     "awayTeam": "Hassania Agadir",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hassania Agadir Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Olympique Dcheïra",
     "awayTeam": "FAR Rabat",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "FAR Rabat Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Tonnerre",
     "awayTeam": "Yafoot",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -140,7 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
