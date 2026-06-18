@@ -32,8 +32,20 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Astana II Win",
-    "outcome": "Lost"
+    "prediction": "Sport Academy Kairat Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1510790,
+    "league": "Division 2 - Norra Svealand (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Gute",
+    "awayTeam": "Falu BS",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Falu BS Win",
+    "outcome": "Won"
   },
   {
     "id": 1543581,
@@ -44,8 +56,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tsirang Win",
-    "outcome": "Won"
+    "prediction": "Tensung Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542416,
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 6,
     "status": "FT",
-    "prediction": "Khovd Win",
-    "outcome": "Lost"
+    "prediction": "Deren Win",
+    "outcome": "Won"
   },
   {
     "id": 1534770,
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Redlands Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524962,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Davis Legacy",
-    "awayTeam": "Marin",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Davis Legacy Win",
     "outcome": "Won"
   }
 ]
