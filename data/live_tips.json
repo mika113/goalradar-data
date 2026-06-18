@@ -1,39 +1,12 @@
 [
   {
-    "id": 1510613,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "20:15",
-    "homeTeam": "Vänersborgs FK",
-    "awayTeam": "Stenungsund",
-    "prediction": "Vänersborgs FK Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1505193,
-    "league": "Ettan - Norra (Sweden)",
-    "matchTime": "20:30",
-    "homeTeam": "Sollentuna",
-    "awayTeam": "FBK Karlstad",
-    "prediction": "FBK Karlstad Win",
-    "odds": "2.26"
-  },
-  {
-    "id": 1510611,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "20:30",
-    "homeTeam": "Kumla",
-    "awayTeam": "Tord",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
-  },
-  {
     "id": 1511335,
     "league": "Division 2 - Västra Götaland (Sweden)",
     "matchTime": "20:30",
     "homeTeam": "Böljan",
     "awayTeam": "Onsala",
-    "prediction": "Böljan Win",
-    "odds": "1.59"
+    "prediction": "Onsala Win",
+    "odds": "2.63"
   },
   {
     "id": 1511336,
@@ -41,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "Dalstorps",
     "awayTeam": "Astrio",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Astrio Win",
+    "odds": "1.64"
   },
   {
     "id": 1511339,
@@ -51,7 +24,7 @@
     "homeTeam": "Lindome",
     "awayTeam": "Åstorp",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.5"
   },
   {
     "id": 1511340,
@@ -59,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Qviding FIF",
     "awayTeam": "Galtabacks",
-    "prediction": "Qviding FIF Win & Over 1.5",
-    "odds": "1.82"
+    "prediction": "Galtabacks Win",
+    "odds": "3.3"
   },
   {
     "id": 1515762,
@@ -68,8 +41,8 @@
     "matchTime": "20:30",
     "homeTeam": "Storfors",
     "awayTeam": "Täfteå",
-    "prediction": "Storfors Win",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
   },
   {
     "id": 1512475,
@@ -77,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "Boca Juniors Res.",
     "awayTeam": "Lanús Res.",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
   },
   {
     "id": 1512478,
@@ -86,7 +59,34 @@
     "matchTime": "21:00",
     "homeTeam": "Ferro 2",
     "awayTeam": "Newell's Old Boys Res.",
-    "prediction": "Newell's Old Boys Res. Win",
-    "odds": "1.7"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.29"
+  },
+  {
+    "id": 1512481,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Huracán Res.",
+    "awayTeam": "Defensa y Justicia Res.",
+    "prediction": "Huracán Res. Win & Over 1.5",
+    "odds": "2.57"
+  },
+  {
+    "id": 1512482,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Independiente Res.",
+    "awayTeam": "Belgrano Córdoba Res.",
+    "prediction": "Double Chance X2",
+    "odds": "1.57"
+  },
+  {
+    "id": 1512485,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Quilmes 2",
+    "awayTeam": "San Martín San Juan Res.",
+    "prediction": "Double Chance X2",
+    "odds": "1.21"
   }
 ]
