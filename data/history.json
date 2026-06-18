@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Astana II",
     "awayTeam": "Sport Academy Kairat",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tsirang Win",
-    "outcome": "Won"
+    "prediction": "Tensung Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542416,
@@ -30,10 +30,10 @@
     "homeTeam": "Khovd",
     "awayTeam": "Deren",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Deren Win",
-    "outcome": "Won"
+    "prediction": "Khovd Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534770,
@@ -42,9 +42,9 @@
     "homeTeam": "Tobol 2",
     "awayTeam": "Ekibastuz",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Tobol 2 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Marin Win",
-    "outcome": "Lost"
+    "prediction": "Davis Legacy Win",
+    "outcome": "Won"
   },
   {
     "id": 1524958,
