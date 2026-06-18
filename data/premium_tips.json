@@ -1,39 +1,12 @@
 [
   {
-    "id": 1510607,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Grebbestad",
-    "awayTeam": "Vänersborgs IF",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
-  },
-  {
-    "id": 1510609,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Herrestads",
-    "awayTeam": "IFK Skövde",
-    "prediction": "Herrestads Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1510793,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Skiljebo",
-    "awayTeam": "Franke",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
-  },
-  {
     "id": 1510795,
     "league": "Division 2 - Norra Svealand (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Viggbyholms IK",
     "awayTeam": "Angby",
-    "prediction": "Viggbyholms IK Win",
-    "odds": "1.92"
+    "prediction": "Angby Win",
+    "odds": "1.9"
   },
   {
     "id": 1510960,
@@ -41,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Karlskrona",
     "awayTeam": "Karlshamn",
-    "prediction": "Karlskrona Win",
-    "odds": "1.91"
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
   },
   {
     "id": 1510962,
@@ -50,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Sölvesborg",
     "awayTeam": "Räppe",
-    "prediction": "Sölvesborg Win",
-    "odds": "1.31"
+    "prediction": "Räppe Win",
+    "odds": "1.68"
   },
   {
     "id": 1510963,
@@ -60,7 +33,7 @@
     "homeTeam": "Staffanstorp United",
     "awayTeam": "Linero",
     "prediction": "Linero Win",
-    "odds": "3.39"
+    "odds": "2.26"
   },
   {
     "id": 1511341,
@@ -68,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Torslanda",
     "awayTeam": "Västra Frölunda",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
+    "prediction": "Torslanda Win",
+    "odds": "1.76"
   },
   {
     "id": 1515763,
@@ -77,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Fransta",
     "awayTeam": "Friska Viljor",
-    "prediction": "Friska Viljor Win",
-    "odds": "1.93"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.01"
   },
   {
     "id": 1515764,
@@ -86,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Kubikenborg",
     "awayTeam": "Gottne",
-    "prediction": "Kubikenborg Win & Over 1.5",
-    "odds": "2.14"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1505187,
@@ -96,7 +69,7 @@
     "homeTeam": "Arlanda",
     "awayTeam": "Stocksund",
     "prediction": "Arlanda Win",
-    "odds": "1.67"
+    "odds": "1.65"
   },
   {
     "id": 1510608,
@@ -104,7 +77,34 @@
     "matchTime": "20:15",
     "homeTeam": "Ahlafors",
     "awayTeam": "Skara",
-    "prediction": "Ahlafors Win & Over 1.5",
-    "odds": "2.38"
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
+  },
+  {
+    "id": 1510613,
+    "league": "Division 2 - Norra Götaland (Sweden)",
+    "matchTime": "20:15",
+    "homeTeam": "Vänersborgs FK",
+    "awayTeam": "Stenungsund",
+    "prediction": "Stenungsund Win",
+    "odds": "3.38"
+  },
+  {
+    "id": 1505193,
+    "league": "Ettan - Norra (Sweden)",
+    "matchTime": "20:30",
+    "homeTeam": "Sollentuna",
+    "awayTeam": "FBK Karlstad",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1510611,
+    "league": "Division 2 - Norra Götaland (Sweden)",
+    "matchTime": "20:30",
+    "homeTeam": "Kumla",
+    "awayTeam": "Tord",
+    "prediction": "Kumla Win",
+    "odds": "1.89"
   }
 ]
