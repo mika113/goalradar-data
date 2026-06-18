@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Valerenga Win",
-    "outcome": "Lost"
+    "prediction": "IFK Goteborg Win",
+    "outcome": "Won"
   },
   {
     "id": 1534771,
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1553769,
@@ -94,53 +94,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1553767,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Renaissance Berkane",
-    "awayTeam": "Olympique Safi",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547549,
-    "league": "Elite Two (Cameroon)",
-    "matchDate": "FT",
-    "homeTeam": "Tonnerre",
-    "awayTeam": "Yafoot",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1495496,
-    "league": "Damallsvenskan (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Eskilstuna United W",
-    "awayTeam": "Piteå W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Eskilstuna United W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1509146,
-    "league": "Erovnuli Liga (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Meshakhte",
-    "awayTeam": "Gagra",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
