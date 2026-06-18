@@ -1,5 +1,17 @@
 [
   {
+    "id": 1539005,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Bosnia & Herzegovina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1553805,
     "league": "Brasileiro U20 B (Brazil)",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Storfors Win",
-    "outcome": "Lost"
+    "prediction": "Täfteå Win",
+    "outcome": "Won"
   },
   {
     "id": 1511340,
@@ -104,8 +116,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Åstorp Win",
-    "outcome": "Lost"
+    "prediction": "Lindome Win",
+    "outcome": "Won"
   },
   {
     "id": 1511336,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Onsala Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510611,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Kumla",
-    "awayTeam": "Tord",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kumla Win",
     "outcome": "Won"
   }
 ]
