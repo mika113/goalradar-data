@@ -1,39 +1,12 @@
 [
   {
-    "id": 1495499,
-    "league": "Damallsvenskan (Sweden)",
-    "matchTime": "16:00",
-    "homeTeam": "Brommapojkarna W",
-    "awayTeam": "Vittsjö W",
-    "prediction": "Vittsjö W Win",
-    "odds": "2.73"
-  },
-  {
-    "id": 1534766,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "16:00",
-    "homeTeam": "Arys",
-    "awayTeam": "Kaspij Aktau 2",
-    "prediction": "Arys Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1554468,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Basake Holy Stars",
-    "awayTeam": "Aduana Stars",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
-  },
-  {
     "id": 1509146,
     "league": "Erovnuli Liga (Georgia)",
     "matchTime": "16:30",
     "homeTeam": "Meshakhte",
     "awayTeam": "Gagra",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "prediction": "Gagra Win",
+    "odds": "3.19"
   },
   {
     "id": 1495496,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Eskilstuna United W",
     "awayTeam": "Piteå W",
-    "prediction": "Piteå W Win",
-    "odds": "2.56"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1534053,
@@ -50,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Halifax Tides W",
     "awayTeam": "Vancouver Rise W",
-    "prediction": "Halifax Tides W Win",
-    "odds": "1.54"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1547548,
@@ -59,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Foncha ST",
     "awayTeam": "FAP",
-    "prediction": "Double Chance X2",
-    "odds": "1.72"
+    "prediction": "Foncha ST Win",
+    "odds": "1.86"
   },
   {
     "id": 1547549,
@@ -68,7 +41,34 @@
     "matchTime": "17:00",
     "homeTeam": "Tonnerre",
     "awayTeam": "Yafoot",
-    "prediction": "Yafoot Win",
-    "odds": "3.44"
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
+  },
+  {
+    "id": 1553767,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "17:00",
+    "homeTeam": "Renaissance Berkane",
+    "awayTeam": "Olympique Safi",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
+  },
+  {
+    "id": 1553768,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "17:00",
+    "homeTeam": "Olympique Dcheïra",
+    "awayTeam": "FAR Rabat",
+    "prediction": "Double Chance X2",
+    "odds": "1.48"
+  },
+  {
+    "id": 1553769,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "17:00",
+    "homeTeam": "Wydad AC",
+    "awayTeam": "FUS Rabat",
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   }
 ]
