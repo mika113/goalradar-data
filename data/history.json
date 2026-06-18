@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Ceará U20",
     "awayTeam": "Internacional U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Internacional U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1512475,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1515762,
@@ -78,7 +78,7 @@
     "homeTeam": "Storfors",
     "awayTeam": "Täfteå",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Täfteå Win",
     "outcome": "Won"
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Qviding FIF",
     "awayTeam": "Galtabacks",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Qviding FIF Win",
     "outcome": "Won"
   },
   {
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Kumla",
     "awayTeam": "Tord",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kumla Win",
     "outcome": "Won"
   }
 ]
