@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vittsjö W Win",
-    "outcome": "Lost"
+    "prediction": "Brommapojkarna W Win",
+    "outcome": "Won"
   },
   {
     "id": 1477246,
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1534767,
@@ -117,30 +117,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Sport Academy Kairat Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510790,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Gute",
-    "awayTeam": "Falu BS",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Falu BS Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543581,
-    "league": "Premier League (Bhutan)",
-    "matchDate": "FT",
-    "homeTeam": "Tsirang",
-    "awayTeam": "Tensung",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Tsirang Win",
     "outcome": "Won"
   }
 ]
