@@ -1,30 +1,12 @@
 [
   {
-    "id": 1524159,
-    "league": "Queensland Premier League (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Holland Park Hawks",
-    "awayTeam": "St George Willawong",
-    "prediction": "Holland Park Hawks Win & Over 1.5",
-    "odds": "2.42"
-  },
-  {
-    "id": 1541361,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Essendon Royals SC",
-    "awayTeam": "Werribee City",
-    "prediction": "Essendon Royals SC Win",
-    "odds": "1.82"
-  },
-  {
     "id": 1541438,
     "league": "Victoria Premier League 2 (Australia)",
     "matchTime": "13:30",
     "homeTeam": "Whittlesea United",
     "awayTeam": "Bayside Argonauts",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "prediction": "Whittlesea United Win",
+    "odds": "1.56"
   },
   {
     "id": 1532763,
@@ -33,7 +15,7 @@
     "homeTeam": "Guangzhou Dandelion",
     "awayTeam": "Hubei Chufeng Heli",
     "prediction": "Guangzhou Dandelion Win",
-    "odds": "1.51"
+    "odds": "1.88"
   },
   {
     "id": 1545496,
@@ -41,8 +23,8 @@
     "matchTime": "14:00",
     "homeTeam": "Shaanxi Union",
     "awayTeam": "Hangzhou Greentown",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.99"
+    "prediction": "Hangzhou Greentown Win",
+    "odds": "2.12"
   },
   {
     "id": 1545503,
@@ -50,8 +32,8 @@
     "matchTime": "14:00",
     "homeTeam": "Shenzhen Juniors",
     "awayTeam": "Sichuan Jiuniu",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Sichuan Jiuniu Win",
+    "odds": "3.18"
   },
   {
     "id": 1532764,
@@ -59,8 +41,8 @@
     "matchTime": "14:30",
     "homeTeam": "Shangyu Pterosaur",
     "awayTeam": "Guangdong Mingtu",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Shangyu Pterosaur Win",
+    "odds": "1.94"
   },
   {
     "id": 1532765,
@@ -68,8 +50,8 @@
     "matchTime": "14:30",
     "homeTeam": "Guizhou Zhucheng",
     "awayTeam": "Xiamen Feilu",
-    "prediction": "Xiamen Feilu Win",
-    "odds": "3.28"
+    "prediction": "Guizhou Zhucheng Win & Over 1.5",
+    "odds": "2.16"
   },
   {
     "id": 1545489,
@@ -77,8 +59,8 @@
     "matchTime": "14:30",
     "homeTeam": "Guangzhou E-Power",
     "awayTeam": "Beijing Guoan",
-    "prediction": "Guangzhou E-Power Win & Over 1.5",
-    "odds": "1.81"
+    "prediction": "Guangzhou E-Power Win",
+    "odds": "1.73"
   },
   {
     "id": 1545491,
@@ -87,6 +69,24 @@
     "homeTeam": "Langfang Glory City",
     "awayTeam": "Dalian Zhixing",
     "prediction": "Langfang Glory City Win",
-    "odds": "1.96"
+    "odds": "1.39"
+  },
+  {
+    "id": 1545492,
+    "league": "FA Cup (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Jiangxi Liansheng",
+    "awayTeam": "Henan Jianye",
+    "prediction": "Jiangxi Liansheng Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1545493,
+    "league": "FA Cup (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Rizhao Yuqi",
+    "awayTeam": "Tianjin Teda",
+    "prediction": "Rizhao Yuqi Win",
+    "odds": "1.75"
   }
 ]
