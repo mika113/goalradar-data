@@ -1,39 +1,12 @@
 [
   {
-    "id": 1532238,
-    "league": "USL W League (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "TLH Reckoning W",
-    "awayTeam": "Brooke House W",
-    "prediction": "TLH Reckoning W Win",
-    "odds": "1.43"
-  },
-  {
-    "id": 1493867,
-    "league": "USL League One (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Westchester SC",
-    "awayTeam": "Portland Hearts of Pine",
-    "prediction": "Westchester SC Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1524994,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Loudoun 2",
-    "awayTeam": "Bethesda SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
-  },
-  {
     "id": 1524995,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Tobacco Road",
     "awayTeam": "Asheville City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Asheville City Win",
+    "odds": "2.3"
   },
   {
     "id": 1532237,
@@ -41,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Midwest United W",
     "awayTeam": "Ann Arbor W",
-    "prediction": "Midwest United W Win",
-    "odds": "1.43"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.82"
   },
   {
     "id": 1532356,
@@ -50,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Vermont Green W",
     "awayTeam": "AC Connecticut W",
-    "prediction": "AC Connecticut W Win",
-    "odds": "3.49"
+    "prediction": "Vermont Green W Win",
+    "odds": "1.86"
   },
   {
     "id": 1544438,
@@ -60,7 +33,7 @@
     "homeTeam": "A. Italiano",
     "awayTeam": "Deportes Santa Cruz",
     "prediction": "A. Italiano Win",
-    "odds": "1.56"
+    "odds": "1.78"
   },
   {
     "id": 1524996,
@@ -68,7 +41,34 @@
     "matchTime": "02:30",
     "homeTeam": "Western Mass Pioneers",
     "awayTeam": "Boston Bolts",
-    "prediction": "Western Mass Pioneers Win",
-    "odds": "1.37"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
+  },
+  {
+    "id": 1524993,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Houston Sur",
+    "awayTeam": "Houston FC",
+    "prediction": "Double Chance X2",
+    "odds": "1.39"
+  },
+  {
+    "id": 1524997,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "FC Motown II",
+    "awayTeam": "New Jersey Copa",
+    "prediction": "FC Motown II Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1532397,
+    "league": "USL W League (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Lonestar San Antonio W",
+    "awayTeam": "Hill Country Linces W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
