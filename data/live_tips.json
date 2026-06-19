@@ -1,48 +1,12 @@
 [
   {
-    "id": 1523769,
-    "league": "Northern NSW NPL (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "Lambton Jaffas",
-    "awayTeam": "Adamstown Rosebuds",
-    "prediction": "Lambton Jaffas Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1532582,
-    "league": "NNSW League 1 (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "Toronto Awaba Stags",
-    "awayTeam": "South Cardiff",
-    "prediction": "South Cardiff Win",
-    "odds": "2.28"
-  },
-  {
-    "id": 1541317,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "Moreland City",
-    "awayTeam": "Nunawading",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
-  },
-  {
-    "id": 1524218,
-    "league": "Queensland Premier League (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Robina City",
-    "awayTeam": "Logan Lightning",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
-  },
-  {
     "id": 1529254,
     "league": "Tasmania NPL (Australia)",
     "matchTime": "07:30",
     "homeTeam": "Devonport City",
     "awayTeam": "Clarence Zebras",
-    "prediction": "Clarence Zebras Win",
-    "odds": "2.55"
+    "prediction": "Devonport City Win",
+    "odds": "1.58"
   },
   {
     "id": 1529255,
@@ -50,8 +14,8 @@
     "matchTime": "07:30",
     "homeTeam": "Riverside",
     "awayTeam": "Launceston City",
-    "prediction": "Launceston City Win",
-    "odds": "3.05"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1529256,
@@ -59,8 +23,8 @@
     "matchTime": "07:30",
     "homeTeam": "South East Utd.",
     "awayTeam": "Glenorchy Knights",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1529257,
@@ -68,8 +32,8 @@
     "matchTime": "07:30",
     "homeTeam": "Launceston United",
     "awayTeam": "Ulverstone",
-    "prediction": "Launceston United Win",
-    "odds": "1.43"
+    "prediction": "Ulverstone Win",
+    "odds": "2.86"
   },
   {
     "id": 1533030,
@@ -77,8 +41,8 @@
     "matchTime": "07:30",
     "homeTeam": "New Town",
     "awayTeam": "Hobart Utd.",
-    "prediction": "Hobart Utd. Win",
-    "odds": "2.91"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1533032,
@@ -86,7 +50,43 @@
     "matchTime": "07:30",
     "homeTeam": "Hobart City",
     "awayTeam": "Taroona",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "prediction": "Hobart City Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1533109,
+    "league": "Tasmania Northern Championship (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Northern Rangers",
+    "awayTeam": "Somerset",
+    "prediction": "Somerset Win",
+    "odds": "3.38"
+  },
+  {
+    "id": 1537478,
+    "league": "Capital Territory NPL (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Canberra Olympic",
+    "awayTeam": "Monaro Panthers",
+    "prediction": "Canberra Olympic Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1517570,
+    "league": "New South Wales NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Western Sydney Wanderers U23",
+    "awayTeam": "Sutherland Sharks",
+    "prediction": "Western Sydney Wanderers U23 Win",
+    "odds": "1.76"
+  },
+  {
+    "id": 1521958,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Avondale",
+    "awayTeam": "Dandenong Thunder",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
   }
 ]
