@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Rizhao Yuqi",
     "awayTeam": "Tianjin Teda",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tianjin Teda Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "Langfang Glory City",
     "awayTeam": "Dalian Zhixing",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dalian Zhixing Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "Shangyu Pterosaur",
     "awayTeam": "Guangdong Mingtu",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Guangdong Mingtu Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Guangzhou Dandelion Win",
-    "outcome": "Lost"
+    "prediction": "Hubei Chufeng Heli Win",
+    "outcome": "Won"
   },
   {
     "id": 1541361,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Essendon Royals SC",
     "awayTeam": "Werribee City",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Essendon Royals SC Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Holland Park Hawks Win",
-    "outcome": "Won"
+    "prediction": "St George Willawong Win",
+    "outcome": "Lost"
   },
   {
     "id": 1524158,
