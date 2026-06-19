@@ -1,30 +1,12 @@
 [
   {
-    "id": 1514209,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Njardvik",
-    "awayTeam": "Leiknir R.",
-    "prediction": "Njardvik Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1543403,
-    "league": "2. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Thróttur Vogar",
-    "awayTeam": "Kári",
-    "prediction": "Thróttur Vogar Win & Over 1.5",
-    "odds": "2.9"
-  },
-  {
     "id": 1543404,
     "league": "2. Deild (Iceland)",
     "matchTime": "23:00",
     "homeTeam": "Hvíti riddarinn",
     "awayTeam": "Fjolnir",
-    "prediction": "Fjolnir Win",
-    "odds": "3.12"
+    "prediction": "Hvíti riddarinn Win",
+    "odds": "1.37"
   },
   {
     "id": 1524991,
@@ -32,8 +14,8 @@
     "matchTime": "23:30",
     "homeTeam": "Brevard",
     "awayTeam": "Weston",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.19"
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   },
   {
     "id": 1553050,
@@ -42,7 +24,7 @@
     "homeTeam": "Alianza Atletico",
     "awayTeam": "Cesar Vallejo",
     "prediction": "Alianza Atletico Win",
-    "odds": "1.32"
+    "odds": "1.88"
   },
   {
     "id": 1553716,
@@ -50,7 +32,25 @@
     "matchTime": "00:00",
     "homeTeam": "Miramar",
     "awayTeam": "Sportivo Huracan",
-    "prediction": "Miramar Win",
-    "odds": "1.64"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.2"
+  },
+  {
+    "id": 1545385,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "00:30",
+    "homeTeam": "Real Potosí",
+    "awayTeam": "Gualberto Villarroel SJ",
+    "prediction": "Real Potosí Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1489390,
+    "league": "World Cup",
+    "matchTime": "01:00",
+    "homeTeam": "Scotland",
+    "awayTeam": "Morocco",
+    "prediction": "Morocco Win",
+    "odds": "2.78"
   }
 ]
