@@ -6,9 +6,9 @@
     "homeTeam": "Thróttur Vogar",
     "awayTeam": "Kári",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kári Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Njardvik",
     "awayTeam": "Leiknir R.",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Njardvik Win",
     "outcome": "Won"
   },
   {
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "USA",
     "awayTeam": "Australia",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "USA Win",
-    "outcome": "Won"
+    "prediction": "Australia Win",
+    "outcome": "Lost"
   },
   {
     "id": 1553786,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Cork City",
     "awayTeam": "Treaty United",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cork City Win",
     "outcome": "Won"
   },
   {
@@ -113,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Bray Wanderers",
     "awayTeam": "Longford Town",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Bray Wanderers Win",
-    "outcome": "Won"
+    "prediction": "Longford Town Win",
+    "outcome": "Lost"
   },
   {
     "id": 1492915,
@@ -125,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Athlone Town",
     "awayTeam": "Wexford",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Athlone Town Win",
     "outcome": "Won"
   },
   {
