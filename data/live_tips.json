@@ -1,66 +1,12 @@
 [
   {
-    "id": 1512477,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Estudiantes La Plata Res",
-    "awayTeam": "Central Córdoba SdE Res.",
-    "prediction": "Central Córdoba SdE Res. Win",
-    "odds": "3.43"
-  },
-  {
-    "id": 1512480,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Godoy Cruz Res.",
-    "awayTeam": "Aldosivi Res.",
-    "prediction": "Aldosivi Res. Win",
-    "odds": "3.23"
-  },
-  {
-    "id": 1512484,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Platense Res.",
-    "awayTeam": "Independiente Riva. Res.",
-    "prediction": "Independiente Riva. Res. Win",
-    "odds": "3.18"
-  },
-  {
-    "id": 1512488,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Tigre Res.",
-    "awayTeam": "San Lorenzo Res.",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
-  },
-  {
-    "id": 1540219,
-    "league": "Cearense U20 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Horizonte U20",
-    "awayTeam": "Juazeiro EC U20",
-    "prediction": "Horizonte U20 Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1543623,
-    "league": "Baiano - 2 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Leonico",
-    "awayTeam": "Jacobina",
-    "prediction": "Leonico Win",
-    "odds": "1.63"
-  },
-  {
     "id": 1553049,
     "league": "Copa De La Liga (Peru)",
     "matchTime": "21:00",
     "homeTeam": "ADT",
     "awayTeam": "Alianza Universidad",
     "prediction": "ADT Win",
-    "odds": "1.87"
+    "odds": "1.76"
   },
   {
     "id": 1549937,
@@ -69,7 +15,7 @@
     "homeTeam": "Estrella de Berisso",
     "awayTeam": "Defensores Glew",
     "prediction": "Estrella de Berisso Win",
-    "odds": "1.71"
+    "odds": "1.58"
   },
   {
     "id": 1492717,
@@ -77,8 +23,8 @@
     "matchTime": "21:45",
     "homeTeam": "Drogheda United",
     "awayTeam": "Shelbourne",
-    "prediction": "Shelbourne Win",
-    "odds": "2.71"
+    "prediction": "Drogheda United Win",
+    "odds": "1.96"
   },
   {
     "id": 1492718,
@@ -86,7 +32,61 @@
     "matchTime": "21:45",
     "homeTeam": "Galway United",
     "awayTeam": "Derry City",
-    "prediction": "Galway United Win",
-    "odds": "1.84"
+    "prediction": "Derry City Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1492719,
+    "league": "Premier Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "St Patrick's Athl.",
+    "awayTeam": "Sligo Rovers",
+    "prediction": "St Patrick's Athl. Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1492720,
+    "league": "Premier Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Waterford",
+    "awayTeam": "Shamrock Rovers",
+    "prediction": "Waterford Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1492915,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Athlone Town",
+    "awayTeam": "Wexford",
+    "prediction": "Wexford Win",
+    "odds": "2.17"
+  },
+  {
+    "id": 1492916,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Bray Wanderers",
+    "awayTeam": "Longford Town",
+    "prediction": "Bray Wanderers Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1492917,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Cobh Ramblers",
+    "awayTeam": "Finn Harps",
+    "prediction": "Cobh Ramblers Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1492918,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Cork City",
+    "awayTeam": "Treaty United",
+    "prediction": "Treaty United Win",
+    "odds": "2.81"
   }
 ]
