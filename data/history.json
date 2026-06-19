@@ -1,5 +1,29 @@
 [
   {
+    "id": 1532236,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Pleasanton Rage W",
+    "awayTeam": "Stockton Cargo W",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Stockton Cargo W Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524987,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Sportivo San Juan",
+    "awayTeam": "San Francisco City",
+    "homeScore": 2,
+    "awayScore": 6,
+    "status": "FT",
+    "prediction": "San Francisco City Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1524984,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -12,6 +36,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1532235,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Bigfoot W",
+    "awayTeam": "Olympia W",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524989,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Flatirons Rush",
+    "awayTeam": "Albion Colorado",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Flatirons Rush Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1489388,
     "league": "World Cup",
     "matchDate": "FT",
@@ -21,6 +69,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Mexico Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532234,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "AHFC Royals W",
+    "awayTeam": "Challenge W",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Challenge W Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1505449,
@@ -82,65 +142,5 @@
     "status": "FT",
     "prediction": "Midwest United Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1513164,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Connecticut FC",
-    "awayTeam": "FC Cincinnati II",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Connecticut FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532233,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Steel City W",
-    "awayTeam": "Flower City 1872 W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Steel City W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532232,
-    "league": "USL W League (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Flatirons II W",
-    "awayTeam": "Albion Colorado W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489387,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Canada",
-    "awayTeam": "Qatar",
-    "homeScore": 6,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Canada Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1539005,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Switzerland",
-    "awayTeam": "Bosnia & Herzegovina",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Bosnia & Herzegovina Win",
-    "outcome": "Lost"
   }
 ]
