@@ -1,21 +1,12 @@
 [
   {
-    "id": 1553788,
-    "league": "Premier League (Kuwait)",
-    "matchTime": "19:05",
-    "homeTeam": "Al Fahaheel",
-    "awayTeam": "Kazma",
-    "prediction": "Kazma Win",
-    "odds": "2.04"
-  },
-  {
     "id": 1553787,
     "league": "Premier League (Kuwait)",
     "matchTime": "20:45",
     "homeTeam": "Al Salmiyah",
     "awayTeam": "Al Kuwait",
     "prediction": "Al Kuwait Win",
-    "odds": "2.13"
+    "odds": "2.31"
   },
   {
     "id": 1553786,
@@ -23,8 +14,8 @@
     "matchTime": "21:45",
     "homeTeam": "Al Arabi",
     "awayTeam": "Al Qadsia",
-    "prediction": "Double Chance X2",
-    "odds": "1.39"
+    "prediction": "Al Arabi Win",
+    "odds": "1.73"
   },
   {
     "id": 1521628,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Tulevik",
     "awayTeam": "Levadia U19",
-    "prediction": "Tulevik Win",
-    "odds": "1.72"
+    "prediction": "Levadia U19 Win",
+    "odds": "3.06"
   },
   {
     "id": 1529747,
@@ -41,8 +32,8 @@
     "matchTime": "19:30",
     "homeTeam": "Garliava",
     "awayTeam": "Transinvest 2",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Garliava Win",
+    "odds": "1.54"
   },
   {
     "id": 1546578,
@@ -50,7 +41,16 @@
     "matchTime": "19:30",
     "homeTeam": "Rapid Wien II",
     "awayTeam": "Oberwart",
-    "prediction": "Oberwart Win",
-    "odds": "2.44"
+    "prediction": "Rapid Wien II Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1554474,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Zirl",
+    "awayTeam": "WSG Wattens",
+    "prediction": "WSG Wattens Win",
+    "odds": "2.12"
   }
 ]
