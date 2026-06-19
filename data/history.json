@@ -1,5 +1,17 @@
 [
   {
+    "id": 1534340,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Lida",
+    "awayTeam": "Gomel II",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Lida Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1550061,
     "league": "Premier League (Syria)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1550059,
@@ -29,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Horriya",
     "awayTeam": "Damascus Al-Ahli",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1550056,
@@ -89,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Minsk II",
     "awayTeam": "Volna",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Volna Win",
     "outcome": "Won"
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Shakhter Karagandy",
     "awayTeam": "Jaiyq",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Shakhter Karagandy Win",
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Henan Jianye Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1545491,
-    "league": "FA Cup (China)",
-    "matchDate": "FT",
-    "homeTeam": "Langfang Glory City",
-    "awayTeam": "Dalian Zhixing",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
