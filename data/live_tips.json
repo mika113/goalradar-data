@@ -1,66 +1,12 @@
 [
   {
-    "id": 1534339,
-    "league": "1. Division (Belarus)",
-    "matchTime": "18:30",
-    "homeTeam": "Dinamo Minsk II",
-    "awayTeam": "Slonim",
-    "prediction": "Dinamo Minsk II Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1554473,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Grazer AK",
-    "awayTeam": "Gyori ETO FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
-  },
-  {
-    "id": 1496997,
-    "league": "3. Division - Girone 4 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Hinna",
-    "awayTeam": "Brodd",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
-    "id": 1521627,
-    "league": "Esiliiga B (Estonia)",
-    "matchTime": "19:00",
-    "homeTeam": "Parnu JK Vaprus U21",
-    "awayTeam": "Tallinna Kalev II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
-  },
-  {
-    "id": 1548954,
-    "league": "Cup (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "Mārupe",
-    "awayTeam": "Aliance",
-    "prediction": "Aliance Win",
-    "odds": "2.38"
-  },
-  {
-    "id": 1554470,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Rače",
-    "awayTeam": "Aluminij",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
-  },
-  {
     "id": 1521628,
     "league": "Esiliiga B (Estonia)",
     "matchTime": "19:30",
     "homeTeam": "Tulevik",
     "awayTeam": "Levadia U19",
-    "prediction": "Tulevik Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1529747,
@@ -68,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "Garliava",
     "awayTeam": "Transinvest 2",
-    "prediction": "Transinvest 2 Win",
-    "odds": "2.6"
+    "prediction": "Garliava Win",
+    "odds": "1.83"
   },
   {
     "id": 1546578,
@@ -77,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Rapid Wien II",
     "awayTeam": "Oberwart",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.08"
+    "prediction": "Rapid Wien II Win",
+    "odds": "1.81"
   },
   {
     "id": 1554474,
@@ -86,7 +32,61 @@
     "matchTime": "19:30",
     "homeTeam": "Zirl",
     "awayTeam": "WSG Wattens",
-    "prediction": "Zirl Win",
-    "odds": "1.89"
+    "prediction": "Zirl Win & Over 1.5",
+    "odds": "2.91"
+  },
+  {
+    "id": 1495868,
+    "league": "1. Division (Norway)",
+    "matchTime": "20:00",
+    "homeTeam": "Ranheim",
+    "awayTeam": "Lyn",
+    "prediction": "Ranheim Win",
+    "odds": "1.32"
+  },
+  {
+    "id": 1496633,
+    "league": "3. Division - Girone 2 (Norway)",
+    "matchTime": "20:00",
+    "homeTeam": "Melhus",
+    "awayTeam": "Rosenborg II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1506623,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchTime": "20:00",
+    "homeTeam": "Suduroy",
+    "awayTeam": "TB",
+    "prediction": "Double Chance X2",
+    "odds": "1.69"
+  },
+  {
+    "id": 1506626,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchTime": "20:00",
+    "homeTeam": "ÍF II",
+    "awayTeam": "NSÍ II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
+  },
+  {
+    "id": 1506488,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "Vikingur Gota",
+    "awayTeam": "KI Klaksvik",
+    "prediction": "Vikingur Gota Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1512474,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Barracas Central Res.",
+    "awayTeam": "Sarmiento Res.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.59"
   }
 ]
