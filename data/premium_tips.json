@@ -1,21 +1,12 @@
 [
   {
-    "id": 1524996,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Western Mass Pioneers",
-    "awayTeam": "Boston Bolts",
-    "prediction": "Boston Bolts Win",
-    "odds": "3.14"
-  },
-  {
     "id": 1524993,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "Houston Sur",
     "awayTeam": "Houston FC",
-    "prediction": "Houston Sur Win",
-    "odds": "1.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.17"
   },
   {
     "id": 1524997,
@@ -23,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "FC Motown II",
     "awayTeam": "New Jersey Copa",
-    "prediction": "New Jersey Copa Win",
-    "odds": "2.2"
+    "prediction": "FC Motown II Win",
+    "odds": "1.4"
   },
   {
     "id": 1532397,
@@ -32,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Lonestar San Antonio W",
     "awayTeam": "Hill Country Linces W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1532453,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Rally Madison FC W",
     "awayTeam": "Rockford Raptors W",
-    "prediction": "Rally Madison FC W Win & Over 1.5",
-    "odds": "1.97"
+    "prediction": "Rockford Raptors W Win",
+    "odds": "3.36"
   },
   {
     "id": 1544439,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "San Marcos de Arica",
     "awayTeam": "Deportes Limache",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.85"
+    "prediction": "San Marcos de Arica Win",
+    "odds": "1.83"
   },
   {
     "id": 1545386,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Universitario de Vinto",
     "awayTeam": "Guabirá",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
+    "prediction": "Universitario de Vinto Win & Over 1.5",
+    "odds": "2.03"
   },
   {
     "id": 1489389,
@@ -68,8 +59,8 @@
     "matchTime": "03:30",
     "homeTeam": "Brazil",
     "awayTeam": "Haiti",
-    "prediction": "Brazil Win & Over 1.5",
-    "odds": "2.21"
+    "prediction": "Brazil Win",
+    "odds": "1.5"
   },
   {
     "id": 1524992,
@@ -77,8 +68,8 @@
     "matchTime": "04:00",
     "homeTeam": "Snohomish United",
     "awayTeam": "Bangers",
-    "prediction": "Snohomish United Win",
-    "odds": "1.74"
+    "prediction": "Snohomish United Win & Over 1.5",
+    "odds": "2.26"
   },
   {
     "id": 1532239,
@@ -86,8 +77,8 @@
     "matchTime": "04:00",
     "homeTeam": "OC Sporting W",
     "awayTeam": "Sta Clarita Blue Heat W",
-    "prediction": "OC Sporting W Win & Over 1.5",
-    "odds": "2.1"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.96"
   },
   {
     "id": 1554475,
@@ -95,8 +86,8 @@
     "matchTime": "04:00",
     "homeTeam": "Reboceros La Piedad",
     "awayTeam": "Club Queretaro",
-    "prediction": "Reboceros La Piedad Win & Over 1.5",
-    "odds": "2.47"
+    "prediction": "Club Queretaro Win",
+    "odds": "1.93"
   },
   {
     "id": 1532398,
@@ -105,6 +96,15 @@
     "homeTeam": "California Storm II W",
     "awayTeam": "Monterey Bay FC W",
     "prediction": "California Storm II W Win",
-    "odds": "1.44"
+    "odds": "1.71"
+  },
+  {
+    "id": 1532454,
+    "league": "USL W League (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Portland Cherry Bombs FC W",
+    "awayTeam": "Snohomish United W",
+    "prediction": "Portland Cherry Bombs FC W Win",
+    "odds": "1.56"
   }
 ]
