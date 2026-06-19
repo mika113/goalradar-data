@@ -1,93 +1,12 @@
 [
   {
-    "id": 1524158,
-    "league": "Queensland Premier League (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Caboolture",
-    "awayTeam": "Brisbane Strikers",
-    "prediction": "Brisbane Strikers Win",
-    "odds": "3.29"
-  },
-  {
-    "id": 1524159,
-    "league": "Queensland Premier League (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Holland Park Hawks",
-    "awayTeam": "St George Willawong",
-    "prediction": "Holland Park Hawks Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1541361,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Essendon Royals SC",
-    "awayTeam": "Werribee City",
-    "prediction": "Essendon Royals SC Win",
-    "odds": "1.54"
-  },
-  {
-    "id": 1541438,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "13:30",
-    "homeTeam": "Whittlesea United",
-    "awayTeam": "Bayside Argonauts",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.93"
-  },
-  {
-    "id": 1532763,
-    "league": "League Two (China)",
-    "matchTime": "14:00",
-    "homeTeam": "Guangzhou Dandelion",
-    "awayTeam": "Hubei Chufeng Heli",
-    "prediction": "Guangzhou Dandelion Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1545496,
-    "league": "FA Cup (China)",
-    "matchTime": "14:00",
-    "homeTeam": "Shaanxi Union",
-    "awayTeam": "Hangzhou Greentown",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
-    "id": 1545503,
-    "league": "FA Cup (China)",
-    "matchTime": "14:00",
-    "homeTeam": "Shenzhen Juniors",
-    "awayTeam": "Sichuan Jiuniu",
-    "prediction": "Shenzhen Juniors Win & Over 1.5",
-    "odds": "2.71"
-  },
-  {
-    "id": 1532764,
-    "league": "League Two (China)",
-    "matchTime": "14:30",
-    "homeTeam": "Shangyu Pterosaur",
-    "awayTeam": "Guangdong Mingtu",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
-  },
-  {
-    "id": 1532765,
-    "league": "League Two (China)",
-    "matchTime": "14:30",
-    "homeTeam": "Guizhou Zhucheng",
-    "awayTeam": "Xiamen Feilu",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
-  },
-  {
     "id": 1545489,
     "league": "FA Cup (China)",
     "matchTime": "14:30",
     "homeTeam": "Guangzhou E-Power",
     "awayTeam": "Beijing Guoan",
     "prediction": "Guangzhou E-Power Win",
-    "odds": "1.62"
+    "odds": "1.38"
   },
   {
     "id": 1545491,
@@ -96,7 +15,7 @@
     "homeTeam": "Langfang Glory City",
     "awayTeam": "Dalian Zhixing",
     "prediction": "Langfang Glory City Win",
-    "odds": "1.66"
+    "odds": "1.71"
   },
   {
     "id": 1545492,
@@ -104,7 +23,88 @@
     "matchTime": "14:30",
     "homeTeam": "Jiangxi Liansheng",
     "awayTeam": "Henan Jianye",
+    "prediction": "Henan Jianye Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1545493,
+    "league": "FA Cup (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Rizhao Yuqi",
+    "awayTeam": "Tianjin Teda",
     "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
+  },
+  {
+    "id": 1534769,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "16:00",
+    "homeTeam": "Shakhter Karagandy",
+    "awayTeam": "Jaiyq",
+    "prediction": "Jaiyq Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1534341,
+    "league": "1. Division (Belarus)",
+    "matchTime": "16:30",
+    "homeTeam": "Minsk II",
+    "awayTeam": "Volna",
+    "prediction": "Minsk II Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1534768,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "17:00",
+    "homeTeam": "Khan Tengri",
+    "awayTeam": "Taraz",
+    "prediction": "Khan Tengri Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1534340,
+    "league": "1. Division (Belarus)",
+    "matchTime": "17:30",
+    "homeTeam": "Lida",
+    "awayTeam": "Gomel II",
+    "prediction": "Gomel II Win",
     "odds": "2.2"
+  },
+  {
+    "id": 1529745,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "18:00",
+    "homeTeam": "Babrungas",
+    "awayTeam": "Be1 NFA",
+    "prediction": "Be1 NFA Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1548697,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Levski Sofia",
+    "awayTeam": "Akademik Svishtov",
+    "prediction": "Levski Sofia Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1554471,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Liptovský Mikuláš",
+    "awayTeam": "Baník Lehota p.Vtáčnikom",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
+  },
+  {
+    "id": 1554472,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Považská Bystrica",
+    "awayTeam": "Pohronie",
+    "prediction": "Považská Bystrica Win",
+    "odds": "1.44"
   }
 ]
