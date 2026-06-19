@@ -1,48 +1,12 @@
 [
   {
-    "id": 1532234,
-    "league": "USL W League (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "AHFC Royals W",
-    "awayTeam": "Challenge W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
-  },
-  {
-    "id": 1489388,
-    "league": "World Cup",
-    "matchTime": "04:00",
-    "homeTeam": "Mexico",
-    "awayTeam": "South Korea",
-    "prediction": "Double Chance X2",
-    "odds": "1.5"
-  },
-  {
-    "id": 1524989,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Flatirons Rush",
-    "awayTeam": "Albion Colorado",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
-  },
-  {
-    "id": 1524990,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Utah United",
-    "awayTeam": "Unión Villa Krause",
-    "prediction": "Unión Villa Krause Win",
-    "odds": "3.12"
-  },
-  {
     "id": 1532235,
     "league": "USL W League (USA)",
     "matchTime": "04:30",
     "homeTeam": "Bigfoot W",
     "awayTeam": "Olympia W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Bigfoot W Win",
+    "odds": "1.83"
   },
   {
     "id": 1524984,
@@ -50,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Ballard",
     "awayTeam": "Bigfoot",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1524987,
@@ -59,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "Sportivo San Juan",
     "awayTeam": "San Francisco City",
-    "prediction": "San Francisco City Win",
-    "odds": "2.44"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1532236,
@@ -68,8 +32,8 @@
     "matchTime": "05:00",
     "homeTeam": "Pleasanton Rage W",
     "awayTeam": "Stockton Cargo W",
-    "prediction": "Stockton Cargo W Win",
-    "odds": "2.22"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.12"
   },
   {
     "id": 1545488,
@@ -77,8 +41,8 @@
     "matchTime": "10:30",
     "homeTeam": "Dalian Kewei",
     "awayTeam": "Shenyang Urban",
-    "prediction": "Dalian Kewei Win",
-    "odds": "1.68"
+    "prediction": "Shenyang Urban Win",
+    "odds": "2.98"
   },
   {
     "id": 1545497,
@@ -86,8 +50,8 @@
     "matchTime": "10:30",
     "homeTeam": "Shanghai Second",
     "awayTeam": "SHANGHAI SIPG",
-    "prediction": "Shanghai Second Win",
-    "odds": "1.52"
+    "prediction": "SHANGHAI SIPG Win",
+    "odds": "1.63"
   },
   {
     "id": 1545499,
@@ -95,8 +59,8 @@
     "matchTime": "10:30",
     "homeTeam": "Xi'an Ronghai",
     "awayTeam": "Qingdao Youth Island",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.64"
+    "prediction": "Xi'an Ronghai Win & Over 1.5",
+    "odds": "1.86"
   },
   {
     "id": 1522129,
@@ -104,7 +68,43 @@
     "matchTime": "12:30",
     "homeTeam": "Langwarrin",
     "awayTeam": "Port Melbourne",
-    "prediction": "Langwarrin Win & Over 1.5",
-    "odds": "1.94"
+    "prediction": "Langwarrin Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1522651,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Bentleigh Greens",
+    "awayTeam": "South Melbourne",
+    "prediction": "Bentleigh Greens Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1524053,
+    "league": "Queensland NPL (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Gold Coast Knights",
+    "awayTeam": "Magic United",
+    "prediction": "Gold Coast Knights Win",
+    "odds": "1.43"
+  },
+  {
+    "id": 1541360,
+    "league": "Victoria Premier League 2 (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Box Hill",
+    "awayTeam": "Kingston City",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1541437,
+    "league": "Victoria Premier League 2 (Australia)",
+    "matchTime": "12:45",
+    "homeTeam": "Eastern Lions",
+    "awayTeam": "Springvale",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
