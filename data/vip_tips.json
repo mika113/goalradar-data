@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554474,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Zirl",
-    "awayTeam": "WSG Wattens",
-    "prediction": "Zirl Win & Over 1.5",
-    "odds": "2.13"
-  },
-  {
     "id": 1495868,
     "league": "1. Division (Norway)",
     "matchTime": "20:00",
     "homeTeam": "Ranheim",
     "awayTeam": "Lyn",
-    "prediction": "Ranheim Win",
-    "odds": "1.64"
+    "prediction": "Ranheim Win & Over 1.5",
+    "odds": "2.11"
   },
   {
     "id": 1496633,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Melhus",
     "awayTeam": "Rosenborg II",
-    "prediction": "Rosenborg II Win",
-    "odds": "2.16"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1506623,
@@ -33,7 +24,7 @@
     "homeTeam": "Suduroy",
     "awayTeam": "TB",
     "prediction": "Suduroy Win",
-    "odds": "1.89"
+    "odds": "2.0"
   },
   {
     "id": 1506626,
@@ -41,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "ÍF II",
     "awayTeam": "NSÍ II",
-    "prediction": "ÍF II Win & Over 1.5",
-    "odds": "2.54"
+    "prediction": "ÍF II Win",
+    "odds": "1.49"
   },
   {
     "id": 1506488,
@@ -50,8 +41,8 @@
     "matchTime": "20:30",
     "homeTeam": "Vikingur Gota",
     "awayTeam": "KI Klaksvik",
-    "prediction": "Vikingur Gota Win",
-    "odds": "1.71"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1512474,
@@ -59,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "Barracas Central Res.",
     "awayTeam": "Sarmiento Res.",
-    "prediction": "Sarmiento Res. Win",
-    "odds": "3.42"
+    "prediction": "Barracas Central Res. Win & Over 1.5",
+    "odds": "2.17"
   },
   {
     "id": 1512476,
@@ -69,6 +60,15 @@
     "homeTeam": "Colón Res.",
     "awayTeam": "Estudiantes Rio Cuarto 2",
     "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "odds": "1.69"
+  },
+  {
+    "id": 1512477,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Estudiantes La Plata Res",
+    "awayTeam": "Central Córdoba SdE Res.",
+    "prediction": "Central Córdoba SdE Res. Win",
+    "odds": "2.44"
   }
 ]
