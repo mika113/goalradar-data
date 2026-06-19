@@ -1,15 +1,75 @@
 [
   {
+    "id": 1506623,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "Suduroy",
+    "awayTeam": "TB",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1495868,
+    "league": "1. Division (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Ranheim",
+    "awayTeam": "Lyn",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546578,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rapid Wien II",
+    "awayTeam": "Oberwart",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Rapid Wien II Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1529747,
+    "league": "1 Lyga (Lithuania)",
+    "matchDate": "FT",
+    "homeTeam": "Garliava",
+    "awayTeam": "Transinvest 2",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Garliava Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1521628,
+    "league": "Esiliiga B (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tulevik",
+    "awayTeam": "Levadia U19",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Levadia U19 Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1553788,
     "league": "Premier League (Kuwait)",
     "matchDate": "FT",
     "homeTeam": "Al Fahaheel",
     "awayTeam": "Kazma",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Al Fahaheel Win",
+    "outcome": "Won"
   },
   {
     "id": 1554470,
@@ -21,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1521627,
@@ -29,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Parnu JK Vaprus U21",
     "awayTeam": "Tallinna Kalev II",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tallinna Kalev II Win",
+    "prediction": "Parnu JK Vaprus U21 Win",
     "outcome": "Won"
   },
   {
@@ -42,7 +102,7 @@
     "homeTeam": "Hinna",
     "awayTeam": "Brodd",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Hinna Win",
     "outcome": "Won"
@@ -53,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Grazer AK",
     "awayTeam": "Gyori ETO FC",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -80,67 +140,7 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Pohronie Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554471,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Liptovský Mikuláš",
-    "awayTeam": "Baník Lehota p.Vtáčnikom",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548697,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Levski Sofia",
-    "awayTeam": "Akademik Svishtov",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Levski Sofia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529745,
-    "league": "1 Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "Babrungas",
-    "awayTeam": "Be1 NFA",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525899,
-    "league": "Premier League (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Naftan",
-    "awayTeam": "Baranovichi",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Naftan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534340,
-    "league": "1. Division (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Lida",
-    "awayTeam": "Gomel II",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Lida Win",
-    "outcome": "Won"
+    "prediction": "Považská Bystrica Win",
+    "outcome": "Lost"
   }
 ]
