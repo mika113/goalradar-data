@@ -1,39 +1,12 @@
 [
   {
-    "id": 1508061,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "16:00",
-    "homeTeam": "Reyady Abaseya",
-    "awayTeam": "Safa",
-    "prediction": "Reyady Abaseya Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1528003,
-    "league": "Premier League (Kazakhstan)",
-    "matchTime": "16:00",
-    "homeTeam": "Zhenys",
-    "awayTeam": "Irtysh",
-    "prediction": "Irtysh Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1541097,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "16:00",
-    "homeTeam": "Sidama Bunna",
-    "awayTeam": "Negelle Arsi",
-    "prediction": "Sidama Bunna Win",
-    "odds": "1.51"
-  },
-  {
     "id": 1541104,
     "league": "Premier League (Ethiopia)",
     "matchTime": "16:00",
     "homeTeam": "Dire Dawa Kenema",
     "awayTeam": "Sheger Ketema",
-    "prediction": "Dire Dawa Kenema Win",
-    "odds": "1.73"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.21"
   },
   {
     "id": 1546788,
@@ -41,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "TP Mazembe",
     "awayTeam": "Céleste",
-    "prediction": "TP Mazembe Win",
-    "odds": "1.9"
+    "prediction": "Céleste Win",
+    "odds": "2.37"
   },
   {
     "id": 1546790,
@@ -50,25 +23,52 @@
     "matchTime": "16:00",
     "homeTeam": "Saint Eloi Lupopo",
     "awayTeam": "Vita Club",
-    "prediction": "Saint Eloi Lupopo Win & Over 1.5",
-    "odds": "1.91"
+    "prediction": "Saint Eloi Lupopo Win",
+    "odds": "1.46"
   },
   {
-    "id": 1496450,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "Heming",
-    "awayTeam": "Gamle Oslo",
-    "prediction": "Gamle Oslo Win",
-    "odds": "3.44"
+    "id": 1525901,
+    "league": "Premier League (Belarus)",
+    "matchTime": "16:30",
+    "homeTeam": "Slavia Mozyr",
+    "awayTeam": "FC Isloch Minsk R.",
+    "prediction": "Slavia Mozyr Win",
+    "odds": "1.87"
   },
   {
-    "id": 1496452,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "Nordstrand",
-    "awayTeam": "Asker",
-    "prediction": "Nordstrand Win",
-    "odds": "1.86"
+    "id": 1522828,
+    "league": "A Lyga (Lithuania)",
+    "matchTime": "14:15",
+    "homeTeam": "Panevėžys",
+    "awayTeam": "Šiauliai",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
+  },
+  {
+    "id": 1513574,
+    "league": "Meistriliiga (Estonia)",
+    "matchTime": "14:30",
+    "homeTeam": "Laagri",
+    "awayTeam": "Nõmme United",
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
+  },
+  {
+    "id": 1532769,
+    "league": "League Two (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Wuhan Three Towns II",
+    "awayTeam": "Shenzhen 2028",
+    "prediction": "Shenzhen 2028 Win",
+    "odds": "2.66"
+  },
+  {
+    "id": 1545490,
+    "league": "FA Cup (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Guangxi Hengchen",
+    "awayTeam": "Shandong Luneng",
+    "prediction": "Guangxi Hengchen Win",
+    "odds": "1.5"
   }
 ]
