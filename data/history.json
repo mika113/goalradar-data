@@ -18,10 +18,10 @@
     "homeTeam": "Adelaide Victory",
     "awayTeam": "Adelaide Raiders",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Adelaide Victory Win",
-    "outcome": "Lost"
+    "prediction": "Adelaide Raiders Win",
+    "outcome": "Won"
   },
   {
     "id": 1527324,
@@ -30,7 +30,7 @@
     "homeTeam": "Fulham United",
     "awayTeam": "Salisbury United",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Salisbury United Win",
     "outcome": "Won"
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Cumberland United",
     "awayTeam": "South Adelaide Panthers",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Cumberland United Win",
@@ -66,9 +66,9 @@
     "homeTeam": "Modbury Jets",
     "awayTeam": "Adelaide Blue Eagles",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Modbury Jets Win",
     "outcome": "Lost"
   },
   {
@@ -77,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Sturt Lions",
     "awayTeam": "Para Hills Knights",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sturt Lions Win",
@@ -89,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "West Adelaide",
     "awayTeam": "Croydon Kings",
-    "homeScore": 0,
-    "awayScore": 3,
+    "homeScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Croydon Kings Win",
     "outcome": "Won"
