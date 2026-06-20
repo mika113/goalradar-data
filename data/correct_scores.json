@@ -1,21 +1,12 @@
 [
   {
-    "id": 1493550,
-    "league": "USL Championship (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Monterey Bay",
-    "awayTeam": "El Paso Locomotive",
-    "prediction": "0-0",
-    "odds": "6.99"
-  },
-  {
     "id": 1525015,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Academica",
     "awayTeam": "Project 51O",
-    "prediction": "1-0",
-    "odds": "4.77"
+    "prediction": "2-1",
+    "odds": "7.89"
   },
   {
     "id": 1525027,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Redlands",
     "awayTeam": "Seahorses",
-    "prediction": "2-0",
-    "odds": "6.45"
+    "prediction": "1-0",
+    "odds": "5.39"
   },
   {
     "id": 1525032,
@@ -33,7 +24,7 @@
     "homeTeam": "Tucson",
     "awayTeam": "Ventura County Fusion",
     "prediction": "2-1",
-    "odds": "7.09"
+    "odds": "9.69"
   },
   {
     "id": 1532252,
@@ -41,7 +32,16 @@
     "matchTime": "05:00",
     "homeTeam": "Utah United W",
     "awayTeam": "Colorado Storm W",
-    "prediction": "0-0",
-    "odds": "4.87"
+    "prediction": "4-1",
+    "odds": "7.55"
+  },
+  {
+    "id": 1532254,
+    "league": "USL W League (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Bigfoot W",
+    "awayTeam": "Tacoma Galaxy W",
+    "prediction": "4-0",
+    "odds": "8.28"
   }
 ]
