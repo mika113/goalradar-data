@@ -1,10 +1,58 @@
 [
   {
+    "id": 1527382,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Adelaide Cobras",
+    "awayTeam": "Eastern United",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Adelaide Cobras Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1527381,
     "league": "South Australia State League 1",
     "matchDate": "FT",
     "homeTeam": "Adelaide Victory",
     "awayTeam": "Adelaide Raiders",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Adelaide Victory Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1527324,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Fulham United",
+    "awayTeam": "Salisbury United",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Salisbury United Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527323,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Cumberland United",
+    "awayTeam": "South Adelaide Panthers",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Cumberland United Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527322,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Adelaide Olympic",
+    "awayTeam": "The Cove",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -12,15 +60,39 @@
     "outcome": "Won"
   },
   {
+    "id": 1527321,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Modbury Jets",
+    "awayTeam": "Adelaide Blue Eagles",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1527087,
     "league": "South Australia NPL",
     "matchDate": "FT",
     "homeTeam": "Sturt Lions",
     "awayTeam": "Para Hills Knights",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sturt Lions Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527086,
+    "league": "South Australia NPL",
+    "matchDate": "FT",
+    "homeTeam": "West Adelaide",
+    "awayTeam": "Croydon Kings",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Croydon Kings Win",
     "outcome": "Won"
   },
   {
@@ -29,6 +101,18 @@
     "matchDate": "FT",
     "homeTeam": "Playford City Patriots",
     "awayTeam": "Campbelltown City",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Playford City Patriots Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527084,
+    "league": "South Australia NPL",
+    "matchDate": "FT",
+    "homeTeam": "Adelaide United II",
+    "awayTeam": "Adelaide Comets",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -42,9 +126,9 @@
     "homeTeam": "Manningham United Blues",
     "awayTeam": "North Geelong Warriors",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "North Geelong Warriors Win",
     "outcome": "Won"
   },
   {
@@ -57,66 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524054,
-    "league": "Queensland NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Gold Coast United",
-    "awayTeam": "Brisbane Roar II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523770,
-    "league": "Northern NSW NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Belmont Swansea",
-    "awayTeam": "Broadmeadow Magic",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1522130,
-    "league": "Victoria NPL 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "North Sunshine Eagles",
-    "awayTeam": "Northcote City",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "North Sunshine Eagles Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1521959,
-    "league": "Victoria NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Heidelberg United",
-    "awayTeam": "Preston Lions",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1521958,
-    "league": "Victoria NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Avondale",
-    "awayTeam": "Dandenong Thunder",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Avondale Win",
     "outcome": "Won"
   }
 ]
