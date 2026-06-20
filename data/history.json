@@ -1,5 +1,41 @@
 [
   {
+    "id": 1520507,
+    "league": "K3 League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Daejeon Korail",
+    "awayTeam": "Jeonbuk Motors II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520506,
+    "league": "K3 League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Chuncheon",
+    "awayTeam": "Siheung Citizen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527089,
+    "league": "South Australia NPL",
+    "matchDate": "FT",
+    "homeTeam": "Adelaide City",
+    "awayTeam": "MetroStars",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Adelaide City Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1517573,
     "league": "New South Wales NPL (Australia)",
     "matchDate": "FT",
@@ -9,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554480,
@@ -30,9 +66,9 @@
     "homeTeam": "Vlašim",
     "awayTeam": "Dukla Praha",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dukla Praha Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Slovan Bratislava II",
     "awayTeam": "AS Trencin",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Slovan Bratislava II Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +102,9 @@
     "homeTeam": "Zlin",
     "awayTeam": "Petržalka",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Petržalka Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Žilina",
     "awayTeam": "Opava",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1547851,
@@ -89,58 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Kelen",
     "awayTeam": "Paks",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 6,
     "status": "FT",
     "prediction": "Paks Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546580,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dunajska Streda",
-    "awayTeam": "Šamorín",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Šamorín Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1545494,
-    "league": "FA Cup (China)",
-    "matchDate": "FT",
-    "homeTeam": "Ningbo Professional",
-    "awayTeam": "Chongqing Tongliang Long",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1527218,
-    "league": "Western Australia NPL",
-    "matchDate": "FT",
-    "homeTeam": "Balcatta",
-    "awayTeam": "Perth",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Perth Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520505,
-    "league": "K3 League (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Yangpyeong",
-    "awayTeam": "Yeoju Sejong",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Yangpyeong Win",
     "outcome": "Won"
   }
 ]
