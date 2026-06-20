@@ -1,5 +1,41 @@
 [
   {
+    "id": 1553720,
+    "league": "Segunda División (Uruguay)",
+    "matchDate": "FT",
+    "homeTeam": "Plaza Colonia",
+    "awayTeam": "Atenas",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520732,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ceara",
+    "awayTeam": "Botafogo SP",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1544443,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Recoleta",
+    "awayTeam": "Colo Colo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Colo Colo Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554043,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
@@ -8,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Monte Roraima Win",
-    "outcome": "Won"
+    "prediction": "Guaporé Win",
+    "outcome": "Lost"
   },
   {
     "id": 1553738,
@@ -18,7 +54,7 @@
     "homeTeam": "Mixto",
     "awayTeam": "Gama",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Gama Win",
     "outcome": "Won"
@@ -33,102 +69,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1530416,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Santamarina",
-    "awayTeam": "Villa Mitre",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525004,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Kalamazoo FC",
-    "awayTeam": "AFC Ann Arbor",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553054,
-    "league": "Copa De La Liga (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Juan Pablo II College",
-    "awayTeam": "Deportiva Agropecuaria",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553742,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Sampaio Corrêa RJ",
-    "awayTeam": "Portuguesa",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sampaio Corrêa RJ Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553053,
-    "league": "Copa De La Liga (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Union Comercio",
-    "awayTeam": "Comerciantes",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543288,
-    "league": "Carioca A2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Resende",
-    "awayTeam": "Serrano RJ",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529117,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Trasandino",
-    "awayTeam": "Santiago City",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Trasandino Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529115,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Linares Unido",
-    "awayTeam": "Deportes Rengo",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Linares Unido Win",
     "outcome": "Won"
   }
 ]
