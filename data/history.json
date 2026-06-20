@@ -1,5 +1,113 @@
 [
   {
+    "id": 1536615,
+    "league": "Second League - Group 3 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Volna Nizhegorodskaya",
+    "awayTeam": "Avangard Kursk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1536612,
+    "league": "Second League - Group 3 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Ryazan",
+    "awayTeam": "FK Spartak Tambov",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "FK Spartak Tambov Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1534343,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Osipovichy",
+    "awayTeam": "Orsha",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1532770,
+    "league": "League Two (China)",
+    "matchDate": "FT",
+    "homeTeam": "Chengdu Rongcheng II",
+    "awayTeam": "Yichun Grand Tiger",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1529749,
+    "league": "1 Lyga (Lithuania)",
+    "matchDate": "FT",
+    "homeTeam": "Atmosfera",
+    "awayTeam": "Minija",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1497365,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Gjøvik-Lyn",
+    "awayTeam": "Ørn Horten",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1497364,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Sarpsborg 08 II",
+    "awayTeam": "Fram",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Sarpsborg 08 II Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1497362,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Raelingen",
+    "awayTeam": "Bjørkelangen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1497360,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Elverum",
+    "awayTeam": "Oppsal",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Elverum Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1497359,
     "league": "3. Division - Girone 6 (Norway)",
     "matchDate": "FT",
@@ -9,6 +117,30 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1496818,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Stord",
+    "awayTeam": "Varegg",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1496817,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Os",
+    "awayTeam": "Brann II",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Os Win",
     "outcome": "Won"
   }
 ]
