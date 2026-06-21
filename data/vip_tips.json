@@ -1,21 +1,12 @@
 [
   {
-    "id": 1508059,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "16:00",
-    "homeTeam": "Tadamon Sour",
-    "awayTeam": "Racing",
-    "prediction": "Tadamon Sour Win",
-    "odds": "1.33"
-  },
-  {
     "id": 1525898,
     "league": "Premier League (Belarus)",
     "matchTime": "16:00",
     "homeTeam": "FC Minsk",
     "awayTeam": "ML Vitebsk",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
+    "prediction": "FC Minsk Win",
+    "odds": "1.64"
   },
   {
     "id": 1528000,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Kyzyl-Zhar",
     "awayTeam": "Kairat Almaty",
-    "prediction": "Kairat Almaty Win",
-    "odds": "2.04"
+    "prediction": "Kyzyl-Zhar Win",
+    "odds": "1.97"
   },
   {
     "id": 1541101,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Mekelle Kenema",
     "awayTeam": "Adama Kenema",
-    "prediction": "Adama Kenema Win",
-    "odds": "2.07"
+    "prediction": "Double Chance 1X",
+    "odds": "1.48"
   },
   {
     "id": 1520510,
@@ -41,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Pocheon",
     "awayTeam": "Gangneung City",
-    "prediction": "Both Teams To Score",
-    "odds": "2.0"
+    "prediction": "Gangneung City Win",
+    "odds": "3.0"
   },
   {
     "id": 1536826,
@@ -50,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Krylya Sovetov II",
     "awayTeam": "Khimik Dzerzhinsk",
-    "prediction": "Khimik Dzerzhinsk Win",
-    "odds": "2.58"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   },
   {
     "id": 1553807,
@@ -59,8 +50,8 @@
     "matchTime": "12:00",
     "homeTeam": "Novosibirsk",
     "awayTeam": "Veles",
-    "prediction": "Novosibirsk Win",
-    "odds": "1.94"
+    "prediction": "Veles Win",
+    "odds": "2.81"
   },
   {
     "id": 1519582,
@@ -68,7 +59,16 @@
     "matchTime": "12:30",
     "homeTeam": "FCI Levadia II",
     "awayTeam": "FC Tallinn",
-    "prediction": "FCI Levadia II Win",
-    "odds": "1.54"
+    "prediction": "FC Tallinn Win",
+    "odds": "2.12"
+  },
+  {
+    "id": 1519583,
+    "league": "Esiliiga A (Estonia)",
+    "matchTime": "12:30",
+    "homeTeam": "Tallinna Kalev",
+    "awayTeam": "Nõmme Kalju II",
+    "prediction": "Double Chance X2",
+    "odds": "1.43"
   }
 ]
