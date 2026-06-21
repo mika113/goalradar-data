@@ -1,30 +1,12 @@
 [
   {
-    "id": 1489395,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "Belgium",
-    "awayTeam": "Iran",
-    "prediction": "Belgium Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1520733,
-    "league": "Serie B (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "CRB",
-    "awayTeam": "Fortaleza EC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
-  },
-  {
     "id": 1526858,
     "league": "Serie C (Brazil)",
     "matchTime": "22:00",
     "homeTeam": "Brusque",
     "awayTeam": "Floresta",
-    "prediction": "Brusque Win",
-    "odds": "1.52"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
   },
   {
     "id": 1530410,
@@ -32,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Gimnasia Concepción",
     "awayTeam": "Sportivo Las Parejas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Gimnasia Concepción Win & Over 1.5",
+    "odds": "2.09"
   },
   {
     "id": 1530414,
@@ -41,8 +23,8 @@
     "matchTime": "22:00",
     "homeTeam": "San Martin Formosa",
     "awayTeam": "Sarmiento Resistencia",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "San Martin Formosa Win",
+    "odds": "1.98"
   },
   {
     "id": 1530417,
@@ -50,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Tucuman Central",
     "awayTeam": "Boca Unidos",
-    "prediction": "Boca Unidos Win",
-    "odds": "2.7"
+    "prediction": "Tucuman Central Win",
+    "odds": "1.86"
   },
   {
     "id": 1532255,
@@ -59,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "New Jersey Copa W",
     "awayTeam": "Manhattan W",
-    "prediction": "New Jersey Copa W Win",
-    "odds": "1.82"
+    "prediction": "New Jersey Copa W Win & Over 1.5",
+    "odds": "2.47"
   },
   {
     "id": 1543650,
@@ -68,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "Barreiras FC",
     "awayTeam": "Vitoria Da Conquista",
-    "prediction": "Barreiras FC Win & Over 1.5",
-    "odds": "2.07"
+    "prediction": "Vitoria Da Conquista Win",
+    "odds": "2.41"
   },
   {
     "id": 1544450,
@@ -78,7 +60,7 @@
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Concepción",
     "prediction": "Deportes Temuco Win",
-    "odds": "1.74"
+    "odds": "1.4"
   },
   {
     "id": 1544451,
@@ -86,8 +68,8 @@
     "matchTime": "22:00",
     "homeTeam": "Union La Calera",
     "awayTeam": "Union San Felipe",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "Union La Calera Win",
+    "odds": "1.38"
   },
   {
     "id": 1544791,
@@ -95,8 +77,8 @@
     "matchTime": "22:00",
     "homeTeam": "Lago Verde",
     "awayTeam": "Pinheiro",
-    "prediction": "Lago Verde Win",
-    "odds": "1.46"
+    "prediction": "Double Chance X2",
+    "odds": "1.56"
   },
   {
     "id": 1545390,
@@ -104,7 +86,25 @@
     "matchTime": "22:00",
     "homeTeam": "Always Ready",
     "awayTeam": "Bolívar",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
+    "prediction": "Always Ready Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1547690,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Villa Nova",
+    "awayTeam": "Democrata SL",
+    "prediction": "Villa Nova Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1553733,
+    "league": "Serie D (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Brasiliense",
+    "awayTeam": "Goiatuba EC",
+    "prediction": "Goiatuba EC Win",
+    "odds": "2.4"
   }
 ]
