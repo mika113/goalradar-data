@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1534342,
@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Niva",
     "awayTeam": "Molodechno-DYuSSh 4",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Niva Win",
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1519582,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "FCI Levadia II",
     "awayTeam": "FC Tallinn",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FCI Levadia II Win",
-    "outcome": "Won"
+    "prediction": "FC Tallinn Win",
+    "outcome": "Lost"
   },
   {
     "id": 1553807,
@@ -102,9 +102,9 @@
     "homeTeam": "Pocheon",
     "awayTeam": "Gangneung City",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Pocheon Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
