@@ -1,5 +1,17 @@
 [
   {
+    "id": 1513576,
+    "league": "Meistriliiga (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tammeka",
+    "awayTeam": "Trans Narva",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1522831,
     "league": "A Lyga (Lithuania)",
     "matchDate": "FT",
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Khangarid",
     "awayTeam": "Deren",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1553708,
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tamaraceite Win",
-    "outcome": "Won"
+    "prediction": "Guijuelo Win",
+    "outcome": "Lost"
   },
   {
     "id": 1545501,
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Suzhou Dongwu",
     "awayTeam": "Yunnan Yukun",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Yunnan Yukun Win",
+    "outcome": "Won"
   },
   {
     "id": 1536827,
@@ -65,82 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "KDV",
     "awayTeam": "Ural II",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515866,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Super Nova",
-    "awayTeam": "Auda",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511154,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Karlslund",
-    "awayTeam": "Farsta",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511153,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Forward",
-    "awayTeam": "Fittja",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1505192,
-    "league": "Ettan - Norra (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Piteå",
-    "awayTeam": "AFC Eskilstuna",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1503704,
-    "league": "Elitettan (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Enskede W",
-    "awayTeam": "Sandviken W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Enskede W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1501420,
-    "league": "Elitettan (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Örebro SK W",
-    "awayTeam": "Umeå W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "KDV Win",
     "outcome": "Won"
   }
 ]
