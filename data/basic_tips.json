@@ -1,21 +1,12 @@
 [
   {
-    "id": 1527998,
-    "league": "Premier League (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Yelimay Semey",
-    "awayTeam": "Atyrau",
-    "prediction": "Atyrau Win",
-    "odds": "2.04"
-  },
-  {
     "id": 1527620,
     "league": "Premier League (Kyrgyzstan)",
     "matchTime": "17:30",
     "homeTeam": "Kara-Balta",
     "awayTeam": "Abdish-Ata",
-    "prediction": "Kara-Balta Win",
-    "odds": "1.94"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.02"
   },
   {
     "id": 1527623,
@@ -23,8 +14,8 @@
     "matchTime": "17:30",
     "homeTeam": "Ozgon",
     "awayTeam": "Toktogul",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
+    "prediction": "Double Chance X2",
+    "odds": "1.58"
   },
   {
     "id": 1525895,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Bate Borisov",
     "awayTeam": "Arsenal",
-    "prediction": "Bate Borisov Win",
-    "odds": "1.74"
+    "prediction": "Arsenal Win",
+    "odds": "3.18"
   },
   {
     "id": 1527996,
@@ -41,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Aktobe",
     "awayTeam": "FC Astana",
-    "prediction": "FC Astana Win",
-    "odds": "1.96"
+    "prediction": "Aktobe Win",
+    "odds": "1.56"
   },
   {
     "id": 1541096,
@@ -51,6 +42,15 @@
     "homeTeam": "Suhul Shire",
     "awayTeam": "Kedus Giorgis",
     "prediction": "Suhul Shire Win",
-    "odds": "1.69"
+    "odds": "1.74"
+  },
+  {
+    "id": 1525900,
+    "league": "Premier League (Belarus)",
+    "matchTime": "20:00",
+    "homeTeam": "Neman",
+    "awayTeam": "Dinamo Minsk",
+    "prediction": "Neman Win",
+    "odds": "1.99"
   }
 ]
