@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525900,
-    "league": "Premier League (Belarus)",
-    "matchTime": "20:00",
-    "homeTeam": "Neman",
-    "awayTeam": "Dinamo Minsk",
-    "prediction": "Dinamo Minsk Win",
-    "odds": "1.91"
-  },
-  {
     "id": 1553789,
     "league": "Premier League (Kuwait)",
     "matchTime": "20:45",
     "homeTeam": "Al Shabab",
     "awayTeam": "Al Jahra",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "prediction": "Al Shabab Win",
+    "odds": "1.59"
   },
   {
     "id": 1553790,
@@ -24,25 +15,7 @@
     "homeTeam": "Al Tadhamon",
     "awayTeam": "Al Nasar",
     "prediction": "Al Tadhamon Win",
-    "odds": "1.36"
-  },
-  {
-    "id": 1544448,
-    "league": "Copa Chile",
-    "matchTime": "19:30",
-    "homeTeam": "Antofagasta",
-    "awayTeam": "D. La Serena",
-    "prediction": "Antofagasta Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1544449,
-    "league": "Copa Chile",
-    "matchTime": "19:30",
-    "homeTeam": "Huachipato",
-    "awayTeam": "D. Puerto Montt",
-    "prediction": "D. Puerto Montt Win",
-    "odds": "2.64"
+    "odds": "1.53"
   },
   {
     "id": 1499474,
@@ -50,7 +23,34 @@
     "matchTime": "20:30",
     "homeTeam": "Argentino de Merlo",
     "awayTeam": "Dock Sud",
+    "prediction": "Argentino de Merlo Win & Over 1.5",
+    "odds": "1.84"
+  },
+  {
+    "id": 1499475,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Arsenal Sarandi",
+    "awayTeam": "Deportivo Merlo",
+    "prediction": "Deportivo Merlo Win",
+    "odds": "2.18"
+  },
+  {
+    "id": 1499482,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Talleres Remedios",
+    "awayTeam": "Comunicaciones",
     "prediction": "Both Teams To Score",
-    "odds": "1.8"
+    "odds": "1.87"
+  },
+  {
+    "id": 1498353,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Deportivo Madryn",
+    "awayTeam": "Los Andes",
+    "prediction": "Deportivo Madryn Win",
+    "odds": "1.88"
   }
 ]
