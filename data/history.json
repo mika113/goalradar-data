@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1541101,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1536829,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Žalgiris II",
     "awayTeam": "Jonava",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Žalgiris II Win",
     "outcome": "Won"
   },
   {
@@ -125,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Kyzyl-Zhar",
     "awayTeam": "Kairat Almaty",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kairat Almaty Win",
     "outcome": "Won"
   },
   {
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Minsk",
     "awayTeam": "ML Vitebsk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Minsk Win",
     "outcome": "Won"
   }
 ]
