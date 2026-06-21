@@ -1,21 +1,12 @@
 [
   {
-    "id": 1489397,
-    "league": "World Cup",
-    "matchTime": "19:00",
-    "homeTeam": "Spain",
-    "awayTeam": "Saudi Arabia",
-    "prediction": "Spain Win",
-    "odds": "1.53"
-  },
-  {
     "id": 1514210,
     "league": "1. Deild (Iceland)",
     "matchTime": "19:00",
     "homeTeam": "IR Reykjavik",
     "awayTeam": "Völsungur",
     "prediction": "Völsungur Win",
-    "odds": "1.8"
+    "odds": "3.32"
   },
   {
     "id": 1519584,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Tartu Welco",
     "awayTeam": "Nõmme United II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.9"
+    "prediction": "Nõmme United II Win",
+    "odds": "3.08"
   },
   {
     "id": 1521629,
@@ -32,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "JK Tabasalu",
     "awayTeam": "Tartu Kalev",
-    "prediction": "Tartu Kalev Win",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
   },
   {
     "id": 1529113,
@@ -41,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Colina",
     "awayTeam": "Municipal Salamanca",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
   },
   {
     "id": 1534054,
@@ -50,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ottawa Rapid W",
     "awayTeam": "AFC Toronto W",
-    "prediction": "Ottawa Rapid W Win",
-    "odds": "1.4"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
   },
   {
     "id": 1536391,
@@ -59,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Murom",
     "awayTeam": "Iskra Smolensk",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Iskra Smolensk Win",
+    "odds": "3.47"
   },
   {
     "id": 1538624,
@@ -68,7 +59,16 @@
     "matchTime": "19:00",
     "homeTeam": "Masters FC",
     "awayTeam": "Creck",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1548233,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "19:00",
+    "homeTeam": "Sanat Naft",
+    "awayTeam": "Shahrdari Noshahr",
+    "prediction": "Shahrdari Noshahr Win",
+    "odds": "1.8"
   }
 ]
