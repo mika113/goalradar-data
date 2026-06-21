@@ -1,30 +1,12 @@
 [
   {
-    "id": 1498357,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:30",
-    "homeTeam": "Patronato",
-    "awayTeam": "Midland",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
-  },
-  {
-    "id": 1530406,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "21:30",
-    "homeTeam": "Cipolletti",
-    "awayTeam": "Deportivo Rincon",
-    "prediction": "Double Chance X2",
-    "odds": "1.77"
-  },
-  {
     "id": 1530407,
     "league": "Torneo Federal A (Argentina)",
     "matchTime": "21:30",
     "homeTeam": "Defensores de Belgrano VR",
     "awayTeam": "Independiente De Chivilcoy",
-    "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1530408,
@@ -33,7 +15,7 @@
     "homeTeam": "Defensores de Vilelas",
     "awayTeam": "Sol de América",
     "prediction": "Defensores de Vilelas Win",
-    "odds": "1.48"
+    "odds": "1.91"
   },
   {
     "id": 1549936,
@@ -41,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Deportivo Metalurgico",
     "awayTeam": "Nautico Hacoaj",
-    "prediction": "Nautico Hacoaj Win",
-    "odds": "3.12"
+    "prediction": "Deportivo Metalurgico Win & Over 1.5",
+    "odds": "2.79"
   },
   {
     "id": 1553705,
@@ -50,8 +32,8 @@
     "matchTime": "21:30",
     "homeTeam": "Albacete II",
     "awayTeam": "Leioa",
-    "prediction": "Albacete II Win",
-    "odds": "1.78"
+    "prediction": "Leioa Win",
+    "odds": "2.44"
   },
   {
     "id": 1553722,
@@ -59,8 +41,8 @@
     "matchTime": "21:30",
     "homeTeam": "Rentistas",
     "awayTeam": "Uruguay Montevideo",
-    "prediction": "Uruguay Montevideo Win",
-    "odds": "3.2"
+    "prediction": "Rentistas Win",
+    "odds": "1.83"
   },
   {
     "id": 1553723,
@@ -68,7 +50,25 @@
     "matchTime": "21:30",
     "homeTeam": "Atlético GO U20",
     "awayTeam": "Cerrado EC U20",
-    "prediction": "Cerrado EC U20 Win",
-    "odds": "3.5"
+    "prediction": "Atlético GO U20 Win & Over 1.5",
+    "odds": "2.93"
+  },
+  {
+    "id": 1489395,
+    "league": "World Cup",
+    "matchTime": "22:00",
+    "homeTeam": "Belgium",
+    "awayTeam": "Iran",
+    "prediction": "Belgium Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1520733,
+    "league": "Serie B (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "CRB",
+    "awayTeam": "Fortaleza EC",
+    "prediction": "Double Chance X2",
+    "odds": "1.27"
   }
 ]
