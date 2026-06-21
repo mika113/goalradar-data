@@ -1,5 +1,65 @@
 [
   {
+    "id": 1544452,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Universidad de Chile",
+    "awayTeam": "Santiago Wanderers",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Santiago Wanderers Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1526860,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ferroviária",
+    "awayTeam": "Inter De Limeira",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1526856,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Barra",
+    "awayTeam": "Amazonas",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525044,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Long Island Rough Riders",
+    "awayTeam": "Westchester Flames",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Long Island Rough Riders Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520734,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Goias",
+    "awayTeam": "Operario-PR",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Operario-PR Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554045,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
@@ -9,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554038,
@@ -41,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Estudiantil CNI",
     "awayTeam": "Sporting Cristal",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,93 +114,9 @@
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "Vikingur Reykjavik",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Fram Reykjavik Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1554044,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Rio Branco ES",
-    "awayTeam": "Uberlandia",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554039,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ivinhema",
-    "awayTeam": "Democrata GV",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554034,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "ASA",
-    "awayTeam": "Sergipe",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Sergipe Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553741,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Sampaio Correa",
-    "awayTeam": "Trem",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544444,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Curico Unido",
-    "awayTeam": "Nublense",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Curico Unido Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531891,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Lota Schwager",
-    "awayTeam": "Santiago Morning",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529116,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Provincial Ovalle",
-    "awayTeam": "Real San Joaquín",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Real San Joaquín Win",
+    "prediction": "Vikingur Reykjavik Win",
     "outcome": "Won"
   }
 ]
