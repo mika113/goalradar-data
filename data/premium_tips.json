@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548233,
-    "league": "Azadegan League (Iran)",
-    "matchTime": "19:00",
-    "homeTeam": "Sanat Naft",
-    "awayTeam": "Shahrdari Noshahr",
-    "prediction": "Sanat Naft Win",
-    "odds": "1.86"
-  },
-  {
     "id": 1548234,
     "league": "Azadegan League (Iran)",
     "matchTime": "19:00",
     "homeTeam": "Shenavarsazi Qeshm",
     "awayTeam": "Naft Gachsaran",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.66"
+    "odds": "2.24"
   },
   {
     "id": 1553056,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "UCV Moquegua",
     "awayTeam": "Bentín Tacna Heroica",
-    "prediction": "UCV Moquegua Win",
-    "odds": "1.55"
+    "prediction": "Bentín Tacna Heroica Win",
+    "odds": "1.73"
   },
   {
     "id": 1554493,
@@ -32,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Frammersbach",
     "awayTeam": "Bayern Alzenau",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "Frammersbach Win & Over 1.5",
+    "odds": "2.15"
   },
   {
     "id": 1554494,
@@ -42,7 +33,7 @@
     "homeTeam": "Molde",
     "awayTeam": "KFUM Oslo",
     "prediction": "KFUM Oslo Win",
-    "odds": "1.63"
+    "odds": "1.82"
   },
   {
     "id": 1544448,
@@ -50,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Antofagasta",
     "awayTeam": "D. La Serena",
-    "prediction": "D. La Serena Win",
-    "odds": "3.14"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   },
   {
     "id": 1544449,
@@ -59,8 +50,8 @@
     "matchTime": "19:30",
     "homeTeam": "Huachipato",
     "awayTeam": "D. Puerto Montt",
-    "prediction": "Huachipato Win",
-    "odds": "1.85"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1499474,
@@ -69,7 +60,7 @@
     "homeTeam": "Argentino de Merlo",
     "awayTeam": "Dock Sud",
     "prediction": "Argentino de Merlo Win",
-    "odds": "1.72"
+    "odds": "1.8"
   },
   {
     "id": 1499475,
@@ -78,7 +69,7 @@
     "homeTeam": "Arsenal Sarandi",
     "awayTeam": "Deportivo Merlo",
     "prediction": "Deportivo Merlo Win",
-    "odds": "3.39"
+    "odds": "2.13"
   },
   {
     "id": 1499482,
@@ -86,8 +77,8 @@
     "matchTime": "20:30",
     "homeTeam": "Talleres Remedios",
     "awayTeam": "Comunicaciones",
-    "prediction": "Comunicaciones Win",
-    "odds": "3.09"
+    "prediction": "Talleres Remedios Win & Over 1.5",
+    "odds": "2.77"
   },
   {
     "id": 1498353,
@@ -95,8 +86,8 @@
     "matchTime": "21:00",
     "homeTeam": "Deportivo Madryn",
     "awayTeam": "Los Andes",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Deportivo Madryn Win",
+    "odds": "1.84"
   },
   {
     "id": 1508784,
@@ -105,6 +96,15 @@
     "homeTeam": "Breidablik",
     "awayTeam": "KA Akureyri",
     "prediction": "KA Akureyri Win",
-    "odds": "2.82"
+    "odds": "3.46"
+  },
+  {
+    "id": 1508785,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "21:00",
+    "homeTeam": "FH hafnarfjordur",
+    "awayTeam": "Thor Akureyri",
+    "prediction": "FH hafnarfjordur Win & Over 1.5",
+    "odds": "1.85"
   }
 ]
