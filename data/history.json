@@ -6,9 +6,9 @@
     "homeTeam": "Irkutsk",
     "awayTeam": "Dinamo St. Petersburg",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dinamo St. Petersburg Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Lions",
     "awayTeam": "Rochedale Rovers",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lions Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "St. Albans Saints",
     "awayTeam": "Altona Magic",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
   },
   {
@@ -54,7 +54,7 @@
     "homeTeam": "Olympic",
     "awayTeam": "Peninsula Power",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Peninsula Power Win",
     "outcome": "Won"
@@ -92,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "UNSW Win",
-    "outcome": "Lost"
+    "prediction": "Marconi Stallions Win",
+    "outcome": "Won"
   },
   {
     "id": 1517574,
