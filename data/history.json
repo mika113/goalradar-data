@@ -6,9 +6,9 @@
     "homeTeam": "Central Stallions",
     "awayTeam": "Ulaanbaatar",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ulaanbaatar Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +18,10 @@
     "homeTeam": "Irkutsk",
     "awayTeam": "Dinamo St. Petersburg",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Dinamo St. Petersburg Win",
-    "outcome": "Won"
+    "prediction": "Irkutsk Win",
+    "outcome": "Lost"
   },
   {
     "id": 1524058,
@@ -30,7 +30,7 @@
     "homeTeam": "Lions",
     "awayTeam": "Rochedale Rovers",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Lions Win",
     "outcome": "Won"
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "APIA Leichhardt Tigers Win",
-    "outcome": "Won"
+    "prediction": "Blacktown City Win",
+    "outcome": "Lost"
   },
   {
     "id": 1517569,
