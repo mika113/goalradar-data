@@ -1,21 +1,12 @@
 [
   {
-    "id": 1497179,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchTime": "16:00",
-    "homeTeam": "Harstad",
-    "awayTeam": "Kongsvinger II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1497363,
     "league": "3. Division - Girone 6 (Norway)",
     "matchTime": "16:00",
     "homeTeam": "Sandefjord II",
     "awayTeam": "Brumunddal",
-    "prediction": "Brumunddal Win",
-    "odds": "2.85"
+    "prediction": "Sandefjord II Win",
+    "odds": "1.69"
   },
   {
     "id": 1497609,
@@ -24,7 +15,7 @@
     "homeTeam": "IK brage",
     "awayTeam": "IFK Varnamo",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "odds": "1.8"
   },
   {
     "id": 1497610,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Helsingborg",
     "awayTeam": "GIF Sundsvall",
-    "prediction": "Helsingborg Win",
-    "odds": "1.49"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.11"
   },
   {
     "id": 1497614,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Osters IF",
     "awayTeam": "Falkenbergs FF",
-    "prediction": "Osters IF Win",
-    "odds": "1.82"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1505189,
@@ -50,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Enköping",
     "awayTeam": "Umeå FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
+    "prediction": "Enköping Win",
+    "odds": "1.52"
   },
   {
     "id": 1506627,
@@ -59,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "EB / Streymur II",
     "awayTeam": "Víkingur II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "prediction": "EB / Streymur II Win",
+    "odds": "1.8"
   },
   {
     "id": 1507386,
@@ -69,7 +60,7 @@
     "homeTeam": "Betlemi",
     "awayTeam": "WIT Georgia",
     "prediction": "Both Teams To Score",
-    "odds": "1.94"
+    "odds": "1.83"
   },
   {
     "id": 1507387,
@@ -78,7 +69,7 @@
     "homeTeam": "Didube 2014",
     "awayTeam": "Guria",
     "prediction": "Didube 2014 Win",
-    "odds": "1.74"
+    "odds": "1.6"
   },
   {
     "id": 1507388,
@@ -86,7 +77,16 @@
     "matchTime": "16:00",
     "homeTeam": "Gardabani",
     "awayTeam": "Varketili",
-    "prediction": "Varketili Win",
-    "odds": "3.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.96"
+  },
+  {
+    "id": 1507389,
+    "league": "Liga 3 (Georgia)",
+    "matchTime": "16:00",
+    "homeTeam": "Iberia 2010",
+    "awayTeam": "Saburtalo II",
+    "prediction": "Iberia 2010 Win & Over 1.5",
+    "odds": "1.83"
   }
 ]
