@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1549307,
@@ -41,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Sydney Utd U20",
     "awayTeam": "SD Raiders U20",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "SD Raiders U20 Win",
     "outcome": "Won"
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Olympic",
     "awayTeam": "Peninsula Power",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Peninsula Power Win",
     "outcome": "Won"
@@ -92,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Marconi Stallions Win",
-    "outcome": "Won"
+    "prediction": "UNSW Win",
+    "outcome": "Lost"
   },
   {
     "id": 1517574,
