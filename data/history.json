@@ -1,14 +1,26 @@
 [
   {
+    "id": 1553059,
+    "league": "Copa De La Liga (Peru)",
+    "matchDate": "FT",
+    "homeTeam": "Estudiantil CNI",
+    "awayTeam": "Sporting Cristal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1508788,
     "league": "Úrvalsdeild (Iceland)",
     "matchDate": "FT",
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "Vikingur Reykjavik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vikingur Reykjavik Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +54,9 @@
     "homeTeam": "ASA",
     "awayTeam": "Sergipe",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sergipe Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1544444,
@@ -78,9 +90,9 @@
     "homeTeam": "Lota Schwager",
     "awayTeam": "Santiago Morning",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Santiago Morning Win",
     "outcome": "Won"
   },
   {
@@ -90,7 +102,7 @@
     "homeTeam": "Provincial Ovalle",
     "awayTeam": "Real San Joaquín",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Real San Joaquín Win",
     "outcome": "Won"
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1525043,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "São Bernardo",
     "awayTeam": "Juventude",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498350,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Club Atlético Güemes",
-    "awayTeam": "Gimnasia Jujuy",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
