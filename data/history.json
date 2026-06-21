@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1535698,
@@ -18,9 +18,9 @@
     "homeTeam": "Grei W",
     "awayTeam": "Odd W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Odd W Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Okzhetpes",
     "awayTeam": "FK Tobol Kostanay",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FK Tobol Kostanay Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Skellefteå",
     "awayTeam": "Umeå FC Akademi",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Skellefteå Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Brattvåg",
     "awayTeam": "jerv",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Brattvåg Win",
+    "outcome": "Won"
   },
   {
     "id": 1513576,
@@ -113,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Khangarid",
     "awayTeam": "Deren",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -125,11 +125,11 @@
     "matchDate": "FT",
     "homeTeam": "Tamaraceite",
     "awayTeam": "Guijuelo",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tamaraceite Win",
-    "outcome": "Won"
+    "prediction": "Guijuelo Win",
+    "outcome": "Lost"
   },
   {
     "id": 1545501,
