@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1555006,
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Maghreb Fès",
     "awayTeam": "Renaissance Berkane",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Maghreb Fès Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1555005,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Dinamo Vologda",
     "awayTeam": "Kosmos Dolgoprudny",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Kosmos Dolgoprudny Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1535632,
