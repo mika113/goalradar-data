@@ -1,11 +1,35 @@
 [
   {
+    "id": 1544449,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Huachipato",
+    "awayTeam": "D. Puerto Montt",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1544448,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Antofagasta",
+    "awayTeam": "D. La Serena",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Antofagasta Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554494,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Molde",
     "awayTeam": "KFUM Oslo",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Molde Win",
@@ -18,10 +42,10 @@
     "homeTeam": "UCV Moquegua",
     "awayTeam": "Bentín Tacna Heroica",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Bentín Tacna Heroica Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1548234,
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Sanat Naft",
     "awayTeam": "Shahrdari Noshahr",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
   },
   {
@@ -54,7 +78,7 @@
     "homeTeam": "Masters FC",
     "awayTeam": "Creck",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Creck Win",
     "outcome": "Won"
@@ -65,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Murom",
     "awayTeam": "Iskra Smolensk",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Murom Win",
@@ -77,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Colina",
     "awayTeam": "Municipal Salamanca",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Municipal Salamanca Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -89,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "JK Tabasalu",
     "awayTeam": "Tartu Kalev",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -101,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Tartu Welco",
     "awayTeam": "Nõmme United II",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nõmme United II Win",
+    "prediction": "Tartu Welco Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "IR Reykjavik",
     "awayTeam": "Völsungur",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "IR Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489397,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Spain",
-    "awayTeam": "Saudi Arabia",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Spain Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553721,
-    "league": "Segunda División (Uruguay)",
-    "matchDate": "FT",
-    "homeTeam": "La Luz",
-    "awayTeam": "Cerrito",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "La Luz Win",
     "outcome": "Won"
   }
 ]
