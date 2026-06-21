@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525898,
-    "league": "Premier League (Belarus)",
-    "matchTime": "16:00",
-    "homeTeam": "FC Minsk",
-    "awayTeam": "ML Vitebsk",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
-  },
-  {
     "id": 1528000,
     "league": "Premier League (Kazakhstan)",
     "matchTime": "16:00",
     "homeTeam": "Kyzyl-Zhar",
     "awayTeam": "Kairat Almaty",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Kyzyl-Zhar Win",
+    "odds": "1.64"
   },
   {
     "id": 1541101,
@@ -23,52 +14,61 @@
     "matchTime": "16:00",
     "homeTeam": "Mekelle Kenema",
     "awayTeam": "Adama Kenema",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
   },
   {
-    "id": 1519582,
-    "league": "Esiliiga A (Estonia)",
-    "matchTime": "12:30",
-    "homeTeam": "FCI Levadia II",
-    "awayTeam": "FC Tallinn",
-    "prediction": "FCI Levadia II Win",
-    "odds": "1.4"
+    "id": 1497183,
+    "league": "3. Division - Girone 5 (Norway)",
+    "matchTime": "13:30",
+    "homeTeam": "Tromsø II",
+    "awayTeam": "Skedsmo",
+    "prediction": "Skedsmo Win",
+    "odds": "2.19"
   },
   {
-    "id": 1519583,
-    "league": "Esiliiga A (Estonia)",
-    "matchTime": "12:30",
-    "homeTeam": "Tallinna Kalev",
-    "awayTeam": "Nõmme Kalju II",
-    "prediction": "Both Teams To Score",
+    "id": 1553710,
+    "league": "Tercera División RFEF - Promotion - Play-offs (Spain)",
+    "matchTime": "13:30",
+    "homeTeam": "Badalona II",
+    "awayTeam": "Compostela",
+    "prediction": "Compostela Win",
+    "odds": "2.68"
+  },
+  {
+    "id": 1496268,
+    "league": "2. Division - Group 2 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "Hønefoss",
+    "awayTeam": "Eidsvold",
+    "prediction": "Hønefoss Win",
+    "odds": "1.34"
+  },
+  {
+    "id": 1496453,
+    "league": "3. Division - Girone 1 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "IF Ready",
+    "awayTeam": "Vålerenga II",
+    "prediction": "IF Ready Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1496634,
+    "league": "3. Division - Girone 2 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "Molde II",
+    "awayTeam": "Strindheim",
+    "prediction": "Molde II Win",
     "odds": "1.74"
   },
   {
-    "id": 1496085,
-    "league": "2. Division - Group 1 (Norway)",
-    "matchTime": "13:00",
-    "homeTeam": "Arendal",
-    "awayTeam": "Træff",
-    "prediction": "Træff Win",
-    "odds": "2.45"
-  },
-  {
-    "id": 1511155,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchTime": "13:00",
-    "homeTeam": "Nacka Iliria",
-    "awayTeam": "Eker Örebro",
-    "prediction": "Nacka Iliria Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1534342,
-    "league": "1. Division (Belarus)",
-    "matchTime": "13:00",
-    "homeTeam": "Niva",
-    "awayTeam": "Molodechno-DYuSSh 4",
-    "prediction": "Niva Win",
-    "odds": "1.95"
+    "id": 1497001,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "14:00",
+    "homeTeam": "Viking II",
+    "awayTeam": "Staal Jørpeland",
+    "prediction": "Viking II Win",
+    "odds": "1.77"
   }
 ]
