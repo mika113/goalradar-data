@@ -1,21 +1,12 @@
 [
   {
-    "id": 1529021,
-    "league": "GFA League (Gambia)",
-    "matchTime": "19:30",
-    "homeTeam": "BST Galaxy",
-    "awayTeam": "Bombada",
-    "prediction": "BST Galaxy Win",
-    "odds": "1.62"
-  },
-  {
     "id": 1529022,
     "league": "GFA League (Gambia)",
     "matchTime": "19:30",
     "homeTeam": "Falcons",
     "awayTeam": "Hart Acedemy",
-    "prediction": "Falcons Win",
-    "odds": "1.39"
+    "prediction": "Hart Acedemy Win",
+    "odds": "3.19"
   },
   {
     "id": 1529023,
@@ -24,7 +15,7 @@
     "homeTeam": "Fortune",
     "awayTeam": "Steve Biko",
     "prediction": "Fortune Win",
-    "odds": "1.85"
+    "odds": "1.39"
   },
   {
     "id": 1529024,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "GPA",
     "awayTeam": "Medina United",
-    "prediction": "Medina United Win",
-    "odds": "3.15"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   },
   {
     "id": 1529025,
@@ -42,7 +33,7 @@
     "homeTeam": "Dutch Lions",
     "awayTeam": "Brikama United",
     "prediction": "Dutch Lions Win",
-    "odds": "1.83"
+    "odds": "1.77"
   },
   {
     "id": 1529026,
@@ -50,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Hawks",
     "awayTeam": "Samger",
-    "prediction": "Hawks Win",
-    "odds": "1.34"
+    "prediction": "Samger Win",
+    "odds": "2.66"
   },
   {
     "id": 1529027,
@@ -59,8 +50,8 @@
     "matchTime": "19:30",
     "homeTeam": "Real de Banjul",
     "awayTeam": "Greater Tomorrow",
-    "prediction": "Real de Banjul Win",
-    "odds": "1.88"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1529028,
@@ -69,6 +60,15 @@
     "homeTeam": "Team Rhino",
     "awayTeam": "TMT",
     "prediction": "Team Rhino Win",
-    "odds": "1.8"
+    "odds": "1.97"
+  },
+  {
+    "id": 1489399,
+    "league": "World Cup",
+    "matchTime": "20:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "Austria",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   }
 ]
