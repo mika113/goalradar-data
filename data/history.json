@@ -1,5 +1,17 @@
 [
   {
+    "id": 1520736,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ponte Preta",
+    "awayTeam": "Novorizontino",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526859,
     "league": "Serie C (Brazil)",
     "matchDate": "FT",
@@ -44,8 +56,8 @@
     "homeScore": 5,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "KR Reykjavik Win",
-    "outcome": "Won"
+    "prediction": "IA Akranes Win",
+    "outcome": "Lost"
   },
   {
     "id": 1492737,
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1553792,
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1511157,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Sleipner",
-    "awayTeam": "Nyköping",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
