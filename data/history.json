@@ -6,9 +6,9 @@
     "homeTeam": "AIK Stockholm",
     "awayTeam": "Kalmar FF",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kalmar FF Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Gareji",
     "awayTeam": "Odishi 1919",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Odishi 1919 Win",
-    "outcome": "Won"
+    "prediction": "Gareji Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543583,
@@ -54,9 +54,9 @@
     "homeTeam": "Welayta Dicha",
     "awayTeam": "Mebrat Hayl",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Mebrat Hayl Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Fasil Ketema",
     "awayTeam": "Arba Minch Kenema",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Fasil Ketema Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Tulevik",
     "awayTeam": "Luunja",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Tulevik Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -92,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Khovd Win",
-    "outcome": "Lost"
+    "prediction": "Khovd Western Win",
+    "outcome": "Won"
   },
   {
     "id": 1522133,
