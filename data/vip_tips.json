@@ -1,21 +1,12 @@
 [
   {
-    "id": 1520736,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Ponte Preta",
-    "awayTeam": "Novorizontino",
-    "prediction": "Ponte Preta Win",
-    "odds": "1.62"
-  },
-  {
     "id": 1532359,
     "league": "USL W League (USA)",
     "matchTime": "02:00",
     "homeTeam": "Vermont Green W",
     "awayTeam": "Hartford Athletic W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1530401,
@@ -23,8 +14,8 @@
     "matchTime": "02:15",
     "homeTeam": "9 de Julio Rafaela",
     "awayTeam": "El Linqueño",
-    "prediction": "9 de Julio Rafaela Win",
-    "odds": "1.99"
+    "prediction": "Double Chance X2",
+    "odds": "1.67"
   },
   {
     "id": 1532263,
@@ -32,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Paisley Athletic W",
     "awayTeam": "Long Island Rough Riders W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "Long Island Rough Riders W Win",
+    "odds": "2.94"
   },
   {
     "id": 1489401,
@@ -42,7 +33,7 @@
     "homeTeam": "Norway",
     "awayTeam": "Senegal",
     "prediction": "Norway Win",
-    "odds": "1.56"
+    "odds": "1.89"
   },
   {
     "id": 1524798,
@@ -51,7 +42,7 @@
     "homeTeam": "Denton Diablos",
     "awayTeam": "McKinney Chupacabras",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
+    "odds": "1.96"
   },
   {
     "id": 1525051,
@@ -59,8 +50,8 @@
     "matchTime": "04:00",
     "homeTeam": "Flatirons Rush",
     "awayTeam": "Unión Villa Krause",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Unión Villa Krause Win",
+    "odds": "3.12"
   },
   {
     "id": 1489400,
@@ -68,7 +59,16 @@
     "matchTime": "06:00",
     "homeTeam": "Jordan",
     "awayTeam": "Algeria",
-    "prediction": "Double Chance X2",
-    "odds": "1.64"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
+  },
+  {
+    "id": 1532460,
+    "league": "USL W League (USA)",
+    "matchTime": "07:00",
+    "homeTeam": "AC Connecticut W",
+    "awayTeam": "New England Mutiny W",
+    "prediction": "AC Connecticut W Win",
+    "odds": "1.59"
   }
 ]
