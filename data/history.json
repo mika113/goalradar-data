@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Torpedo Moskva",
     "awayTeam": "Volga Ulyanovsk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Torpedo Moskva Win",
     "outcome": "Won"
   },
   {
@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Legion",
     "awayTeam": "Parnu JK Vaprus U21",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1507186,
+    "league": "Erovnuli Liga 2 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Kolkheti Poti",
+    "awayTeam": "Shturmi",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -42,9 +54,9 @@
     "homeTeam": "Merani Martvili",
     "awayTeam": "Gori",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Gori Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1559535,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Melbourne Victory II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1559534,
-    "league": "Premier League (Mongolia)",
-    "matchDate": "FT",
-    "homeTeam": "Hunters",
-    "awayTeam": "Khoromkhon",
-    "homeScore": 9,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Hunters Win",
     "outcome": "Won"
   }
 ]
