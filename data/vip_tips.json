@@ -1,21 +1,12 @@
 [
   {
-    "id": 1527617,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Asiagoal",
-    "awayTeam": "Bishkek City",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
-  },
-  {
     "id": 1527618,
     "league": "Premier League (Kyrgyzstan)",
     "matchTime": "17:30",
     "homeTeam": "Asia Talas",
     "awayTeam": "Muras United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Muras United Win",
+    "odds": "2.84"
   },
   {
     "id": 1541100,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Welwalo Adigrat Uni",
     "awayTeam": "Hadiya Hosaena",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Welwalo Adigrat Uni Win",
+    "odds": "1.6"
   },
   {
     "id": 1553793,
@@ -32,8 +23,8 @@
     "matchTime": "19:05",
     "homeTeam": "Al Salmiyah",
     "awayTeam": "Al Fahaheel",
-    "prediction": "Al Fahaheel Win",
-    "odds": "2.93"
+    "prediction": "Al Salmiyah Win",
+    "odds": "1.36"
   },
   {
     "id": 1553791,
@@ -42,7 +33,7 @@
     "homeTeam": "Al Kuwait",
     "awayTeam": "Al Arabi",
     "prediction": "Al Kuwait Win",
-    "odds": "1.71"
+    "odds": "1.49"
   },
   {
     "id": 1553792,
@@ -51,24 +42,33 @@
     "homeTeam": "Al Qadsia",
     "awayTeam": "Kazma",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.95"
   },
   {
-    "id": 1554495,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "01:30",
-    "homeTeam": "Cancún",
-    "awayTeam": "Monterrey",
-    "prediction": "Cancún Win",
-    "odds": "1.53"
+    "id": 1543584,
+    "league": "Premier League (Bhutan)",
+    "matchTime": "13:00",
+    "homeTeam": "Paro",
+    "awayTeam": "Ugyen Academy",
+    "prediction": "Paro Win",
+    "odds": "1.63"
   },
   {
-    "id": 1513170,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "New York City II",
-    "awayTeam": "Chattanooga",
-    "prediction": "New York City II Win",
-    "odds": "1.59"
+    "id": 1549303,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchTime": "12:45",
+    "homeTeam": "Sydney Olympic U20",
+    "awayTeam": "Rockdale Ilinden U20",
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
+  },
+  {
+    "id": 1522133,
+    "league": "Victoria NPL 2 (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Melbourne Victory II",
+    "awayTeam": "Brunswick City",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
   }
 ]
