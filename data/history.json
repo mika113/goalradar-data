@@ -6,10 +6,10 @@
     "homeTeam": "Orebro SK",
     "awayTeam": "Sandviken",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Orebro SK Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548952,
@@ -42,10 +42,10 @@
     "homeTeam": "Räppe",
     "awayTeam": "Hässleholms IF",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Hässleholms IF Win",
+    "outcome": "Won"
   },
   {
     "id": 1515760,
@@ -54,10 +54,10 @@
     "homeTeam": "Boden",
     "awayTeam": "IFK Luleå",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "IFK Luleå Win",
+    "outcome": "Won"
   },
   {
     "id": 1509152,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Sioni",
     "awayTeam": "Samtredia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Samtredia Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "Varbergs BoIS FC",
     "awayTeam": "Landskrona BoIS",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Landskrona BoIS Win",
     "outcome": "Won"
   },
   {
@@ -126,7 +126,7 @@
     "homeTeam": "Team Rhino",
     "awayTeam": "TMT",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "TMT Win",
     "outcome": "Won"
@@ -138,9 +138,9 @@
     "homeTeam": "Real de Banjul",
     "awayTeam": "Greater Tomorrow",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Real de Banjul Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
