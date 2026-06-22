@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Welayta Dicha",
     "awayTeam": "Mebrat Hayl",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1541098,
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Fasil Ketema",
     "awayTeam": "Arba Minch Kenema",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Fasil Ketema Win",
+    "outcome": "Won"
   },
   {
     "id": 1521633,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tulevik Win",
-    "outcome": "Won"
+    "prediction": "Luunja Win",
+    "outcome": "Lost"
   },
   {
     "id": 1559535,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Khovd Western",
     "awayTeam": "Khovd",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Khovd Western Win",
