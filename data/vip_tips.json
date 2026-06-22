@@ -1,21 +1,12 @@
 [
   {
-    "id": 1539017,
-    "league": "World Cup",
-    "matchTime": "00:00",
-    "homeTeam": "France",
-    "awayTeam": "Iraq",
-    "prediction": "France Win",
-    "odds": "1.52"
-  },
-  {
     "id": 1526859,
     "league": "Serie C (Brazil)",
     "matchTime": "01:30",
     "homeTeam": "Confiança",
     "awayTeam": "Guarani Campinas",
     "prediction": "Confiança Win",
-    "odds": "1.81"
+    "odds": "1.67"
   },
   {
     "id": 1520736,
@@ -23,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ponte Preta",
     "awayTeam": "Novorizontino",
-    "prediction": "Ponte Preta Win",
-    "odds": "1.97"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1532359,
@@ -32,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Vermont Green W",
     "awayTeam": "Hartford Athletic W",
-    "prediction": "Hartford Athletic W Win",
-    "odds": "2.63"
+    "prediction": "Vermont Green W Win",
+    "odds": "1.92"
   },
   {
     "id": 1530401,
@@ -41,8 +32,8 @@
     "matchTime": "02:15",
     "homeTeam": "9 de Julio Rafaela",
     "awayTeam": "El Linqueño",
-    "prediction": "9 de Julio Rafaela Win",
-    "odds": "1.5"
+    "prediction": "El Linqueño Win",
+    "odds": "3.33"
   },
   {
     "id": 1532263,
@@ -50,8 +41,8 @@
     "matchTime": "02:30",
     "homeTeam": "Paisley Athletic W",
     "awayTeam": "Long Island Rough Riders W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Paisley Athletic W Win",
+    "odds": "1.35"
   },
   {
     "id": 1489401,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Norway",
     "awayTeam": "Senegal",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
   },
   {
     "id": 1524798,
@@ -68,7 +59,16 @@
     "matchTime": "03:30",
     "homeTeam": "Denton Diablos",
     "awayTeam": "McKinney Chupacabras",
-    "prediction": "McKinney Chupacabras Win",
-    "odds": "2.92"
+    "prediction": "Denton Diablos Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1525051,
+    "league": "USL League Two (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Flatirons Rush",
+    "awayTeam": "Unión Villa Krause",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.84"
   }
 ]
