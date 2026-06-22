@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1521633,
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Tulevik",
     "awayTeam": "Luunja",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Tulevik Win",
+    "outcome": "Won"
   },
   {
     "id": 1559535,
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Khovd Western",
     "awayTeam": "Khovd",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Khovd Western Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Melbourne Victory II",
     "awayTeam": "Brunswick City",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Melbourne Victory II Win",
