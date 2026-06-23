@@ -1,84 +1,12 @@
 [
   {
-    "id": 1495713,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "FF Jaro",
-    "awayTeam": "Gnistan",
-    "prediction": "FF Jaro Win",
-    "odds": "1.58"
-  },
-  {
-    "id": 1549949,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "19:00",
-    "homeTeam": "Buenos Aires City",
-    "awayTeam": "Control Orientado",
-    "prediction": "Control Orientado Win",
-    "odds": "2.44"
-  },
-  {
-    "id": 1554501,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Olimpija Ljubljana",
-    "awayTeam": "Vllaznia Shkodër",
-    "prediction": "Olimpija Ljubljana Win & Over 1.5",
-    "odds": "2.92"
-  },
-  {
-    "id": 1560436,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Borac Banja Luka",
-    "awayTeam": "Sutjeska",
-    "prediction": "Borac Banja Luka Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1554502,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:15",
-    "homeTeam": "Shkendija",
-    "awayTeam": "HNK Hajduk Split",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
-  },
-  {
-    "id": 1489404,
-    "league": "World Cup",
-    "matchTime": "20:00",
-    "homeTeam": "Portugal",
-    "awayTeam": "Uzbekistan",
-    "prediction": "Portugal Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1495714,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "20:00",
-    "homeTeam": "Mariehamn",
-    "awayTeam": "HJK Helsinki",
-    "prediction": "Mariehamn Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1509149,
-    "league": "Erovnuli Liga (Georgia)",
-    "matchTime": "20:00",
-    "homeTeam": "Dinamo Tbilisi",
-    "awayTeam": "Dinamo Batumi",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
-  },
-  {
     "id": 1545642,
     "league": "Svenska Cupen (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Astrio",
     "awayTeam": "Angelholms FF",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
   },
   {
     "id": 1547855,
@@ -86,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Großschwarzenlohe",
     "awayTeam": "Eichstätt",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "prediction": "Eichstätt Win",
+    "odds": "2.12"
   },
   {
     "id": 1545643,
@@ -95,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Järfälla",
     "awayTeam": "Arlanda",
-    "prediction": "Järfälla Win & Over 1.5",
-    "odds": "1.87"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1548702,
@@ -105,6 +33,78 @@
     "homeTeam": "Buchbach",
     "awayTeam": "1. FC Passau",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.93"
+    "odds": "1.7"
+  },
+  {
+    "id": 1560411,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Cabofriense",
+    "awayTeam": "Bonsucesso",
+    "prediction": "Cabofriense Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1560412,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Olaria",
+    "awayTeam": "Duque de Caxias",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1560413,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Americano Campos",
+    "awayTeam": "Macaé",
+    "prediction": "Macaé Win",
+    "odds": "2.32"
+  },
+  {
+    "id": 1560414,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Pérolas Negras",
+    "awayTeam": "Santa Cruz RJ",
+    "prediction": "Pérolas Negras Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1526195,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Cruzeiro U20",
+    "awayTeam": "América Mineiro U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
+  },
+  {
+    "id": 1526198,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Grêmio U20",
+    "awayTeam": "Bahia U20",
+    "prediction": "Grêmio U20 Win & Over 1.5",
+    "odds": "2.91"
+  },
+  {
+    "id": 1526200,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "São Paulo U20",
+    "awayTeam": "Fortaleza U20",
+    "prediction": "Fortaleza U20 Win",
+    "odds": "2.08"
+  },
+  {
+    "id": 1526202,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Vitória U20",
+    "awayTeam": "Santos U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   }
 ]
