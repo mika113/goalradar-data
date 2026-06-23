@@ -1,39 +1,12 @@
 [
   {
-    "id": 1554498,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Botev Plovdiv",
-    "awayTeam": "Spartak Pleven",
-    "prediction": "Botev Plovdiv Win & Over 1.5",
-    "odds": "2.58"
-  },
-  {
-    "id": 1554504,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Sileks",
-    "awayTeam": "Dinamo Tirana",
-    "prediction": "Sileks Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1554505,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "FC Gomel",
-    "awayTeam": "Enisey",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
-  },
-  {
     "id": 1495712,
     "league": "Veikkausliiga (Finland)",
     "matchTime": "19:00",
     "homeTeam": "Inter Turku",
     "awayTeam": "SJK",
-    "prediction": "SJK Win",
-    "odds": "1.97"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1495713,
@@ -41,8 +14,17 @@
     "matchTime": "19:00",
     "homeTeam": "FF Jaro",
     "awayTeam": "Gnistan",
-    "prediction": "FF Jaro Win",
-    "odds": "1.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
+  },
+  {
+    "id": 1549949,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "19:00",
+    "homeTeam": "Buenos Aires City",
+    "awayTeam": "Control Orientado",
+    "prediction": "Buenos Aires City Win",
+    "odds": "1.41"
   },
   {
     "id": 1554501,
@@ -50,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Olimpija Ljubljana",
     "awayTeam": "Vllaznia Shkodër",
-    "prediction": "Olimpija Ljubljana Win",
-    "odds": "1.57"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
   },
   {
     "id": 1560436,
@@ -59,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Sutjeska",
-    "prediction": "Borac Banja Luka Win",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   },
   {
     "id": 1554502,
@@ -68,17 +50,8 @@
     "matchTime": "19:15",
     "homeTeam": "Shkendija",
     "awayTeam": "HNK Hajduk Split",
-    "prediction": "HNK Hajduk Split Win",
-    "odds": "2.93"
-  },
-  {
-    "id": 1549949,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "19:30",
-    "homeTeam": "Buenos Aires City",
-    "awayTeam": "Control Orientado",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.33"
   },
   {
     "id": 1489404,
@@ -86,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Portugal",
     "awayTeam": "Uzbekistan",
-    "prediction": "Uzbekistan Win",
-    "odds": "2.9"
+    "prediction": "Portugal Win",
+    "odds": "1.59"
   },
   {
     "id": 1495714,
@@ -95,8 +68,8 @@
     "matchTime": "20:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "HJK Helsinki",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   },
   {
     "id": 1509149,
@@ -104,7 +77,34 @@
     "matchTime": "20:00",
     "homeTeam": "Dinamo Tbilisi",
     "awayTeam": "Dinamo Batumi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
+    "prediction": "Dinamo Tbilisi Win & Over 1.5",
+    "odds": "2.88"
+  },
+  {
+    "id": 1545642,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Astrio",
+    "awayTeam": "Angelholms FF",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
+  },
+  {
+    "id": 1547855,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Großschwarzenlohe",
+    "awayTeam": "Eichstätt",
+    "prediction": "Großschwarzenlohe Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1545643,
+    "league": "Svenska Cupen (Sweden)",
+    "matchTime": "20:30",
+    "homeTeam": "Järfälla",
+    "awayTeam": "Arlanda",
+    "prediction": "Arlanda Win",
+    "odds": "1.8"
   }
 ]
