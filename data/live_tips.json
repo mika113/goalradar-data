@@ -1,48 +1,12 @@
 [
   {
-    "id": 1525059,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Nona",
-    "awayTeam": "Brooke House",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.09"
-  },
-  {
-    "id": 1525060,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "North Carolina Fusion",
-    "awayTeam": "Asheville City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
-  },
-  {
-    "id": 1525061,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Sporting Jax 2",
-    "awayTeam": "Shark Coast",
-    "prediction": "Sporting Jax 2 Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1525062,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Toledo Villa",
-    "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
-  },
-  {
     "id": 1525063,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Union Macomb",
     "awayTeam": "Lansing City",
-    "prediction": "Union Macomb Win",
-    "odds": "1.96"
+    "prediction": "Union Macomb Win & Over 1.5",
+    "odds": "1.84"
   },
   {
     "id": 1525411,
@@ -50,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Eagle FC",
     "awayTeam": "PA Classics",
-    "prediction": "Eagle FC Win",
-    "odds": "1.47"
+    "prediction": "PA Classics Win",
+    "odds": "2.82"
   },
   {
     "id": 1532264,
@@ -60,7 +24,7 @@
     "homeTeam": "Richmond Ivy W",
     "awayTeam": "Norfolk W",
     "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "odds": "1.25"
   },
   {
     "id": 1532266,
@@ -68,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Rochester W",
     "awayTeam": "Minnesota Aurora W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Minnesota Aurora W Win",
+    "odds": "2.43"
   },
   {
     "id": 1532268,
@@ -77,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Wake W",
     "awayTeam": "Carolina Ascent II W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.21"
+    "prediction": "Wake W Win",
+    "odds": "1.34"
   },
   {
     "id": 1532271,
@@ -86,7 +50,43 @@
     "matchTime": "02:00",
     "homeTeam": "Knoxville W",
     "awayTeam": "Asheville City W",
-    "prediction": "Knoxville W Win",
-    "odds": "1.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.83"
+  },
+  {
+    "id": 1532360,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "River Light W",
+    "awayTeam": "Edgewater Castle W",
+    "prediction": "Edgewater Castle W Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1532361,
+    "league": "USL W League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Sioux Falls City W",
+    "awayTeam": "Rockford Raptors W",
+    "prediction": "Rockford Raptors W Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1547696,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Valeriodoce",
+    "awayTeam": "Ipatinga",
+    "prediction": "Valeriodoce Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1554507,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Annapolis Blues",
+    "awayTeam": "Santos Laguna",
+    "prediction": "Annapolis Blues Win",
+    "odds": "1.94"
   }
 ]
