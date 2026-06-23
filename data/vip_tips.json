@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525051,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Flatirons Rush",
-    "awayTeam": "Unión Villa Krause",
-    "prediction": "Unión Villa Krause Win",
-    "odds": "3.3"
-  },
-  {
-    "id": 1489400,
-    "league": "World Cup",
-    "matchTime": "06:00",
-    "homeTeam": "Jordan",
-    "awayTeam": "Algeria",
-    "prediction": "Jordan Win & Over 1.5",
-    "odds": "1.86"
-  },
-  {
     "id": 1532460,
     "league": "USL W League (USA)",
     "matchTime": "07:00",
     "homeTeam": "AC Connecticut W",
     "awayTeam": "New England Mutiny W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "AC Connecticut W Win",
+    "odds": "1.57"
   },
   {
     "id": 1532771,
@@ -32,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "Changchun Xidu",
     "awayTeam": "Rizhao Yuqi",
-    "prediction": "Changchun Xidu Win",
-    "odds": "1.44"
+    "prediction": "Double Chance X2",
+    "odds": "1.22"
   },
   {
     "id": 1532772,
@@ -42,7 +24,7 @@
     "homeTeam": "Qingdao Red Lions",
     "awayTeam": "Dalian Kewei",
     "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "odds": "1.6"
   },
   {
     "id": 1532773,
@@ -50,8 +32,8 @@
     "matchTime": "11:00",
     "homeTeam": "Shanghai Second",
     "awayTeam": "Dalian Yingbo B",
-    "prediction": "Dalian Yingbo B Win",
-    "odds": "1.66"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1532774,
@@ -60,7 +42,7 @@
     "homeTeam": "Xiamen Feilu",
     "awayTeam": "Hubei Chufeng Heli",
     "prediction": "Xiamen Feilu Win",
-    "odds": "1.77"
+    "odds": "1.76"
   },
   {
     "id": 1524043,
@@ -68,7 +50,25 @@
     "matchTime": "12:30",
     "homeTeam": "Gold Coast Knights",
     "awayTeam": "Eastern Suburbs",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
+  },
+  {
+    "id": 1524211,
+    "league": "Queensland Premier League (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Robina City",
+    "awayTeam": "Capalaba",
+    "prediction": "Robina City Win",
+    "odds": "1.68"
+  },
+  {
+    "id": 1523752,
+    "league": "Northern NSW NPL (Australia)",
+    "matchTime": "13:00",
+    "homeTeam": "Edgeworth Eagles",
+    "awayTeam": "Lambton Jaffas",
+    "prediction": "Edgeworth Eagles Win",
+    "odds": "1.77"
   }
 ]
