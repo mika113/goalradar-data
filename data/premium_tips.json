@@ -1,66 +1,12 @@
 [
   {
-    "id": 1525067,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Delaware FC",
-    "awayTeam": "Reading United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.68"
-  },
-  {
-    "id": 1525068,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "West Chester United",
-    "awayTeam": "Ocean City Nor'easters",
-    "prediction": "West Chester United Win",
-    "odds": "1.59"
-  },
-  {
-    "id": 1532272,
-    "league": "USL W League (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Lonestar II W",
-    "awayTeam": "Lonestar San Antonio W",
-    "prediction": "Lonestar San Antonio W Win",
-    "odds": "2.82"
-  },
-  {
-    "id": 1544423,
-    "league": "Copa Chile",
-    "matchTime": "03:30",
-    "homeTeam": "Everton de Vina",
-    "awayTeam": "U. Catolica",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
-  },
-  {
-    "id": 1544424,
-    "league": "Copa Chile",
-    "matchTime": "03:30",
-    "homeTeam": "Palestino",
-    "awayTeam": "A. Italiano",
-    "prediction": "Palestino Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1525054,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Midlakes United",
-    "awayTeam": "Snohomish United",
-    "prediction": "Midlakes United Win",
-    "odds": "1.98"
-  },
-  {
     "id": 1532273,
     "league": "USL W League (USA)",
     "matchTime": "05:00",
     "homeTeam": "Stockton Cargo W",
     "awayTeam": "California Storm II W",
     "prediction": "Stockton Cargo W Win",
-    "odds": "1.36"
+    "odds": "1.49"
   },
   {
     "id": 1539008,
@@ -68,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Colombia",
     "awayTeam": "Congo DR",
-    "prediction": "Congo DR Win",
-    "odds": "1.85"
+    "prediction": "Colombia Win",
+    "odds": "1.96"
   },
   {
     "id": 1532777,
@@ -77,8 +23,17 @@
     "matchTime": "10:00",
     "homeTeam": "Xi'an Ronghai",
     "awayTeam": "Tai'an Tiankuang",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
+    "prediction": "Tai'an Tiankuang Win",
+    "odds": "2.98"
+  },
+  {
+    "id": 1554508,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:45",
+    "homeTeam": "Dukla Banská Bystrica",
+    "awayTeam": "Tatran Prešov",
+    "prediction": "Dukla Banská Bystrica Win",
+    "odds": "1.7"
   },
   {
     "id": 1547856,
@@ -86,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Ružomberok",
     "awayTeam": "Malženice",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1523718,
@@ -96,7 +51,7 @@
     "homeTeam": "Charlestown City Blues",
     "awayTeam": "Cooks Hill United",
     "prediction": "Charlestown City Blues Win",
-    "odds": "1.67"
+    "odds": "1.82"
   },
   {
     "id": 1523755,
@@ -104,7 +59,52 @@
     "matchTime": "13:00",
     "homeTeam": "Kahibah",
     "awayTeam": "Adamstown Rosebuds",
-    "prediction": "Kahibah Win",
-    "odds": "1.32"
+    "prediction": "Adamstown Rosebuds Win",
+    "odds": "2.59"
+  },
+  {
+    "id": 1532573,
+    "league": "NNSW League 1 (Australia)",
+    "matchTime": "13:00",
+    "homeTeam": "Lake Macquarie",
+    "awayTeam": "West Wallsend",
+    "prediction": "Lake Macquarie Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1560438,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Slovácko",
+    "awayTeam": "Vysočina Jihlava",
+    "prediction": "Slovácko Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1532778,
+    "league": "League Two (China)",
+    "matchTime": "14:00",
+    "homeTeam": "BIT",
+    "awayTeam": "Shandong Taishan II",
+    "prediction": "Shandong Taishan II Win",
+    "odds": "2.77"
+  },
+  {
+    "id": 1532779,
+    "league": "League Two (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Jiangxi Liansheng",
+    "awayTeam": "Shangyu Pterosaur",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1532780,
+    "league": "League Two (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Shenzhen 2028",
+    "awayTeam": "Langfang Glory City",
+    "prediction": "Shenzhen 2028 Win",
+    "odds": "1.48"
   }
 ]
