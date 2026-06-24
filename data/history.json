@@ -1,14 +1,62 @@
 [
   {
+    "id": 1544424,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Palestino",
+    "awayTeam": "A. Italiano",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1544423,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Everton de Vina",
+    "awayTeam": "U. Catolica",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "U. Catolica Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525065,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Peoria",
+    "awayTeam": "St. Louis Ambush",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Peoria Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525058,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Hill Country Lobos",
+    "awayTeam": "Laredo Heat",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Laredo Heat Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1525066,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "Southern Soccer Academy",
     "awayTeam": "Montgomery United",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Southern Soccer Academy Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +66,10 @@
     "homeTeam": "Annapolis Blues",
     "awayTeam": "Santos Laguna",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Annapolis Blues Win",
-    "outcome": "Lost"
+    "prediction": "Santos Laguna Win",
+    "outcome": "Won"
   },
   {
     "id": 1547696,
@@ -32,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1525063,
@@ -41,46 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Union Macomb",
     "awayTeam": "Lansing City",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Union Macomb Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1525061,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Sporting Jax 2",
-    "awayTeam": "Shark Coast",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sporting Jax 2 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525059,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Nona",
-    "awayTeam": "Brooke House",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Nona Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525057,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Boston City",
-    "awayTeam": "Vermont Green",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Boston City Win",
+    "prediction": "Lansing City Win",
     "outcome": "Won"
   }
 ]
