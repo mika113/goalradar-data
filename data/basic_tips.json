@@ -1,30 +1,12 @@
 [
   {
-    "id": 1508064,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "15:30",
-    "homeTeam": "Al Ahed",
-    "awayTeam": "Safa",
-    "prediction": "Al Ahed Win",
-    "odds": "1.94"
-  },
-  {
-    "id": 1508063,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "16:00",
-    "homeTeam": "Shabab Al Sahel",
-    "awayTeam": "Reyady Abaseya",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
-  },
-  {
     "id": 1550062,
     "league": "Premier League (Syria)",
     "matchTime": "17:00",
     "homeTeam": "Al Ittihad",
     "awayTeam": "Hottin",
     "prediction": "Al Ittihad Win",
-    "odds": "1.61"
+    "odds": "1.3"
   },
   {
     "id": 1550063,
@@ -32,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Shorta",
     "awayTeam": "Al Wahda",
-    "prediction": "Shorta Win",
-    "odds": "1.58"
+    "prediction": "Al Wahda Win",
+    "odds": "3.22"
   },
   {
     "id": 1550064,
@@ -41,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Al Shouleh",
     "awayTeam": "Omaya SC",
-    "prediction": "Al Shouleh Win",
-    "odds": "1.49"
+    "prediction": "Omaya SC Win",
+    "odds": "3.21"
   },
   {
     "id": 1550065,
@@ -50,7 +32,25 @@
     "matchTime": "17:00",
     "homeTeam": "Al Taliya",
     "awayTeam": "Jabala",
-    "prediction": "Al Taliya Win",
-    "odds": "1.71"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1550066,
+    "league": "Premier League (Syria)",
+    "matchTime": "17:00",
+    "homeTeam": "Damascus Al-Ahli",
+    "awayTeam": "Jaish",
+    "prediction": "Double Chance X2",
+    "odds": "1.75"
+  },
+  {
+    "id": 1550067,
+    "league": "Premier League (Syria)",
+    "matchTime": "17:00",
+    "homeTeam": "Wathba",
+    "awayTeam": "Foutoua",
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   }
 ]
