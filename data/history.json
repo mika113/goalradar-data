@@ -1,14 +1,26 @@
 [
   {
+    "id": 1525054,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Midlakes United",
+    "awayTeam": "Snohomish United",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Snohomish United Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1544424,
     "league": "Copa Chile",
     "matchDate": "FT",
     "homeTeam": "Palestino",
     "awayTeam": "A. Italiano",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "A. Italiano Win",
     "outcome": "Won"
   },
   {
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Everton de Vina",
     "awayTeam": "U. Catolica",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "U. Catolica Win",
-    "outcome": "Won"
+    "prediction": "Everton de Vina Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525065,
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Peoria",
     "awayTeam": "St. Louis Ambush",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Peoria Win",
@@ -42,7 +54,7 @@
     "homeTeam": "Hill Country Lobos",
     "awayTeam": "Laredo Heat",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Laredo Heat Win",
     "outcome": "Won"
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Southern Soccer Academy",
     "awayTeam": "Montgomery United",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Southern Soccer Academy Win",
@@ -80,19 +92,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1525063,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Union Macomb",
-    "awayTeam": "Lansing City",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Lansing City Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
