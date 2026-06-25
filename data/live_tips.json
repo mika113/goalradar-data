@@ -1,39 +1,12 @@
 [
   {
-    "id": 1555011,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Olympique Dcheïra",
-    "awayTeam": "Ittihad Tanger",
-    "prediction": "Ittihad Tanger Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1555012,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Kawkab Marrakech",
-    "awayTeam": "FUS Rabat",
-    "prediction": "Kawkab Marrakech Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1555013,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "CR Khemis Zemamra",
-    "awayTeam": "Olympique Safi",
-    "prediction": "Double Chance X2",
-    "odds": "1.69"
-  },
-  {
     "id": 1555014,
     "league": "Botola Pro (Morocco)",
     "matchTime": "20:00",
     "homeTeam": "UTS Rabat",
     "awayTeam": "Difaa EL Jadida",
-    "prediction": "UTS Rabat Win",
-    "odds": "1.49"
+    "prediction": "Double Chance X2",
+    "odds": "1.65"
   },
   {
     "id": 1555015,
@@ -42,7 +15,7 @@
     "homeTeam": "Wydad AC",
     "awayTeam": "Maghreb Fès",
     "prediction": "Wydad AC Win",
-    "odds": "1.75"
+    "odds": "1.69"
   },
   {
     "id": 1555016,
@@ -50,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Yacoub El Mansour",
     "awayTeam": "Raja Casablanca",
-    "prediction": "Raja Casablanca Win",
-    "odds": "2.11"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1496461,
@@ -59,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Konnerud",
     "awayTeam": "IF Ready",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
+    "prediction": "Konnerud Win",
+    "odds": "1.67"
   },
   {
     "id": 1497367,
@@ -68,8 +41,8 @@
     "matchTime": "20:30",
     "homeTeam": "Brumunddal",
     "awayTeam": "Gjøvik-Lyn",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Brumunddal Win",
+    "odds": "1.65"
   },
   {
     "id": 1543345,
@@ -78,7 +51,7 @@
     "homeTeam": "Vikingur Gota",
     "awayTeam": "HB Torshavn",
     "prediction": "HB Torshavn Win",
-    "odds": "1.67"
+    "odds": "3.36"
   },
   {
     "id": 1510800,
@@ -86,7 +59,34 @@
     "matchTime": "21:00",
     "homeTeam": "Helges",
     "awayTeam": "Sunnersta",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
+    "prediction": "Sunnersta Win",
+    "odds": "2.82"
+  },
+  {
+    "id": 1526194,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Corinthians U20",
+    "awayTeam": "Flamengo U20",
+    "prediction": "Corinthians U20 Win",
+    "odds": "1.44"
+  },
+  {
+    "id": 1526197,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Fluminense U20",
+    "awayTeam": "Palmeiras U20",
+    "prediction": "Palmeiras U20 Win",
+    "odds": "3.43"
+  },
+  {
+    "id": 1526199,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "RB Bragantino U20",
+    "awayTeam": "Botafogo U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
