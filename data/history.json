@@ -1,5 +1,17 @@
 [
   {
+    "id": 1559539,
+    "league": "Premier League (Mongolia)",
+    "matchDate": "FT",
+    "homeTeam": "Khoromkhon",
+    "awayTeam": "Ulaangom City",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Ulaangom City Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1559538,
     "league": "Premier League (Mongolia)",
     "matchDate": "FT",
@@ -44,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Academica Win",
-    "outcome": "Lost"
+    "prediction": "San Francisco City Win",
+    "outcome": "Won"
   },
   {
     "id": 1513373,
@@ -68,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Czechia Win",
-    "outcome": "Lost"
+    "prediction": "Mexico Win",
+    "outcome": "Won"
   },
   {
     "id": 1525103,
@@ -92,31 +104,7 @@
     "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493879,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Spokane Velocity",
-    "awayTeam": "Westchester SC",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Spokane Velocity Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489407,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "South Africa",
-    "awayTeam": "South Korea",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "South Africa Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
