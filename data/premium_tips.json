@@ -1,66 +1,12 @@
 [
   {
-    "id": 1560443,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "FC Krasnodar",
-    "awayTeam": "PSK Dinskaya",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
-  },
-  {
-    "id": 1497366,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Bjørkelangen",
-    "awayTeam": "Sarpsborg 08 II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
-  },
-  {
-    "id": 1515869,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "BFC Daugavpils",
-    "awayTeam": "Riga",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
-  },
-  {
-    "id": 1548707,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "SKU Amstetten",
-    "awayTeam": "FK Crvena Zvezda",
-    "prediction": "SKU Amstetten Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1495505,
-    "league": "Damallsvenskan (Sweden)",
-    "matchTime": "19:00",
-    "homeTeam": "Piteå W",
-    "awayTeam": "Hammarby W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
-  },
-  {
-    "id": 1496820,
-    "league": "3. Division - Girone 3 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Åsane II",
-    "awayTeam": "Os",
-    "prediction": "Double Chance 1X",
-    "odds": "1.6"
-  },
-  {
     "id": 1497005,
     "league": "3. Division - Girone 4 (Norway)",
     "matchTime": "19:00",
     "homeTeam": "Staal Jørpeland",
     "awayTeam": "Hinna",
     "prediction": "Staal Jørpeland Win",
-    "odds": "1.34"
+    "odds": "1.83"
   },
   {
     "id": 1497006,
@@ -68,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Våg",
     "awayTeam": "Viking II",
-    "prediction": "Våg Win",
-    "odds": "1.53"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   },
   {
     "id": 1517196,
@@ -77,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "FC jazz",
     "awayTeam": "Tampere United",
-    "prediction": "Tampere United Win",
-    "odds": "3.09"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1517197,
@@ -86,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "JJK",
     "awayTeam": "Inter Turku II",
-    "prediction": "Inter Turku II Win",
-    "odds": "1.74"
+    "prediction": "JJK Win",
+    "odds": "1.76"
   },
   {
     "id": 1496644,
@@ -95,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Strindheim",
     "awayTeam": "Melhus",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1496822,
@@ -105,6 +51,60 @@
     "homeTeam": "Austevoll",
     "awayTeam": "Fyllingsdalen",
     "prediction": "Austevoll Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1510618,
+    "league": "Division 2 - Norra Götaland (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "IFK Skövde",
+    "awayTeam": "Lidköping",
+    "prediction": "Lidköping Win",
+    "odds": "2.63"
+  },
+  {
+    "id": 1511161,
+    "league": "Division 2 - Södra Svealand (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Nyköping",
+    "awayTeam": "Nacka Iliria",
+    "prediction": "Nacka Iliria Win",
+    "odds": "3.19"
+  },
+  {
+    "id": 1511345,
+    "league": "Division 2 - Västra Götaland (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Galtabacks",
+    "awayTeam": "Böljan",
+    "prediction": "Double Chance 1X",
     "odds": "1.37"
+  },
+  {
+    "id": 1515871,
+    "league": "Virsliga (Latvia)",
+    "matchTime": "20:00",
+    "homeTeam": "Super Nova",
+    "awayTeam": "FS Jelgava",
+    "prediction": "Super Nova Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1555009,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Renaissance Berkane",
+    "awayTeam": "FAR Rabat",
+    "prediction": "Renaissance Berkane Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1555010,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "CODM Meknès",
+    "awayTeam": "Hassania Agadir",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
   }
 ]
