@@ -1,21 +1,12 @@
 [
   {
-    "id": 1508066,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "15:30",
-    "homeTeam": "Al Nejmeh",
-    "awayTeam": "Tadamon Sour",
-    "prediction": "Tadamon Sour Win",
-    "odds": "3.18"
-  },
-  {
     "id": 1553794,
     "league": "Premier League (Kuwait)",
     "matchTime": "19:05",
     "homeTeam": "Al Fahaheel",
     "awayTeam": "Al Qadsia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
   },
   {
     "id": 1508065,
@@ -24,7 +15,7 @@
     "homeTeam": "Al Hikma",
     "awayTeam": "Al Mabarrah",
     "prediction": "Al Hikma Win",
-    "odds": "1.83"
+    "odds": "1.7"
   },
   {
     "id": 1553795,
@@ -32,8 +23,8 @@
     "matchTime": "21:45",
     "homeTeam": "Al Kuwait",
     "awayTeam": "Kazma",
-    "prediction": "Al Kuwait Win",
-    "odds": "1.94"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1553796,
@@ -41,8 +32,8 @@
     "matchTime": "21:45",
     "homeTeam": "Al Salmiyah",
     "awayTeam": "Al Arabi",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "prediction": "Al Arabi Win",
+    "odds": "2.89"
   },
   {
     "id": 1541105,
@@ -51,6 +42,15 @@
     "homeTeam": "Negelle Arsi",
     "awayTeam": "Ethiopia Nigd Bank",
     "prediction": "Negelle Arsi Win",
-    "odds": "1.83"
+    "odds": "1.42"
+  },
+  {
+    "id": 1543586,
+    "league": "Premier League (Bhutan)",
+    "matchTime": "13:00",
+    "homeTeam": "RTC",
+    "awayTeam": "Transport United",
+    "prediction": "RTC Win & Over 1.5",
+    "odds": "1.96"
   }
 ]
