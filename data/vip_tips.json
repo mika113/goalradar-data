@@ -1,48 +1,12 @@
 [
   {
-    "id": 1489412,
-    "league": "World Cup",
-    "matchTime": "02:00",
-    "homeTeam": "Tunisia",
-    "awayTeam": "Netherlands",
-    "prediction": "Netherlands Win",
-    "odds": "2.19"
-  },
-  {
-    "id": 1525106,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Seacoast United Phantoms",
-    "awayTeam": "Boston Bolts",
-    "prediction": "Boston Bolts Win",
-    "odds": "2.96"
-  },
-  {
-    "id": 1534056,
-    "league": "Northern Super League (Canada)",
-    "matchTime": "02:00",
-    "homeTeam": "Montreal Roses W",
-    "awayTeam": "Ottawa Rapid W",
-    "prediction": "Montreal Roses W Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1539011,
-    "league": "World Cup",
-    "matchTime": "02:00",
-    "homeTeam": "Japan",
-    "awayTeam": "Sweden",
-    "prediction": "Japan Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1520744,
     "league": "Serie B (Brazil)",
     "matchTime": "02:30",
     "homeTeam": "Cuiaba",
     "awayTeam": "Londrina",
-    "prediction": "Cuiaba Win",
-    "odds": "1.49"
+    "prediction": "Double Chance 1X",
+    "odds": "1.6"
   },
   {
     "id": 1544428,
@@ -50,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Colo Colo",
     "awayTeam": "O'Higgins",
-    "prediction": "O'Higgins Win",
-    "odds": "1.78"
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
   },
   {
     "id": 1544429,
@@ -59,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Nublense",
     "awayTeam": "Universidad de Concepcion",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Nublense Win",
+    "odds": "1.58"
   },
   {
     "id": 1525105,
@@ -68,7 +32,43 @@
     "matchTime": "03:00",
     "homeTeam": "Hattiesburg",
     "awayTeam": "Jackson Boom",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Jackson Boom Win",
+    "odds": "2.16"
+  },
+  {
+    "id": 1525107,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Long Island Rough Riders",
+    "awayTeam": "Cedar Stars Rush",
+    "prediction": "Long Island Rough Riders Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1532362,
+    "league": "USL W League (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Hudson Valley Crusaders W",
+    "awayTeam": "Hartford Athletic W",
+    "prediction": "Hudson Valley Crusaders W Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1525104,
+    "league": "USL League Two (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Flatirons Rush",
+    "awayTeam": "Utah United",
+    "prediction": "Utah United Win",
+    "odds": "2.24"
+  },
+  {
+    "id": 1489411,
+    "league": "World Cup",
+    "matchTime": "05:00",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Australia",
+    "prediction": "Double Chance X2",
+    "odds": "1.65"
   }
 ]
