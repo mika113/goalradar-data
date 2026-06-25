@@ -1,5 +1,17 @@
 [
   {
+    "id": 1508794,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchDate": "FT",
+    "homeTeam": "Breidablik",
+    "awayTeam": "Vikingur Reykjavik",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Vikingur Reykjavik Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1553796,
     "league": "Premier League (Kuwait)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1553795,
@@ -29,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Al Hikma",
     "awayTeam": "Al Mabarrah",
-    "homeScore": 3,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Al Hikma Win",
-    "outcome": "Won"
+    "prediction": "Al Mabarrah Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547268,
@@ -42,10 +54,10 @@
     "homeTeam": "América-SP U20",
     "awayTeam": "Ponte Preta U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "América-SP U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1526201,
@@ -54,9 +66,9 @@
     "homeTeam": "Vasco da Gama U20",
     "awayTeam": "Criciuma U20",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Criciuma U20 Win",
     "outcome": "Won"
   },
   {
@@ -65,8 +77,8 @@
     "matchDate": "FT",
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Botafogo U20",
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Botafogo U20 Win",
     "outcome": "Won"
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Fluminense U20 Win",
-    "outcome": "Lost"
+    "prediction": "Palmeiras U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1526194,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Corinthians U20",
     "awayTeam": "Flamengo U20",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Flamengo U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -102,7 +114,7 @@
     "homeTeam": "Helges",
     "awayTeam": "Sunnersta",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sunnersta Win",
     "outcome": "Won"
@@ -126,21 +138,9 @@
     "homeTeam": "Brumunddal",
     "awayTeam": "Gjøvik-Lyn",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Gjøvik-Lyn Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496461,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Konnerud",
-    "awayTeam": "IF Ready",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "IF Ready Win",
     "outcome": "Won"
   }
 ]
