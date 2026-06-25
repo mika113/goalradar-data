@@ -1,66 +1,12 @@
 [
   {
-    "id": 1510618,
-    "league": "Division 2 - Norra Götaland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "IFK Skövde",
-    "awayTeam": "Lidköping",
-    "prediction": "Lidköping Win",
-    "odds": "2.13"
-  },
-  {
-    "id": 1511161,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Nyköping",
-    "awayTeam": "Nacka Iliria",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
-  },
-  {
-    "id": 1511345,
-    "league": "Division 2 - Västra Götaland (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Galtabacks",
-    "awayTeam": "Böljan",
-    "prediction": "Galtabacks Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1515871,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "20:00",
-    "homeTeam": "Super Nova",
-    "awayTeam": "FS Jelgava",
-    "prediction": "Super Nova Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1555009,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Renaissance Berkane",
-    "awayTeam": "FAR Rabat",
-    "prediction": "FAR Rabat Win",
-    "odds": "2.69"
-  },
-  {
-    "id": 1555010,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "CODM Meknès",
-    "awayTeam": "Hassania Agadir",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
     "id": 1555011,
     "league": "Botola Pro (Morocco)",
     "matchTime": "20:00",
     "homeTeam": "Olympique Dcheïra",
     "awayTeam": "Ittihad Tanger",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "prediction": "Ittihad Tanger Win",
+    "odds": "1.83"
   },
   {
     "id": 1555012,
@@ -68,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Kawkab Marrakech",
     "awayTeam": "FUS Rabat",
-    "prediction": "Kawkab Marrakech Win & Over 1.5",
-    "odds": "2.22"
+    "prediction": "Kawkab Marrakech Win",
+    "odds": "1.37"
   },
   {
     "id": 1555013,
@@ -77,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "CR Khemis Zemamra",
     "awayTeam": "Olympique Safi",
-    "prediction": "Olympique Safi Win",
-    "odds": "2.67"
+    "prediction": "Double Chance X2",
+    "odds": "1.69"
   },
   {
     "id": 1555014,
@@ -86,7 +32,61 @@
     "matchTime": "20:00",
     "homeTeam": "UTS Rabat",
     "awayTeam": "Difaa EL Jadida",
+    "prediction": "UTS Rabat Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1555015,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Wydad AC",
+    "awayTeam": "Maghreb Fès",
+    "prediction": "Wydad AC Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1555016,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Yacoub El Mansour",
+    "awayTeam": "Raja Casablanca",
+    "prediction": "Raja Casablanca Win",
+    "odds": "2.11"
+  },
+  {
+    "id": 1496461,
+    "league": "3. Division - Girone 1 (Norway)",
+    "matchTime": "20:30",
+    "homeTeam": "Konnerud",
+    "awayTeam": "IF Ready",
     "prediction": "Both Teams To Score",
+    "odds": "1.77"
+  },
+  {
+    "id": 1497367,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchTime": "20:30",
+    "homeTeam": "Brumunddal",
+    "awayTeam": "Gjøvik-Lyn",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.91"
+  },
+  {
+    "id": 1543345,
+    "league": "Løgmanssteypid (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "Vikingur Gota",
+    "awayTeam": "HB Torshavn",
+    "prediction": "HB Torshavn Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1510800,
+    "league": "Division 2 - Norra Svealand (Sweden)",
+    "matchTime": "21:00",
+    "homeTeam": "Helges",
+    "awayTeam": "Sunnersta",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.59"
   }
 ]
