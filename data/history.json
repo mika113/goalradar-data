@@ -1,10 +1,22 @@
 [
   {
-    "id": 1539010,
-    "league": "World Cup",
+    "id": 1525099,
+    "league": "USL League Two (USA)",
     "matchDate": "FT",
-    "homeTeam": "Czechia",
-    "awayTeam": "Mexico",
+    "homeTeam": "Stars FC",
+    "awayTeam": "City SC",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Stars FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1513373,
+    "league": "MLS Next Pro (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Los Angeles FC II",
+    "awayTeam": "Minnesota United II",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -12,15 +24,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1539010,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Czechia",
+    "awayTeam": "Mexico",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Czechia Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1525070,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "Marin",
     "awayTeam": "Sportivo San Juan",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Marin Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Spokane Velocity",
     "awayTeam": "Westchester SC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Spokane Velocity Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "South Africa",
     "awayTeam": "South Korea",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "South Africa Win",
     "outcome": "Won"
   },
   {
