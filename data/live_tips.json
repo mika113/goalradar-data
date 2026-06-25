@@ -1,66 +1,12 @@
 [
   {
-    "id": 1555016,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Yacoub El Mansour",
-    "awayTeam": "Raja Casablanca",
-    "prediction": "Yacoub El Mansour Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1496461,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "20:30",
-    "homeTeam": "Konnerud",
-    "awayTeam": "IF Ready",
-    "prediction": "Konnerud Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1497367,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "20:30",
-    "homeTeam": "Brumunddal",
-    "awayTeam": "Gjøvik-Lyn",
-    "prediction": "Brumunddal Win",
-    "odds": "1.73"
-  },
-  {
-    "id": 1543345,
-    "league": "Løgmanssteypid (Faroe-Islands)",
-    "matchTime": "20:30",
-    "homeTeam": "Vikingur Gota",
-    "awayTeam": "HB Torshavn",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
-  },
-  {
-    "id": 1510800,
-    "league": "Division 2 - Norra Svealand (Sweden)",
-    "matchTime": "21:00",
-    "homeTeam": "Helges",
-    "awayTeam": "Sunnersta",
-    "prediction": "Helges Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1526194,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Corinthians U20",
-    "awayTeam": "Flamengo U20",
-    "prediction": "Corinthians U20 Win",
-    "odds": "1.84"
-  },
-  {
     "id": 1526197,
     "league": "Brasileiro U20 A (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "Fluminense U20",
     "awayTeam": "Palmeiras U20",
-    "prediction": "Fluminense U20 Win",
-    "odds": "1.73"
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
   },
   {
     "id": 1526199,
@@ -68,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Botafogo U20",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Botafogo U20 Win",
+    "odds": "3.25"
   },
   {
     "id": 1526201,
@@ -78,7 +24,7 @@
     "homeTeam": "Vasco da Gama U20",
     "awayTeam": "Criciuma U20",
     "prediction": "Vasco da Gama U20 Win",
-    "odds": "1.32"
+    "odds": "1.92"
   },
   {
     "id": 1543915,
@@ -86,7 +32,61 @@
     "matchTime": "21:00",
     "homeTeam": "Bahia U17",
     "awayTeam": "Vitoria U17",
-    "prediction": "Vitoria U17 Win",
-    "odds": "2.66"
+    "prediction": "Bahia U17 Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1547268,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "América-SP U20",
+    "awayTeam": "Ponte Preta U20",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
+  },
+  {
+    "id": 1544794,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchTime": "21:30",
+    "homeTeam": "Araioses",
+    "awayTeam": "Expressinho",
+    "prediction": "Expressinho Win",
+    "odds": "3.42"
+  },
+  {
+    "id": 1508794,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Breidablik",
+    "awayTeam": "Vikingur Reykjavik",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.08"
+  },
+  {
+    "id": 1489409,
+    "league": "World Cup",
+    "matchTime": "23:00",
+    "homeTeam": "Curaçao",
+    "awayTeam": "Ivory Coast",
+    "prediction": "Ivory Coast Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1489410,
+    "league": "World Cup",
+    "matchTime": "23:00",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Germany",
+    "prediction": "Germany Win",
+    "odds": "2.15"
+  },
+  {
+    "id": 1532292,
+    "league": "USL W League (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Flatirons II W",
+    "awayTeam": "Utah United W",
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
   }
 ]
