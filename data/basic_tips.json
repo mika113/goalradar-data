@@ -1,21 +1,12 @@
 [
   {
-    "id": 1559538,
-    "league": "Premier League (Mongolia)",
-    "matchTime": "11:00",
-    "homeTeam": "Khovd",
-    "awayTeam": "Hunters",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
-  },
-  {
     "id": 1559539,
     "league": "Premier League (Mongolia)",
     "matchTime": "14:00",
     "homeTeam": "Khoromkhon",
     "awayTeam": "Ulaangom City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Ulaangom City Win",
+    "odds": "2.24"
   },
   {
     "id": 1508066,
@@ -24,7 +15,7 @@
     "homeTeam": "Al Nejmeh",
     "awayTeam": "Tadamon Sour",
     "prediction": "Tadamon Sour Win",
-    "odds": "1.97"
+    "odds": "3.13"
   },
   {
     "id": 1553794,
@@ -32,17 +23,8 @@
     "matchTime": "19:05",
     "homeTeam": "Al Fahaheel",
     "awayTeam": "Al Qadsia",
-    "prediction": "Al Fahaheel Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1553795,
-    "league": "Premier League (Kuwait)",
-    "matchTime": "20:45",
-    "homeTeam": "Al Kuwait",
-    "awayTeam": "Kazma",
-    "prediction": "Kazma Win",
-    "odds": "3.03"
+    "prediction": "Al Fahaheel Win & Over 1.5",
+    "odds": "2.62"
   },
   {
     "id": 1508065,
@@ -50,7 +32,25 @@
     "matchTime": "21:30",
     "homeTeam": "Al Hikma",
     "awayTeam": "Al Mabarrah",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.05"
+    "prediction": "Al Mabarrah Win",
+    "odds": "3.49"
+  },
+  {
+    "id": 1553795,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "21:45",
+    "homeTeam": "Al Kuwait",
+    "awayTeam": "Kazma",
+    "prediction": "Al Kuwait Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1553796,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "21:45",
+    "homeTeam": "Al Salmiyah",
+    "awayTeam": "Al Arabi",
+    "prediction": "Al Salmiyah Win",
+    "odds": "1.58"
   }
 ]
