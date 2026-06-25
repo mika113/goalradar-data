@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525105,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Hattiesburg",
-    "awayTeam": "Jackson Boom",
-    "prediction": "Hattiesburg Win",
-    "odds": "1.84"
-  },
-  {
     "id": 1525107,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "Long Island Rough Riders",
     "awayTeam": "Cedar Stars Rush",
     "prediction": "Long Island Rough Riders Win",
-    "odds": "1.72"
+    "odds": "1.51"
   },
   {
     "id": 1532362,
@@ -24,7 +15,7 @@
     "homeTeam": "Hudson Valley Crusaders W",
     "awayTeam": "Hartford Athletic W",
     "prediction": "Hudson Valley Crusaders W Win",
-    "odds": "1.89"
+    "odds": "1.32"
   },
   {
     "id": 1525104,
@@ -33,7 +24,7 @@
     "homeTeam": "Flatirons Rush",
     "awayTeam": "Utah United",
     "prediction": "Flatirons Rush Win",
-    "odds": "1.47"
+    "odds": "1.82"
   },
   {
     "id": 1489411,
@@ -41,8 +32,8 @@
     "matchTime": "05:00",
     "homeTeam": "Paraguay",
     "awayTeam": "Australia",
-    "prediction": "Paraguay Win & Over 1.5",
-    "odds": "2.88"
+    "prediction": "Paraguay Win",
+    "odds": "1.58"
   },
   {
     "id": 1539012,
@@ -50,8 +41,8 @@
     "matchTime": "05:00",
     "homeTeam": "Türkiye",
     "awayTeam": "USA",
-    "prediction": "Türkiye Win & Over 1.5",
-    "odds": "2.31"
+    "prediction": "USA Win",
+    "odds": "2.25"
   },
   {
     "id": 1554520,
@@ -59,8 +50,8 @@
     "matchTime": "10:00",
     "homeTeam": "Botev Plovdiv",
     "awayTeam": "Arda Kardzhali",
-    "prediction": "Botev Plovdiv Win & Over 1.5",
-    "odds": "1.84"
+    "prediction": "Botev Plovdiv Win",
+    "odds": "1.77"
   },
   {
     "id": 1549308,
@@ -68,8 +59,8 @@
     "matchTime": "10:30",
     "homeTeam": "Sydney FC U20",
     "awayTeam": "Sydney Utd U20",
-    "prediction": "Sydney FC U20 Win & Over 1.5",
-    "odds": "2.86"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1519216,
@@ -77,8 +68,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ural U20",
     "awayTeam": "Almaz Antey U19",
-    "prediction": "Ural U20 Win",
-    "odds": "1.61"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
   },
   {
     "id": 1550477,
@@ -86,8 +77,8 @@
     "matchTime": "11:30",
     "homeTeam": "Austria Lustenau",
     "awayTeam": "FC WIL 1900",
-    "prediction": "Austria Lustenau Win",
-    "odds": "1.62"
+    "prediction": "FC WIL 1900 Win",
+    "odds": "2.13"
   },
   {
     "id": 1550476,
@@ -95,8 +86,8 @@
     "matchTime": "12:00",
     "homeTeam": "Randers FC",
     "awayTeam": "Sonderjyske",
-    "prediction": "Sonderjyske Win",
-    "odds": "1.97"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1517576,
@@ -104,7 +95,16 @@
     "matchTime": "12:30",
     "homeTeam": "Sydney FC U23",
     "awayTeam": "Sydney United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.67"
+  },
+  {
+    "id": 1521962,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Heidelberg United",
+    "awayTeam": "Oakleigh Cannons",
+    "prediction": "Heidelberg United Win",
+    "odds": "1.62"
   }
 ]
