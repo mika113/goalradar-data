@@ -1,5 +1,41 @@
 [
   {
+    "id": 1553796,
+    "league": "Premier League (Kuwait)",
+    "matchDate": "FT",
+    "homeTeam": "Al Salmiyah",
+    "awayTeam": "Al Arabi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1553795,
+    "league": "Premier League (Kuwait)",
+    "matchDate": "FT",
+    "homeTeam": "Al Kuwait",
+    "awayTeam": "Kazma",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1508065,
+    "league": "Premier League (Lebanon)",
+    "matchDate": "FT",
+    "homeTeam": "Al Hikma",
+    "awayTeam": "Al Mabarrah",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Al Hikma Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1547268,
     "league": "Paulista - U20 (Brazil)",
     "matchDate": "FT",
@@ -17,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Vasco da Gama U20",
     "awayTeam": "Criciuma U20",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Botafogo U20",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Botafogo U20 Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +78,33 @@
     "homeTeam": "Fluminense U20",
     "awayTeam": "Palmeiras U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fluminense U20 Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1526194,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Corinthians U20",
+    "awayTeam": "Flamengo U20",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Flamengo U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1510800,
+    "league": "Division 2 - Norra Svealand (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Helges",
+    "awayTeam": "Sunnersta",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sunnersta Win",
     "outcome": "Won"
   },
   {
@@ -53,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Vikingur Gota",
     "awayTeam": "HB Torshavn",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vikingur Gota Win",
+    "outcome": "Won"
   },
   {
     "id": 1497367,
@@ -66,7 +126,7 @@
     "homeTeam": "Brumunddal",
     "awayTeam": "Gjøvik-Lyn",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Gjøvik-Lyn Win",
     "outcome": "Won"
@@ -78,69 +138,9 @@
     "homeTeam": "Konnerud",
     "awayTeam": "IF Ready",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555016,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Yacoub El Mansour",
-    "awayTeam": "Raja Casablanca",
-    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555015,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Wydad AC",
-    "awayTeam": "Maghreb Fès",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Wydad AC Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1555014,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "UTS Rabat",
-    "awayTeam": "Difaa EL Jadida",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555013,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "CR Khemis Zemamra",
-    "awayTeam": "Olympique Safi",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555012,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Kawkab Marrakech",
-    "awayTeam": "FUS Rabat",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kawkab Marrakech Win",
+    "prediction": "IF Ready Win",
     "outcome": "Won"
   }
 ]
