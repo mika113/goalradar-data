@@ -5,10 +5,34 @@
     "matchDate": "FT",
     "homeTeam": "Stars FC",
     "awayTeam": "City SC",
-    "homeScore": 4,
-    "awayScore": 1,
+    "homeScore": 5,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Stars FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525096,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Ventura County Fusion",
+    "awayTeam": "Seahorses",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Ventura County Fusion Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525081,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Academica",
+    "awayTeam": "San Francisco City",
+    "homeScore": 2,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "San Francisco City Win",
     "outcome": "Won"
   },
   {
@@ -33,6 +57,18 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Mexico Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525103,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Lonestar",
+    "awayTeam": "San Antonio FC 2",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
