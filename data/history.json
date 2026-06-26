@@ -1,15 +1,39 @@
 [
   {
+    "id": 1549308,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Sydney FC U20",
+    "awayTeam": "Sydney Utd U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554520,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Botev Plovdiv",
+    "awayTeam": "Arda Kardzhali",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Botev Plovdiv Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1539012,
     "league": "World Cup",
     "matchDate": "FT",
     "homeTeam": "Türkiye",
     "awayTeam": "USA",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "USA Win",
+    "outcome": "Lost"
   },
   {
     "id": 1489411,
@@ -56,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Jackson Boom Win",
-    "outcome": "Lost"
+    "prediction": "Hattiesburg Win",
+    "outcome": "Won"
   },
   {
     "id": 1544429,
@@ -68,8 +92,8 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Universidad de Concepcion Win",
-    "outcome": "Lost"
+    "prediction": "Nublense Win",
+    "outcome": "Won"
   },
   {
     "id": 1544428,
@@ -80,8 +104,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Colo Colo Win",
-    "outcome": "Won"
+    "prediction": "O'Higgins Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520744,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Seacoast United Phantoms Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489412,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Tunisia",
-    "awayTeam": "Netherlands",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Netherlands Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489410,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Ecuador",
-    "awayTeam": "Germany",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Ecuador Win",
     "outcome": "Won"
   }
 ]
