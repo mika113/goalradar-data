@@ -6,9 +6,9 @@
     "homeTeam": "Türkiye",
     "awayTeam": "USA",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Türkiye Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -24,6 +24,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1525104,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Flatirons Rush",
+    "awayTeam": "Utah United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1525107,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Cedar Stars Rush Win",
-    "outcome": "Lost"
+    "prediction": "Long Island Rough Riders Win",
+    "outcome": "Won"
   },
   {
     "id": 1525105,
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Hattiesburg Win",
-    "outcome": "Won"
+    "prediction": "Jackson Boom Win",
+    "outcome": "Lost"
   },
   {
     "id": 1544429,
@@ -56,8 +68,8 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Nublense Win",
-    "outcome": "Won"
+    "prediction": "Universidad de Concepcion Win",
+    "outcome": "Lost"
   },
   {
     "id": 1544428,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Ecuador Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1489409,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Curaçao",
-    "awayTeam": "Ivory Coast",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Ivory Coast Win",
     "outcome": "Won"
   }
 ]
