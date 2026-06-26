@@ -1,21 +1,12 @@
 [
   {
-    "id": 1541106,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "15:00",
-    "homeTeam": "Kedus Giorgis",
-    "awayTeam": "Fasil Ketema",
-    "prediction": "Kedus Giorgis Win",
-    "odds": "1.41"
-  },
-  {
     "id": 1541107,
     "league": "Premier League (Ethiopia)",
     "matchTime": "16:00",
     "homeTeam": "Ethiopia Bunna",
     "awayTeam": "Mekelle Kenema",
-    "prediction": "Ethiopia Bunna Win",
-    "odds": "1.59"
+    "prediction": "Double Chance X2",
+    "odds": "1.68"
   },
   {
     "id": 1525904,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Baranovichi",
     "awayTeam": "Slavia Mozyr",
-    "prediction": "Slavia Mozyr Win",
-    "odds": "1.63"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.29"
   },
   {
     "id": 1541108,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Arba Minch Kenema",
     "awayTeam": "Welwalo Adigrat Uni",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Arba Minch Kenema Win",
+    "odds": "1.49"
   },
   {
     "id": 1525903,
@@ -41,16 +32,25 @@
     "matchTime": "20:00",
     "homeTeam": "Arsenal",
     "awayTeam": "FC Gomel",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "FC Gomel Win",
+    "odds": "2.04"
   },
   {
-    "id": 1519074,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "15:00",
-    "homeTeam": "Akademiya Konoplev U20",
-    "awayTeam": "Chertanovo U20",
-    "prediction": "Akademiya Konoplev U20 Win",
-    "odds": "1.35"
+    "id": 1553797,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "20:45",
+    "homeTeam": "Al Tadhamon",
+    "awayTeam": "Al Shabab",
+    "prediction": "Al Shabab Win",
+    "odds": "2.15"
+  },
+  {
+    "id": 1553798,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "20:45",
+    "homeTeam": "Al Nasar",
+    "awayTeam": "Al Jahra",
+    "prediction": "Al Nasar Win",
+    "odds": "1.61"
   }
 ]
