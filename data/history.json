@@ -1,5 +1,29 @@
 [
   {
+    "id": 1539012,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Türkiye",
+    "awayTeam": "USA",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Türkiye Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1489411,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Australia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1525107,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -8,7 +32,19 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Long Island Rough Riders Win",
+    "prediction": "Cedar Stars Rush Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1525105,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Hattiesburg",
+    "awayTeam": "Jackson Boom",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Hattiesburg Win",
     "outcome": "Won"
   },
   {
@@ -20,8 +56,8 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Universidad de Concepcion Win",
-    "outcome": "Lost"
+    "prediction": "Nublense Win",
+    "outcome": "Won"
   },
   {
     "id": 1544428,
@@ -44,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1539011,
@@ -105,42 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Ivory Coast Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508794,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Breidablik",
-    "awayTeam": "Vikingur Reykjavik",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Vikingur Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553796,
-    "league": "Premier League (Kuwait)",
-    "matchDate": "FT",
-    "homeTeam": "Al Salmiyah",
-    "awayTeam": "Al Arabi",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Al Salmiyah Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553795,
-    "league": "Premier League (Kuwait)",
-    "matchDate": "FT",
-    "homeTeam": "Al Kuwait",
-    "awayTeam": "Kazma",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
