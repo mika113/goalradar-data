@@ -1,15 +1,27 @@
 [
   {
+    "id": 1525107,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Long Island Rough Riders",
+    "awayTeam": "Cedar Stars Rush",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Long Island Rough Riders Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1544429,
     "league": "Copa Chile",
     "matchDate": "FT",
     "homeTeam": "Nublense",
     "awayTeam": "Universidad de Concepcion",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Universidad de Concepcion Win",
-    "outcome": "Lost"
+    "prediction": "Nublense Win",
+    "outcome": "Won"
   },
   {
     "id": 1544428,
@@ -17,7 +29,7 @@
     "matchDate": "FT",
     "homeTeam": "Colo Colo",
     "awayTeam": "O'Higgins",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Colo Colo Win",
@@ -29,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Cuiaba",
     "awayTeam": "Londrina",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Cuiaba Win",
     "outcome": "Lost"
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Japan",
     "awayTeam": "Sweden",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Seacoast United Phantoms",
     "awayTeam": "Boston Bolts",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Seacoast United Phantoms Win",
     "outcome": "Won"
   },
   {
@@ -65,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Tunisia",
     "awayTeam": "Netherlands",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Netherlands Win",
-    "outcome": "Won"
+    "prediction": "Tunisia Win",
+    "outcome": "Lost"
   },
   {
     "id": 1489410,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544794,
-    "league": "Maranhense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Araioses",
-    "awayTeam": "Expressinho",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Araioses Win",
     "outcome": "Won"
   }
 ]
