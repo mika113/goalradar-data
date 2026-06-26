@@ -1,66 +1,12 @@
 [
   {
-    "id": 1539012,
-    "league": "World Cup",
-    "matchTime": "05:00",
-    "homeTeam": "Türkiye",
-    "awayTeam": "USA",
-    "prediction": "Double Chance X2",
-    "odds": "1.76"
-  },
-  {
-    "id": 1554520,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "10:00",
-    "homeTeam": "Botev Plovdiv",
-    "awayTeam": "Arda Kardzhali",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
-  },
-  {
-    "id": 1549308,
-    "league": "Npl Nsw U20 (Australia)",
-    "matchTime": "10:30",
-    "homeTeam": "Sydney FC U20",
-    "awayTeam": "Sydney Utd U20",
-    "prediction": "Sydney Utd U20 Win",
-    "odds": "2.6"
-  },
-  {
-    "id": 1519216,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "11:00",
-    "homeTeam": "Ural U20",
-    "awayTeam": "Almaz Antey U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
-  },
-  {
-    "id": 1550477,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "11:30",
-    "homeTeam": "Austria Lustenau",
-    "awayTeam": "FC WIL 1900",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
-  },
-  {
-    "id": 1550476,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Randers FC",
-    "awayTeam": "Sonderjyske",
-    "prediction": "Sonderjyske Win",
-    "odds": "2.67"
-  },
-  {
     "id": 1517576,
     "league": "New South Wales NPL (Australia)",
     "matchTime": "12:30",
     "homeTeam": "Sydney FC U23",
     "awayTeam": "Sydney United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "prediction": "Sydney FC U23 Win",
+    "odds": "1.43"
   },
   {
     "id": 1521962,
@@ -68,8 +14,8 @@
     "matchTime": "12:30",
     "homeTeam": "Heidelberg United",
     "awayTeam": "Oakleigh Cannons",
-    "prediction": "Heidelberg United Win",
-    "odds": "1.66"
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   },
   {
     "id": 1524059,
@@ -77,8 +23,8 @@
     "matchTime": "12:30",
     "homeTeam": "Rochedale Rovers",
     "awayTeam": "Gold Coast Knights",
-    "prediction": "Gold Coast Knights Win",
-    "odds": "1.68"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.01"
   },
   {
     "id": 1521963,
@@ -86,8 +32,8 @@
     "matchTime": "12:45",
     "homeTeam": "Dandenong City",
     "awayTeam": "Avondale",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
+    "prediction": "Dandenong City Win",
+    "odds": "1.49"
   },
   {
     "id": 1541431,
@@ -95,8 +41,8 @@
     "matchTime": "12:45",
     "homeTeam": "Keilor Park",
     "awayTeam": "Moreland City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "prediction": "Moreland City Win",
+    "odds": "1.75"
   },
   {
     "id": 1527090,
@@ -104,7 +50,61 @@
     "matchTime": "13:00",
     "homeTeam": "Croydon Kings",
     "awayTeam": "Adelaide United II",
-    "prediction": "Croydon Kings Win",
-    "odds": "1.65"
+    "prediction": "Adelaide United II Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1533738,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Suwon FMC W",
+    "awayTeam": "Gyeongju W",
+    "prediction": "Gyeongju W Win",
+    "odds": "2.26"
+  },
+  {
+    "id": 1517797,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Blacktown Spartans",
+    "awayTeam": "Rydalmere Lions",
+    "prediction": "Blacktown Spartans Win",
+    "odds": "1.41"
+  },
+  {
+    "id": 1527383,
+    "league": "South Australia State League 1",
+    "matchTime": "13:15",
+    "homeTeam": "Eastern United",
+    "awayTeam": "Cumberland United",
+    "prediction": "Eastern United Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1533034,
+    "league": "Tasmania Southern Championship (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Olympia Warriors",
+    "awayTeam": "University of Tasmania",
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
+  },
+  {
+    "id": 1533035,
+    "league": "Tasmania Southern Championship (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Glenorchy Knights U21",
+    "awayTeam": "South Hobart II",
+    "prediction": "South Hobart II Win",
+    "odds": "3.33"
+  },
+  {
+    "id": 1521964,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "13:30",
+    "homeTeam": "Bentleigh Greens",
+    "awayTeam": "Altona Magic",
+    "prediction": "Bentleigh Greens Win",
+    "odds": "1.44"
   }
 ]
