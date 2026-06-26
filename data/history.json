@@ -1,5 +1,77 @@
 [
   {
+    "id": 1544429,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Nublense",
+    "awayTeam": "Universidad de Concepcion",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Universidad de Concepcion Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1544428,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Colo Colo",
+    "awayTeam": "O'Higgins",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Colo Colo Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520744,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Cuiaba",
+    "awayTeam": "Londrina",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Cuiaba Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1539011,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Japan",
+    "awayTeam": "Sweden",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525106,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Seacoast United Phantoms",
+    "awayTeam": "Boston Bolts",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1489412,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Netherlands",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Netherlands Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1489410,
     "league": "World Cup",
     "matchDate": "FT",
@@ -20,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Curaçao Win",
-    "outcome": "Lost"
+    "prediction": "Ivory Coast Win",
+    "outcome": "Won"
   },
   {
     "id": 1508794,
@@ -32,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Breidablik Win",
-    "outcome": "Lost"
+    "prediction": "Vikingur Reykjavik Win",
+    "outcome": "Won"
   },
   {
     "id": 1553796,
@@ -69,78 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Araioses Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508065,
-    "league": "Premier League (Lebanon)",
-    "matchDate": "FT",
-    "homeTeam": "Al Hikma",
-    "awayTeam": "Al Mabarrah",
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Al Hikma Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547268,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "América-SP U20",
-    "awayTeam": "Ponte Preta U20",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Ponte Preta U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543915,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Bahia U17",
-    "awayTeam": "Vitoria U17",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Bahia U17 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526201,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Vasco da Gama U20",
-    "awayTeam": "Criciuma U20",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Criciuma U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526199,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "RB Bragantino U20",
-    "awayTeam": "Botafogo U20",
-    "homeScore": 2,
-    "awayScore": 5,
-    "status": "FT",
-    "prediction": "Botafogo U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526197,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Fluminense U20",
-    "awayTeam": "Palmeiras U20",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Palmeiras U20 Win",
     "outcome": "Won"
   }
 ]
