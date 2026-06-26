@@ -1,30 +1,12 @@
 [
   {
-    "id": 1554522,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Paderborn II",
-    "awayTeam": "Hessen Kassel",
-    "prediction": "Paderborn II Win",
-    "odds": "1.57"
-  },
-  {
-    "id": 1560446,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Aarhus Fremad",
-    "awayTeam": "Brann",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
-  },
-  {
     "id": 1561309,
     "league": "Premier Soccer League (Zimbabwe)",
     "matchTime": "16:00",
     "homeTeam": "Scotland Mabvuku",
     "awayTeam": "Manica Diamonds",
-    "prediction": "Manica Diamonds Win",
-    "odds": "1.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1561587,
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Hang Sai",
     "awayTeam": "Shao Jiang",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   },
   {
     "id": 1554521,
@@ -41,8 +23,8 @@
     "matchTime": "16:30",
     "homeTeam": "FK Jablonec",
     "awayTeam": "Vlašim",
-    "prediction": "Vlašim Win",
-    "odds": "2.18"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1519073,
@@ -50,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Rostov U19",
     "awayTeam": "Fakel U19",
-    "prediction": "Rostov U19 Win",
-    "odds": "1.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   },
   {
     "id": 1519078,
@@ -59,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Zenit U19",
     "awayTeam": "Nizhny Novgorod U19",
-    "prediction": "Zenit U19 Win",
-    "odds": "1.96"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1527706,
@@ -69,7 +51,7 @@
     "homeTeam": "CSKA Pomir",
     "awayTeam": "Khosilot Farkhor",
     "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "odds": "1.43"
   },
   {
     "id": 1548709,
@@ -77,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Ried",
     "awayTeam": "Austria Salzburg",
-    "prediction": "Austria Salzburg Win",
-    "odds": "3.2"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1554523,
@@ -86,7 +68,25 @@
     "matchTime": "17:00",
     "homeTeam": "Rubin",
     "awayTeam": "KAMAZ",
-    "prediction": "KAMAZ Win",
-    "odds": "1.91"
+    "prediction": "Double Chance X2",
+    "odds": "1.58"
+  },
+  {
+    "id": 1527707,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchTime": "17:15",
+    "homeTeam": "Istaravshan",
+    "awayTeam": "Parvoz",
+    "prediction": "Istaravshan Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1554519,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:30",
+    "homeTeam": "Akron",
+    "awayTeam": "Baltika",
+    "prediction": "Akron Win",
+    "odds": "1.34"
   }
 ]
