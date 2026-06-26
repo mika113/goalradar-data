@@ -5,6 +5,18 @@
     "matchDate": "FT",
     "homeTeam": "West Torrens Birkalla",
     "awayTeam": "Sturt Lions",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524163,
+    "league": "Queensland Premier League (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Holland Park Hawks",
+    "awayTeam": "Redlands United",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -30,9 +42,9 @@
     "homeTeam": "St. Albans Saints",
     "awayTeam": "Melbourne City II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Melbourne City II Win",
     "outcome": "Won"
   },
   {
@@ -42,10 +54,10 @@
     "homeTeam": "Bentleigh Greens",
     "awayTeam": "Altona Magic",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Altona Magic Win",
+    "outcome": "Won"
   },
   {
     "id": 1527383,
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Blacktown Spartans Win",
-    "outcome": "Won"
+    "prediction": "Rydalmere Lions Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543586,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Negelle Arsi",
     "awayTeam": "Ethiopia Nigd Bank",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Negelle Arsi Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Gyeongju W Win",
-    "outcome": "Won"
+    "prediction": "Suwon FMC W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1527090,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dandenong City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524059,
-    "league": "Queensland NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Rochedale Rovers",
-    "awayTeam": "Gold Coast Knights",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
