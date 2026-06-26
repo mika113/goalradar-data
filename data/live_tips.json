@@ -1,66 +1,12 @@
 [
   {
-    "id": 1496462,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Vålerenga II",
-    "awayTeam": "Union Carl Berner",
-    "prediction": "Vålerenga II Win",
-    "odds": "1.69"
-  },
-  {
-    "id": 1497003,
-    "league": "3. Division - Girone 4 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Flekkerøy",
-    "awayTeam": "Åkra",
-    "prediction": "Flekkerøy Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1497188,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Skedsmo",
-    "awayTeam": "Skjetten",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
-    "id": 1504247,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "Klubi-04",
-    "awayTeam": "SJK Akatemia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.05"
-  },
-  {
-    "id": 1504248,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "PK-35",
-    "awayTeam": "MP",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
-    "id": 1515873,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "FK Liepaja",
-    "awayTeam": "Rīgas FS",
-    "prediction": "Rīgas FS Win",
-    "odds": "2.78"
-  },
-  {
     "id": 1519075,
     "league": "Youth Championship (Russia)",
     "matchTime": "19:00",
     "homeTeam": "Krasnodar U19",
     "awayTeam": "Dinamo Moskva U19",
     "prediction": "Dinamo Moskva U19 Win",
-    "odds": "2.11"
+    "odds": "1.74"
   },
   {
     "id": 1546589,
@@ -68,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Seekirchen",
     "awayTeam": "Red Bull Salzburg",
-    "prediction": "Red Bull Salzburg Win",
-    "odds": "2.27"
+    "prediction": "Seekirchen Win & Over 1.5",
+    "odds": "2.94"
   },
   {
     "id": 1546590,
@@ -77,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Rapid Wien II",
     "awayTeam": "Donau",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "Donau Win",
+    "odds": "3.3"
   },
   {
     "id": 1547859,
@@ -86,7 +32,61 @@
     "matchTime": "19:00",
     "homeTeam": "Rapperswil",
     "awayTeam": "FC Basel 1893",
+    "prediction": "Rapperswil Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1548708,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Ludogorets",
+    "awayTeam": "Etar Veliko Tarnovo",
+    "prediction": "Ludogorets Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1554525,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "SV Horn",
+    "awayTeam": "SKN ST. Polten",
     "prediction": "Double Chance 1X",
-    "odds": "1.6"
+    "odds": "1.5"
+  },
+  {
+    "id": 1560444,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Borac Banja Luka",
+    "awayTeam": "IMT Novi Beograd",
+    "prediction": "Borac Banja Luka Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1562834,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Parndorf",
+    "awayTeam": "Austria Vienna",
+    "prediction": "Parndorf Win & Over 1.5",
+    "odds": "2.2"
+  },
+  {
+    "id": 1529755,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "19:30",
+    "homeTeam": "Garliava",
+    "awayTeam": "Minija",
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
+  },
+  {
+    "id": 1554526,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Phönix Lübeck",
+    "awayTeam": "Hansa Rostock II",
+    "prediction": "Phönix Lübeck Win & Over 1.5",
+    "odds": "2.71"
   }
 ]
