@@ -1,39 +1,12 @@
 [
   {
-    "id": 1553064,
-    "league": "Copa De La Liga (Peru)",
-    "matchTime": "23:15",
-    "homeTeam": "Alianza Universidad",
-    "awayTeam": "Minas",
-    "prediction": "Alianza Universidad Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1553065,
-    "league": "Copa De La Liga (Peru)",
-    "matchTime": "23:15",
-    "homeTeam": "Sport Huancayo",
-    "awayTeam": "ADT",
-    "prediction": "ADT Win",
-    "odds": "3.05"
-  },
-  {
-    "id": 1525108,
-    "league": "USL League Two (USA)",
-    "matchTime": "23:30",
-    "homeTeam": "Birmingham Legion II",
-    "awayTeam": "Southern Soccer Academy",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
     "id": 1517301,
     "league": "Canadian Premier League (Canada)",
     "matchTime": "00:30",
     "homeTeam": "HFX Wanderers FC",
     "awayTeam": "Pacific FC",
-    "prediction": "HFX Wanderers FC Win",
-    "odds": "1.46"
+    "prediction": "Pacific FC Win",
+    "odds": "2.89"
   },
   {
     "id": 1520748,
@@ -41,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Novorizontino",
     "awayTeam": "Vila Nova",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.67"
+    "prediction": "Vila Nova Win",
+    "odds": "2.85"
   },
   {
     "id": 1513188,
@@ -51,6 +24,33 @@
     "homeTeam": "Connecticut FC",
     "awayTeam": "New York City II",
     "prediction": "Connecticut FC Win",
-    "odds": "1.64"
+    "odds": "1.92"
+  },
+  {
+    "id": 1525110,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Asheville City",
+    "awayTeam": "Charlotte Eagles",
+    "prediction": "Charlotte Eagles Win",
+    "odds": "2.93"
+  },
+  {
+    "id": 1525113,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Vermont Green",
+    "awayTeam": "Black Rock",
+    "prediction": "Vermont Green Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1525414,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Eagle FC",
+    "awayTeam": "Ocean City Nor'easters",
+    "prediction": "Ocean City Nor'easters Win",
+    "odds": "3.49"
   }
 ]
