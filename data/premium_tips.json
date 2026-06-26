@@ -1,39 +1,12 @@
 [
   {
-    "id": 1525114,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Western Mass Pioneers",
-    "awayTeam": "AC Connecticut",
-    "prediction": "Western Mass Pioneers Win",
-    "odds": "1.32"
-  },
-  {
-    "id": 1489413,
-    "league": "World Cup",
-    "matchTime": "03:00",
-    "homeTeam": "Cape Verde Islands",
-    "awayTeam": "Saudi Arabia",
-    "prediction": "Cape Verde Islands Win & Over 1.5",
-    "odds": "2.6"
-  },
-  {
-    "id": 1489417,
-    "league": "World Cup",
-    "matchTime": "03:00",
-    "homeTeam": "Uruguay",
-    "awayTeam": "Spain",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
-  },
-  {
     "id": 1525111,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "Montgomery United",
     "awayTeam": "Apotheos",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Apotheos Win",
+    "odds": "1.92"
   },
   {
     "id": 1532466,
@@ -41,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Rally Madison FC W",
     "awayTeam": "Edgewater Castle W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Rally Madison FC W Win",
+    "odds": "1.31"
   },
   {
     "id": 1563057,
@@ -50,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "NJ/NY Gotham FC W",
     "awayTeam": "Kansas City W",
-    "prediction": "Kansas City W Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
   },
   {
     "id": 1532296,
@@ -59,8 +32,8 @@
     "matchTime": "03:30",
     "homeTeam": "Birmingham Legion W",
     "awayTeam": "SSA Royals W",
-    "prediction": "Double Chance X2",
-    "odds": "1.67"
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
   },
   {
     "id": 1532298,
@@ -68,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "Lonestar San Antonio W",
     "awayTeam": "Lonestar II W",
-    "prediction": "Double Chance X2",
-    "odds": "1.27"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.25"
   },
   {
     "id": 1525109,
@@ -77,8 +50,8 @@
     "matchTime": "04:00",
     "homeTeam": "Snohomish United",
     "awayTeam": "Bigfoot",
-    "prediction": "Snohomish United Win",
-    "odds": "1.76"
+    "prediction": "Double Chance X2",
+    "odds": "1.74"
   },
   {
     "id": 1525112,
@@ -86,8 +59,8 @@
     "matchTime": "05:00",
     "homeTeam": "Tucson",
     "awayTeam": "City SC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
+    "prediction": "Tucson Win & Over 1.5",
+    "odds": "2.23"
   },
   {
     "id": 1532467,
@@ -95,8 +68,8 @@
     "matchTime": "05:00",
     "homeTeam": "Olympia W",
     "awayTeam": "Portland Cherry Bombs FC W",
-    "prediction": "Olympia W Win",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "1.94"
   },
   {
     "id": 1533036,
@@ -105,6 +78,33 @@
     "homeTeam": "Taroona",
     "awayTeam": "South East Utd. U21",
     "prediction": "South East Utd. U21 Win",
-    "odds": "2.18"
+    "odds": "2.87"
+  },
+  {
+    "id": 1489414,
+    "league": "World Cup",
+    "matchTime": "06:00",
+    "homeTeam": "Egypt",
+    "awayTeam": "Iran",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1489415,
+    "league": "World Cup",
+    "matchTime": "06:00",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Belgium",
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
+  },
+  {
+    "id": 1549309,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchTime": "06:00",
+    "homeTeam": "UNSW U20",
+    "awayTeam": "Sutherland Sharks U20",
+    "prediction": "Sutherland Sharks U20 Win",
+    "odds": "2.11"
   }
 ]
