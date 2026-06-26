@@ -1,14 +1,50 @@
 [
   {
+    "id": 1550477,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Austria Lustenau",
+    "awayTeam": "FC WIL 1900",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1550478,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Baltika",
+    "awayTeam": "Volga Ulyanovsk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519216,
+    "league": "Youth Championship (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Ural U20",
+    "awayTeam": "Almaz Antey U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1549308,
     "league": "Npl Nsw U20 (Australia)",
     "matchDate": "FT",
     "homeTeam": "Sydney FC U20",
     "awayTeam": "Sydney Utd U20",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Sydney FC U20 Win",
+    "prediction": "Sydney Utd U20 Win",
     "outcome": "Won"
   },
   {
@@ -17,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Botev Plovdiv",
     "awayTeam": "Arda Kardzhali",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Botev Plovdiv Win",
     "outcome": "Won"
@@ -32,8 +68,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "USA Win",
-    "outcome": "Lost"
+    "prediction": "Türkiye Win",
+    "outcome": "Won"
   },
   {
     "id": 1489411,
@@ -92,8 +128,8 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Universidad de Concepcion Win",
-    "outcome": "Lost"
+    "prediction": "Nublense Win",
+    "outcome": "Won"
   },
   {
     "id": 1544428,
@@ -104,43 +140,7 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Colo Colo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520744,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Cuiaba",
-    "awayTeam": "Londrina",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1539011,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Japan",
-    "awayTeam": "Sweden",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525106,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Seacoast United Phantoms",
-    "awayTeam": "Boston Bolts",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Seacoast United Phantoms Win",
-    "outcome": "Won"
+    "prediction": "O'Higgins Win",
+    "outcome": "Lost"
   }
 ]
