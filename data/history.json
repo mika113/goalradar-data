@@ -12,15 +12,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1520747,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Nautico Recife",
+    "awayTeam": "Goias",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1520745,
     "league": "Serie B (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Fortaleza EC",
     "awayTeam": "Sport Recife",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fortaleza EC Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Oriental",
     "awayTeam": "Colón",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Oriental Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Guaporé",
     "awayTeam": "Monte Roraima",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Guaporé Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1551290,
@@ -78,10 +90,10 @@
     "homeTeam": "Rangers de Talca",
     "awayTeam": "Nublense",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Rangers de Talca Win",
+    "outcome": "Lost"
   },
   {
     "id": 1544465,
