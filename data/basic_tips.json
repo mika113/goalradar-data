@@ -5,8 +5,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ulaanbaatar",
     "awayTeam": "Central Stallions",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "prediction": "Ulaanbaatar Win & Over 1.5",
+    "odds": "2.15"
   },
   {
     "id": 1559545,
@@ -14,8 +14,8 @@
     "matchTime": "14:00",
     "homeTeam": "Deren",
     "awayTeam": "Khangarid",
-    "prediction": "Deren Win",
-    "odds": "1.48"
+    "prediction": "Khangarid Win",
+    "odds": "2.95"
   },
   {
     "id": 1553588,
@@ -23,17 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Al Ahli Tripoli",
     "awayTeam": "Al-Akhdar",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
-  },
-  {
-    "id": 1544469,
-    "league": "Copa Chile",
-    "matchTime": "02:30",
-    "homeTeam": "Union Espanola",
-    "awayTeam": "Colo Colo",
-    "prediction": "Colo Colo Win",
-    "odds": "1.7"
+    "prediction": "Al Ahli Tripoli Win",
+    "odds": "1.35"
   },
   {
     "id": 1525172,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Hill Country Lobos",
     "awayTeam": "Lonestar",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.92"
+    "prediction": "Lonestar Win",
+    "odds": "2.18"
   },
   {
     "id": 1525417,
@@ -50,7 +41,16 @@
     "matchTime": "04:00",
     "homeTeam": "Unión Villa Krause",
     "awayTeam": "Real Colorado Foxes",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.74"
+    "prediction": "Real Colorado Foxes Win",
+    "odds": "3.29"
+  },
+  {
+    "id": 1562345,
+    "league": "World Cup",
+    "matchTime": "04:00",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Morocco",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   }
 ]
