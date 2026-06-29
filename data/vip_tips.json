@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525417,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Unión Villa Krause",
-    "awayTeam": "Real Colorado Foxes",
-    "prediction": "Unión Villa Krause Win",
-    "odds": "1.91"
-  },
-  {
     "id": 1562345,
     "league": "World Cup",
     "matchTime": "04:00",
     "homeTeam": "Netherlands",
     "awayTeam": "Morocco",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
+    "prediction": "Morocco Win",
+    "odds": "3.49"
   },
   {
     "id": 1560856,
@@ -23,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "SD Raiders U20",
     "awayTeam": "Sydney FC U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
   },
   {
     "id": 1517542,
@@ -32,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "SD Raiders",
     "awayTeam": "Sydney FC U23",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "SD Raiders Win",
+    "odds": "1.99"
   },
   {
     "id": 1524142,
@@ -41,8 +32,8 @@
     "matchTime": "13:30",
     "homeTeam": "Logan Lightning",
     "awayTeam": "Redlands United",
-    "prediction": "Logan Lightning Win",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
   },
   {
     "id": 1546600,
@@ -50,8 +41,8 @@
     "matchTime": "15:00",
     "homeTeam": "Clydebank",
     "awayTeam": "Hamilton Academical",
-    "prediction": "Clydebank Win",
-    "odds": "1.81"
+    "prediction": "Hamilton Academical Win",
+    "odds": "3.3"
   },
   {
     "id": 1546601,
@@ -60,7 +51,7 @@
     "homeTeam": "CSKA Moscow",
     "awayTeam": "Shinnik Yaroslavl",
     "prediction": "CSKA Moscow Win",
-    "odds": "1.69"
+    "odds": "1.79"
   },
   {
     "id": 1554589,
@@ -68,7 +59,16 @@
     "matchTime": "15:00",
     "homeTeam": "Kazincbarcikai",
     "awayTeam": "Zemplín Michalovce",
-    "prediction": "Both Teams To Score",
-    "odds": "2.0"
+    "prediction": "Kazincbarcikai Win",
+    "odds": "1.76"
+  },
+  {
+    "id": 1554592,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Waalwijk",
+    "awayTeam": "Rot-weiss Oberhausen",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   }
 ]
