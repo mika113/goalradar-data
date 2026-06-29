@@ -1,21 +1,12 @@
 [
   {
-    "id": 1508072,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "15:30",
-    "homeTeam": "Al Hikma",
-    "awayTeam": "Tadamon Sour",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
     "id": 1508069,
     "league": "Premier League (Lebanon)",
     "matchTime": "16:00",
     "homeTeam": "Al Nejmeh",
     "awayTeam": "Racing",
     "prediction": "Racing Win",
-    "odds": "2.71"
+    "odds": "3.0"
   },
   {
     "id": 1553800,
@@ -23,8 +14,8 @@
     "matchTime": "19:05",
     "homeTeam": "Al Qadsia",
     "awayTeam": "Al Kuwait",
-    "prediction": "Al Qadsia Win",
-    "odds": "1.72"
+    "prediction": "Al Kuwait Win",
+    "odds": "1.74"
   },
   {
     "id": 1508071,
@@ -32,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Al Mabarrah",
     "awayTeam": "Al Ansar",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Al Mabarrah Win",
+    "odds": "1.54"
   },
   {
     "id": 1553799,
@@ -42,7 +33,7 @@
     "homeTeam": "Al Arabi",
     "awayTeam": "Al Fahaheel",
     "prediction": "Al Arabi Win",
-    "odds": "1.89"
+    "odds": "1.44"
   },
   {
     "id": 1553801,
@@ -50,7 +41,16 @@
     "matchTime": "22:15",
     "homeTeam": "Kazma",
     "awayTeam": "Al Salmiyah",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Al Salmiyah Win",
+    "odds": "3.0"
+  },
+  {
+    "id": 1559544,
+    "league": "Premier League (Mongolia)",
+    "matchTime": "11:00",
+    "homeTeam": "Ulaanbaatar",
+    "awayTeam": "Central Stallions",
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   }
 ]
