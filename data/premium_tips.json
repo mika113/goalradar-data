@@ -1,39 +1,12 @@
 [
   {
-    "id": 1567489,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Arges Pitesti",
-    "awayTeam": "Vllaznia Shkodër",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
-  },
-  {
-    "id": 1562344,
-    "league": "World Cup",
-    "matchTime": "20:00",
-    "homeTeam": "Brazil",
-    "awayTeam": "Japan",
-    "prediction": "Japan Win",
-    "odds": "2.05"
-  },
-  {
-    "id": 1506493,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchTime": "20:30",
-    "homeTeam": "HB Torshavn",
-    "awayTeam": "Skála",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
-  },
-  {
     "id": 1506496,
     "league": "Meistaradeildin (Faroe-Islands)",
     "matchTime": "20:30",
     "homeTeam": "Vikingur Gota",
     "awayTeam": "NSI Runavik",
-    "prediction": "NSI Runavik Win",
-    "odds": "1.7"
+    "prediction": "Vikingur Gota Win",
+    "odds": "1.55"
   },
   {
     "id": 1506497,
@@ -41,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "B68",
     "awayTeam": "AB",
-    "prediction": "AB Win",
-    "odds": "2.05"
+    "prediction": "B68 Win",
+    "odds": "1.39"
   },
   {
     "id": 1499959,
@@ -50,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Fénix",
     "awayTeam": "General Lamadrid",
-    "prediction": "Fénix Win",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
   },
   {
     "id": 1499965,
@@ -59,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Lujan",
-    "prediction": "Sportivo Barracas Win & Over 1.5",
-    "odds": "2.83"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1549946,
@@ -68,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Juventud de Bernal",
     "awayTeam": "Deportivo Metalurgico",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.25"
+    "prediction": "Deportivo Metalurgico Win",
+    "odds": "3.39"
   },
   {
     "id": 1553075,
@@ -77,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "FBC Melgar",
     "awayTeam": "UCV Moquegua",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "FBC Melgar Win",
+    "odds": "1.73"
   },
   {
     "id": 1562847,
@@ -86,8 +59,8 @@
     "matchTime": "21:45",
     "homeTeam": "H&W Welders",
     "awayTeam": "Larne",
-    "prediction": "Double Chance X2",
-    "odds": "1.27"
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   },
   {
     "id": 1543333,
@@ -96,7 +69,7 @@
     "homeTeam": "Croatia U19",
     "awayTeam": "Ukraine U19",
     "prediction": "Croatia U19 Win",
-    "odds": "1.53"
+    "odds": "1.79"
   },
   {
     "id": 1508795,
@@ -104,7 +77,34 @@
     "matchTime": "22:15",
     "homeTeam": "IA Akranes",
     "awayTeam": "Fram Reykjavik",
-    "prediction": "IA Akranes Win",
-    "odds": "1.8"
+    "prediction": "IA Akranes Win & Over 1.5",
+    "odds": "2.01"
+  },
+  {
+    "id": 1514201,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Afturelding",
+    "awayTeam": "Ægir",
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
+  },
+  {
+    "id": 1553076,
+    "league": "Copa De La Liga (Peru)",
+    "matchTime": "23:15",
+    "homeTeam": "Deportivo Garcilaso",
+    "awayTeam": "Deportivo Binacional",
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
+  },
+  {
+    "id": 1565176,
+    "league": "World Cup",
+    "matchTime": "23:30",
+    "homeTeam": "Germany",
+    "awayTeam": "Paraguay",
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
   }
 ]
