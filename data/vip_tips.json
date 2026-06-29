@@ -1,30 +1,12 @@
 [
   {
-    "id": 1565176,
-    "league": "World Cup",
-    "matchTime": "23:30",
-    "homeTeam": "Germany",
-    "awayTeam": "Paraguay",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.77"
-  },
-  {
-    "id": 1554052,
-    "league": "Serie D (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Democrata GV",
-    "awayTeam": "Ivinhema",
-    "prediction": "Democrata GV Win",
-    "odds": "1.35"
-  },
-  {
     "id": 1524564,
     "league": "USL League Two (USA)",
     "matchTime": "01:30",
     "homeTeam": "Asheville City",
     "awayTeam": "Charlotte Independence 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
   },
   {
     "id": 1544469,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Union Espanola",
     "awayTeam": "Colo Colo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "prediction": "Colo Colo Win",
+    "odds": "2.87"
   },
   {
     "id": 1525172,
@@ -41,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Hill Country Lobos",
     "awayTeam": "Lonestar",
-    "prediction": "Hill Country Lobos Win",
-    "odds": "1.44"
+    "prediction": "Lonestar Win",
+    "odds": "2.71"
   },
   {
     "id": 1525417,
@@ -50,8 +32,8 @@
     "matchTime": "04:00",
     "homeTeam": "Unión Villa Krause",
     "awayTeam": "Real Colorado Foxes",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1562345,
@@ -59,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Netherlands",
     "awayTeam": "Morocco",
-    "prediction": "Morocco Win",
-    "odds": "2.98"
+    "prediction": "Netherlands Win",
+    "odds": "1.5"
   },
   {
     "id": 1560856,
@@ -69,6 +51,24 @@
     "homeTeam": "SD Raiders U20",
     "awayTeam": "Sydney FC U20",
     "prediction": "SD Raiders U20 Win",
-    "odds": "1.48"
+    "odds": "1.76"
+  },
+  {
+    "id": 1517542,
+    "league": "New South Wales NPL (Australia)",
+    "matchTime": "13:00",
+    "homeTeam": "SD Raiders",
+    "awayTeam": "Sydney FC U23",
+    "prediction": "SD Raiders Win",
+    "odds": "1.53"
+  },
+  {
+    "id": 1524142,
+    "league": "Queensland Premier League (Australia)",
+    "matchTime": "13:30",
+    "homeTeam": "Logan Lightning",
+    "awayTeam": "Redlands United",
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   }
 ]
