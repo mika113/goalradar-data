@@ -1,5 +1,41 @@
 [
   {
+    "id": 1506496,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "Vikingur Gota",
+    "awayTeam": "NSI Runavik",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1506493,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchDate": "FT",
+    "homeTeam": "HB Torshavn",
+    "awayTeam": "Skála",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562344,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Brazil",
+    "awayTeam": "Japan",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Japan Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1567489,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -17,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "CSKA 1948",
     "awayTeam": "FK Partizan",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CSKA 1948 Win",
-    "outcome": "Won"
+    "prediction": "FK Partizan Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560476,
@@ -29,8 +65,8 @@
     "matchDate": "FT",
     "homeTeam": "Akhmat",
     "awayTeam": "Borac Banja Luka",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Akhmat Win",
     "outcome": "Won"
@@ -54,10 +90,10 @@
     "homeTeam": "Panevėžys",
     "awayTeam": "Suduva Marijampole",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Suduva Marijampole Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1565181,
@@ -89,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "VJS",
     "awayTeam": "TPV",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "VJS Win",
     "outcome": "Won"
   },
   {
@@ -106,41 +142,5 @@
     "status": "FT",
     "prediction": "Italy U19 Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1515875,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "FS Jelgava",
-    "awayTeam": "Grobiņa",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FS Jelgava Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515874,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Auda",
-    "awayTeam": "Riga",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Riga Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546599,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Odense",
-    "awayTeam": "Kolding IF",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Kolding IF Win",
-    "outcome": "Lost"
   }
 ]
