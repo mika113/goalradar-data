@@ -1,12 +1,30 @@
 [
   {
+    "id": 1553075,
+    "league": "Copa De La Liga (Peru)",
+    "matchTime": "21:00",
+    "homeTeam": "FBC Melgar",
+    "awayTeam": "UCV Moquegua",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
+  },
+  {
+    "id": 1562847,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:45",
+    "homeTeam": "H&W Welders",
+    "awayTeam": "Larne",
+    "prediction": "H&W Welders Win",
+    "odds": "1.59"
+  },
+  {
     "id": 1543333,
     "league": "UEFA U19 Championship (World)",
     "matchTime": "22:00",
     "homeTeam": "Croatia U19",
     "awayTeam": "Ukraine U19",
-    "prediction": "Ukraine U19 Win",
-    "odds": "1.89"
+    "prediction": "Croatia U19 Win & Over 1.5",
+    "odds": "2.48"
   },
   {
     "id": 1508795,
@@ -14,8 +32,8 @@
     "matchTime": "22:15",
     "homeTeam": "IA Akranes",
     "awayTeam": "Fram Reykjavik",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "IA Akranes Win & Over 1.5",
+    "odds": "2.48"
   },
   {
     "id": 1514201,
@@ -23,8 +41,8 @@
     "matchTime": "22:15",
     "homeTeam": "Afturelding",
     "awayTeam": "Ægir",
-    "prediction": "Afturelding Win",
-    "odds": "1.81"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1553076,
@@ -32,8 +50,8 @@
     "matchTime": "23:15",
     "homeTeam": "Deportivo Garcilaso",
     "awayTeam": "Deportivo Binacional",
-    "prediction": "Deportivo Garcilaso Win",
-    "odds": "1.69"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1565176,
@@ -42,7 +60,7 @@
     "homeTeam": "Germany",
     "awayTeam": "Paraguay",
     "prediction": "Germany Win",
-    "odds": "1.66"
+    "odds": "1.5"
   },
   {
     "id": 1554052,
@@ -50,8 +68,8 @@
     "matchTime": "01:00",
     "homeTeam": "Democrata GV",
     "awayTeam": "Ivinhema",
-    "prediction": "Democrata GV Win & Over 1.5",
-    "odds": "1.94"
+    "prediction": "Democrata GV Win",
+    "odds": "1.33"
   },
   {
     "id": 1524564,
@@ -59,34 +77,16 @@
     "matchTime": "01:30",
     "homeTeam": "Asheville City",
     "awayTeam": "Charlotte Independence 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "prediction": "Charlotte Independence 2 Win",
+    "odds": "1.75"
   },
   {
     "id": 1544469,
     "league": "Copa Chile",
-    "matchTime": "02:30",
+    "matchTime": "02:00",
     "homeTeam": "Union Espanola",
     "awayTeam": "Colo Colo",
-    "prediction": "Union Espanola Win",
-    "odds": "1.54"
-  },
-  {
-    "id": 1525172,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Hill Country Lobos",
-    "awayTeam": "Lonestar",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
-  },
-  {
-    "id": 1525417,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Unión Villa Krause",
-    "awayTeam": "Real Colorado Foxes",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "1.83"
+    "prediction": "Colo Colo Win",
+    "odds": "2.03"
   }
 ]
