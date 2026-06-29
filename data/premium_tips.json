@@ -1,39 +1,12 @@
 [
   {
-    "id": 1546599,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Odense",
-    "awayTeam": "Kolding IF",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
-    "id": 1515874,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "Auda",
-    "awayTeam": "Riga",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
-  },
-  {
-    "id": 1515875,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "FS Jelgava",
-    "awayTeam": "Grobiņa",
-    "prediction": "Double Chance X2",
-    "odds": "1.29"
-  },
-  {
     "id": 1543332,
     "league": "UEFA U19 Championship (World)",
     "matchTime": "18:00",
     "homeTeam": "Italy U19",
     "awayTeam": "Serbia U19",
     "prediction": "Italy U19 Win",
-    "odds": "1.83"
+    "odds": "1.48"
   },
   {
     "id": 1554588,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Universitatea Craiova",
     "awayTeam": "Polessya",
-    "prediction": "Universitatea Craiova Win",
-    "odds": "1.54"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1560476,
@@ -50,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Akhmat",
     "awayTeam": "Borac Banja Luka",
-    "prediction": "Double Chance X2",
-    "odds": "1.7"
+    "prediction": "Akhmat Win",
+    "odds": "1.74"
   },
   {
     "id": 1517201,
@@ -59,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "VJS",
     "awayTeam": "TPV",
-    "prediction": "Double Chance X2",
-    "odds": "1.24"
+    "prediction": "TPV Win",
+    "odds": "3.23"
   },
   {
     "id": 1547573,
@@ -69,7 +42,7 @@
     "homeTeam": "Šiauliai",
     "awayTeam": "TransINVEST Vilnius",
     "prediction": "Šiauliai Win",
-    "odds": "1.63"
+    "odds": "1.32"
   },
   {
     "id": 1548731,
@@ -78,7 +51,7 @@
     "homeTeam": "FK Crvena Zvezda",
     "awayTeam": "Slovan Bratislava",
     "prediction": "FK Crvena Zvezda Win",
-    "odds": "1.93"
+    "odds": "1.9"
   },
   {
     "id": 1565181,
@@ -87,7 +60,7 @@
     "homeTeam": "Gol Gohar",
     "awayTeam": "Chadormalu SC",
     "prediction": "Gol Gohar Win",
-    "odds": "1.5"
+    "odds": "1.73"
   },
   {
     "id": 1547574,
@@ -96,7 +69,7 @@
     "homeTeam": "Panevėžys",
     "awayTeam": "Suduva Marijampole",
     "prediction": "Both Teams To Score",
-    "odds": "1.63"
+    "odds": "1.79"
   },
   {
     "id": 1562344,
@@ -104,7 +77,34 @@
     "matchTime": "20:00",
     "homeTeam": "Brazil",
     "awayTeam": "Japan",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
+    "prediction": "Japan Win",
+    "odds": "3.01"
+  },
+  {
+    "id": 1506493,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "HB Torshavn",
+    "awayTeam": "Skála",
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
+  },
+  {
+    "id": 1506496,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "Vikingur Gota",
+    "awayTeam": "NSI Runavik",
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
+  },
+  {
+    "id": 1506497,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "20:30",
+    "homeTeam": "B68",
+    "awayTeam": "AB",
+    "prediction": "AB Win",
+    "odds": "3.06"
   }
 ]
