@@ -20,8 +20,20 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Houston Dynamo FC II Win",
-    "outcome": "Lost"
+    "prediction": "Los Angeles FC II Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532324,
+    "league": "USL W League (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Albion Colorado W",
+    "awayTeam": "Colorado Storm W",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Colorado Storm W Win",
+    "outcome": "Won"
   },
   {
     "id": 1544468,
@@ -44,7 +56,19 @@
     "homeScore": 0,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "AHFC Royals W Win",
+    "prediction": "Lonestar San Antonio W Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1525159,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Miami AC",
+    "awayTeam": "Brevard",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Miami AC Win",
     "outcome": "Won"
   },
   {
@@ -92,8 +116,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Southern Soccer Academy Win",
-    "outcome": "Won"
+    "prediction": "Dothan United Win",
+    "outcome": "Lost"
   },
   {
     "id": 1553074,
@@ -117,30 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Eagle FC W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525170,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "West Chester United",
-    "awayTeam": "Lehigh Valley United",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Lehigh Valley United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525166,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Tacoma Stars",
-    "awayTeam": "West Seattle Junction",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "West Seattle Junction Win",
     "outcome": "Won"
   }
 ]
