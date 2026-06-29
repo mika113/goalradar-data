@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Arges Pitesti",
     "awayTeam": "Vllaznia Shkodër",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Vllaznia Shkodër Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "CSKA 1948",
     "awayTeam": "FK Partizan",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "CSKA 1948 Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547574,
@@ -78,9 +78,9 @@
     "homeTeam": "Šiauliai",
     "awayTeam": "TransINVEST Vilnius",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "TransINVEST Vilnius Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "VJS",
     "awayTeam": "TPV",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "VJS Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Italy U19",
     "awayTeam": "Serbia U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Italy U19 Win",
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "FS Jelgava",
     "awayTeam": "Grobiņa",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FS Jelgava Win",
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Odense Win",
-    "outcome": "Won"
+    "prediction": "Kolding IF Win",
+    "outcome": "Lost"
   }
 ]
