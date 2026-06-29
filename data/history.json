@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Afturelding",
     "awayTeam": "Ægir",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Afturelding Win",
-    "outcome": "Won"
+    "prediction": "Ægir Win",
+    "outcome": "Lost"
   },
   {
     "id": 1508795,
@@ -18,10 +18,10 @@
     "homeTeam": "IA Akranes",
     "awayTeam": "Fram Reykjavik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Fram Reykjavik Win",
+    "outcome": "Won"
   },
   {
     "id": 1543333,
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1562847,
@@ -42,9 +42,9 @@
     "homeTeam": "H&W Welders",
     "awayTeam": "Larne",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Larne Win",
     "outcome": "Won"
   },
   {
@@ -54,7 +54,7 @@
     "homeTeam": "Al Mabarrah",
     "awayTeam": "Al Ansar",
     "homeScore": 0,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Al Ansar Win",
     "outcome": "Won"
@@ -72,12 +72,24 @@
     "outcome": "Won"
   },
   {
+    "id": 1549946,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Juventud de Bernal",
+    "awayTeam": "Deportivo Metalurgico",
+    "homeScore": 1,
+    "awayScore": 5,
+    "status": "FT",
+    "prediction": "Deportivo Metalurgico Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1499965,
     "league": "Primera C (Argentina)",
     "matchDate": "FT",
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Lujan",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sportivo Barracas Win",
@@ -89,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Fénix",
     "awayTeam": "General Lamadrid",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "General Lamadrid Win",
-    "outcome": "Lost"
+    "prediction": "Fénix Win",
+    "outcome": "Won"
   },
   {
     "id": 1553801,
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Kazma",
     "awayTeam": "Al Salmiyah",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Kazma Win",
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Al Arabi Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1506497,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchDate": "FT",
-    "homeTeam": "B68",
-    "awayTeam": "AB",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "AB Win",
     "outcome": "Won"
   }
 ]
