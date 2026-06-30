@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Olimpia Grudziądz",
     "awayTeam": "Petrolul Ploiesti",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Petrolul Ploiesti Win",
-    "outcome": "Lost"
+    "prediction": "Olimpia Grudziądz Win",
+    "outcome": "Won"
   },
   {
     "id": 1554592,
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1559545,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Deren",
     "awayTeam": "Khangarid",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Deren Win",
     "outcome": "Won"
   },
   {
@@ -92,55 +92,7 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Central Stallions Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562345,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Netherlands",
-    "awayTeam": "Morocco",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525172,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Hill Country Lobos",
-    "awayTeam": "Lonestar",
-    "homeScore": 3,
-    "awayScore": 5,
-    "status": "FT",
-    "prediction": "Lonestar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544469,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Union Espanola",
-    "awayTeam": "Colo Colo",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Colo Colo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524564,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Asheville City",
-    "awayTeam": "Charlotte Independence 2",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Asheville City Win",
-    "outcome": "Won"
+    "prediction": "Ulaanbaatar Win",
+    "outcome": "Lost"
   }
 ]
