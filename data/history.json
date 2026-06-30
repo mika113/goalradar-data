@@ -18,6 +18,78 @@
     "homeTeam": "Namungo",
     "awayTeam": "Mtibwa Sugar",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Mtibwa Sugar Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1477271,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Mbeya City",
+    "awayTeam": "Tabora United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1477270,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Mashujaa",
+    "awayTeam": "Tanzania Prisons",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1477269,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "JKT Tanzania",
+    "awayTeam": "Young Africans",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Young Africans Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1477268,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Fountain Gate",
+    "awayTeam": "Singida Black Stars",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1477267,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Coastal Union",
+    "awayTeam": "Pamba Jiji",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1477266,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Azam",
+    "awayTeam": "Dodoma Jiji",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -32,8 +104,8 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Petrolul Ploiesti Win",
-    "outcome": "Lost"
+    "prediction": "Olimpia Grudziądz Win",
+    "outcome": "Won"
   },
   {
     "id": 1554592,
@@ -41,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Waalwijk",
     "awayTeam": "Rot-weiss Oberhausen",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Waalwijk Win",
     "outcome": "Won"
   },
   {
@@ -69,54 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Logan Lightning Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554589,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Kazincbarcikai",
-    "awayTeam": "Zemplín Michalovce",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517542,
-    "league": "New South Wales NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "SD Raiders",
-    "awayTeam": "Sydney FC U23",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Sydney FC U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560479,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Sochi",
-    "awayTeam": "Ska-khabarovsk",
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "FC Sochi Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1559544,
-    "league": "Premier League (Mongolia)",
-    "matchDate": "FT",
-    "homeTeam": "Ulaanbaatar",
-    "awayTeam": "Central Stallions",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Central Stallions Win",
     "outcome": "Won"
   }
 ]
