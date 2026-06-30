@@ -1,21 +1,12 @@
 [
   {
-    "id": 1477267,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchTime": "16:00",
-    "homeTeam": "Coastal Union",
-    "awayTeam": "Pamba Jiji",
-    "prediction": "Double Chance X2",
-    "odds": "1.27"
-  },
-  {
     "id": 1477268,
     "league": "Ligi kuu Bara (Tanzania)",
     "matchTime": "16:00",
     "homeTeam": "Fountain Gate",
     "awayTeam": "Singida Black Stars",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "prediction": "Singida Black Stars Win",
+    "odds": "2.12"
   },
   {
     "id": 1477269,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "JKT Tanzania",
     "awayTeam": "Young Africans",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "JKT Tanzania Win",
+    "odds": "1.81"
   },
   {
     "id": 1477270,
@@ -33,7 +24,7 @@
     "homeTeam": "Mashujaa",
     "awayTeam": "Tanzania Prisons",
     "prediction": "Tanzania Prisons Win",
-    "odds": "3.42"
+    "odds": "3.36"
   },
   {
     "id": 1477271,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Mbeya City",
     "awayTeam": "Tabora United",
-    "prediction": "Tabora United Win",
-    "odds": "3.23"
+    "prediction": "Mbeya City Win",
+    "odds": "1.8"
   },
   {
     "id": 1477272,
@@ -51,7 +42,7 @@
     "homeTeam": "Namungo",
     "awayTeam": "Mtibwa Sugar",
     "prediction": "Namungo Win",
-    "odds": "1.31"
+    "odds": "1.7"
   },
   {
     "id": 1477273,
@@ -59,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Simba",
     "awayTeam": "KMC",
-    "prediction": "KMC Win",
-    "odds": "2.19"
+    "prediction": "Simba Win & Over 1.5",
+    "odds": "1.81"
   },
   {
     "id": 1567313,
@@ -68,7 +59,16 @@
     "matchTime": "16:00",
     "homeTeam": "Dikaki",
     "awayTeam": "Pélican",
-    "prediction": "Dikaki Win",
-    "odds": "1.75"
+    "prediction": "Pélican Win",
+    "odds": "2.51"
+  },
+  {
+    "id": 1567314,
+    "league": "Championnat D1 (Gabon)",
+    "matchTime": "16:00",
+    "homeTeam": "Oyem AC",
+    "awayTeam": "Lozo",
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   }
 ]
