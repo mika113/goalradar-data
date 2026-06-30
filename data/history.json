@@ -1,14 +1,26 @@
 [
   {
+    "id": 1544469,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Union Espanola",
+    "awayTeam": "Colo Colo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Union Espanola Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1554052,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Democrata GV",
     "awayTeam": "Ivinhema",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Ivinhema Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Croatia U19 Win",
-    "outcome": "Lost"
+    "prediction": "Ukraine U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1562847,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "H&W Welders Win",
-    "outcome": "Lost"
+    "prediction": "Larne Win",
+    "outcome": "Won"
   },
   {
     "id": 1508071,
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1549946,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sportivo Barracas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1499959,
-    "league": "Primera C (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Fénix",
-    "awayTeam": "General Lamadrid",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Fénix Win",
     "outcome": "Won"
   }
 ]
