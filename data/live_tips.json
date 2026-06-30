@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525183,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Sunflower State",
-    "awayTeam": "Des Moines Menace",
-    "prediction": "Sunflower State Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1525418,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Memphis 901",
-    "awayTeam": "Mississippi Brilla",
-    "prediction": "Mississippi Brilla Win",
-    "odds": "3.49"
-  },
-  {
     "id": 1525216,
     "league": "USL League Two (USA)",
     "matchTime": "03:30",
     "homeTeam": "Fort Worth Vaqueros",
     "awayTeam": "McKinney Chupacabras",
-    "prediction": "McKinney Chupacabras Win",
-    "odds": "2.66"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1544431,
@@ -32,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "U. Catolica",
     "awayTeam": "Everton de Vina",
-    "prediction": "Everton de Vina Win",
-    "odds": "3.23"
+    "prediction": "U. Catolica Win",
+    "odds": "1.9"
   },
   {
     "id": 1525175,
@@ -41,8 +23,8 @@
     "matchTime": "04:00",
     "homeTeam": "Snohomish United",
     "awayTeam": "Tacoma Stars",
-    "prediction": "Double Chance X2",
-    "odds": "1.23"
+    "prediction": "Snohomish United Win",
+    "odds": "1.4"
   },
   {
     "id": 1525177,
@@ -50,8 +32,8 @@
     "matchTime": "04:00",
     "homeTeam": "Colorado Storm",
     "awayTeam": "Colorado ISA",
-    "prediction": "Colorado Storm Win",
-    "odds": "1.32"
+    "prediction": "Colorado ISA Win",
+    "odds": "1.81"
   },
   {
     "id": 1567306,
@@ -59,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Mexico",
     "awayTeam": "Ecuador",
-    "prediction": "Mexico Win",
-    "odds": "1.55"
+    "prediction": "Ecuador Win",
+    "odds": "1.67"
   },
   {
     "id": 1525182,
@@ -68,8 +50,8 @@
     "matchTime": "05:00",
     "homeTeam": "Bangers",
     "awayTeam": "Oly Town",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "prediction": "Bangers Win",
+    "odds": "1.96"
   },
   {
     "id": 1525184,
@@ -77,8 +59,8 @@
     "matchTime": "05:00",
     "homeTeam": "Ventura County Fusion",
     "awayTeam": "Tucson",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Ventura County Fusion Win",
+    "odds": "1.48"
   },
   {
     "id": 1554597,
@@ -87,6 +69,24 @@
     "homeTeam": "MTK Budapest",
     "awayTeam": "Vasas",
     "prediction": "MTK Budapest Win",
-    "odds": "1.49"
+    "odds": "1.63"
+  },
+  {
+    "id": 1560488,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Erzgebirge Aue",
+    "awayTeam": "Vysočina Jihlava",
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
+  },
+  {
+    "id": 1560484,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:30",
+    "homeTeam": "Ajka",
+    "awayTeam": "Zalaegerszegi TE",
+    "prediction": "Ajka Win",
+    "odds": "1.91"
   }
 ]
