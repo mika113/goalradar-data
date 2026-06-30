@@ -29,7 +29,7 @@
     "matchDate": "FT",
     "homeTeam": "France",
     "awayTeam": "Sweden",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "France Win",
@@ -42,10 +42,10 @@
     "homeTeam": "Independiente F.b.c.",
     "awayTeam": "Benjamín Aceval",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Independiente F.b.c. Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546603,
@@ -80,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1560483,
@@ -117,30 +117,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Queen's Park Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548736,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Nairn County",
-    "awayTeam": "Elgin City",
-    "homeScore": 0,
-    "awayScore": 6,
-    "status": "FT",
-    "prediction": "Elgin City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548735,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Forfar Athletic",
-    "awayTeam": "ST Johnstone",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "ST Johnstone Win",
     "outcome": "Won"
   }
 ]
