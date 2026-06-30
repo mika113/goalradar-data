@@ -1,21 +1,12 @@
 [
   {
-    "id": 1559544,
-    "league": "Premier League (Mongolia)",
-    "matchTime": "11:00",
-    "homeTeam": "Ulaanbaatar",
-    "awayTeam": "Central Stallions",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
-  },
-  {
     "id": 1559545,
     "league": "Premier League (Mongolia)",
     "matchTime": "14:00",
     "homeTeam": "Deren",
     "awayTeam": "Khangarid",
-    "prediction": "Deren Win",
-    "odds": "1.88"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
   },
   {
     "id": 1553588,
@@ -24,16 +15,7 @@
     "homeTeam": "Al Ahli Tripoli",
     "awayTeam": "Al-Akhdar",
     "prediction": "Al Ahli Tripoli Win",
-    "odds": "1.31"
-  },
-  {
-    "id": 1560856,
-    "league": "Npl Nsw U20 (Australia)",
-    "matchTime": "11:00",
-    "homeTeam": "SD Raiders U20",
-    "awayTeam": "Sydney FC U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
+    "odds": "1.93"
   },
   {
     "id": 1560479,
@@ -42,7 +24,7 @@
     "homeTeam": "FC Sochi",
     "awayTeam": "Ska-khabarovsk",
     "prediction": "Ska-khabarovsk Win",
-    "odds": "3.27"
+    "odds": "3.38"
   },
   {
     "id": 1517542,
@@ -50,7 +32,25 @@
     "matchTime": "13:00",
     "homeTeam": "SD Raiders",
     "awayTeam": "Sydney FC U23",
-    "prediction": "SD Raiders Win",
-    "odds": "1.47"
+    "prediction": "SD Raiders Win & Over 1.5",
+    "odds": "1.98"
+  },
+  {
+    "id": 1554589,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Kazincbarcikai",
+    "awayTeam": "Zemplín Michalovce",
+    "prediction": "Kazincbarcikai Win & Over 1.5",
+    "odds": "2.11"
+  },
+  {
+    "id": 1524142,
+    "league": "Queensland Premier League (Australia)",
+    "matchTime": "13:30",
+    "homeTeam": "Logan Lightning",
+    "awayTeam": "Redlands United",
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   }
 ]
