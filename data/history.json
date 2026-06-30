@@ -1,14 +1,74 @@
 [
   {
+    "id": 1526873,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Volta Redonda",
+    "awayTeam": "Amazonas",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525180,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Midwest United",
+    "awayTeam": "Flint City Bucks",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Flint City Bucks Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525179,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Kalamazoo FC",
+    "awayTeam": "Oakland County",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Kalamazoo FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525176,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Charlotte Eagles",
+    "awayTeam": "Hickory",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524896,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Boston Bolts",
+    "awayTeam": "Western Mass Pioneers",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Western Mass Pioneers Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1520742,
     "league": "Serie B (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Botafogo SP",
     "awayTeam": "CRB",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "CRB Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +90,21 @@
     "homeTeam": "A. Italiano",
     "awayTeam": "Palestino",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Palestino Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525174,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Inter Gainesville",
+    "awayTeam": "Brooke House",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Inter Gainesville Win",
     "outcome": "Won"
   },
   {
@@ -69,66 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Shamrock Rovers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543928,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Palmeiras U17",
-    "awayTeam": "Athletico PR U17",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Palmeiras U17 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567497,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Linlithgow Rose",
-    "awayTeam": "Hamilton Academical",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560483,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dunipace",
-    "awayTeam": "Arbroath",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Dunipace Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1554596,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Gretna 2008",
-    "awayTeam": "Annan Athletic",
-    "homeScore": 2,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Annan Athletic Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550496,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Clyde",
-    "awayTeam": "Queen's Park",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Queen's Park Win",
     "outcome": "Won"
   }
 ]
