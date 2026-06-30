@@ -1,21 +1,12 @@
 [
   {
-    "id": 1567316,
-    "league": "Championnat D1 (Gabon)",
-    "matchTime": "17:30",
-    "homeTeam": "FC 105",
-    "awayTeam": "US Oyem",
-    "prediction": "FC 105 Win",
-    "odds": "1.82"
-  },
-  {
     "id": 1567317,
     "league": "Championnat D1 (Gabon)",
     "matchTime": "17:30",
     "homeTeam": "Cercle Mbéri",
     "awayTeam": "Ogooue FC",
-    "prediction": "Cercle Mbéri Win & Over 1.5",
-    "odds": "2.4"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1515876,
@@ -24,7 +15,7 @@
     "homeTeam": "Rīgas FS",
     "awayTeam": "BFC Daugavpils",
     "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "odds": "2.11"
   },
   {
     "id": 1553081,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "VPS",
     "awayTeam": "Inter Turku",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
   },
   {
     "id": 1554590,
@@ -41,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nyiregyhaza",
     "awayTeam": "Zbrojovka Brno",
-    "prediction": "Nyiregyhaza Win",
-    "odds": "1.76"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.56"
   },
   {
     "id": 1554594,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Táborsko",
     "awayTeam": "SKU Amstetten",
-    "prediction": "Táborsko Win",
-    "odds": "1.57"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1560480,
@@ -59,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "Virtus",
     "awayTeam": "Vardar Skopje",
-    "prediction": "Virtus Win",
-    "odds": "1.42"
+    "prediction": "Virtus Win & Over 1.5",
+    "odds": "2.94"
   },
   {
     "id": 1561061,
@@ -69,7 +60,7 @@
     "homeTeam": "Bosnia-Herzegovina U19",
     "awayTeam": "Sweden U19 W",
     "prediction": "Bosnia-Herzegovina U19 Win",
-    "odds": "1.37"
+    "odds": "1.64"
   },
   {
     "id": 1567318,
@@ -77,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mangasport",
     "awayTeam": "Vautour Club",
-    "prediction": "Mangasport Win & Over 1.5",
-    "odds": "1.86"
+    "prediction": "Mangasport Win",
+    "odds": "1.71"
   },
   {
     "id": 1567319,
@@ -86,7 +77,16 @@
     "matchTime": "18:00",
     "homeTeam": "Stade Migoveen",
     "awayTeam": "Stade Mandji",
+    "prediction": "Stade Migoveen Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1567492,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "FC Voluntari",
+    "awayTeam": "Tiszakecske FC",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.14"
+    "odds": "2.24"
   }
 ]
