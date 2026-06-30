@@ -1,10 +1,10 @@
 [
   {
-    "id": 1554593,
+    "id": 1560478,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Železničar Pančevo",
-    "awayTeam": "Wolfsberger AC",
+    "homeTeam": "Brinje-Grosuplje",
+    "awayTeam": "HNK Rijeka",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -12,15 +12,87 @@
     "outcome": "Won"
   },
   {
+    "id": 1567494,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Altona 93",
+    "awayTeam": "FC St. Pauli",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "FC St. Pauli Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560477,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zorya Luhansk",
+    "awayTeam": "Shkendija",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Zorya Luhansk Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554593,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Železničar Pančevo",
+    "awayTeam": "Wolfsberger AC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Wolfsberger AC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554591,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sturm Graz",
+    "awayTeam": "LNZ Cherkasy",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548732,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Levski Sofia",
+    "awayTeam": "Radnik Surdulica",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Levski Sofia Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519540,
+    "league": "Esiliiga A (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Nõmme United II",
+    "awayTeam": "Flora II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1515877,
     "league": "Virsliga (Latvia)",
     "matchDate": "FT",
     "homeTeam": "FK Liepaja",
     "awayTeam": "Ogre United",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FK Liepaja Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "SJK-juniorit",
     "awayTeam": "Vaajakoski",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SJK-juniorit Win",
     "outcome": "Won"
   },
   {
@@ -66,33 +138,9 @@
     "homeTeam": "Nyiregyhaza",
     "awayTeam": "Zbrojovka Brno",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Zbrojovka Brno Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553081,
-    "league": "Suomen Cup (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "VPS",
-    "awayTeam": "Inter Turku",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "VPS Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515876,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Rīgas FS",
-    "awayTeam": "BFC Daugavpils",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
