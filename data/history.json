@@ -5,11 +5,23 @@
     "matchDate": "FT",
     "homeTeam": "Netherlands",
     "awayTeam": "Morocco",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525172,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Hill Country Lobos",
+    "awayTeam": "Lonestar",
+    "homeScore": 3,
+    "awayScore": 5,
+    "status": "FT",
+    "prediction": "Lonestar Win",
+    "outcome": "Won"
   },
   {
     "id": 1544469,
@@ -20,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Union Espanola Win",
-    "outcome": "Lost"
+    "prediction": "Colo Colo Win",
+    "outcome": "Won"
   },
   {
     "id": 1524564,
@@ -129,18 +141,6 @@
     "awayScore": 7,
     "status": "FT",
     "prediction": "Al Ansar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553075,
-    "league": "Copa De La Liga (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "FBC Melgar",
-    "awayTeam": "UCV Moquegua",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
