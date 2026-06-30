@@ -1,66 +1,12 @@
 [
   {
-    "id": 1525216,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Fort Worth Vaqueros",
-    "awayTeam": "McKinney Chupacabras",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
-  },
-  {
-    "id": 1544431,
-    "league": "Copa Chile",
-    "matchTime": "03:30",
-    "homeTeam": "U. Catolica",
-    "awayTeam": "Everton de Vina",
-    "prediction": "U. Catolica Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1525175,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Snohomish United",
-    "awayTeam": "Tacoma Stars",
-    "prediction": "Snohomish United Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1525177,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Colorado Storm",
-    "awayTeam": "Colorado ISA",
-    "prediction": "Colorado ISA Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1567306,
-    "league": "World Cup",
-    "matchTime": "04:00",
-    "homeTeam": "Mexico",
-    "awayTeam": "Ecuador",
-    "prediction": "Ecuador Win",
-    "odds": "1.67"
-  },
-  {
-    "id": 1525182,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Bangers",
-    "awayTeam": "Oly Town",
-    "prediction": "Bangers Win",
-    "odds": "1.96"
-  },
-  {
     "id": 1525184,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Ventura County Fusion",
     "awayTeam": "Tucson",
-    "prediction": "Ventura County Fusion Win",
-    "odds": "1.48"
+    "prediction": "Ventura County Fusion Win & Over 1.5",
+    "odds": "2.14"
   },
   {
     "id": 1554597,
@@ -68,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "MTK Budapest",
     "awayTeam": "Vasas",
-    "prediction": "MTK Budapest Win",
-    "odds": "1.63"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1560488,
@@ -77,8 +23,8 @@
     "matchTime": "11:00",
     "homeTeam": "Erzgebirge Aue",
     "awayTeam": "Vysočina Jihlava",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Erzgebirge Aue Win",
+    "odds": "1.52"
   },
   {
     "id": 1560484,
@@ -87,6 +33,60 @@
     "homeTeam": "Ajka",
     "awayTeam": "Zalaegerszegi TE",
     "prediction": "Ajka Win",
-    "odds": "1.91"
+    "odds": "1.63"
+  },
+  {
+    "id": 1550499,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Baník Ostrava",
+    "awayTeam": "Hanácká",
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
+  },
+  {
+    "id": 1554598,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Odra Opole",
+    "awayTeam": "Pardubice",
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
+  },
+  {
+    "id": 1537423,
+    "league": "Capital Territory NPL (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Monaro Panthers",
+    "awayTeam": "Queanbeyan City",
+    "prediction": "Monaro Panthers Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1523750,
+    "league": "Northern NSW NPL (Australia)",
+    "matchTime": "13:00",
+    "homeTeam": "Hamilton Olympic",
+    "awayTeam": "Charlestown City Blues",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.17"
+  },
+  {
+    "id": 1533714,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Seoul W",
+    "awayTeam": "Suwon FMC W",
+    "prediction": "Seoul W Win & Over 1.5",
+    "odds": "1.86"
+  },
+  {
+    "id": 1533717,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Changnyeong W",
+    "awayTeam": "Boeun Sangmu W",
+    "prediction": "Changnyeong W Win",
+    "odds": "1.92"
   }
 ]
