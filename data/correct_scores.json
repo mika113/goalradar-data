@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525177,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Colorado Storm",
-    "awayTeam": "Colorado ISA",
-    "prediction": "2-0",
-    "odds": "5.34"
-  },
-  {
     "id": 1567306,
     "league": "World Cup",
     "matchTime": "04:00",
     "homeTeam": "Mexico",
     "awayTeam": "Ecuador",
-    "prediction": "3-0",
-    "odds": "4.68"
+    "prediction": "1-1",
+    "odds": "5.13"
   },
   {
     "id": 1525182,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Bangers",
     "awayTeam": "Oly Town",
-    "prediction": "1-0",
-    "odds": "5.98"
+    "prediction": "3-0",
+    "odds": "8.15"
   },
   {
     "id": 1525184,
@@ -33,7 +24,7 @@
     "homeTeam": "Ventura County Fusion",
     "awayTeam": "Tucson",
     "prediction": "2-0",
-    "odds": "5.67"
+    "odds": "9.66"
   },
   {
     "id": 1554597,
@@ -41,7 +32,16 @@
     "matchTime": "11:00",
     "homeTeam": "MTK Budapest",
     "awayTeam": "Vasas",
-    "prediction": "2-0",
-    "odds": "7.61"
+    "prediction": "2-1",
+    "odds": "5.21"
+  },
+  {
+    "id": 1560488,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Erzgebirge Aue",
+    "awayTeam": "Vysočina Jihlava",
+    "prediction": "3-1",
+    "odds": "6.64"
   }
 ]
