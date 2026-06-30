@@ -18,7 +18,7 @@
     "homeTeam": "Diegem Sport",
     "awayTeam": "Union St. Gilloise",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Union St. Gilloise Win",
     "outcome": "Won"
@@ -30,7 +30,7 @@
     "homeTeam": "Brinje-Grosuplje",
     "awayTeam": "HNK Rijeka",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "HNK Rijeka Win",
     "outcome": "Won"
@@ -42,9 +42,9 @@
     "homeTeam": "Järva-Jaani",
     "awayTeam": "Elva",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Elva Win",
     "outcome": "Won"
   },
   {
@@ -54,10 +54,10 @@
     "homeTeam": "Altona 93",
     "awayTeam": "FC St. Pauli",
     "homeScore": 2,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "FC St. Pauli Win",
-    "outcome": "Won"
+    "prediction": "Altona 93 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560477,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Zorya Luhansk",
     "awayTeam": "Shkendija",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1554593,
@@ -78,7 +78,7 @@
     "homeTeam": "Železničar Pančevo",
     "awayTeam": "Wolfsberger AC",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Wolfsberger AC Win",
     "outcome": "Won"
@@ -90,7 +90,7 @@
     "homeTeam": "Sturm Graz",
     "awayTeam": "LNZ Cherkasy",
     "homeScore": 1,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "LNZ Cherkasy Win",
     "outcome": "Won"
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Levski Sofia",
     "awayTeam": "Radnik Surdulica",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Levski Sofia Win",
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Nõmme United II",
     "awayTeam": "Flora II",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Flora II Win",
     "outcome": "Won"
   },
   {
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "FK Liepaja",
     "awayTeam": "Ogre United",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FK Liepaja Win",
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vaajakoski Win",
-    "outcome": "Lost"
+    "prediction": "SJK-juniorit Win",
+    "outcome": "Won"
   }
 ]
