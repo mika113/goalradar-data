@@ -1,39 +1,12 @@
 [
   {
-    "id": 1560481,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Luhe-Wildenau",
-    "awayTeam": "Vilzing",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
-  },
-  {
-    "id": 1564789,
-    "league": "World Cup",
-    "matchTime": "20:00",
-    "homeTeam": "Ivory Coast",
-    "awayTeam": "Norway",
-    "prediction": "Ivory Coast Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1546602,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:30",
-    "homeTeam": "FC Eindhoven",
-    "awayTeam": "UNA",
-    "prediction": "FC Eindhoven Win",
-    "odds": "1.92"
-  },
-  {
     "id": 1550764,
     "league": "Carioca C (Brazil)",
     "matchTime": "20:45",
     "homeTeam": "Campos AA",
     "awayTeam": "Uni Souza",
-    "prediction": "Campos AA Win",
-    "odds": "1.79"
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
   },
   {
     "id": 1499954,
@@ -41,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Central Ballester",
     "awayTeam": "Atletico Atlas",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
+    "prediction": "Central Ballester Win",
+    "odds": "1.44"
   },
   {
     "id": 1499956,
@@ -50,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Claypole",
     "awayTeam": "Canuelas",
-    "prediction": "Both Teams To Score",
-    "odds": "1.8"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   },
   {
     "id": 1543921,
@@ -59,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Botafogo U17",
     "awayTeam": "Atlético Mineiro U17",
-    "prediction": "Both Teams To Score",
-    "odds": "1.74"
+    "prediction": "Atlético Mineiro U17 Win",
+    "odds": "2.3"
   },
   {
     "id": 1543923,
@@ -68,7 +41,34 @@
     "matchTime": "21:00",
     "homeTeam": "Cruzeiro U17",
     "awayTeam": "Sao Paulo U17",
-    "prediction": "Sao Paulo U17 Win",
-    "odds": "2.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
+  },
+  {
+    "id": 1543924,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Flamengo RJ U17",
+    "awayTeam": "Juventude U17",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1543925,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Fortaleza U17",
+    "awayTeam": "Bahia U17",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.08"
+  },
+  {
+    "id": 1543926,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Gremio U17",
+    "awayTeam": "Atletico GO U17",
+    "prediction": "Atletico GO U17 Win",
+    "odds": "2.23"
   }
 ]
