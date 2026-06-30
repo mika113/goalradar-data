@@ -1,15 +1,27 @@
 [
   {
-    "id": 1477273,
-    "league": "Ligi kuu Bara (Tanzania)",
+    "id": 1547889,
+    "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Simba",
-    "awayTeam": "KMC",
+    "homeTeam": "FC Aarau",
+    "awayTeam": "St. Gallen II",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Lost"
+  },
+  {
+    "id": 1477273,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Simba",
+    "awayTeam": "KMC",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Simba Win",
+    "outcome": "Won"
   },
   {
     "id": 1477272,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1477269,
@@ -54,7 +66,7 @@
     "homeTeam": "JKT Tanzania",
     "awayTeam": "Young Africans",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Young Africans Win",
     "outcome": "Won"
@@ -77,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Coastal Union",
     "awayTeam": "Pamba Jiji",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Pamba Jiji Win",
-    "outcome": "Lost"
+    "prediction": "Coastal Union Win",
+    "outcome": "Won"
   },
   {
     "id": 1477266,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Deren Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524142,
-    "league": "Queensland Premier League (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Logan Lightning",
-    "awayTeam": "Redlands United",
-    "homeScore": 5,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Logan Lightning Win",
     "outcome": "Won"
   }
 ]
