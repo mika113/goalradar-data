@@ -1,14 +1,26 @@
 [
   {
+    "id": 1567495,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Diegem Sport",
+    "awayTeam": "Union St. Gilloise",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Union St. Gilloise Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1560478,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Brinje-Grosuplje",
     "awayTeam": "HNK Rijeka",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "HNK Rijeka Win",
     "outcome": "Won"
   },
   {
@@ -17,8 +29,8 @@
     "matchDate": "FT",
     "homeTeam": "Altona 93",
     "awayTeam": "FC St. Pauli",
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "FC St. Pauli Win",
     "outcome": "Won"
@@ -30,9 +42,9 @@
     "homeTeam": "Zorya Luhansk",
     "awayTeam": "Shkendija",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Zorya Luhansk Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "Sturm Graz",
     "awayTeam": "LNZ Cherkasy",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "LNZ Cherkasy Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Levski Sofia",
     "awayTeam": "Radnik Surdulica",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Levski Sofia Win",
@@ -77,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Nõmme United II",
     "awayTeam": "Flora II",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1515877,
@@ -89,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "FK Liepaja",
     "awayTeam": "Ogre United",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FK Liepaja Win",
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "SJK-juniorit",
     "awayTeam": "Vaajakoski",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "SJK-juniorit Win",
@@ -114,33 +126,9 @@
     "homeTeam": "Bosnia-Herzegovina U19",
     "awayTeam": "Sweden U19 W",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Sweden U19 W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554594,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Táborsko",
-    "awayTeam": "SKU Amstetten",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "SKU Amstetten Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554590,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Nyiregyhaza",
-    "awayTeam": "Zbrojovka Brno",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Zbrojovka Brno Win",
     "outcome": "Won"
   }
 ]
