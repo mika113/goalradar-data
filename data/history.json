@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Shamrock Rovers Win",
-    "outcome": "Won"
+    "prediction": "Hibernian Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554596,
@@ -18,9 +18,9 @@
     "homeTeam": "Gretna 2008",
     "awayTeam": "Annan Athletic",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Annan Athletic Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +29,8 @@
     "matchDate": "FT",
     "homeTeam": "Clyde",
     "awayTeam": "Queen's Park",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Queen's Park Win",
     "outcome": "Won"
@@ -42,7 +42,7 @@
     "homeTeam": "Forfar Athletic",
     "awayTeam": "ST Johnstone",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "ST Johnstone Win",
     "outcome": "Won"
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Raith Rovers",
     "awayTeam": "Edinburgh City",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Raith Rovers Win",
@@ -114,7 +114,7 @@
     "homeTeam": "Alloa Athletic",
     "awayTeam": "Livingston",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Livingston Win",
     "outcome": "Won"
