@@ -1,5 +1,53 @@
 [
   {
+    "id": 1547706,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Uberaba",
+    "awayTeam": "BOA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1547705,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Mamoré",
+    "awayTeam": "Guarani MG",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547704,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Caldense",
+    "awayTeam": "CAP",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "CAP Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1544433,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Deportes Limache",
+    "awayTeam": "Coquimbo Unido",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544432,
     "league": "Copa Chile",
     "matchDate": "FT",
@@ -9,7 +57,43 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1525200,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Connecticut Rush",
+    "awayTeam": "AC Connecticut",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525194,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Staten Island Athletic",
+    "awayTeam": "New Jersey Copa",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519379,
+    "league": "Liga Pro (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "LDU de Quito",
+    "awayTeam": "Orense SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1493880,
@@ -17,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Charlotte Independence",
     "awayTeam": "Corpus Christi",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Corpus Christi Win",
+    "prediction": "Charlotte Independence Win",
     "outcome": "Won"
   },
   {
@@ -30,21 +114,9 @@
     "homeTeam": "New England FC",
     "awayTeam": "Vermont Green",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Vermont Green Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567308,
-    "league": "World Cup",
-    "matchDate": "FT",
-    "homeTeam": "Belgium",
-    "awayTeam": "Senegal",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
