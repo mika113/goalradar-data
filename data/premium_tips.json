@@ -1,75 +1,12 @@
 [
   {
-    "id": 1525204,
-    "league": "USL League Two (USA)",
-    "matchTime": "18:00",
-    "homeTeam": "Houston FC",
-    "awayTeam": "Brazos Valley",
-    "prediction": "Brazos Valley Win",
-    "odds": "2.74"
-  },
-  {
-    "id": 1530598,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "18:00",
-    "homeTeam": "FA Šiauliai II",
-    "awayTeam": "Tauras",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
-  },
-  {
-    "id": 1536838,
-    "league": "Second League - Group 4 (Russia)",
-    "matchTime": "18:00",
-    "homeTeam": "Khimik Dzerzhinsk",
-    "awayTeam": "Ural II",
-    "prediction": "Khimik Dzerzhinsk Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1547893,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Plzen",
-    "awayTeam": "Spartak Trnava",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.25"
-  },
-  {
-    "id": 1554605,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Pardubice",
-    "awayTeam": "Žilina",
-    "prediction": "Pardubice Win & Over 1.5",
-    "odds": "2.12"
-  },
-  {
-    "id": 1554609,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Rilski Sportist",
-    "awayTeam": "Arda Kardzhali",
-    "prediction": "Arda Kardzhali Win",
-    "odds": "3.49"
-  },
-  {
-    "id": 1554612,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Sigma Olomouc",
-    "awayTeam": "Skalica",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
-  },
-  {
     "id": 1554613,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "Veres Rivne",
     "awayTeam": "Bukovyna",
-    "prediction": "Veres Rivne Win",
-    "odds": "1.59"
+    "prediction": "Bukovyna Win",
+    "odds": "2.12"
   },
   {
     "id": 1554615,
@@ -78,7 +15,7 @@
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Podbrezová",
     "prediction": "Zaglebie Lubin Win",
-    "odds": "1.78"
+    "odds": "1.77"
   },
   {
     "id": 1554616,
@@ -86,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Slavia Praha",
     "awayTeam": "Vlašim",
-    "prediction": "Slavia Praha Win",
-    "odds": "1.71"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   },
   {
     "id": 1554626,
@@ -95,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Correcaminos Uat",
     "awayTeam": "Necaxa",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "Correcaminos Uat Win",
+    "odds": "1.3"
   },
   {
     "id": 1560486,
@@ -104,7 +41,70 @@
     "matchTime": "18:00",
     "homeTeam": "Cherno More Varna",
     "awayTeam": "Lokomotiv G. Oryahovitsa",
-    "prediction": "Lokomotiv G. Oryahovitsa Win",
-    "odds": "3.23"
+    "prediction": "Cherno More Varna Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1560487,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "PAOK",
+    "awayTeam": "SK Beveren",
+    "prediction": "PAOK Win",
+    "odds": "1.32"
+  },
+  {
+    "id": 1561064,
+    "league": "UEFA U19 Championship - Women (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Spain U19 W",
+    "awayTeam": "Iceland U19 W",
+    "prediction": "Spain U19 W Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1567503,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Helmond Sport",
+    "awayTeam": "Panathinaikos",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
+  },
+  {
+    "id": 1567504,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Tiszakecske FC",
+    "awayTeam": "Zbrojovka Brno",
+    "prediction": "Tiszakecske FC Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1554618,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Ferencvarosi TC",
+    "awayTeam": "Qarabag",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
+  },
+  {
+    "id": 1567499,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Botev Plovdiv",
+    "awayTeam": "Chernomorets 1919 Burgas",
+    "prediction": "Double Chance X2",
+    "odds": "1.74"
+  },
+  {
+    "id": 1530593,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "19:00",
+    "homeTeam": "Atmosfera",
+    "awayTeam": "Be1 NFA",
+    "prediction": "Be1 NFA Win",
+    "odds": "2.69"
   }
 ]
