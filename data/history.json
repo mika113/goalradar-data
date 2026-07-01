@@ -12,6 +12,30 @@
     "outcome": "Lost"
   },
   {
+    "id": 1567847,
+    "league": "Brasileiro U20 B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ceará U20",
+    "awayTeam": "Atlético Mineiro U20",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ceará U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1561318,
+    "league": "Copa Espírito Santo (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Vitória ES",
+    "awayTeam": "Rio Branco-VN",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1547708,
     "league": "Mineiro - 2 (Brazil)",
     "matchDate": "FT",
@@ -36,15 +60,39 @@
     "outcome": "Won"
   },
   {
+    "id": 1525211,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Virginia Beach City",
+    "awayTeam": "Loudoun 2",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493881,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Chattanooga Red Wolves",
+    "awayTeam": "Westchester SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1547706,
     "league": "Mineiro - 2 (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Uberaba",
     "awayTeam": "BOA",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Uberaba Win",
     "outcome": "Won"
   },
   {
@@ -53,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Minneapolis City",
     "awayTeam": "St. Croix",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Minneapolis City Win",
@@ -68,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1547704,
@@ -78,9 +126,9 @@
     "homeTeam": "Caldense",
     "awayTeam": "CAP",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Caldense Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -93,42 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Coquimbo Unido Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544432,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Cobresal",
-    "awayTeam": "D. La Serena",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525200,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Connecticut Rush",
-    "awayTeam": "AC Connecticut",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "AC Connecticut Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525194,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Staten Island Athletic",
-    "awayTeam": "New Jersey Copa",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
