@@ -6,10 +6,10 @@
     "homeTeam": "Tiszakecske FC",
     "awayTeam": "Zbrojovka Brno",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Zbrojovka Brno Win",
+    "outcome": "Won"
   },
   {
     "id": 1567503,
@@ -18,9 +18,9 @@
     "homeTeam": "Helmond Sport",
     "awayTeam": "Panathinaikos",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Panathinaikos Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +29,35 @@
     "matchDate": "FT",
     "homeTeam": "Spain U19 W",
     "awayTeam": "Iceland U19 W",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Spain U19 W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560487,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "PAOK",
+    "awayTeam": "SK Beveren",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "PAOK Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560486,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cherno More Varna",
+    "awayTeam": "Lokomotiv G. Oryahovitsa",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554616,
@@ -42,10 +66,22 @@
     "homeTeam": "Slavia Praha",
     "awayTeam": "Vlašim",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Vlašim Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554613,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Veres Rivne",
+    "awayTeam": "Bukovyna",
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Bukovyna Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554612,
@@ -60,39 +96,51 @@
     "outcome": "Won"
   },
   {
+    "id": 1547893,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Plzen",
+    "awayTeam": "Spartak Trnava",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1541120,
+    "league": "Premier League (Ethiopia)",
+    "matchDate": "FT",
+    "homeTeam": "Fasil Ketema",
+    "awayTeam": "Ethiopian Medhin",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1536838,
+    "league": "Second League - Group 4 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Khimik Dzerzhinsk",
+    "awayTeam": "Ural II",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Khimik Dzerzhinsk Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1530598,
     "league": "1 Lyga (Lithuania)",
     "matchDate": "FT",
     "homeTeam": "FA Šiauliai II",
     "awayTeam": "Tauras",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515878,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Tukums",
-    "awayTeam": "Super Nova",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562853,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Radnicki 1923",
-    "awayTeam": "OFK Beograd",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FA Šiauliai II Win",
     "outcome": "Won"
   }
 ]
