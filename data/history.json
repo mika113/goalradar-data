@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567501,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Radomiak Radom",
+    "awayTeam": "Hapoel Beer Sheva",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Hapoel Beer Sheva Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1567498,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -18,7 +30,7 @@
     "homeTeam": "Stal Mielec",
     "awayTeam": "Podhale Nowy Targ",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Podhale Nowy Targ Win",
     "outcome": "Won"
@@ -30,7 +42,7 @@
     "homeTeam": "Changnyeong W",
     "awayTeam": "Boeun Sangmu W",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Boeun Sangmu W Win",
     "outcome": "Won"
@@ -42,10 +54,10 @@
     "homeTeam": "Seoul W",
     "awayTeam": "Suwon FMC W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Suwon FMC W Win",
+    "outcome": "Won"
   },
   {
     "id": 1523750,
@@ -53,10 +65,22 @@
     "matchDate": "FT",
     "homeTeam": "Hamilton Olympic",
     "awayTeam": "Charlestown City Blues",
-    "homeScore": 4,
-    "awayScore": 0,
+    "homeScore": 7,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Hamilton Olympic Win",
+    "prediction": "Charlestown City Blues Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1554598,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Odra Opole",
+    "awayTeam": "Pardubice",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -104,8 +128,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Vasas Win",
-    "outcome": "Lost"
+    "prediction": "MTK Budapest Win",
+    "outcome": "Won"
   },
   {
     "id": 1548740,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Wisla Krakow Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548738,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Krylia Sovetov",
-    "awayTeam": "FK Sokol Saratov",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "FK Sokol Saratov Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554611,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Septemvri Sofia",
-    "awayTeam": "Vihren",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Septemvri Sofia Win",
     "outcome": "Won"
   }
 ]
