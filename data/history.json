@@ -6,7 +6,7 @@
     "homeTeam": "Ventura County Fusion",
     "awayTeam": "Tucson",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Ventura County Fusion Win",
     "outcome": "Won"
@@ -22,6 +22,18 @@
     "status": "FT",
     "prediction": "Mexico Win",
     "outcome": "Won"
+  },
+  {
+    "id": 1525177,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Colorado Storm",
+    "awayTeam": "Colorado ISA",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Colorado ISA Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525175,
@@ -80,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Des Moines Menace Win",
-    "outcome": "Lost"
+    "prediction": "Sunflower State Win",
+    "outcome": "Won"
   },
   {
     "id": 1526873,
@@ -92,8 +104,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Amazonas Win",
-    "outcome": "Lost"
+    "prediction": "Volta Redonda Win",
+    "outcome": "Won"
   },
   {
     "id": 1526865,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525181,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Patuxent",
-    "awayTeam": "Hill City",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Hill City Win",
     "outcome": "Won"
   }
 ]
