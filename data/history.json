@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Epitsentr Dunayivtsi",
     "awayTeam": "Ahrobiznes Volochysk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Epitsentr Dunayivtsi Win",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Rubin Kazan 2",
     "awayTeam": "Nosta",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rubin Kazan 2 Win",
     "outcome": "Won"
   },
   {
@@ -45,30 +45,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Salyut-Belgorod Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554606,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Glentoran",
-    "awayTeam": "Kilmarnock",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Kilmarnock Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550497,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Austria Lustenau",
-    "awayTeam": "BSC Young Boys",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
