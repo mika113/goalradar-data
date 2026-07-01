@@ -5,10 +5,22 @@
     "matchDate": "FT",
     "homeTeam": "Uberaba",
     "awayTeam": "BOA",
-    "homeScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525207,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Minneapolis City",
+    "awayTeam": "St. Croix",
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "St. Croix Win",
     "outcome": "Lost"
   },
   {
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CAP Win",
-    "outcome": "Lost"
+    "prediction": "Caldense Win",
+    "outcome": "Won"
   },
   {
     "id": 1544433,
@@ -42,9 +54,9 @@
     "homeTeam": "Deportes Limache",
     "awayTeam": "Coquimbo Unido",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Coquimbo Unido Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +78,9 @@
     "homeTeam": "Connecticut Rush",
     "awayTeam": "AC Connecticut",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "AC Connecticut Win",
     "outcome": "Won"
   },
   {
@@ -80,43 +92,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519379,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "LDU de Quito",
-    "awayTeam": "Orense SC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493880,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Charlotte Independence",
-    "awayTeam": "Corpus Christi",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Charlotte Independence Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525187,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "New England FC",
-    "awayTeam": "Vermont Green",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Vermont Green Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
