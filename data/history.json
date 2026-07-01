@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Mexico",
     "awayTeam": "Ecuador",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ecuador Win",
@@ -48,6 +48,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1525418,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Memphis 901",
+    "awayTeam": "Mississippi Brilla",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Memphis 901 Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1525183,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -56,8 +68,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Des Moines Menace Win",
-    "outcome": "Lost"
+    "prediction": "Sunflower State Win",
+    "outcome": "Won"
   },
   {
     "id": 1526873,
@@ -129,18 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Flint City Bucks Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525179,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Kalamazoo FC",
-    "awayTeam": "Oakland County",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kalamazoo FC Win",
     "outcome": "Won"
   }
 ]
