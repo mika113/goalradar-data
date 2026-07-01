@@ -1,30 +1,12 @@
 [
   {
-    "id": 1562856,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Omonia Nicosia",
-    "awayTeam": "Dinamo Bucuresti",
-    "prediction": "Omonia Nicosia Win & Over 1.5",
-    "odds": "2.1"
-  },
-  {
-    "id": 1504484,
-    "league": "Ettan - Södra (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Eskilsminne",
-    "awayTeam": "Kristianstad",
-    "prediction": "Kristianstad Win",
-    "odds": "3.11"
-  },
-  {
     "id": 1517303,
     "league": "Canadian Premier League (Canada)",
     "matchTime": "20:00",
     "homeTeam": "Forge",
     "awayTeam": "Vancouver FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Forge Win",
+    "odds": "1.97"
   },
   {
     "id": 1543334,
@@ -32,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Denmark U19",
     "awayTeam": "Spain U19",
-    "prediction": "Denmark U19 Win",
-    "odds": "1.92"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   },
   {
     "id": 1548741,
@@ -41,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Großschwarzenlohe",
     "awayTeam": "Greuther Fürth II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Großschwarzenlohe Win",
+    "odds": "1.48"
   },
   {
     "id": 1554622,
@@ -50,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Luckenwalde",
     "awayTeam": "VfL Halle",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Luckenwalde Win",
+    "odds": "1.56"
   },
   {
     "id": 1554623,
@@ -59,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Lokeren-Temse",
     "awayTeam": "Oudenaarde",
-    "prediction": "Oudenaarde Win",
-    "odds": "2.12"
+    "prediction": "Lokeren-Temse Win",
+    "odds": "1.91"
   },
   {
     "id": 1560492,
@@ -68,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Wacker Burghausen",
     "awayTeam": "Schalding-Heining",
-    "prediction": "Wacker Burghausen Win",
-    "odds": "1.79"
+    "prediction": "Wacker Burghausen Win & Over 1.5",
+    "odds": "2.24"
   },
   {
     "id": 1560493,
@@ -78,7 +60,7 @@
     "homeTeam": "De Treffers",
     "awayTeam": "NEC Nijmegen",
     "prediction": "NEC Nijmegen Win",
-    "odds": "2.08"
+    "odds": "2.19"
   },
   {
     "id": 1562857,
@@ -86,7 +68,25 @@
     "matchTime": "20:00",
     "homeTeam": "Étoile Carouge",
     "awayTeam": "Grand-Saconnex",
-    "prediction": "Étoile Carouge Win",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
+  },
+  {
+    "id": 1562858,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Tasmania Berlin",
+    "awayTeam": "Tennis Borussia",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.84"
+  },
+  {
+    "id": 1567505,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Wolfenbuttel",
+    "awayTeam": "Borussia Hildesheim",
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   }
 ]
