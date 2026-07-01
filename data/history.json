@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Project 51O",
     "awayTeam": "San Francisco City",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Project 51O Win",
@@ -30,10 +30,10 @@
     "homeTeam": "HFX Wanderers FC",
     "awayTeam": "Atlético Ottawa",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "HFX Wanderers FC Win",
-    "outcome": "Lost"
+    "prediction": "Atlético Ottawa Win",
+    "outcome": "Won"
   },
   {
     "id": 1543415,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Haukar",
     "awayTeam": "Kári",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Haukar Win",
@@ -56,19 +56,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nublense Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543335,
-    "league": "UEFA U19 Championship (World)",
-    "matchDate": "FT",
-    "homeTeam": "Wales U19",
-    "awayTeam": "Germany U19",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Germany U19 Win",
-    "outcome": "Won"
+    "prediction": "Universidad de Concepcion Win",
+    "outcome": "Lost"
   }
 ]
