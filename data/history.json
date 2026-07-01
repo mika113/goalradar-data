@@ -32,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Villa Nova Win",
-    "outcome": "Won"
+    "prediction": "Coimbra Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542028,
@@ -42,9 +42,9 @@
     "homeTeam": "Jaraguá",
     "awayTeam": "Tubarao",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tubarao Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "São Paulo U20 Win",
-    "outcome": "Won"
+    "prediction": "Santos U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1526211,
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1526207,
@@ -138,9 +138,9 @@
     "homeTeam": "Botafogo U20",
     "awayTeam": "Fluminense U20",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Fluminense U20 Win",
     "outcome": "Won"
   }
 ]
