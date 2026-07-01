@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567308,
+    "league": "World Cup",
+    "matchDate": "FT",
+    "homeTeam": "Belgium",
+    "awayTeam": "Senegal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1525188,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1543335,
