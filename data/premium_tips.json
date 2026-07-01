@@ -1,93 +1,12 @@
 [
   {
-    "id": 1525217,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Hudson Valley Hammers",
-    "awayTeam": "Manhattan",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
-  },
-  {
-    "id": 1541990,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Nação",
-    "awayTeam": "Metropolitano",
-    "prediction": "Nação Win",
-    "odds": "1.55"
-  },
-  {
-    "id": 1547708,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Valeriodoce",
-    "awayTeam": "Democrata SL",
-    "prediction": "Democrata SL Win",
-    "odds": "2.94"
-  },
-  {
-    "id": 1561318,
-    "league": "Copa Espírito Santo (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Vitória ES",
-    "awayTeam": "Rio Branco-VN",
-    "prediction": "Rio Branco-VN Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1567847,
-    "league": "Brasileiro U20 B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Ceará U20",
-    "awayTeam": "Atlético Mineiro U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
-  },
-  {
-    "id": 1567848,
-    "league": "Brasileiro U20 B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Goiás U20",
-    "awayTeam": "CRB U20",
-    "prediction": "Goiás U20 Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1525213,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Boston City",
-    "awayTeam": "Seacoast United Phantoms",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
-  },
-  {
-    "id": 1525214,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Charlottesville Blues",
-    "awayTeam": "Bethesda SC",
-    "prediction": "Charlottesville Blues Win",
-    "odds": "1.55"
-  },
-  {
-    "id": 1519386,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Delfin SC",
-    "awayTeam": "Emelec",
-    "prediction": "Double Chance X2",
-    "odds": "1.47"
-  },
-  {
     "id": 1525202,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "GFI",
     "awayTeam": "AHFC Royals",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.92"
+    "prediction": "AHFC Royals Win",
+    "odds": "2.25"
   },
   {
     "id": 1525203,
@@ -95,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Hattiesburg",
     "awayTeam": "Louisiana Krewe",
-    "prediction": "Hattiesburg Win",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   },
   {
     "id": 1525205,
@@ -105,6 +24,87 @@
     "homeTeam": "Lehigh Valley United",
     "awayTeam": "Ocean City Nor'easters",
     "prediction": "Lehigh Valley United Win",
-    "odds": "1.93"
+    "odds": "1.81"
+  },
+  {
+    "id": 1525208,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Montgomery United",
+    "awayTeam": "Dothan United",
+    "prediction": "Montgomery United Win",
+    "odds": "1.4"
+  },
+  {
+    "id": 1525210,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Sueno",
+    "awayTeam": "RKC",
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
+  },
+  {
+    "id": 1562586,
+    "league": "World Cup",
+    "matchTime": "03:00",
+    "homeTeam": "USA",
+    "awayTeam": "Bosnia & Herzegovina",
+    "prediction": "Bosnia & Herzegovina Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1524644,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Santafé Wanderers",
+    "awayTeam": "Springfield",
+    "prediction": "Santafé Wanderers Win & Over 1.5",
+    "odds": "1.84"
+  },
+  {
+    "id": 1525189,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Marin",
+    "awayTeam": "Almaden",
+    "prediction": "Marin Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1525215,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Denton Diablos",
+    "awayTeam": "West Texas",
+    "prediction": "Denton Diablos Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1544435,
+    "league": "Copa Chile",
+    "matchTime": "03:30",
+    "homeTeam": "Universidad de Chile",
+    "awayTeam": "Union La Calera",
+    "prediction": "Universidad de Chile Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1493882,
+    "league": "USL League One (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Spokane Velocity",
+    "awayTeam": "Forward Madison",
+    "prediction": "Spokane Velocity Win",
+    "odds": "1.59"
+  },
+  {
+    "id": 1525199,
+    "league": "USL League Two (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Albion Colorado",
+    "awayTeam": "Unión Villa Krause",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   }
 ]
