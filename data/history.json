@@ -1,14 +1,26 @@
 [
   {
+    "id": 1525188,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Project 51O",
+    "awayTeam": "San Francisco City",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1543415,
     "league": "2. Deild (Iceland)",
     "matchDate": "FT",
     "homeTeam": "Haukar",
     "awayTeam": "Kári",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Haukar Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1543335,
@@ -33,114 +45,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Germany U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554625,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Montrose",
-    "awayTeam": "Civil Service Strollers",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Civil Service Strollers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546245,
-    "league": "Brasiliense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Sobradinho U20",
-    "awayTeam": "Taguatinga U20",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Taguatinga U20 Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1547703,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Coimbra",
-    "awayTeam": "Villa Nova",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Villa Nova Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542028,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Jaraguá",
-    "awayTeam": "Tubarao",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Tubarao Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526564,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Cuniburo",
-    "awayTeam": "Gualaceo SC",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526212,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Santos U20",
-    "awayTeam": "São Paulo U20",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "São Paulo U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526211,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Palmeiras U20",
-    "awayTeam": "Cuiabá U20",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Cuiabá U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526210,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Juventude U20",
-    "awayTeam": "Corinthians U20",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Corinthians U20 Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1526209,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Fortaleza U20",
-    "awayTeam": "Vasco da Gama U20",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
