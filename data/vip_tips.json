@@ -1,21 +1,12 @@
 [
   {
-    "id": 1517304,
-    "league": "Canadian Premier League (Canada)",
-    "matchTime": "23:00",
-    "homeTeam": "HFX Wanderers FC",
-    "awayTeam": "Atlético Ottawa",
-    "prediction": "Atlético Ottawa Win",
-    "odds": "2.66"
-  },
-  {
     "id": 1525186,
     "league": "USL League Two (USA)",
     "matchTime": "23:00",
     "homeTeam": "SF Glens",
     "awayTeam": "Sportivo San Juan",
-    "prediction": "SF Glens Win",
-    "odds": "1.87"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.24"
   },
   {
     "id": 1525188,
@@ -24,7 +15,16 @@
     "homeTeam": "Project 51O",
     "awayTeam": "San Francisco City",
     "prediction": "Project 51O Win",
-    "odds": "1.61"
+    "odds": "1.4"
+  },
+  {
+    "id": 1554626,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "23:00",
+    "homeTeam": "Correcaminos Uat",
+    "awayTeam": "Necaxa",
+    "prediction": "Double Chance X2",
+    "odds": "1.7"
   },
   {
     "id": 1560815,
@@ -33,7 +33,7 @@
     "homeTeam": "Aragua FC",
     "awayTeam": "Yaracuyanos FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.6"
+    "odds": "1.48"
   },
   {
     "id": 1560816,
@@ -41,8 +41,8 @@
     "matchTime": "23:00",
     "homeTeam": "Bolívar",
     "awayTeam": "Monagas SC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Monagas SC Win",
+    "odds": "2.08"
   },
   {
     "id": 1560817,
@@ -50,8 +50,8 @@
     "matchTime": "23:00",
     "homeTeam": "Caracas FC",
     "awayTeam": "Fundación Lara Deportiva",
-    "prediction": "Caracas FC Win",
-    "odds": "1.98"
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
   },
   {
     "id": 1560818,
@@ -59,8 +59,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico el Vigia FC",
     "awayTeam": "Club Atletico Barinas",
-    "prediction": "Atletico el Vigia FC Win",
-    "odds": "1.47"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
   },
   {
     "id": 1560819,
@@ -68,7 +68,7 @@
     "matchTime": "23:00",
     "homeTeam": "Marítimo",
     "awayTeam": "Atletico Avila FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "Atletico Avila FC Win",
+    "odds": "3.25"
   }
 ]
