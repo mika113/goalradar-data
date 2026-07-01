@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Snohomish United",
     "awayTeam": "Tacoma Stars",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Snohomish United Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "U. Catolica",
     "awayTeam": "Everton de Vina",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "U. Catolica Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,20 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Annapolis Blues Win",
-    "outcome": "Won"
+    "prediction": "Virginia Marauders Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1525419,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Reading United",
+    "awayTeam": "Eagle FC",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1525180,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Midwest United Win",
-    "outcome": "Lost"
+    "prediction": "Flint City Bucks Win",
+    "outcome": "Won"
   },
   {
     "id": 1525179,
@@ -92,8 +104,20 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Oakland County Win",
-    "outcome": "Lost"
+    "prediction": "Kalamazoo FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525178,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Erie Sports Center",
+    "awayTeam": "Akron City",
+    "homeScore": 1,
+    "awayScore": 6,
+    "status": "FT",
+    "prediction": "Akron City Win",
+    "outcome": "Won"
   },
   {
     "id": 1525176,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Western Mass Pioneers Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520742,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Botafogo SP",
-    "awayTeam": "CRB",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "CRB Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554028,
-    "league": "Paraibano U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Treze U20",
-    "awayTeam": "Queimadense U20",
-    "homeScore": 5,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Treze U20 Win",
     "outcome": "Won"
   }
 ]
