@@ -1,15 +1,27 @@
 [
   {
+    "id": 1525187,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "New England FC",
+    "awayTeam": "Vermont Green",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "New England FC Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1567308,
     "league": "World Cup",
     "matchDate": "FT",
     "homeTeam": "Belgium",
     "awayTeam": "Senegal",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Belgium Win",
-    "outcome": "Lost"
+    "prediction": "Senegal Win",
+    "outcome": "Won"
   },
   {
     "id": 1525188,
@@ -17,7 +29,7 @@
     "matchDate": "FT",
     "homeTeam": "Project 51O",
     "awayTeam": "San Francisco City",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Project 51O Win",
@@ -33,30 +45,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Atlético Ottawa Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543415,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Haukar",
-    "awayTeam": "Kári",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Haukar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544434,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Universidad de Concepcion",
-    "awayTeam": "Nublense",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Nublense Win",
     "outcome": "Won"
   }
 ]
