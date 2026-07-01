@@ -1,5 +1,17 @@
 [
   {
+    "id": 1543415,
+    "league": "2. Deild (Iceland)",
+    "matchDate": "FT",
+    "homeTeam": "Haukar",
+    "awayTeam": "Kári",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544434,
     "league": "Copa Chile",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1543335,
@@ -18,9 +30,9 @@
     "homeTeam": "Wales U19",
     "awayTeam": "Germany U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Germany U19 Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Sobradinho U20",
     "awayTeam": "Taguatinga U20",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Taguatinga U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547703,
@@ -66,7 +78,7 @@
     "homeTeam": "Jaraguá",
     "awayTeam": "Tubarao",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Tubarao Win",
     "outcome": "Won"
@@ -78,10 +90,10 @@
     "homeTeam": "Cuniburo",
     "awayTeam": "Gualaceo SC",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Gualaceo SC Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1526212,
@@ -90,7 +102,7 @@
     "homeTeam": "Santos U20",
     "awayTeam": "São Paulo U20",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "São Paulo U20 Win",
     "outcome": "Won"
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Juventude U20 Win",
-    "outcome": "Won"
+    "prediction": "Corinthians U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1526209,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Fortaleza U20",
     "awayTeam": "Vasco da Gama U20",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Fortaleza U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526208,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Flamengo U20",
-    "awayTeam": "Avaí U20",
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
