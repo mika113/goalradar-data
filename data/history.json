@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567504,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Tiszakecske FC",
+    "awayTeam": "Zbrojovka Brno",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1567503,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,7 +21,31 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1561064,
+    "league": "UEFA U19 Championship - Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Spain U19 W",
+    "awayTeam": "Iceland U19 W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Lost"
+  },
+  {
+    "id": 1554616,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Slavia Praha",
+    "awayTeam": "Vlašim",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1554612,
@@ -17,6 +53,30 @@
     "matchDate": "FT",
     "homeTeam": "Sigma Olomouc",
     "awayTeam": "Skalica",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530598,
+    "league": "1 Lyga (Lithuania)",
+    "matchDate": "FT",
+    "homeTeam": "FA Šiauliai II",
+    "awayTeam": "Tauras",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1515878,
+    "league": "Virsliga (Latvia)",
+    "matchDate": "FT",
+    "homeTeam": "Tukums",
+    "awayTeam": "Super Nova",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
