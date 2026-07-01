@@ -1,5 +1,29 @@
 [
   {
+    "id": 1567503,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Helmond Sport",
+    "awayTeam": "Panathinaikos",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1554612,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sigma Olomouc",
+    "awayTeam": "Skalica",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1562853,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,114 +33,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547892,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "GKS Katowice",
-    "awayTeam": "Miedz Legnica",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567502,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit",
-    "awayTeam": "Dinamo Makhachkala",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zenit Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560489,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Humenné",
-    "awayTeam": "Lokomotíva Košice",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Lokomotíva Košice Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560488,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Erzgebirge Aue",
-    "awayTeam": "Vysočina Jihlava",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Erzgebirge Aue Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554607,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "KAMAZ",
-    "awayTeam": "FK Neftekhimik",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1536839,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Krylya Sovetov II",
-    "awayTeam": "Chelyabinsk II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1536836,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Izhevsk",
-    "awayTeam": "Pobeda Nizhniy Novgorod",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Pobeda Nizhniy Novgorod Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562849,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Epitsentr Dunayivtsi",
-    "awayTeam": "Ahrobiznes Volochysk",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Epitsentr Dunayivtsi Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551289,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Guairena FC",
-    "awayTeam": "Deportivo Santani",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Deportivo Santani Win",
     "outcome": "Won"
   }
 ]
