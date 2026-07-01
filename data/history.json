@@ -1,15 +1,27 @@
 [
   {
+    "id": 1525175,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Snohomish United",
+    "awayTeam": "Tacoma Stars",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544431,
     "league": "Copa Chile",
     "matchDate": "FT",
     "homeTeam": "U. Catolica",
     "awayTeam": "Everton de Vina",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1525183,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Sunflower State",
     "awayTeam": "Des Moines Menace",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Sunflower State Win",
     "outcome": "Won"
   },
   {
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Volta Redonda",
     "awayTeam": "Amazonas",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Volta Redonda Win",
@@ -41,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Botafogo PB",
     "awayTeam": "Brusque",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Botafogo PB Win",
@@ -54,10 +66,10 @@
     "homeTeam": "Virginia Marauders",
     "awayTeam": "Annapolis Blues",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Annapolis Blues Win",
+    "outcome": "Won"
   },
   {
     "id": 1525180,
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Flint City Bucks Win",
-    "outcome": "Won"
+    "prediction": "Midwest United Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525179,
@@ -80,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kalamazoo FC Win",
-    "outcome": "Won"
+    "prediction": "Oakland County Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525176,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Treze U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526872,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Caxias",
-    "awayTeam": "Anápolis",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
