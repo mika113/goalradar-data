@@ -1,15 +1,27 @@
 [
   {
+    "id": 1525184,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Ventura County Fusion",
+    "awayTeam": "Tucson",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ventura County Fusion Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1567306,
     "league": "World Cup",
     "matchDate": "FT",
     "homeTeam": "Mexico",
     "awayTeam": "Ecuador",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Ecuador Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525175,
@@ -17,8 +29,8 @@
     "matchDate": "FT",
     "homeTeam": "Snohomish United",
     "awayTeam": "Tacoma Stars",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Snohomish United Win",
     "outcome": "Won"
@@ -44,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sunflower State Win",
-    "outcome": "Won"
+    "prediction": "Des Moines Menace Win",
+    "outcome": "Lost"
   },
   {
     "id": 1526873,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Virginia Marauders Win",
-    "outcome": "Lost"
+    "prediction": "Annapolis Blues Win",
+    "outcome": "Won"
   },
   {
     "id": 1525419,
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Kalamazoo FC Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1525178,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Erie Sports Center",
-    "awayTeam": "Akron City",
-    "homeScore": 1,
-    "awayScore": 6,
-    "status": "FT",
-    "prediction": "Erie Sports Center Win",
-    "outcome": "Lost"
   }
 ]
