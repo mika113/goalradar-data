@@ -1,5 +1,17 @@
 [
   {
+    "id": 1544436,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Huachipato",
+    "awayTeam": "Concepción",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526561,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
@@ -44,8 +56,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Spain Win",
-    "outcome": "Won"
+    "prediction": "Austria Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548745,
@@ -68,8 +80,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sao Luis Win",
-    "outcome": "Won"
+    "prediction": "Americano Bacabal Win",
+    "outcome": "Lost"
   },
   {
     "id": 1550503,
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567788,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Raja Casablanca",
-    "awayTeam": "Hassania Agadir",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Raja Casablanca Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
