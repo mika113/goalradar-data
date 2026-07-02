@@ -1,5 +1,41 @@
 [
   {
+    "id": 1567515,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "NK Varazdin",
+    "awayTeam": "FC Voluntari",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519587,
+    "league": "Esiliiga A (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tartu Welco",
+    "awayTeam": "Viimsi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1495883,
+    "league": "1. Division (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Lyn",
+    "awayTeam": "Asane",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1541516,
     "league": "Kakkonen - Lohko B (Finland)",
     "matchDate": "FT",
@@ -21,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567511,
@@ -80,8 +116,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Niroye Zamini Win",
-    "outcome": "Lost"
+    "prediction": "Pars Jonoubi JAM Win",
+    "outcome": "Won"
   },
   {
     "id": 1530597,
