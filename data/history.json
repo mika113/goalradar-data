@@ -1,15 +1,27 @@
 [
   {
-    "id": 1567515,
-    "league": "Friendlies Clubs (World)",
+    "id": 1525913,
+    "league": "Premier League (Belarus)",
     "matchDate": "FT",
-    "homeTeam": "NK Varazdin",
-    "awayTeam": "FC Voluntari",
+    "homeTeam": "FC Minsk",
+    "awayTeam": "Dinamo Minsk",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1567515,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "NK Varazdin",
+    "awayTeam": "FC Voluntari",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "FC Voluntari Win",
+    "outcome": "Lost"
   },
   {
     "id": 1567514,
@@ -18,10 +30,10 @@
     "homeTeam": "Dekani",
     "awayTeam": "Arges Pitesti",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Arges Pitesti Win",
-    "outcome": "Won"
+    "prediction": "Dekani Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560495,
@@ -33,114 +45,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541630,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "PPJ",
-    "awayTeam": "Kiffen",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519587,
-    "league": "Esiliiga A (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Tartu Welco",
-    "awayTeam": "Viimsi",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Tartu Welco Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517202,
-    "league": "Ykkönen (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "FC jazz",
-    "awayTeam": "KPV-j",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513579,
-    "league": "Meistriliiga (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Kuressaare",
-    "awayTeam": "Flora Tallinn",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Flora Tallinn Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1495883,
-    "league": "1. Division (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Lyn",
-    "awayTeam": "Asane",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Lyn Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541516,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "EBK",
-    "awayTeam": "ÅIFK",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "ÅIFK Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567513,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dynamo Kyiv",
-    "awayTeam": "Rapid",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567511,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Polessya",
-    "awayTeam": "Sabah FA",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Polessya Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567510,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Chojniczanka Chojnice",
-    "awayTeam": "Petrolul Ploiesti",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Petrolul Ploiesti Win",
     "outcome": "Won"
   }
 ]
