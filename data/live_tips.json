@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548744,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Spartak Moscow",
-    "awayTeam": "Spartak Kostroma",
-    "prediction": "Double Chance X2",
-    "odds": "1.31"
-  },
-  {
     "id": 1530595,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "18:00",
     "homeTeam": "BFA",
     "awayTeam": "Ekranas",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "BFA Win",
+    "odds": "1.74"
   },
   {
     "id": 1530597,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Žalgiris II",
     "awayTeam": "Hegelmann II",
-    "prediction": "Žalgiris II Win",
-    "odds": "1.54"
+    "prediction": "Double Chance X2",
+    "odds": "1.47"
   },
   {
     "id": 1547895,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "1. FC Nürnberg",
     "awayTeam": "Legia Warszawa",
-    "prediction": "1. FC Nürnberg Win",
-    "odds": "1.49"
+    "prediction": "Legia Warszawa Win",
+    "odds": "3.21"
   },
   {
     "id": 1554069,
@@ -41,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Niroye Zamini",
     "awayTeam": "Pars Jonoubi JAM",
-    "prediction": "Niroye Zamini Win",
-    "odds": "1.87"
+    "prediction": "Pars Jonoubi JAM Win",
+    "odds": "2.58"
   },
   {
     "id": 1554070,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Saipa",
     "awayTeam": "Shahrdari Noshahr",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "prediction": "Saipa Win",
+    "odds": "1.77"
   },
   {
     "id": 1554630,
@@ -59,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Artis",
-    "prediction": "Artis Win",
-    "odds": "1.63"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
   },
   {
     "id": 1567510,
@@ -68,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Chojniczanka Chojnice",
     "awayTeam": "Petrolul Ploiesti",
-    "prediction": "Petrolul Ploiesti Win",
-    "odds": "2.53"
+    "prediction": "Chojniczanka Chojnice Win",
+    "odds": "1.81"
   },
   {
     "id": 1567512,
@@ -77,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Beşiktaş",
     "awayTeam": "Gyirmot SE",
-    "prediction": "Beşiktaş Win",
-    "odds": "1.42"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1567513,
@@ -86,7 +77,16 @@
     "matchTime": "18:00",
     "homeTeam": "Dynamo Kyiv",
     "awayTeam": "Rapid",
-    "prediction": "Double Chance X2",
-    "odds": "1.6"
+    "prediction": "Dynamo Kyiv Win",
+    "odds": "1.59"
+  },
+  {
+    "id": 1567514,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Dekani",
+    "awayTeam": "Arges Pitesti",
+    "prediction": "Dekani Win",
+    "odds": "1.63"
   }
 ]
