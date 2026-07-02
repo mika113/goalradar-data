@@ -1,30 +1,12 @@
 [
   {
-    "id": 1567787,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Kawkab Marrakech",
-    "awayTeam": "Maghreb Fès",
-    "prediction": "Kawkab Marrakech Win",
-    "odds": "1.5"
-  },
-  {
-    "id": 1567788,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "20:00",
-    "homeTeam": "Raja Casablanca",
-    "awayTeam": "Hassania Agadir",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
-  },
-  {
     "id": 1567789,
     "league": "Botola Pro (Morocco)",
     "matchTime": "20:00",
     "homeTeam": "CR Khemis Zemamra",
     "awayTeam": "FUS Rabat",
-    "prediction": "CR Khemis Zemamra Win",
-    "odds": "1.65"
+    "prediction": "FUS Rabat Win",
+    "odds": "1.97"
   },
   {
     "id": 1567790,
@@ -33,7 +15,7 @@
     "homeTeam": "UTS Rabat",
     "awayTeam": "Ittihad Tanger",
     "prediction": "UTS Rabat Win",
-    "odds": "1.48"
+    "odds": "1.31"
   },
   {
     "id": 1567791,
@@ -41,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Yacoub El Mansour",
     "awayTeam": "Difaa EL Jadida",
-    "prediction": "Difaa EL Jadida Win",
-    "odds": "2.51"
+    "prediction": "Yacoub El Mansour Win",
+    "odds": "1.41"
   },
   {
     "id": 1551263,
@@ -50,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Tallinna Wolves",
     "awayTeam": "JK Tabasalu",
-    "prediction": "Tallinna Wolves Win",
-    "odds": "1.7"
+    "prediction": "Double Chance 1X",
+    "odds": "1.26"
   },
   {
     "id": 1550503,
@@ -60,7 +42,7 @@
     "homeTeam": "Cove Rangers",
     "awayTeam": "Turriff United",
     "prediction": "Cove Rangers Win",
-    "odds": "1.73"
+    "odds": "1.38"
   },
   {
     "id": 1544797,
@@ -68,8 +50,8 @@
     "matchTime": "21:30",
     "homeTeam": "Sao Luis",
     "awayTeam": "Americano Bacabal",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Americano Bacabal Win",
+    "odds": "2.48"
   },
   {
     "id": 1548745,
@@ -77,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Dundee II",
     "awayTeam": "Peterhead",
-    "prediction": "Double Chance X2",
-    "odds": "1.21"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1567311,
@@ -86,8 +68,8 @@
     "matchTime": "22:00",
     "homeTeam": "Spain",
     "awayTeam": "Austria",
-    "prediction": "Spain Win & Over 1.5",
-    "odds": "2.25"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1508796,
@@ -95,8 +77,8 @@
     "matchTime": "22:15",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "KA Akureyri",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Vikingur Reykjavik Win",
+    "odds": "1.41"
   },
   {
     "id": 1525185,
@@ -104,7 +86,25 @@
     "matchTime": "23:00",
     "homeTeam": "Birmingham Legion II",
     "awayTeam": "Columbus United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "Birmingham Legion II Win & Over 1.5",
+    "odds": "2.14"
+  },
+  {
+    "id": 1526559,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Atletico FC",
+    "awayTeam": "El Nacional",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
+  },
+  {
+    "id": 1526561,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Cumbayá",
+    "awayTeam": "22 de Julio",
+    "prediction": "Both Teams To Score",
+    "odds": "2.08"
   }
 ]
