@@ -1,5 +1,17 @@
 [
   {
+    "id": 1550502,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Universitatea Cluj",
+    "awayTeam": "Vojvodina",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Vojvodina Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554629,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Alta Win",
-    "outcome": "Lost"
+    "prediction": "Union Omaha Win",
+    "outcome": "Won"
   },
   {
     "id": 1525201,
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Universidad de Chile Win",
-    "outcome": "Lost"
+    "prediction": "Union La Calera Win",
+    "outcome": "Won"
   },
   {
     "id": 1525215,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Sueno Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525208,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Montgomery United",
-    "awayTeam": "Dothan United",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Dothan United Win",
     "outcome": "Won"
   }
 ]
