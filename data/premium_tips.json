@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525220,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Lonestar",
-    "awayTeam": "Laredo Heat",
-    "prediction": "Lonestar Win",
-    "odds": "1.87"
-  },
-  {
     "id": 1525224,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "FC Motown II",
     "awayTeam": "Morris Elite",
-    "prediction": "Morris Elite Win",
-    "odds": "2.6"
+    "prediction": "FC Motown II Win",
+    "odds": "1.35"
   },
   {
     "id": 1526563,
@@ -23,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Santo Domingo",
     "awayTeam": "Ind. Juniors",
-    "prediction": "Santo Domingo Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   },
   {
     "id": 1525223,
@@ -33,7 +24,7 @@
     "homeTeam": "Peoria",
     "awayTeam": "St. Louis Ambush",
     "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "odds": "1.89"
   },
   {
     "id": 1544437,
@@ -41,8 +32,8 @@
     "matchTime": "03:30",
     "homeTeam": "O'Higgins",
     "awayTeam": "Colo Colo",
-    "prediction": "Double Chance X2",
-    "odds": "1.68"
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   },
   {
     "id": 1493884,
@@ -50,8 +41,8 @@
     "matchTime": "04:30",
     "homeTeam": "Boise",
     "awayTeam": "One Knoxville",
-    "prediction": "Boise Win",
-    "odds": "1.96"
+    "prediction": "One Knoxville Win",
+    "odds": "2.67"
   },
   {
     "id": 1525221,
@@ -59,8 +50,8 @@
     "matchTime": "05:00",
     "homeTeam": "Redlands",
     "awayTeam": "Capo",
-    "prediction": "Redlands Win",
-    "odds": "1.44"
+    "prediction": "Capo Win",
+    "odds": "2.28"
   },
   {
     "id": 1567312,
@@ -69,7 +60,7 @@
     "homeTeam": "Switzerland",
     "awayTeam": "Algeria",
     "prediction": "Algeria Win",
-    "odds": "1.95"
+    "odds": "3.02"
   },
   {
     "id": 1554633,
@@ -78,7 +69,7 @@
     "homeTeam": "FC BW Linz",
     "awayTeam": "Artis",
     "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "odds": "1.54"
   },
   {
     "id": 1550504,
@@ -87,7 +78,7 @@
     "homeTeam": "AS Trencin",
     "awayTeam": "Zlin",
     "prediction": "AS Trencin Win",
-    "odds": "1.51"
+    "odds": "1.86"
   },
   {
     "id": 1550508,
@@ -95,8 +86,8 @@
     "matchTime": "12:00",
     "homeTeam": "Universitatea Cluj",
     "awayTeam": "Nyiregyhaza",
-    "prediction": "Nyiregyhaza Win",
-    "odds": "2.1"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1554634,
@@ -104,7 +95,16 @@
     "matchTime": "12:00",
     "homeTeam": "Arka Gdynia",
     "awayTeam": "Petrolul Ploiesti",
-    "prediction": "Arka Gdynia Win",
-    "odds": "1.52"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
+  },
+  {
+    "id": 1560497,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Schwarz-Weiß Bregenz",
+    "awayTeam": "Brühl",
+    "prediction": "Brühl Win",
+    "odds": "1.91"
   }
 ]
