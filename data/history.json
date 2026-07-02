@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1534784,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Tobol 2",
+    "awayTeam": "Aktobe Jas",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Tobol 2 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1508075,
     "league": "Premier League (Lebanon)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1508074,
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Transport United",
     "awayTeam": "Drukpa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Transport United Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1541121,
@@ -90,10 +102,10 @@
     "homeTeam": "Astana II",
     "awayTeam": "Kaspij Aktau 2",
     "homeScore": 6,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Astana II Win",
-    "outcome": "Won"
+    "prediction": "Kaspij Aktau 2 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534779,
@@ -101,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Akademiya Ontustik",
     "awayTeam": "Shakhter Karagandy",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Akademiya Ontustik Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1550502,
@@ -127,18 +139,6 @@
     "awayTeam": "Yarud Mariupol'",
     "homeScore": 1,
     "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525212,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "West Seattle Junction",
-    "awayTeam": "Bigfoot",
-    "homeScore": 3,
-    "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
