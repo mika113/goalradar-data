@@ -72,6 +72,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1525189,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Marin",
+    "awayTeam": "Almaden",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Almaden Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1562586,
     "league": "World Cup",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Bosnia & Herzegovina Win",
-    "outcome": "Lost"
+    "prediction": "USA Win",
+    "outcome": "Won"
   },
   {
     "id": 1525210,
@@ -129,18 +141,6 @@
     "awayScore": 5,
     "status": "FT",
     "prediction": "AHFC Royals Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524644,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Santafé Wanderers",
-    "awayTeam": "Springfield",
-    "homeScore": 4,
-    "awayScore": 5,
-    "status": "FT",
-    "prediction": "Springfield Win",
     "outcome": "Won"
   }
 ]
