@@ -18,10 +18,10 @@
     "homeTeam": "Tallinna Wolves",
     "awayTeam": "JK Tabasalu",
     "homeScore": 0,
-    "awayScore": 5,
+    "awayScore": 8,
     "status": "FT",
-    "prediction": "Tallinna Wolves Win",
-    "outcome": "Lost"
+    "prediction": "JK Tabasalu Win",
+    "outcome": "Won"
   },
   {
     "id": 1567791,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "UTS Rabat",
     "awayTeam": "Ittihad Tanger",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "UTS Rabat Win",
     "outcome": "Won"
   },
   {
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Raja Casablanca",
     "awayTeam": "Hassania Agadir",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Raja Casablanca Win",
+    "outcome": "Won"
   },
   {
     "id": 1567787,
@@ -101,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "CODM Meknès",
     "awayTeam": "FAR Rabat",
-    "homeScore": 2,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "CODM Meknès Win",
     "outcome": "Won"
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Renaissance Berkane",
     "awayTeam": "Wydad AC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Renaissance Berkane Win",
