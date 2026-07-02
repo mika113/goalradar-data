@@ -1,12 +1,24 @@
 [
   {
+    "id": 1554629,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Karpaty",
+    "awayTeam": "Yarud Mariupol'",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1525212,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "West Seattle Junction",
     "awayTeam": "Bigfoot",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Union Omaha",
     "awayTeam": "Alta",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Alta Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525201,
@@ -30,10 +42,10 @@
     "homeTeam": "Davis Legacy",
     "awayTeam": "Academica",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Academica Win",
-    "outcome": "Won"
+    "prediction": "Davis Legacy Win",
+    "outcome": "Lost"
   },
   {
     "id": 1493882,
@@ -45,6 +57,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Forward Madison Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548743,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "New Mexico United",
+    "awayTeam": "Atlante FC",
+    "homeScore": 3,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -116,31 +140,7 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Montgomery United Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1525203,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Hattiesburg",
-    "awayTeam": "Louisiana Krewe",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525202,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "GFI",
-    "awayTeam": "AHFC Royals",
-    "homeScore": 1,
-    "awayScore": 5,
-    "status": "FT",
-    "prediction": "AHFC Royals Win",
+    "prediction": "Dothan United Win",
     "outcome": "Won"
   }
 ]
