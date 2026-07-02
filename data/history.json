@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1567514,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Dekani",
+    "awayTeam": "Arges Pitesti",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Arges Pitesti Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1560495,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Tartu Welco",
     "awayTeam": "Viimsi",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tartu Welco Win",
     "outcome": "Won"
   },
   {
@@ -60,15 +72,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1513579,
+    "league": "Meistriliiga (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Kuressaare",
+    "awayTeam": "Flora Tallinn",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Flora Tallinn Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1495883,
     "league": "1. Division (Norway)",
     "matchDate": "FT",
     "homeTeam": "Lyn",
     "awayTeam": "Asane",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lyn Win",
     "outcome": "Won"
   },
   {
@@ -77,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "EBK",
     "awayTeam": "ÅIFK",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
     "prediction": "ÅIFK Win",
@@ -89,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Dynamo Kyiv",
     "awayTeam": "Rapid",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -101,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Polessya",
     "awayTeam": "Sabah FA",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Polessya Win",
     "outcome": "Won"
@@ -116,31 +140,7 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Chojniczanka Chojnice Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1554630,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Wieczysta Kraków",
-    "awayTeam": "Artis",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Artis Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554070,
-    "league": "Azadegan League (Iran)",
-    "matchDate": "FT",
-    "homeTeam": "Saipa",
-    "awayTeam": "Shahrdari Noshahr",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Petrolul Ploiesti Win",
     "outcome": "Won"
   }
 ]
