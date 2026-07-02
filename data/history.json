@@ -1,12 +1,36 @@
 [
   {
+    "id": 1525212,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "West Seattle Junction",
+    "awayTeam": "Bigfoot",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493883,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Union Omaha",
+    "awayTeam": "Alta",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1525201,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
     "homeTeam": "Davis Legacy",
     "awayTeam": "Academica",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Academica Win",
     "outcome": "Won"
@@ -18,9 +42,9 @@
     "homeTeam": "Spokane Velocity",
     "awayTeam": "Forward Madison",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Forward Madison Win",
     "outcome": "Won"
   },
   {
@@ -32,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Universidad de Chile Win",
-    "outcome": "Lost"
+    "prediction": "Union La Calera Win",
+    "outcome": "Won"
   },
   {
     "id": 1525215,
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Denton Diablos",
     "awayTeam": "West Texas",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Denton Diablos Win",
     "outcome": "Won"
   },
   {
@@ -72,27 +96,51 @@
     "outcome": "Won"
   },
   {
-    "id": 1525213,
+    "id": 1525208,
     "league": "USL League Two (USA)",
     "matchDate": "FT",
-    "homeTeam": "Boston City",
-    "awayTeam": "Seacoast United Phantoms",
-    "homeScore": 2,
-    "awayScore": 5,
+    "homeTeam": "Montgomery United",
+    "awayTeam": "Dothan United",
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Seacoast United Phantoms Win",
+    "prediction": "Montgomery United Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1525203,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Hattiesburg",
+    "awayTeam": "Louisiana Krewe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
-    "id": 1567848,
-    "league": "Brasileiro U20 B (Brazil)",
+    "id": 1525202,
+    "league": "USL League Two (USA)",
     "matchDate": "FT",
-    "homeTeam": "Goiás U20",
-    "awayTeam": "CRB U20",
+    "homeTeam": "GFI",
+    "awayTeam": "AHFC Royals",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "AHFC Royals Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1524644,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Santafé Wanderers",
+    "awayTeam": "Springfield",
+    "homeScore": 4,
+    "awayScore": 5,
+    "status": "FT",
+    "prediction": "Springfield Win",
     "outcome": "Won"
   }
 ]
