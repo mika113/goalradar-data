@@ -1,30 +1,12 @@
 [
   {
-    "id": 1544797,
-    "league": "Maranhense - 2 (Brazil)",
-    "matchTime": "21:30",
-    "homeTeam": "Sao Luis",
-    "awayTeam": "Americano Bacabal",
-    "prediction": "Sao Luis Win",
-    "odds": "1.45"
-  },
-  {
-    "id": 1548745,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Dundee II",
-    "awayTeam": "Peterhead",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
-  },
-  {
     "id": 1567311,
     "league": "World Cup",
     "matchTime": "22:00",
     "homeTeam": "Spain",
     "awayTeam": "Austria",
-    "prediction": "Spain Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   },
   {
     "id": 1508796,
@@ -32,7 +14,7 @@
     "matchTime": "22:15",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "KA Akureyri",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vikingur Reykjavik Win",
     "odds": "1.34"
   },
   {
@@ -41,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Birmingham Legion II",
     "awayTeam": "Columbus United",
-    "prediction": "Birmingham Legion II Win & Over 1.5",
-    "odds": "1.81"
+    "prediction": "Columbus United Win",
+    "odds": "2.21"
   },
   {
     "id": 1526559,
@@ -50,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Atletico FC",
     "awayTeam": "El Nacional",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.08"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1526561,
@@ -60,7 +42,7 @@
     "homeTeam": "Cumbayá",
     "awayTeam": "22 de Julio",
     "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "odds": "1.98"
   },
   {
     "id": 1544436,
@@ -68,7 +50,25 @@
     "matchTime": "01:00",
     "homeTeam": "Huachipato",
     "awayTeam": "Concepción",
-    "prediction": "Concepción Win",
-    "odds": "3.39"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
+  },
+  {
+    "id": 1520753,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Cuiaba",
+    "awayTeam": "America Mineiro",
+    "prediction": "Cuiaba Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1525217,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Hudson Valley Hammers",
+    "awayTeam": "Manhattan",
+    "prediction": "Hudson Valley Hammers Win & Over 1.5",
+    "odds": "1.99"
   }
 ]
