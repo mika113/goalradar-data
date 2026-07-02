@@ -1,39 +1,12 @@
 [
   {
-    "id": 1534784,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "16:00",
-    "homeTeam": "Tobol 2",
-    "awayTeam": "Aktobe Jas",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
-  },
-  {
-    "id": 1543336,
-    "league": "UEFA U19 Championship (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Croatia U19",
-    "awayTeam": "Italy U19",
-    "prediction": "Double Chance X2",
-    "odds": "1.42"
-  },
-  {
-    "id": 1534783,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Khan Tengri",
-    "awayTeam": "Ekibastuz",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
-  },
-  {
     "id": 1548744,
     "league": "Friendlies Clubs (World)",
     "matchTime": "17:00",
     "homeTeam": "Spartak Moscow",
     "awayTeam": "Spartak Kostroma",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Spartak Kostroma Win",
+    "odds": "2.76"
   },
   {
     "id": 1554628,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Rodina Moskva",
     "awayTeam": "Akron",
-    "prediction": "Rodina Moskva Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1530595,
@@ -50,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "BFA",
     "awayTeam": "Ekranas",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   },
   {
     "id": 1530597,
@@ -59,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Žalgiris II",
     "awayTeam": "Hegelmann II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "prediction": "Žalgiris II Win",
+    "odds": "1.8"
   },
   {
     "id": 1547895,
@@ -69,6 +42,33 @@
     "homeTeam": "1. FC Nürnberg",
     "awayTeam": "Legia Warszawa",
     "prediction": "1. FC Nürnberg Win",
-    "odds": "1.57"
+    "odds": "1.35"
+  },
+  {
+    "id": 1554069,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "18:00",
+    "homeTeam": "Niroye Zamini",
+    "awayTeam": "Pars Jonoubi JAM",
+    "prediction": "Pars Jonoubi JAM Win",
+    "odds": "2.44"
+  },
+  {
+    "id": 1554070,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "18:00",
+    "homeTeam": "Saipa",
+    "awayTeam": "Shahrdari Noshahr",
+    "prediction": "Saipa Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1554630,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Wieczysta Kraków",
+    "awayTeam": "Artis",
+    "prediction": "Wieczysta Kraków Win",
+    "odds": "1.6"
   }
 ]
