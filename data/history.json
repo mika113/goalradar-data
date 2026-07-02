@@ -1,15 +1,27 @@
 [
   {
+    "id": 1525213,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Boston City",
+    "awayTeam": "Seacoast United Phantoms",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Seacoast United Phantoms Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1567848,
     "league": "Brasileiro U20 B (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Goiás U20",
     "awayTeam": "CRB U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Goiás U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1567847,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1547708,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1547706,
@@ -101,46 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Minneapolis City",
     "awayTeam": "St. Croix",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Minneapolis City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547705,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Mamoré",
-    "awayTeam": "Guarani MG",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547704,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Caldense",
-    "awayTeam": "CAP",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544433,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Deportes Limache",
-    "awayTeam": "Coquimbo Unido",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Coquimbo Unido Win",
     "outcome": "Won"
   }
 ]
