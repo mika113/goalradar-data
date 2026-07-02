@@ -1,5 +1,41 @@
 [
   {
+    "id": 1550503,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cove Rangers",
+    "awayTeam": "Turriff United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551263,
+    "league": "Cup (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tallinna Wolves",
+    "awayTeam": "JK Tabasalu",
+    "homeScore": 0,
+    "awayScore": 5,
+    "status": "FT",
+    "prediction": "Tallinna Wolves Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567791,
+    "league": "Botola Pro (Morocco)",
+    "matchDate": "FT",
+    "homeTeam": "Yacoub El Mansour",
+    "awayTeam": "Difaa EL Jadida",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1567790,
     "league": "Botola Pro (Morocco)",
     "matchDate": "FT",
@@ -17,6 +53,30 @@
     "matchDate": "FT",
     "homeTeam": "CR Khemis Zemamra",
     "awayTeam": "FUS Rabat",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567788,
+    "league": "Botola Pro (Morocco)",
+    "matchDate": "FT",
+    "homeTeam": "Raja Casablanca",
+    "awayTeam": "Hassania Agadir",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567787,
+    "league": "Botola Pro (Morocco)",
+    "matchDate": "FT",
+    "homeTeam": "Kawkab Marrakech",
+    "awayTeam": "Maghreb Fès",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -29,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Olympique Dcheïra",
     "awayTeam": "Olympique Safi",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -41,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "CODM Meknès",
     "awayTeam": "FAR Rabat",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "CODM Meknès Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Renaissance Berkane",
     "awayTeam": "Wydad AC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Renaissance Berkane Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Serbia U19",
     "awayTeam": "Ukraine U19",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ukraine U19 Win",
     "outcome": "Won"
   },
   {
@@ -78,45 +138,9 @@
     "homeTeam": "FC Minsk",
     "awayTeam": "Dinamo Minsk",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567515,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "NK Varazdin",
-    "awayTeam": "FC Voluntari",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "NK Varazdin Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567514,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dekani",
-    "awayTeam": "Arges Pitesti",
-    "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Arges Pitesti Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560495,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Koper",
-    "awayTeam": "Corvinul Hunedoara",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dinamo Minsk Win",
     "outcome": "Won"
   }
 ]
