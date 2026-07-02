@@ -1,75 +1,12 @@
 [
   {
-    "id": 1525205,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Lehigh Valley United",
-    "awayTeam": "Ocean City Nor'easters",
-    "prediction": "Ocean City Nor'easters Win",
-    "odds": "1.69"
-  },
-  {
-    "id": 1525208,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Montgomery United",
-    "awayTeam": "Dothan United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
-    "id": 1525210,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Sueno",
-    "awayTeam": "RKC",
-    "prediction": "Sueno Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1562586,
-    "league": "World Cup",
-    "matchTime": "03:00",
-    "homeTeam": "USA",
-    "awayTeam": "Bosnia & Herzegovina",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1524644,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Santafé Wanderers",
-    "awayTeam": "Springfield",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
-  },
-  {
-    "id": 1525189,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Marin",
-    "awayTeam": "Almaden",
-    "prediction": "Marin Win",
-    "odds": "1.45"
-  },
-  {
-    "id": 1525215,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Denton Diablos",
-    "awayTeam": "West Texas",
-    "prediction": "Denton Diablos Win",
-    "odds": "1.97"
-  },
-  {
     "id": 1544435,
     "league": "Copa Chile",
     "matchTime": "03:30",
     "homeTeam": "Universidad de Chile",
     "awayTeam": "Union La Calera",
-    "prediction": "Double Chance X2",
-    "odds": "1.21"
+    "prediction": "Universidad de Chile Win",
+    "odds": "1.79"
   },
   {
     "id": 1493882,
@@ -77,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Spokane Velocity",
     "awayTeam": "Forward Madison",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Forward Madison Win",
+    "odds": "2.44"
   },
   {
     "id": 1525199,
@@ -86,8 +23,8 @@
     "matchTime": "04:00",
     "homeTeam": "Albion Colorado",
     "awayTeam": "Unión Villa Krause",
-    "prediction": "Unión Villa Krause Win",
-    "odds": "2.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1548743,
@@ -96,7 +33,7 @@
     "homeTeam": "New Mexico United",
     "awayTeam": "Atlante FC",
     "prediction": "New Mexico United Win",
-    "odds": "1.71"
+    "odds": "1.61"
   },
   {
     "id": 1525201,
@@ -104,7 +41,70 @@
     "matchTime": "05:00",
     "homeTeam": "Davis Legacy",
     "awayTeam": "Academica",
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
+  },
+  {
+    "id": 1493883,
+    "league": "USL League One (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Union Omaha",
+    "awayTeam": "Alta",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
+  },
+  {
+    "id": 1525212,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "West Seattle Junction",
+    "awayTeam": "Bigfoot",
     "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "odds": "1.47"
+  },
+  {
+    "id": 1554629,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "10:00",
+    "homeTeam": "Karpaty",
+    "awayTeam": "Yarud Mariupol'",
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
+  },
+  {
+    "id": 1567509,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Aluminij",
+    "awayTeam": "FK Partizan",
+    "prediction": "FK Partizan Win",
+    "odds": "2.63"
+  },
+  {
+    "id": 1550502,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Universitatea Cluj",
+    "awayTeam": "Vojvodina",
+    "prediction": "Universitatea Cluj Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1534779,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "15:00",
+    "homeTeam": "Akademiya Ontustik",
+    "awayTeam": "Shakhter Karagandy",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.68"
+  },
+  {
+    "id": 1534781,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "15:00",
+    "homeTeam": "Astana II",
+    "awayTeam": "Kaspij Aktau 2",
+    "prediction": "Astana II Win",
+    "odds": "1.87"
   }
 ]
