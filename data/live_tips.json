@@ -1,48 +1,12 @@
 [
   {
-    "id": 1567514,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Dekani",
-    "awayTeam": "Arges Pitesti",
-    "prediction": "Dekani Win",
-    "odds": "1.3"
-  },
-  {
-    "id": 1567515,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "NK Varazdin",
-    "awayTeam": "FC Voluntari",
-    "prediction": "NK Varazdin Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1560494,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Brinje-Grosuplje",
-    "awayTeam": "Dinamo Zagreb",
-    "prediction": "Brinje-Grosuplje Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1567516,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Tus Dassendorf",
-    "awayTeam": "St. Pauli II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
-  },
-  {
     "id": 1554631,
     "league": "Friendlies Clubs (World)",
     "matchTime": "19:45",
     "homeTeam": "Erlangen",
     "awayTeam": "Ansbach",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
+    "prediction": "Ansbach Win",
+    "odds": "2.2"
   },
   {
     "id": 1508799,
@@ -50,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Thor Akureyri",
     "awayTeam": "KR Reykjavik",
-    "prediction": "KR Reykjavik Win",
-    "odds": "2.48"
+    "prediction": "Thor Akureyri Win",
+    "odds": "1.37"
   },
   {
     "id": 1543337,
@@ -59,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Serbia U19",
     "awayTeam": "Ukraine U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.97"
+    "prediction": "Serbia U19 Win",
+    "odds": "1.78"
   },
   {
     "id": 1554632,
@@ -68,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Peckeloh",
     "awayTeam": "Arminia Bielefeld",
-    "prediction": "Peckeloh Win & Over 1.5",
-    "odds": "1.98"
+    "prediction": "Peckeloh Win",
+    "odds": "1.83"
   },
   {
     "id": 1567784,
@@ -78,7 +42,7 @@
     "homeTeam": "Renaissance Berkane",
     "awayTeam": "Wydad AC",
     "prediction": "Renaissance Berkane Win",
-    "odds": "1.85"
+    "odds": "1.4"
   },
   {
     "id": 1567785,
@@ -86,7 +50,43 @@
     "matchTime": "20:00",
     "homeTeam": "CODM Meknès",
     "awayTeam": "FAR Rabat",
-    "prediction": "CODM Meknès Win",
-    "odds": "1.86"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
+  },
+  {
+    "id": 1567786,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Olympique Dcheïra",
+    "awayTeam": "Olympique Safi",
+    "prediction": "Olympique Dcheïra Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1567787,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Kawkab Marrakech",
+    "awayTeam": "Maghreb Fès",
+    "prediction": "Kawkab Marrakech Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1567788,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Raja Casablanca",
+    "awayTeam": "Hassania Agadir",
+    "prediction": "Double Chance 1X",
+    "odds": "1.48"
+  },
+  {
+    "id": 1567789,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "CR Khemis Zemamra",
+    "awayTeam": "FUS Rabat",
+    "prediction": "CR Khemis Zemamra Win",
+    "odds": "1.66"
   }
 ]
