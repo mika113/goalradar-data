@@ -1,5 +1,17 @@
 [
   {
+    "id": 1543336,
+    "league": "UEFA U19 Championship (World)",
+    "matchDate": "FT",
+    "homeTeam": "Croatia U19",
+    "awayTeam": "Italy U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1508074,
     "league": "Premier League (Lebanon)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1541124,
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1534781,
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1525212,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Union Omaha Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525201,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Davis Legacy",
-    "awayTeam": "Academica",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Academica Win",
     "outcome": "Won"
   }
 ]
