@@ -1,5 +1,29 @@
 [
   {
+    "id": 1525201,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Davis Legacy",
+    "awayTeam": "Academica",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Academica Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493882,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Spokane Velocity",
+    "awayTeam": "Forward Madison",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544435,
     "league": "Copa Chile",
     "matchDate": "FT",
@@ -8,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Union La Calera Win",
-    "outcome": "Won"
+    "prediction": "Universidad de Chile Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525215,
@@ -17,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Denton Diablos",
     "awayTeam": "West Texas",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "West Texas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -32,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "USA Win",
-    "outcome": "Won"
+    "prediction": "Bosnia & Herzegovina Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525210,
@@ -69,30 +93,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567847,
-    "league": "Brasileiro U20 B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ceará U20",
-    "awayTeam": "Atlético Mineiro U20",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Ceará U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561318,
-    "league": "Copa Espírito Santo (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Vitória ES",
-    "awayTeam": "Rio Branco-VN",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Rio Branco-VN Win",
     "outcome": "Won"
   }
 ]
