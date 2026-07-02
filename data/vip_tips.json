@@ -1,21 +1,12 @@
 [
   {
-    "id": 1567311,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "Spain",
-    "awayTeam": "Austria",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
-  },
-  {
     "id": 1508796,
     "league": "Úrvalsdeild (Iceland)",
     "matchTime": "22:15",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "KA Akureyri",
-    "prediction": "Vikingur Reykjavik Win",
-    "odds": "1.34"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1525185,
@@ -23,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Birmingham Legion II",
     "awayTeam": "Columbus United",
-    "prediction": "Columbus United Win",
-    "odds": "2.21"
+    "prediction": "Birmingham Legion II Win & Over 1.5",
+    "odds": "2.43"
   },
   {
     "id": 1526559,
@@ -32,8 +23,8 @@
     "matchTime": "23:30",
     "homeTeam": "Atletico FC",
     "awayTeam": "El Nacional",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Atletico FC Win",
+    "odds": "1.97"
   },
   {
     "id": 1526561,
@@ -41,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Cumbayá",
     "awayTeam": "22 de Julio",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
   },
   {
     "id": 1544436,
@@ -50,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Huachipato",
     "awayTeam": "Concepción",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   },
   {
     "id": 1520753,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Cuiaba",
     "awayTeam": "America Mineiro",
-    "prediction": "Cuiaba Win",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   },
   {
     "id": 1525217,
@@ -68,7 +59,16 @@
     "matchTime": "02:00",
     "homeTeam": "Hudson Valley Hammers",
     "awayTeam": "Manhattan",
-    "prediction": "Hudson Valley Hammers Win & Over 1.5",
-    "odds": "1.99"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
+  },
+  {
+    "id": 1525218,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Rochester",
+    "awayTeam": "Chicago Dutch Lions",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
