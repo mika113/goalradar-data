@@ -1,21 +1,12 @@
 [
   {
-    "id": 1530595,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "18:00",
-    "homeTeam": "BFA",
-    "awayTeam": "Ekranas",
-    "prediction": "BFA Win",
-    "odds": "1.74"
-  },
-  {
     "id": 1530597,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "18:00",
     "homeTeam": "Žalgiris II",
     "awayTeam": "Hegelmann II",
-    "prediction": "Double Chance X2",
-    "odds": "1.47"
+    "prediction": "Žalgiris II Win",
+    "odds": "1.86"
   },
   {
     "id": 1547895,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "1. FC Nürnberg",
     "awayTeam": "Legia Warszawa",
-    "prediction": "Legia Warszawa Win",
-    "odds": "3.21"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1554069,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Niroye Zamini",
     "awayTeam": "Pars Jonoubi JAM",
-    "prediction": "Pars Jonoubi JAM Win",
-    "odds": "2.58"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1554070,
@@ -42,7 +33,7 @@
     "homeTeam": "Saipa",
     "awayTeam": "Shahrdari Noshahr",
     "prediction": "Saipa Win",
-    "odds": "1.77"
+    "odds": "1.78"
   },
   {
     "id": 1554630,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Artis",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1567510,
@@ -60,7 +51,7 @@
     "homeTeam": "Chojniczanka Chojnice",
     "awayTeam": "Petrolul Ploiesti",
     "prediction": "Chojniczanka Chojnice Win",
-    "odds": "1.81"
+    "odds": "1.67"
   },
   {
     "id": 1567512,
@@ -68,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Beşiktaş",
     "awayTeam": "Gyirmot SE",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
   },
   {
     "id": 1567513,
@@ -77,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Dynamo Kyiv",
     "awayTeam": "Rapid",
-    "prediction": "Dynamo Kyiv Win",
-    "odds": "1.59"
+    "prediction": "Rapid Win",
+    "odds": "2.06"
   },
   {
     "id": 1567514,
@@ -86,7 +77,16 @@
     "matchTime": "18:00",
     "homeTeam": "Dekani",
     "awayTeam": "Arges Pitesti",
-    "prediction": "Dekani Win",
-    "odds": "1.63"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
+  },
+  {
+    "id": 1541516,
+    "league": "Kakkonen - Lohko B (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "EBK",
+    "awayTeam": "ÅIFK",
+    "prediction": "ÅIFK Win",
+    "odds": "3.1"
   }
 ]
