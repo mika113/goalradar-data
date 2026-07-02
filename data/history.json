@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1541121,
+    "league": "Premier League (Ethiopia)",
+    "matchDate": "FT",
+    "homeTeam": "Awassa Kenema",
+    "awayTeam": "Adama Kenema",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1534781,
     "league": "1. Division (Kazakhstan)",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Alta Win",
-    "outcome": "Lost"
+    "prediction": "Union Omaha Win",
+    "outcome": "Won"
   },
   {
     "id": 1525201,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Union La Calera Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525215,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Denton Diablos",
-    "awayTeam": "West Texas",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Denton Diablos Win",
     "outcome": "Won"
   }
 ]
