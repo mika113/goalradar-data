@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1508075,
+    "league": "Premier League (Lebanon)",
+    "matchDate": "FT",
+    "homeTeam": "Reyady Abaseya",
+    "awayTeam": "Racing",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1508074,
     "league": "Premier League (Lebanon)",
     "matchDate": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1541121,
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1534781,
@@ -92,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Shakhter Karagandy Win",
-    "outcome": "Won"
+    "prediction": "Akademiya Ontustik Win",
+    "outcome": "Lost"
   },
   {
     "id": 1550502,
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1525212,
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493883,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Union Omaha",
-    "awayTeam": "Alta",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Union Omaha Win",
     "outcome": "Won"
   }
 ]
