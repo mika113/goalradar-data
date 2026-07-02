@@ -1,14 +1,38 @@
 [
   {
+    "id": 1527624,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchDate": "FT",
+    "homeTeam": "Kara-Balta",
+    "awayTeam": "Dordoi Bishkek",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1534783,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Khan Tengri",
+    "awayTeam": "Ekibastuz",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Khan Tengri Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1527629,
     "league": "Premier League (Kyrgyzstan)",
     "matchDate": "FT",
     "homeTeam": "Bars",
     "awayTeam": "Asia Talas",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Asia Talas Win",
+    "prediction": "Bars Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Tobol 2",
     "awayTeam": "Aktobe Jas",
-    "homeScore": 4,
-    "awayScore": 3,
+    "homeScore": 5,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Aktobe Jas Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1508075,
@@ -57,90 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543590,
-    "league": "Premier League (Bhutan)",
-    "matchDate": "FT",
-    "homeTeam": "Transport United",
-    "awayTeam": "Drukpa",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Drukpa Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1541124,
-    "league": "Premier League (Ethiopia)",
-    "matchDate": "FT",
-    "homeTeam": "Suhul Shire",
-    "awayTeam": "Sheger Ketema",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541121,
-    "league": "Premier League (Ethiopia)",
-    "matchDate": "FT",
-    "homeTeam": "Awassa Kenema",
-    "awayTeam": "Adama Kenema",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Adama Kenema Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541118,
-    "league": "Premier League (Ethiopia)",
-    "matchDate": "FT",
-    "homeTeam": "Welwalo Adigrat Uni",
-    "awayTeam": "Kedus Giorgis",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534781,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Astana II",
-    "awayTeam": "Kaspij Aktau 2",
-    "homeScore": 6,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Astana II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534779,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Akademiya Ontustik",
-    "awayTeam": "Shakhter Karagandy",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Shakhter Karagandy Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550502,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Universitatea Cluj",
-    "awayTeam": "Vojvodina",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Vojvodina Win",
     "outcome": "Won"
   }
 ]
