@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1519588,
+    "league": "Esiliiga A (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Tallinna Kalev",
+    "awayTeam": "Maardu",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Maardu Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1560497,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "K. Lierse S.K. Win",
-    "outcome": "Lost"
+    "prediction": "Fortuna Sittard Win",
+    "outcome": "Won"
   },
   {
     "id": 1554654,
@@ -54,9 +66,9 @@
     "homeTeam": "Wildon",
     "awayTeam": "Voitsberg",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Voitsberg Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sirius Win",
-    "outcome": "Won"
+    "prediction": "Mjallby AIF Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554651,
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Germania Teveren Win",
-    "outcome": "Lost"
+    "prediction": "Alemannia Aachen Win",
+    "outcome": "Won"
   },
   {
     "id": 1554648,
@@ -113,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Deutschlandsberger SC",
     "awayTeam": "SV Kapfenberg",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 5,
     "status": "FT",
     "prediction": "SV Kapfenberg Win",
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547899,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Budissa Bautzen",
-    "awayTeam": "Dynamo Dresden",
-    "homeScore": 0,
-    "awayScore": 6,
-    "status": "FT",
-    "prediction": "Dynamo Dresden Win",
     "outcome": "Won"
   }
 ]
