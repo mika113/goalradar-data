@@ -1,14 +1,38 @@
 [
   {
+    "id": 1560502,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Radomlje",
+    "awayTeam": "HNK Rijeka",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554646,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "SKN ST. Polten",
+    "awayTeam": "Artis",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554635,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "CSKA Sofia",
     "awayTeam": "Marek",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "CSKA Sofia Win",
     "outcome": "Won"
   },
   {
@@ -29,6 +53,30 @@
     "matchDate": "FT",
     "homeTeam": "Riga",
     "awayTeam": "FS Jelgava",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1513580,
+    "league": "Meistriliiga (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Nõmme United",
+    "awayTeam": "Kalju Nomme",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1495886,
+    "league": "1. Division (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Raufoss",
+    "awayTeam": "Strommen",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
