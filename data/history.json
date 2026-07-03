@@ -5,10 +5,22 @@
     "matchDate": "FT",
     "homeTeam": "O'Higgins",
     "awayTeam": "Colo Colo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "O'Higgins Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525223,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Peoria",
+    "awayTeam": "St. Louis Ambush",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Peoria Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1493558,
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1525222,
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Portugal",
     "awayTeam": "Croatia",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Portugal Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +102,9 @@
     "homeTeam": "Cedar Stars Rush",
     "awayTeam": "Long Island Rough Riders",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Cedar Stars Rush Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -102,7 +114,7 @@
     "homeTeam": "Rochester",
     "awayTeam": "Chicago Dutch Lions",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Chicago Dutch Lions Win",
     "outcome": "Won"
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Cuiaba",
     "awayTeam": "America Mineiro",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cuiaba Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Concepción Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526561,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Cumbayá",
-    "awayTeam": "22 de Julio",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Cumbayá Win",
     "outcome": "Won"
   }
 ]
