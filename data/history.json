@@ -18,9 +18,9 @@
     "homeTeam": "Peoria",
     "awayTeam": "St. Louis Ambush",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Peoria Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -44,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FC Motown II Win",
-    "outcome": "Won"
+    "prediction": "Morris Elite Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520754,
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1493558,
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1525222,
