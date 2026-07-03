@@ -1,5 +1,29 @@
 [
   {
+    "id": 1528015,
+    "league": "Premier League (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "FC Astana",
+    "awayTeam": "Zhenys",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519085,
+    "league": "Youth Championship (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Zenit U19",
+    "awayTeam": "Dinamo Moskva U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1560504,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -18,9 +42,9 @@
     "homeTeam": "Brann",
     "awayTeam": "Kristiansund BK",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kristiansund BK Win",
     "outcome": "Won"
   },
   {
@@ -41,106 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Naftan",
     "awayTeam": "Dinamo Brest",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
     "prediction": "Dinamo Brest Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567321,
-    "league": "Cearense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Juazeiro EC U20",
-    "awayTeam": "Ceará U20",
-    "homeScore": 0,
-    "awayScore": 8,
-    "status": "FT",
-    "prediction": "Ceará U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508077,
-    "league": "Premier League (Lebanon)",
-    "matchDate": "FT",
-    "homeTeam": "Tadamon Sour",
-    "awayTeam": "Al Ansar",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Al Ansar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560501,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Motor Lublin",
-    "awayTeam": "Warta Poznań",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Motor Lublin Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550509,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Vitesse",
-    "awayTeam": "Roda",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534782,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Sport Academy Kairat",
-    "awayTeam": "Taraz",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sport Academy Kairat Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534780,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Arys",
-    "awayTeam": "Yelimay Semey 2",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Arys Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534356,
-    "league": "1. Division (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Minsk II",
-    "awayTeam": "Gomel II",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gomel II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523187,
-    "league": "Super League (China)",
-    "matchDate": "FT",
-    "homeTeam": "Yunnan Yukun",
-    "awayTeam": "Henan Jianye",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
