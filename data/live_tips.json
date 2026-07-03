@@ -1,30 +1,12 @@
 [
   {
-    "id": 1567521,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "05:00",
-    "homeTeam": "Correcaminos Uat",
-    "awayTeam": "Guadalajara Chivas",
-    "prediction": "Correcaminos Uat Win",
-    "odds": "1.32"
-  },
-  {
-    "id": 1533040,
-    "league": "Tasmania Southern Championship (Australia)",
-    "matchTime": "05:15",
-    "homeTeam": "Taroona",
-    "awayTeam": "Hobart Utd.",
-    "prediction": "Taroona Win",
-    "odds": "1.98"
-  },
-  {
     "id": 1533119,
     "league": "Tasmania Northern Championship (Australia)",
     "matchTime": "05:15",
     "homeTeam": "Launceston U21",
     "awayTeam": "Somerset",
-    "prediction": "Double Chance X2",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1567522,
@@ -33,7 +15,7 @@
     "homeTeam": "San Jose Earthquakes",
     "awayTeam": "Club Tijuana",
     "prediction": "San Jose Earthquakes Win",
-    "odds": "1.69"
+    "odds": "1.49"
   },
   {
     "id": 1549318,
@@ -41,8 +23,8 @@
     "matchTime": "06:00",
     "homeTeam": "UNSW U20",
     "awayTeam": "Sydney FC U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "UNSW U20 Win",
+    "odds": "1.43"
   },
   {
     "id": 1521970,
@@ -51,7 +33,7 @@
     "homeTeam": "Hume City",
     "awayTeam": "Dandenong City",
     "prediction": "Hume City Win",
-    "odds": "1.74"
+    "odds": "1.31"
   },
   {
     "id": 1533043,
@@ -59,8 +41,8 @@
     "matchTime": "07:15",
     "homeTeam": "Hobart City",
     "awayTeam": "University of Tasmania",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1524222,
@@ -68,8 +50,8 @@
     "matchTime": "07:30",
     "homeTeam": "Robina City",
     "awayTeam": "Broadbeach United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Robina City Win",
+    "odds": "1.55"
   },
   {
     "id": 1529264,
@@ -77,8 +59,8 @@
     "matchTime": "07:30",
     "homeTeam": "Devonport City",
     "awayTeam": "Riverside",
-    "prediction": "Riverside Win",
-    "odds": "2.57"
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
   },
   {
     "id": 1529265,
@@ -87,6 +69,24 @@
     "homeTeam": "Ulverstone",
     "awayTeam": "Kingborough Lions",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.44"
+  },
+  {
+    "id": 1533041,
+    "league": "Tasmania Southern Championship (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "New Town",
+    "awayTeam": "Olympia Warriors",
+    "prediction": "New Town Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1533042,
+    "league": "Tasmania Southern Championship (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "South East Utd. U21",
+    "awayTeam": "South Hobart II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.83"
   }
 ]
