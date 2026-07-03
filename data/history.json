@@ -1,14 +1,26 @@
 [
   {
+    "id": 1567321,
+    "league": "Cearense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Juazeiro EC U20",
+    "awayTeam": "Ceará U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1560501,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Motor Lublin",
     "awayTeam": "Warta Poznań",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Motor Lublin Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +30,10 @@
     "homeTeam": "Vitesse",
     "awayTeam": "Roda",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Vitesse Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534782,
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Sport Academy Kairat",
     "awayTeam": "Taraz",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sport Academy Kairat Win",
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Arys",
     "awayTeam": "Yelimay Semey 2",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Arys Win",
     "outcome": "Won"
   },
   {
@@ -54,10 +66,10 @@
     "homeTeam": "Minsk II",
     "awayTeam": "Gomel II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Minsk II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1523187,
@@ -101,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Aalborg",
     "awayTeam": "Viborg",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Aalborg Win",
+    "outcome": "Won"
   },
   {
     "id": 1527096,
@@ -114,7 +126,7 @@
     "homeTeam": "Adelaide Comets",
     "awayTeam": "Croydon Kings",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Croydon Kings Win",
     "outcome": "Won"
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Ipswich",
     "awayTeam": "Holland Park Hawks",
-    "homeScore": 2,
-    "awayScore": 2,
+    "homeScore": 3,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524166,
-    "league": "Queensland Premier League (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Caboolture",
-    "awayTeam": "SC Wanderers",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Caboolture Win",
     "outcome": "Won"
   }
 ]
