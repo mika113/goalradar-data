@@ -1,39 +1,12 @@
 [
   {
-    "id": 1527626,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Abdish-Ata",
-    "awayTeam": "Alga",
-    "prediction": "Alga Win",
-    "odds": "2.82"
-  },
-  {
-    "id": 1527628,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Muras United",
-    "awayTeam": "Asiagoal",
-    "prediction": "Muras United Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1527631,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Talant",
-    "awayTeam": "Neftchi",
-    "prediction": "Both Teams To Score",
-    "odds": "1.74"
-  },
-  {
     "id": 1550078,
     "league": "Premier League (Syria)",
     "matchTime": "18:00",
     "homeTeam": "Al Ittihad",
     "awayTeam": "Jaish",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Al Ittihad Win",
+    "odds": "1.64"
   },
   {
     "id": 1550084,
@@ -41,16 +14,43 @@
     "matchTime": "18:00",
     "homeTeam": "Khan Shaykhun SC",
     "awayTeam": "Wathba",
-    "prediction": "Wathba Win",
-    "odds": "2.54"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
-    "id": 1554642,
+    "id": 1508076,
+    "league": "Premier League (Lebanon)",
+    "matchTime": "21:30",
+    "homeTeam": "Al Hikma",
+    "awayTeam": "Al Nejmeh",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.13"
+  },
+  {
+    "id": 1534785,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "18:00",
+    "homeTeam": "Turan Turkistan",
+    "awayTeam": "Jaiyq",
+    "prediction": "Turan Turkistan Win",
+    "odds": "1.34"
+  },
+  {
+    "id": 1547897,
     "league": "Friendlies Clubs (World)",
-    "matchTime": "17:30",
-    "homeTeam": "Farul Constanta",
-    "awayTeam": "Oţelul",
-    "prediction": "Oţelul Win",
-    "odds": "3.2"
+    "matchTime": "18:00",
+    "homeTeam": "Biel-Bienne",
+    "awayTeam": "Yverdon Sport",
+    "prediction": "Biel-Bienne Win",
+    "odds": "1.34"
+  },
+  {
+    "id": 1548746,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Botev Vratsa",
+    "awayTeam": "Beitar Jerusalem",
+    "prediction": "Botev Vratsa Win",
+    "odds": "1.87"
   }
 ]
