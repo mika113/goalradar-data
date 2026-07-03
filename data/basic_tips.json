@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525914,
-    "league": "Premier League (Belarus)",
-    "matchTime": "16:00",
-    "homeTeam": "Naftan",
-    "awayTeam": "Dinamo Brest",
-    "prediction": "Dinamo Brest Win",
-    "odds": "2.48"
-  },
-  {
-    "id": 1541122,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "16:00",
-    "homeTeam": "Mekelakeya",
-    "awayTeam": "Hadiya Hosaena",
-    "prediction": "Mekelakeya Win",
-    "odds": "1.59"
-  },
-  {
     "id": 1508073,
     "league": "Premier League (Lebanon)",
     "matchTime": "17:00",
     "homeTeam": "Safa",
     "awayTeam": "Al Mabarrah",
-    "prediction": "Safa Win",
-    "odds": "1.37"
+    "prediction": "Al Mabarrah Win",
+    "odds": "1.77"
   },
   {
     "id": 1528015,
@@ -32,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "FC Astana",
     "awayTeam": "Zhenys",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
+    "prediction": "FC Astana Win",
+    "odds": "1.99"
   },
   {
     "id": 1550081,
@@ -41,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Al Shouleh",
     "awayTeam": "Al Wahda",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Al Shouleh Win",
+    "odds": "1.39"
   },
   {
     "id": 1550082,
@@ -50,7 +32,25 @@
     "matchTime": "17:00",
     "homeTeam": "Al Taliya",
     "awayTeam": "Hottin",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "Hottin Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1550085,
+    "league": "Premier League (Syria)",
+    "matchTime": "17:00",
+    "homeTeam": "Tishreen",
+    "awayTeam": "Jabala",
+    "prediction": "Jabala Win",
+    "odds": "2.65"
+  },
+  {
+    "id": 1527626,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchTime": "17:30",
+    "homeTeam": "Abdish-Ata",
+    "awayTeam": "Alga",
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
   }
 ]
