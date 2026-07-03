@@ -6,6 +6,18 @@
     "homeTeam": "Juazeiro EC U20",
     "awayTeam": "Ceará U20",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Ceará U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1508077,
+    "league": "Premier League (Lebanon)",
+    "matchDate": "FT",
+    "homeTeam": "Tadamon Sour",
+    "awayTeam": "Al Ansar",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -54,7 +66,7 @@
     "homeTeam": "Arys",
     "awayTeam": "Yelimay Semey 2",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Arys Win",
     "outcome": "Won"
@@ -68,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Minsk II Win",
-    "outcome": "Lost"
+    "prediction": "Gomel II Win",
+    "outcome": "Won"
   },
   {
     "id": 1523187,
@@ -116,8 +128,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Aalborg Win",
-    "outcome": "Won"
+    "prediction": "Viborg Win",
+    "outcome": "Lost"
   },
   {
     "id": 1527096,
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Croydon Kings Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524167,
-    "league": "Queensland Premier League (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Ipswich",
-    "awayTeam": "Holland Park Hawks",
-    "homeScore": 3,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
