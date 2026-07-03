@@ -1,102 +1,12 @@
 [
   {
-    "id": 1550770,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Barra Mansa",
-    "awayTeam": "Cardoso Moreira",
-    "prediction": "Cardoso Moreira Win",
-    "odds": "1.95"
-  },
-  {
-    "id": 1550772,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "CAAC Brasil",
-    "awayTeam": "Barcelona RJ",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
-  },
-  {
-    "id": 1550775,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "EC Resende",
-    "awayTeam": "Tigres do Brasil",
-    "prediction": "Tigres do Brasil Win",
-    "odds": "2.05"
-  },
-  {
-    "id": 1550776,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Uniao Central",
-    "awayTeam": "Campos AA",
-    "prediction": "Campos AA Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1550777,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Uni Souza",
-    "awayTeam": "EC Vera Cruz",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.09"
-  },
-  {
-    "id": 1506498,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchTime": "21:00",
-    "homeTeam": "NSI Runavik",
-    "awayTeam": "KI Klaksvik",
-    "prediction": "NSI Runavik Win",
-    "odds": "1.31"
-  },
-  {
-    "id": 1526560,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "21:00",
-    "homeTeam": "Deportivo Cuenca Juniors",
-    "awayTeam": "San Antonio",
-    "prediction": "San Antonio Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1543416,
-    "league": "2. Deild (Iceland)",
-    "matchTime": "21:00",
-    "homeTeam": "Hvíti riddarinn",
-    "awayTeam": "Dalvík / Reynir",
-    "prediction": "Hvíti riddarinn Win",
-    "odds": "1.44"
-  },
-  {
-    "id": 1547289,
-    "league": "Paulista - U20 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Capivariano U20",
-    "awayTeam": "Ituano U20",
-    "prediction": "Capivariano U20 Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1547290,
-    "league": "Paulista - U20 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Desportivo Brasil U20",
-    "awayTeam": "Bandeirante U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
-  },
-  {
     "id": 1547291,
     "league": "Paulista - U20 (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "Ferroviária U20",
     "awayTeam": "Juventus U20",
-    "prediction": "Juventus U20 Win",
-    "odds": "2.33"
+    "prediction": "Ferroviária U20 Win & Over 1.5",
+    "odds": "1.9"
   },
   {
     "id": 1547292,
@@ -105,6 +15,96 @@
     "homeTeam": "Flamengo SP U20",
     "awayTeam": "XV de Jaú U20",
     "prediction": "Flamengo SP U20 Win",
-    "odds": "1.34"
+    "odds": "1.51"
+  },
+  {
+    "id": 1547293,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Guarani U20",
+    "awayTeam": "Sfera U20",
+    "prediction": "Double Chance X2",
+    "odds": "1.56"
+  },
+  {
+    "id": 1547294,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Ibrachina U20",
+    "awayTeam": "EC São Bernardo U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
+  },
+  {
+    "id": 1547295,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Jabaquara U20",
+    "awayTeam": "Itapirense U20",
+    "prediction": "Jabaquara U20 Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1547296,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Mauá U20",
+    "awayTeam": "Tanabi SP U20",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
+  },
+  {
+    "id": 1547297,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Osasco Audax U20",
+    "awayTeam": "Água Santa U20",
+    "prediction": "Água Santa U20 Win",
+    "odds": "2.61"
+  },
+  {
+    "id": 1547298,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Portuguesa Santista U20",
+    "awayTeam": "Portuguesa U20",
+    "prediction": "Portuguesa U20 Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1547299,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Santo André U20",
+    "awayTeam": "SC Paulinense SP U20",
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
+  },
+  {
+    "id": 1547300,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "São Bento U20",
+    "awayTeam": "América-SP U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
+  },
+  {
+    "id": 1547301,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "São Caetano U20",
+    "awayTeam": "União São João U20",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
+  },
+  {
+    "id": 1565178,
+    "league": "World Cup",
+    "matchTime": "21:00",
+    "homeTeam": "Australia",
+    "awayTeam": "Egypt",
+    "prediction": "Australia Win",
+    "odds": "1.92"
   }
 ]
