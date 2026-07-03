@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1527628,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1527626,
@@ -54,10 +54,10 @@
     "homeTeam": "Rubin",
     "awayTeam": "FC Orenburg",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Rubin Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1550085,
@@ -81,66 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550081,
-    "league": "Premier League (Syria)",
-    "matchDate": "FT",
-    "homeTeam": "Al Shouleh",
-    "awayTeam": "Al Wahda",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548747,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sturm Graz",
-    "awayTeam": "FK Košice",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1528015,
-    "league": "Premier League (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "FC Astana",
-    "awayTeam": "Zhenys",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519085,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit U19",
-    "awayTeam": "Dinamo Moskva U19",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zenit U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519084,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Spartak Moskva U19",
-    "awayTeam": "Akademiya Konoplev U20",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Akademiya Konoplev U20 Win",
     "outcome": "Won"
   }
 ]
