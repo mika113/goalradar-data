@@ -1,30 +1,12 @@
 [
   {
-    "id": 1541115,
-    "league": "Premier League (Ethiopia)",
-    "matchTime": "13:00",
-    "homeTeam": "Welayta Dicha",
-    "awayTeam": "Ethiopia Bunna",
-    "prediction": "Welayta Dicha Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1543591,
-    "league": "Premier League (Bhutan)",
-    "matchTime": "13:00",
-    "homeTeam": "Tensung",
-    "awayTeam": "Thimphu",
-    "prediction": "Tensung Win",
-    "odds": "1.83"
-  },
-  {
     "id": 1559549,
     "league": "Premier League (Mongolia)",
     "matchTime": "14:00",
     "homeTeam": "Khangarid",
     "awayTeam": "Ulaanbaatar",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "prediction": "Double Chance X2",
+    "odds": "1.31"
   },
   {
     "id": 1508077,
@@ -32,8 +14,8 @@
     "matchTime": "15:30",
     "homeTeam": "Tadamon Sour",
     "awayTeam": "Al Ansar",
-    "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "prediction": "Al Ansar Win",
+    "odds": "2.35"
   },
   {
     "id": 1525914,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Naftan",
     "awayTeam": "Dinamo Brest",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Dinamo Brest Win",
+    "odds": "3.24"
   },
   {
     "id": 1541122,
@@ -50,7 +32,25 @@
     "matchTime": "16:00",
     "homeTeam": "Mekelakeya",
     "awayTeam": "Hadiya Hosaena",
-    "prediction": "Hadiya Hosaena Win",
-    "odds": "3.2"
+    "prediction": "Mekelakeya Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1508073,
+    "league": "Premier League (Lebanon)",
+    "matchTime": "17:00",
+    "homeTeam": "Safa",
+    "awayTeam": "Al Mabarrah",
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
+  },
+  {
+    "id": 1528015,
+    "league": "Premier League (Kazakhstan)",
+    "matchTime": "17:00",
+    "homeTeam": "FC Astana",
+    "awayTeam": "Zhenys",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   }
 ]
