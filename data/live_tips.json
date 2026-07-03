@@ -1,39 +1,12 @@
 [
   {
-    "id": 1560501,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Motor Lublin",
-    "awayTeam": "Warta Poznań",
-    "prediction": "Motor Lublin Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1567321,
-    "league": "Cearense U20 (Brazil)",
-    "matchTime": "15:30",
-    "homeTeam": "Juazeiro EC U20",
-    "awayTeam": "Ceará U20",
-    "prediction": "Ceará U20 Win",
-    "odds": "3.45"
-  },
-  {
-    "id": 1548747,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Sturm Graz",
-    "awayTeam": "FK Košice",
-    "prediction": "FK Košice Win",
-    "odds": "2.91"
-  },
-  {
     "id": 1548748,
     "league": "Friendlies Clubs (World)",
     "matchTime": "16:00",
     "homeTeam": "Brann",
     "awayTeam": "Kristiansund BK",
-    "prediction": "Brann Win",
-    "odds": "1.44"
+    "prediction": "Double Chance X2",
+    "odds": "1.31"
   },
   {
     "id": 1548749,
@@ -41,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Ried",
     "awayTeam": "SSV Jahn Regensburg",
-    "prediction": "Ried Win",
-    "odds": "1.42"
+    "prediction": "SSV Jahn Regensburg Win",
+    "odds": "3.46"
   },
   {
     "id": 1560504,
@@ -51,7 +24,7 @@
     "homeTeam": "Sturm Graz II",
     "awayTeam": "Budapest Honved",
     "prediction": "Sturm Graz II Win",
-    "odds": "1.51"
+    "odds": "1.82"
   },
   {
     "id": 1519079,
@@ -59,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Chertanovo U20",
     "awayTeam": "Rodina Moscow U19",
-    "prediction": "Chertanovo U20 Win",
-    "odds": "1.89"
+    "prediction": "Double Chance X2",
+    "odds": "1.58"
   },
   {
     "id": 1519080,
@@ -68,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "CSKA Moskva U19",
     "awayTeam": "Rostov U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
+    "prediction": "CSKA Moskva U19 Win",
+    "odds": "1.67"
   },
   {
     "id": 1519081,
@@ -77,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Dynamo Makhachkala U19",
     "awayTeam": "Lokomotiv Moskva U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Dynamo Makhachkala U19 Win",
+    "odds": "1.45"
   },
   {
     "id": 1519082,
@@ -87,6 +60,33 @@
     "homeTeam": "Fakel U19",
     "awayTeam": "Krasnodar U19",
     "prediction": "Fakel U19 Win",
-    "odds": "1.74"
+    "odds": "1.58"
+  },
+  {
+    "id": 1519084,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "Spartak Moskva U19",
+    "awayTeam": "Akademiya Konoplev U20",
+    "prediction": "Akademiya Konoplev U20 Win",
+    "odds": "3.19"
+  },
+  {
+    "id": 1519085,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "Zenit U19",
+    "awayTeam": "Dinamo Moskva U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
+  },
+  {
+    "id": 1554642,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Farul Constanta",
+    "awayTeam": "Oţelul",
+    "prediction": "Oţelul Win",
+    "odds": "3.46"
   }
 ]
