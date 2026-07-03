@@ -1,21 +1,12 @@
 [
   {
-    "id": 1519082,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Fakel U19",
-    "awayTeam": "Krasnodar U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
-  },
-  {
     "id": 1519084,
     "league": "Youth Championship (Russia)",
     "matchTime": "17:00",
     "homeTeam": "Spartak Moskva U19",
     "awayTeam": "Akademiya Konoplev U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1519085,
@@ -23,17 +14,17 @@
     "matchTime": "17:00",
     "homeTeam": "Zenit U19",
     "awayTeam": "Dinamo Moskva U19",
-    "prediction": "Dinamo Moskva U19 Win",
-    "odds": "1.84"
+    "prediction": "Zenit U19 Win",
+    "odds": "1.7"
   },
   {
-    "id": 1554642,
+    "id": 1548747,
     "league": "Friendlies Clubs (World)",
     "matchTime": "17:00",
-    "homeTeam": "Farul Constanta",
-    "awayTeam": "Oţelul",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "homeTeam": "Sturm Graz",
+    "awayTeam": "FK Košice",
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1554644,
@@ -41,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Rubin",
     "awayTeam": "FC Orenburg",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Rubin Win",
+    "odds": "1.71"
   },
   {
     "id": 1560505,
@@ -50,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Lokomotiv",
     "awayTeam": "Spartak Kostroma",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "prediction": "Spartak Kostroma Win",
+    "odds": "2.43"
   },
   {
     "id": 1567518,
@@ -59,8 +50,17 @@
     "matchTime": "17:00",
     "homeTeam": "Obolon'-Brovar",
     "awayTeam": "Nyva Vinnytsya",
-    "prediction": "Obolon'-Brovar Win & Over 1.5",
-    "odds": "2.41"
+    "prediction": "Nyva Vinnytsya Win",
+    "odds": "2.45"
+  },
+  {
+    "id": 1554642,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:30",
+    "homeTeam": "Farul Constanta",
+    "awayTeam": "Oţelul",
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   },
   {
     "id": 1534785,
@@ -68,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Turan Turkistan",
     "awayTeam": "Jaiyq",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Turan Turkistan Win",
+    "odds": "1.68"
   },
   {
     "id": 1547897,
@@ -77,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "Biel-Bienne",
     "awayTeam": "Yverdon Sport",
-    "prediction": "Yverdon Sport Win",
-    "odds": "2.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1548746,
@@ -86,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "Botev Vratsa",
     "awayTeam": "Beitar Jerusalem",
-    "prediction": "Beitar Jerusalem Win",
-    "odds": "3.39"
+    "prediction": "Botev Vratsa Win",
+    "odds": "1.63"
   },
   {
     "id": 1554636,
@@ -95,8 +95,8 @@
     "matchTime": "18:00",
     "homeTeam": "Dynamo Kyiv",
     "awayTeam": "Lask Linz",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1554638,
@@ -105,6 +105,6 @@
     "homeTeam": "FK Jablonec",
     "awayTeam": "Ústí nad Labem",
     "prediction": "FK Jablonec Win",
-    "odds": "1.84"
+    "odds": "1.51"
   }
 ]
