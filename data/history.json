@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547300,
@@ -29,6 +29,18 @@
     "matchDate": "FT",
     "homeTeam": "São Bento U20",
     "awayTeam": "América-SP U20",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "São Bento U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547299,
+    "league": "Paulista - U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Santo André U20",
+    "awayTeam": "SC Paulinense SP U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1547293,
@@ -89,6 +101,18 @@
     "matchDate": "FT",
     "homeTeam": "Guarani U20",
     "awayTeam": "Sfera U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547292,
+    "league": "Paulista - U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Flamengo SP U20",
+    "awayTeam": "XV de Jaú U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -105,42 +129,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
-    "id": 1547289,
+    "id": 1547290,
     "league": "Paulista - U20 (Brazil)",
     "matchDate": "FT",
-    "homeTeam": "Capivariano U20",
-    "awayTeam": "Ituano U20",
+    "homeTeam": "Desportivo Brasil U20",
+    "awayTeam": "Bandeirante U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1506498,
-    "league": "Meistaradeildin (Faroe-Islands)",
-    "matchDate": "FT",
-    "homeTeam": "NSI Runavik",
-    "awayTeam": "KI Klaksvik",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550777,
-    "league": "Carioca C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Uni Souza",
-    "awayTeam": "EC Vera Cruz",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Uni Souza Win",
     "outcome": "Won"
   }
 ]
