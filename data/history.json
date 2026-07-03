@@ -17,8 +17,8 @@
     "matchDate": "FT",
     "homeTeam": "KFG",
     "awayTeam": "Selfoss",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Ægir",
     "awayTeam": "Fylkir",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 4,
     "status": "FT",
     "prediction": "Fylkir Win",
@@ -89,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Akron City",
     "awayTeam": "Erie Sports Center",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Akron City Win",
@@ -104,8 +104,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Dundalk Win",
-    "outcome": "Lost"
+    "prediction": "Shelbourne Win",
+    "outcome": "Won"
   },
   {
     "id": 1547900,
@@ -116,8 +116,8 @@
     "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Caerau (Ely) Win",
-    "outcome": "Won"
+    "prediction": "Croesyceiliog AFC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546608,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Treaty United",
     "awayTeam": "Kerry",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Kerry Win",
+    "prediction": "Treaty United Win",
     "outcome": "Won"
   }
 ]
