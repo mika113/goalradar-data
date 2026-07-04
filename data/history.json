@@ -5,10 +5,34 @@
     "matchDate": "FT",
     "homeTeam": "Lechia Gdansk",
     "awayTeam": "Olimpia Grudziądz",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Olimpia Grudziądz Win",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527332,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Cumberland United",
+    "awayTeam": "Adelaide Raiders",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1524068,
+    "league": "Queensland NPL (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Lions",
+    "awayTeam": "Olympic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -18,7 +42,7 @@
     "homeTeam": "Górnik Polkowice",
     "awayTeam": "Karkonosze Jelenia Góra",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Karkonosze Jelenia Góra Win",
     "outcome": "Won"
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Changwon City",
     "awayTeam": "Geumsan Insam",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Changwon City Win",
     "outcome": "Won"
   },
   {
