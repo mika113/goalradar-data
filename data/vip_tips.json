@@ -1,57 +1,12 @@
 [
   {
-    "id": 1525237,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Fort Worth Vaqueros",
-    "awayTeam": "West Texas",
-    "prediction": "West Texas Win",
-    "odds": "3.42"
-  },
-  {
-    "id": 1567520,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "04:00",
-    "homeTeam": "Cancún",
-    "awayTeam": "Toluca",
-    "prediction": "Cancún Win",
-    "odds": "1.54"
-  },
-  {
-    "id": 1508450,
-    "league": "NWSL Women (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Denver Summit W",
-    "awayTeam": "Kansas City W",
-    "prediction": "Kansas City W Win",
-    "odds": "3.26"
-  },
-  {
-    "id": 1525227,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Midlakes United",
-    "awayTeam": "Bangers",
-    "prediction": "Midlakes United Win & Over 1.5",
-    "odds": "1.89"
-  },
-  {
-    "id": 1567310,
-    "league": "World Cup",
-    "matchTime": "04:30",
-    "homeTeam": "Colombia",
-    "awayTeam": "Ghana",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
-  },
-  {
     "id": 1508451,
     "league": "NWSL Women (USA)",
     "matchTime": "05:00",
     "homeTeam": "Angel City W",
     "awayTeam": "Orlando Pride W",
-    "prediction": "Double Chance X2",
-    "odds": "1.69"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1525234,
@@ -59,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Tacoma Stars",
     "awayTeam": "Snohomish United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
+    "prediction": "Snohomish United Win",
+    "odds": "2.64"
   },
   {
     "id": 1525235,
@@ -68,7 +23,52 @@
     "matchTime": "05:00",
     "homeTeam": "Tucson",
     "awayTeam": "Stars FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Tucson Win & Over 1.5",
+    "odds": "1.98"
+  },
+  {
+    "id": 1525236,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Ventura County Fusion",
+    "awayTeam": "AMSG",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
+  },
+  {
+    "id": 1567521,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "05:00",
+    "homeTeam": "Correcaminos Uat",
+    "awayTeam": "Guadalajara Chivas",
+    "prediction": "Correcaminos Uat Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1533040,
+    "league": "Tasmania Southern Championship (Australia)",
+    "matchTime": "05:15",
+    "homeTeam": "Taroona",
+    "awayTeam": "Hobart Utd.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
+  },
+  {
+    "id": 1533119,
+    "league": "Tasmania Northern Championship (Australia)",
+    "matchTime": "05:15",
+    "homeTeam": "Launceston U21",
+    "awayTeam": "Somerset",
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
+  },
+  {
+    "id": 1567522,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "05:30",
+    "homeTeam": "San Jose Earthquakes",
+    "awayTeam": "Club Tijuana",
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
   }
 ]
