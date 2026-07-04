@@ -1,5 +1,41 @@
 [
   {
+    "id": 1562872,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Maribor",
+    "awayTeam": "Železničar Pančevo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560527,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Nafta",
+    "awayTeam": "Budapest Honved",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1554741,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "WSG Wattens",
+    "awayTeam": "Gornik Zabrze",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554692,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1562877,
@@ -45,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1562874,
@@ -90,7 +126,7 @@
     "homeTeam": "Ajax",
     "awayTeam": "Panathinaikos",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Panathinaikos Win",
     "outcome": "Won"
@@ -102,45 +138,9 @@
     "homeTeam": "KSK Beveren",
     "awayTeam": "SK Beveren",
     "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560513,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Kisvarda FC",
-    "awayTeam": "Tatran Prešov",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kisvarda FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558481,
-    "league": "Super Liga (Moldova)",
-    "matchDate": "FT",
-    "homeTeam": "Politehnica UTM",
-    "awayTeam": "Sheriff Tiraspol",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554740,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zepperen-Brustem",
-    "awayTeam": "St. Truiden",
-    "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "St. Truiden Win",
+    "prediction": "SK Beveren Win",
     "outcome": "Won"
   }
 ]
