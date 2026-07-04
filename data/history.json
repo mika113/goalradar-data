@@ -1,5 +1,29 @@
 [
   {
+    "id": 1567807,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Trem",
+    "awayTeam": "America-RN",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567805,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Porto Velho",
+    "awayTeam": "Gama",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Porto Velho Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1567804,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567802,
@@ -21,7 +45,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1567800,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Imperatriz",
+    "awayTeam": "Ferroviario",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Imperatriz Win",
+    "outcome": "Won"
   },
   {
     "id": 1567798,
@@ -29,6 +65,30 @@
     "matchDate": "FT",
     "homeTeam": "Sao Jose",
     "awayTeam": "Portuguesa RJ",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Sao Jose Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567797,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "CRAC",
+    "awayTeam": "Treze",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567796,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Cianorte",
+    "awayTeam": "XV de Piracicaba",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -48,6 +108,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1547710,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Democrata SL",
+    "awayTeam": "Ipatinga",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Democrata SL Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1547709,
     "league": "Mineiro - 2 (Brazil)",
     "matchDate": "FT",
@@ -60,39 +132,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1544470,
+    "id": 1544471,
     "league": "Copa Chile",
     "matchDate": "FT",
-    "homeTeam": "Union San Felipe",
-    "awayTeam": "Union La Calera",
-    "homeScore": 0,
+    "homeTeam": "Magallanes",
+    "awayTeam": "Palestino",
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520758,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Novorizontino",
-    "awayTeam": "Atletico Goianiense",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520756,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Londrina",
-    "awayTeam": "CRB",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Magallanes Win",
     "outcome": "Won"
   }
 ]
