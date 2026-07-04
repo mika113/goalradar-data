@@ -1,5 +1,17 @@
 [
   {
+    "id": 1557960,
+    "league": "FA Cup (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Jinju Citizen",
+    "awayTeam": "Sejong SA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1557959,
     "league": "FA Cup (South-Korea)",
     "matchDate": "FT",
@@ -33,6 +45,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Polonia Bytom Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547911,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Wisla Plock",
+    "awayTeam": "Polonia Warszawa",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
