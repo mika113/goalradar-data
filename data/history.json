@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1510365,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1510364,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Ansan Greeners",
     "awayTeam": "Suwon City FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ansan Greeners Win",
     "outcome": "Won"
   },
   {
@@ -72,6 +72,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1506986,
+    "league": "K League 1 (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "FC Anyang",
+    "awayTeam": "Pohang Steelers",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Pohang Steelers Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1559516,
     "league": "FA Cup (South-Korea)",
     "matchDate": "FT",
@@ -93,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1559514,
@@ -128,19 +140,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Jinju Citizen Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1557959,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Haman",
-    "awayTeam": "Dangjin Citizen",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sejong SA Win",
     "outcome": "Won"
   }
 ]
