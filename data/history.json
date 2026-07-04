@@ -1,5 +1,53 @@
 [
   {
+    "id": 1554692,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rilski Sportist",
+    "awayTeam": "Vihren",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548767,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "TSV Hartberg",
+    "awayTeam": "Ujpest",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567539,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ska-khabarovsk",
+    "awayTeam": "Veles",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562877,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Schalke 04 II",
+    "awayTeam": "Gievenbeck",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1562874,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1561068,
@@ -17,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Spain U19 W",
     "awayTeam": "Austria U19 W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Spain U19 W Win",
+    "outcome": "Won"
   },
   {
     "id": 1561067,
@@ -29,10 +77,22 @@
     "matchDate": "FT",
     "homeTeam": "Iceland U19 W",
     "awayTeam": "Switzerland U19 W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Switzerland U19 W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560525,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ajax",
+    "awayTeam": "Panathinaikos",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Panathinaikos Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "KSK Beveren",
     "awayTeam": "SK Beveren",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,6 +113,18 @@
     "matchDate": "FT",
     "homeTeam": "Kisvarda FC",
     "awayTeam": "Tatran Prešov",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Kisvarda FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558481,
+    "league": "Super Liga (Moldova)",
+    "matchDate": "FT",
+    "homeTeam": "Politehnica UTM",
+    "awayTeam": "Sheriff Tiraspol",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -60,15 +132,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1554699,
+    "id": 1554740,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Slovácko",
-    "awayTeam": "Spartak Trnava",
+    "homeTeam": "Zepperen-Brustem",
+    "awayTeam": "St. Truiden",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "St. Truiden Win",
     "outcome": "Won"
   }
 ]
