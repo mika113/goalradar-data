@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567528,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lechia Gdansk",
+    "awayTeam": "Olimpia Grudziądz",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Olimpia Grudziądz Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1567527,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -18,9 +30,9 @@
     "homeTeam": "Novi Pazar",
     "awayTeam": "Akhmat",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Novi Pazar Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "UFC Hallein Win",
-    "outcome": "Lost"
+    "prediction": "FC Liefering Win",
+    "outcome": "Won"
   },
   {
     "id": 1557957,
@@ -82,41 +94,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1554661,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zaglebie Sosnowiec",
-    "awayTeam": "Podbeskidzie",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zaglebie Sosnowiec Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554660,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Považská Bystrica",
-    "awayTeam": "Čadca",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550522,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Vasas",
-    "awayTeam": "Komárno",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
   }
 ]
