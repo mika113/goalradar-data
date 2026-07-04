@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525239,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "GFI",
-    "awayTeam": "Houston Sur",
-    "prediction": "GFI Win",
-    "odds": "1.43"
-  },
-  {
-    "id": 1525240,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Jackson Boom",
-    "awayTeam": "Mississippi Brilla",
-    "prediction": "Jackson Boom Win",
-    "odds": "1.6"
-  },
-  {
     "id": 1525242,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "Brazos Valley",
     "awayTeam": "Laredo Heat",
-    "prediction": "Laredo Heat Win",
-    "odds": "3.22"
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   },
   {
     "id": 1567551,
@@ -32,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Cancún",
     "awayTeam": "U.N.A.M. - Pumas",
-    "prediction": "U.N.A.M. - Pumas Win",
-    "odds": "3.29"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1576806,
@@ -41,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Diriangén",
     "awayTeam": "H&H Export",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Diriangén Win & Over 1.5",
+    "odds": "2.47"
   },
   {
     "id": 1493561,
@@ -50,8 +32,8 @@
     "matchTime": "03:30",
     "homeTeam": "FC Tulsa",
     "awayTeam": "Sacramento Republic",
-    "prediction": "Sacramento Republic Win",
-    "odds": "2.74"
+    "prediction": "FC Tulsa Win",
+    "odds": "1.55"
   },
   {
     "id": 1525243,
@@ -60,7 +42,7 @@
     "homeTeam": "McKinney Chupacabras",
     "awayTeam": "Texoma",
     "prediction": "McKinney Chupacabras Win & Over 1.5",
-    "odds": "2.03"
+    "odds": "1.89"
   },
   {
     "id": 1544474,
@@ -68,8 +50,8 @@
     "matchTime": "03:30",
     "homeTeam": "U. Catolica",
     "awayTeam": "Deportes Copiapo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Deportes Copiapo Win",
+    "odds": "2.31"
   },
   {
     "id": 1560531,
@@ -77,8 +59,8 @@
     "matchTime": "03:30",
     "homeTeam": "Monarcas",
     "awayTeam": "Cruz Azul",
-    "prediction": "Monarcas Win & Over 1.5",
-    "odds": "2.03"
+    "prediction": "Cruz Azul Win",
+    "odds": "2.48"
   },
   {
     "id": 1508453,
@@ -86,7 +68,25 @@
     "matchTime": "03:45",
     "homeTeam": "San Diego Wave W",
     "awayTeam": "NJ/NY Gotham FC W",
+    "prediction": "San Diego Wave W Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1513195,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:45",
+    "homeTeam": "North Texas",
+    "awayTeam": "St. Louis City II",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "odds": "2.1"
+  },
+  {
+    "id": 1493560,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Colorado Springs",
+    "awayTeam": "Phoenix Rising",
+    "prediction": "Colorado Springs Win",
+    "odds": "1.89"
   }
 ]
