@@ -1,57 +1,12 @@
 [
   {
-    "id": 1533042,
-    "league": "Tasmania Southern Championship (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "South East Utd. U21",
-    "awayTeam": "South Hobart II",
-    "prediction": "South East Utd. U21 Win",
-    "odds": "1.73"
-  },
-  {
-    "id": 1533116,
-    "league": "Tasmania Northern Championship (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Burnie Utd.",
-    "awayTeam": "Riverside Olympic U21",
-    "prediction": "Riverside Olympic U21 Win",
-    "odds": "3.07"
-  },
-  {
-    "id": 1517583,
-    "league": "New South Wales NPL (Australia)",
-    "matchTime": "08:00",
-    "homeTeam": "Western Sydney Wanderers U23",
-    "awayTeam": "Sydney Olympic",
-    "prediction": "Double Chance X2",
-    "odds": "1.31"
-  },
-  {
-    "id": 1517667,
-    "league": "New South Wales NPL (Australia)",
-    "matchTime": "08:00",
-    "homeTeam": "UNSW",
-    "awayTeam": "Sydney FC U23",
-    "prediction": "UNSW Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1521971,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "08:00",
-    "homeTeam": "Avondale",
-    "awayTeam": "Preston Lions",
-    "prediction": "Preston Lions Win",
-    "odds": "1.74"
-  },
-  {
     "id": 1522135,
     "league": "Victoria NPL 2 (Australia)",
     "matchTime": "08:00",
     "homeTeam": "North Sunshine Eagles",
     "awayTeam": "Manningham United Blues",
-    "prediction": "Manningham United Blues Win",
-    "odds": "2.0"
+    "prediction": "North Sunshine Eagles Win",
+    "odds": "1.77"
   },
   {
     "id": 1522209,
@@ -59,8 +14,8 @@
     "matchTime": "08:00",
     "homeTeam": "Langwarrin",
     "awayTeam": "Eltham Redbacks FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Langwarrin Win",
+    "odds": "1.64"
   },
   {
     "id": 1527097,
@@ -68,8 +23,8 @@
     "matchTime": "08:00",
     "homeTeam": "Adelaide City",
     "awayTeam": "Para Hills Knights",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Double Chance 1X",
+    "odds": "1.48"
   },
   {
     "id": 1537488,
@@ -77,8 +32,8 @@
     "matchTime": "08:00",
     "homeTeam": "Canberra White Eagles",
     "awayTeam": "Cooma Tigers FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.69"
+    "prediction": "Cooma Tigers FC Win",
+    "odds": "1.61"
   },
   {
     "id": 1537489,
@@ -86,7 +41,52 @@
     "matchTime": "08:00",
     "homeTeam": "Queanbeyan City",
     "awayTeam": "Tuggeranong United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.74"
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1541319,
+    "league": "Victoria Premier League 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Werribee City",
+    "awayTeam": "Altona City",
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
+  },
+  {
+    "id": 1541362,
+    "league": "Victoria Premier League 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Bayside Argonauts",
+    "awayTeam": "Essendon Royals SC",
+    "prediction": "Essendon Royals SC Win",
+    "odds": "3.36"
+  },
+  {
+    "id": 1522034,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "08:15",
+    "homeTeam": "Altona Magic",
+    "awayTeam": "Melbourne City II",
+    "prediction": "Altona Magic Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1517803,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchTime": "08:30",
+    "homeTeam": "Blacktown Spartans",
+    "awayTeam": "Newcastle Jets II",
+    "prediction": "Double Chance X2",
+    "odds": "1.69"
+  },
+  {
+    "id": 1527098,
+    "league": "South Australia NPL",
+    "matchTime": "08:30",
+    "homeTeam": "Adelaide United II",
+    "awayTeam": "Campbelltown City",
+    "prediction": "Adelaide United II Win",
+    "odds": "1.37"
   }
 ]
