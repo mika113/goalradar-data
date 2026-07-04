@@ -1,86 +1,38 @@
 [
   {
-    "id": 1567545,
+    "id": 1567835,
+    "league": "Premier Soccer League (Zimbabwe)",
+    "matchDate": "FT",
+    "homeTeam": "Hunters",
+    "awayTeam": "Scotland Mabvuku",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562876,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "PAOK",
-    "awayTeam": "KVC Westerlo",
+    "homeTeam": "Bangor",
+    "awayTeam": "Newington Youth",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
-    "id": 1567320,
-    "league": "Cearense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Anjos do Céu U20",
-    "awayTeam": "Floresta CE U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1547913,
+    "id": 1560526,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Dordrecht",
-    "awayTeam": "Feyenoord",
+    "homeTeam": "Sigma Olomouc",
+    "awayTeam": "Hanácká",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538640,
-    "league": "Super League (Malawi)",
-    "matchDate": "FT",
-    "homeTeam": "Karonga United",
-    "awayTeam": "Dedza Dynamos",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Karonga United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538639,
-    "league": "Super League (Malawi)",
-    "matchDate": "FT",
-    "homeTeam": "Blue Eagles",
-    "awayTeam": "Moyale Barracks",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538638,
-    "league": "Super League (Malawi)",
-    "matchDate": "FT",
-    "homeTeam": "Nyasa Big Bullets",
-    "awayTeam": "Creck",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562875,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Valerenga",
-    "awayTeam": "Fredrikstad",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Valerenga Win",
     "outcome": "Won"
   }
 ]
