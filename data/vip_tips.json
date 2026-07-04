@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525234,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Tacoma Stars",
-    "awayTeam": "Snohomish United",
-    "prediction": "Tacoma Stars Win",
-    "odds": "1.55"
-  },
-  {
     "id": 1525235,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Tucson",
     "awayTeam": "Stars FC",
-    "prediction": "Tucson Win",
-    "odds": "1.54"
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   },
   {
     "id": 1525236,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Ventura County Fusion",
     "awayTeam": "AMSG",
-    "prediction": "Ventura County Fusion Win",
-    "odds": "1.74"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1567521,
@@ -32,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "Correcaminos Uat",
     "awayTeam": "Guadalajara Chivas",
-    "prediction": "Correcaminos Uat Win",
-    "odds": "1.61"
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
   },
   {
     "id": 1533040,
@@ -41,8 +32,8 @@
     "matchTime": "05:15",
     "homeTeam": "Taroona",
     "awayTeam": "Hobart Utd.",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.69"
+    "prediction": "Taroona Win",
+    "odds": "1.9"
   },
   {
     "id": 1533119,
@@ -50,8 +41,8 @@
     "matchTime": "05:15",
     "homeTeam": "Launceston U21",
     "awayTeam": "Somerset",
-    "prediction": "Launceston U21 Win",
-    "odds": "1.36"
+    "prediction": "Somerset Win",
+    "odds": "2.08"
   },
   {
     "id": 1567522,
@@ -60,7 +51,7 @@
     "homeTeam": "San Jose Earthquakes",
     "awayTeam": "Club Tijuana",
     "prediction": "San Jose Earthquakes Win",
-    "odds": "1.53"
+    "odds": "1.87"
   },
   {
     "id": 1549318,
@@ -68,7 +59,16 @@
     "matchTime": "06:00",
     "homeTeam": "UNSW U20",
     "awayTeam": "Sydney FC U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Sydney FC U20 Win",
+    "odds": "3.13"
+  },
+  {
+    "id": 1521970,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "07:00",
+    "homeTeam": "Hume City",
+    "awayTeam": "Dandenong City",
+    "prediction": "Both Teams To Score",
+    "odds": "1.82"
   }
 ]
