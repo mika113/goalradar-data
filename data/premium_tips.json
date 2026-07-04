@@ -1,75 +1,12 @@
 [
   {
-    "id": 1526880,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Guarani Campinas",
-    "awayTeam": "Floresta",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.07"
-  },
-  {
-    "id": 1493564,
-    "league": "USL Championship (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Louisville City",
-    "awayTeam": "Hartford Athletic",
-    "prediction": "Hartford Athletic Win",
-    "odds": "3.35"
-  },
-  {
-    "id": 1519385,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Barcelona SC",
-    "awayTeam": "Deportivo Cuenca",
-    "prediction": "Barcelona SC Win",
-    "odds": "1.8"
-  },
-  {
-    "id": 1525239,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "GFI",
-    "awayTeam": "Houston Sur",
-    "prediction": "GFI Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1525240,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Jackson Boom",
-    "awayTeam": "Mississippi Brilla",
-    "prediction": "Mississippi Brilla Win",
-    "odds": "2.49"
-  },
-  {
-    "id": 1525242,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Brazos Valley",
-    "awayTeam": "Laredo Heat",
-    "prediction": "Brazos Valley Win & Over 1.5",
-    "odds": "2.33"
-  },
-  {
-    "id": 1567551,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "03:00",
-    "homeTeam": "Cancún",
-    "awayTeam": "U.N.A.M. - Pumas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.34"
-  },
-  {
     "id": 1576806,
     "league": "Copa Nicaragua",
     "matchTime": "03:00",
     "homeTeam": "Diriangén",
     "awayTeam": "H&H Export",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
   },
   {
     "id": 1493561,
@@ -78,7 +15,7 @@
     "homeTeam": "FC Tulsa",
     "awayTeam": "Sacramento Republic",
     "prediction": "Sacramento Republic Win",
-    "odds": "2.97"
+    "odds": "2.67"
   },
   {
     "id": 1525243,
@@ -86,8 +23,8 @@
     "matchTime": "03:30",
     "homeTeam": "McKinney Chupacabras",
     "awayTeam": "Texoma",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1544474,
@@ -96,7 +33,7 @@
     "homeTeam": "U. Catolica",
     "awayTeam": "Deportes Copiapo",
     "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "odds": "1.29"
   },
   {
     "id": 1560531,
@@ -104,7 +41,70 @@
     "matchTime": "03:30",
     "homeTeam": "Monarcas",
     "awayTeam": "Cruz Azul",
-    "prediction": "Cruz Azul Win",
+    "prediction": "Monarcas Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1508453,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:45",
+    "homeTeam": "San Diego Wave W",
+    "awayTeam": "NJ/NY Gotham FC W",
+    "prediction": "NJ/NY Gotham FC W Win",
+    "odds": "2.11"
+  },
+  {
+    "id": 1513195,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:45",
+    "homeTeam": "North Texas",
+    "awayTeam": "St. Louis City II",
+    "prediction": "Double Chance X2",
+    "odds": "1.43"
+  },
+  {
+    "id": 1493560,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Colorado Springs",
+    "awayTeam": "Phoenix Rising",
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
+  },
+  {
+    "id": 1493568,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Monterey Bay",
+    "prediction": "San Antonio Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1576807,
+    "league": "Copa Nicaragua",
+    "matchTime": "04:00",
+    "homeTeam": "Matagalpa",
+    "awayTeam": "Jalapa",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
+  },
+  {
+    "id": 1493565,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:30",
+    "homeTeam": "New Mexico United",
+    "awayTeam": "Oakland Roots",
+    "prediction": "New Mexico United Win",
     "odds": "1.89"
+  },
+  {
+    "id": 1567552,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "05:00",
+    "homeTeam": "CDS Tampico Madero",
+    "awayTeam": "Club America",
+    "prediction": "CDS Tampico Madero Win",
+    "odds": "1.33"
   }
 ]
