@@ -1,21 +1,12 @@
 [
   {
-    "id": 1526879,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Ferroviária",
-    "awayTeam": "Caxias",
-    "prediction": "Caxias Win",
-    "odds": "2.85"
-  },
-  {
     "id": 1526880,
     "league": "Serie C (Brazil)",
     "matchTime": "02:30",
     "homeTeam": "Guarani Campinas",
     "awayTeam": "Floresta",
-    "prediction": "Guarani Campinas Win",
-    "odds": "1.95"
+    "prediction": "Guarani Campinas Win & Over 1.5",
+    "odds": "2.82"
   },
   {
     "id": 1493564,
@@ -23,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Louisville City",
     "awayTeam": "Hartford Athletic",
-    "prediction": "Hartford Athletic Win",
-    "odds": "1.63"
+    "prediction": "Louisville City Win",
+    "odds": "1.46"
   },
   {
     "id": 1519385,
@@ -32,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Barcelona SC",
     "awayTeam": "Deportivo Cuenca",
-    "prediction": "Barcelona SC Win & Over 1.5",
-    "odds": "2.61"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1525239,
@@ -42,7 +33,7 @@
     "homeTeam": "GFI",
     "awayTeam": "Houston Sur",
     "prediction": "Houston Sur Win",
-    "odds": "2.82"
+    "odds": "2.0"
   },
   {
     "id": 1525240,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Jackson Boom",
     "awayTeam": "Mississippi Brilla",
-    "prediction": "Jackson Boom Win",
-    "odds": "1.5"
+    "prediction": "Mississippi Brilla Win",
+    "odds": "2.31"
   },
   {
     "id": 1525242,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Brazos Valley",
     "awayTeam": "Laredo Heat",
-    "prediction": "Brazos Valley Win & Over 1.5",
-    "odds": "2.81"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
   },
   {
     "id": 1567551,
@@ -68,8 +59,8 @@
     "matchTime": "03:00",
     "homeTeam": "Cancún",
     "awayTeam": "U.N.A.M. - Pumas",
-    "prediction": "Cancún Win",
-    "odds": "1.85"
+    "prediction": "U.N.A.M. - Pumas Win",
+    "odds": "2.04"
   },
   {
     "id": 1576806,
@@ -77,8 +68,8 @@
     "matchTime": "03:00",
     "homeTeam": "Diriangén",
     "awayTeam": "H&H Export",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "prediction": "Diriangén Win",
+    "odds": "1.77"
   },
   {
     "id": 1493561,
@@ -86,8 +77,8 @@
     "matchTime": "03:30",
     "homeTeam": "FC Tulsa",
     "awayTeam": "Sacramento Republic",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Sacramento Republic Win",
+    "odds": "3.44"
   },
   {
     "id": 1525243,
@@ -95,8 +86,8 @@
     "matchTime": "03:30",
     "homeTeam": "McKinney Chupacabras",
     "awayTeam": "Texoma",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Texoma Win",
+    "odds": "3.5"
   },
   {
     "id": 1544474,
@@ -105,6 +96,15 @@
     "homeTeam": "U. Catolica",
     "awayTeam": "Deportes Copiapo",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.93"
+    "odds": "1.8"
+  },
+  {
+    "id": 1560531,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Monarcas",
+    "awayTeam": "Cruz Azul",
+    "prediction": "Cruz Azul Win",
+    "odds": "2.87"
   }
 ]
