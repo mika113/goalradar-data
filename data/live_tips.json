@@ -1,21 +1,12 @@
 [
   {
-    "id": 1560531,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "03:30",
-    "homeTeam": "Monarcas",
-    "awayTeam": "Cruz Azul",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
-  },
-  {
     "id": 1508453,
     "league": "NWSL Women (USA)",
     "matchTime": "03:45",
     "homeTeam": "San Diego Wave W",
     "awayTeam": "NJ/NY Gotham FC W",
-    "prediction": "NJ/NY Gotham FC W Win",
-    "odds": "3.17"
+    "prediction": "San Diego Wave W Win",
+    "odds": "1.68"
   },
   {
     "id": 1513195,
@@ -23,8 +14,8 @@
     "matchTime": "03:45",
     "homeTeam": "North Texas",
     "awayTeam": "St. Louis City II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "North Texas Win & Over 1.5",
+    "odds": "2.64"
   },
   {
     "id": 1493560,
@@ -32,8 +23,8 @@
     "matchTime": "04:00",
     "homeTeam": "Colorado Springs",
     "awayTeam": "Phoenix Rising",
-    "prediction": "Colorado Springs Win",
-    "odds": "1.76"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   },
   {
     "id": 1493568,
@@ -42,7 +33,7 @@
     "homeTeam": "San Antonio",
     "awayTeam": "Monterey Bay",
     "prediction": "San Antonio Win",
-    "odds": "1.52"
+    "odds": "1.71"
   },
   {
     "id": 1576807,
@@ -50,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Matagalpa",
     "awayTeam": "Jalapa",
-    "prediction": "Matagalpa Win",
-    "odds": "1.91"
+    "prediction": "Jalapa Win",
+    "odds": "3.46"
   },
   {
     "id": 1493565,
@@ -59,8 +50,8 @@
     "matchTime": "04:30",
     "homeTeam": "New Mexico United",
     "awayTeam": "Oakland Roots",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Oakland Roots Win",
+    "odds": "3.3"
   },
   {
     "id": 1567552,
@@ -68,8 +59,8 @@
     "matchTime": "05:00",
     "homeTeam": "CDS Tampico Madero",
     "awayTeam": "Club America",
-    "prediction": "CDS Tampico Madero Win",
-    "odds": "1.43"
+    "prediction": "Club America Win",
+    "odds": "1.89"
   },
   {
     "id": 1493563,
@@ -77,8 +68,8 @@
     "matchTime": "05:30",
     "homeTeam": "Las Vegas Lights",
     "awayTeam": "El Paso Locomotive",
-    "prediction": "El Paso Locomotive Win",
-    "odds": "2.64"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
   },
   {
     "id": 1549320,
@@ -86,7 +77,16 @@
     "matchTime": "06:00",
     "homeTeam": "Blacktown City U20",
     "awayTeam": "Sydney Utd U20",
-    "prediction": "Blacktown City U20 Win & Over 1.5",
-    "odds": "2.89"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
+  },
+  {
+    "id": 1549321,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchTime": "06:00",
+    "homeTeam": "Marconi S. U20",
+    "awayTeam": "St George Saints U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   }
 ]
