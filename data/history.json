@@ -6,9 +6,9 @@
     "homeTeam": "HNK Gorica",
     "awayTeam": "Zorya Luhansk",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zorya Luhansk Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "NK Lokomotiva Zagreb",
     "awayTeam": "Bravo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NK Lokomotiva Zagreb Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "Zalaegerszegi TE",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zalaegerszegi TE Win",
     "outcome": "Won"
   },
   {
@@ -42,7 +42,7 @@
     "homeTeam": "ÍF II",
     "awayTeam": "Víkingur II",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Víkingur II Win",
     "outcome": "Won"
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "AB Win",
-    "outcome": "Lost"
+    "prediction": "EB / Streymur Win",
+    "outcome": "Won"
   },
   {
     "id": 1562868,
@@ -101,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Celje",
     "awayTeam": "Cukaricki",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Cukaricki Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1554601,
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Slask Wroclaw",
     "awayTeam": "Chrobry Głogów",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Slask Wroclaw Win",
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Magni",
     "awayTeam": "Thróttur Vogar",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Magni Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
