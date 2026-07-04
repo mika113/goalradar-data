@@ -1,93 +1,12 @@
 [
   {
-    "id": 1515880,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "16:00",
-    "homeTeam": "BFC Daugavpils",
-    "awayTeam": "FK Liepaja",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
-  },
-  {
-    "id": 1517203,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "SalPa",
-    "awayTeam": "VJS",
-    "prediction": "VJS Win",
-    "odds": "3.04"
-  },
-  {
-    "id": 1529563,
-    "league": "1. Liga (Latvia)",
-    "matchTime": "16:00",
-    "homeTeam": "Mārupe",
-    "awayTeam": "Smiltene",
-    "prediction": "Mārupe Win",
-    "odds": "1.94"
-  },
-  {
-    "id": 1534357,
-    "league": "1. Division (Belarus)",
-    "matchTime": "16:00",
-    "homeTeam": "Niva",
-    "awayTeam": "BATE II",
-    "prediction": "Niva Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1536233,
-    "league": "Second League - Group 1 (Russia)",
-    "matchTime": "16:00",
-    "homeTeam": "Angust Nazran",
-    "awayTeam": "PSK Dinskaya",
-    "prediction": "Angust Nazran Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1541519,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "P-Iirot",
-    "awayTeam": "HJS Akatemia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
-  },
-  {
-    "id": 1541632,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "Atlantis",
-    "awayTeam": "PEPO",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
-  },
-  {
-    "id": 1541633,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "Union Plaani",
-    "awayTeam": "PuiU Helsinki",
-    "prediction": "Union Plaani Win & Over 1.5",
-    "odds": "2.75"
-  },
-  {
-    "id": 1543338,
-    "league": "UEFA U19 Championship (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Denmark U19",
-    "awayTeam": "Wales U19",
-    "prediction": "Denmark U19 Win",
-    "odds": "1.97"
-  },
-  {
     "id": 1543339,
     "league": "UEFA U19 Championship (World)",
     "matchTime": "16:00",
     "homeTeam": "Spain U19",
     "awayTeam": "Germany U19",
-    "prediction": "Germany U19 Win",
-    "odds": "2.7"
+    "prediction": "Spain U19 Win",
+    "odds": "1.45"
   },
   {
     "id": 1546256,
@@ -96,7 +15,7 @@
     "homeTeam": "Grêmio Valparaíso U20",
     "awayTeam": "Santa Maria U20",
     "prediction": "Grêmio Valparaíso U20 Win",
-    "odds": "1.36"
+    "odds": "1.55"
   },
   {
     "id": 1546617,
@@ -104,7 +23,88 @@
     "matchTime": "16:00",
     "homeTeam": "Odense",
     "awayTeam": "Hillerød",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Odense Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1546620,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Bottrop",
+    "awayTeam": "Rot-Weiß Essen",
+    "prediction": "Rot-Weiß Essen Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1546621,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Haverfordwest County AFC",
+    "awayTeam": "Hamilton Academical",
+    "prediction": "Hamilton Academical Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1547581,
+    "league": "A Lyga (Lithuania)",
+    "matchTime": "16:00",
+    "homeTeam": "Panevėžys",
+    "awayTeam": "Hegelmann Litauen",
+    "prediction": "Panevėžys Win & Over 1.5",
+    "odds": "2.43"
+  },
+  {
+    "id": 1547908,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Fernwald",
+    "awayTeam": "Sportfreunde Siegen",
+    "prediction": "Sportfreunde Siegen Win",
+    "odds": "2.0"
+  },
+  {
+    "id": 1548769,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Dundela",
+    "awayTeam": "Glentoran",
+    "prediction": "Dundela Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1548770,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": " Johnstone Burgh",
+    "awayTeam": "Elgin City",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
+  },
+  {
+    "id": 1548771,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Montrose",
+    "awayTeam": "ST Johnstone",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
+  },
+  {
+    "id": 1549964,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "16:00",
+    "homeTeam": "Barrancas UMET",
+    "awayTeam": "Buenos Aires City",
+    "prediction": "Barrancas UMET Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1550523,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Rutherglen Glencairn",
+    "awayTeam": "Clyde",
+    "prediction": "Rutherglen Glencairn Win",
+    "odds": "1.41"
   }
 ]
