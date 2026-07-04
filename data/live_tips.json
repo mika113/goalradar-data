@@ -1,66 +1,12 @@
 [
   {
-    "id": 1508452,
-    "league": "NWSL Women (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "North Carolina Courage W",
-    "awayTeam": "Seattle Reign FC W",
-    "prediction": "North Carolina Courage W Win & Over 1.5",
-    "odds": "2.01"
-  },
-  {
-    "id": 1513194,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Chattanooga",
-    "awayTeam": "Inter Miami II",
-    "prediction": "Chattanooga Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1526879,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Ferroviária",
-    "awayTeam": "Caxias",
-    "prediction": "Caxias Win",
-    "odds": "2.85"
-  },
-  {
-    "id": 1526880,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Guarani Campinas",
-    "awayTeam": "Floresta",
-    "prediction": "Guarani Campinas Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1493564,
-    "league": "USL Championship (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Louisville City",
-    "awayTeam": "Hartford Athletic",
-    "prediction": "Louisville City Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1519385,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Barcelona SC",
-    "awayTeam": "Deportivo Cuenca",
-    "prediction": "Barcelona SC Win",
-    "odds": "1.97"
-  },
-  {
     "id": 1525239,
     "league": "USL League Two (USA)",
     "matchTime": "03:00",
     "homeTeam": "GFI",
     "awayTeam": "Houston Sur",
-    "prediction": "GFI Win & Over 1.5",
-    "odds": "2.61"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1525240,
@@ -68,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Jackson Boom",
     "awayTeam": "Mississippi Brilla",
-    "prediction": "Double Chance X2",
-    "odds": "1.76"
+    "prediction": "Jackson Boom Win & Over 1.5",
+    "odds": "2.15"
   },
   {
     "id": 1525242,
@@ -77,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Brazos Valley",
     "awayTeam": "Laredo Heat",
-    "prediction": "Laredo Heat Win",
-    "odds": "3.15"
+    "prediction": "Brazos Valley Win",
+    "odds": "1.43"
   },
   {
     "id": 1567551,
@@ -86,7 +32,61 @@
     "matchTime": "03:00",
     "homeTeam": "Cancún",
     "awayTeam": "U.N.A.M. - Pumas",
+    "prediction": "Cancún Win & Over 1.5",
+    "odds": "2.35"
+  },
+  {
+    "id": 1576806,
+    "league": "Copa Nicaragua",
+    "matchTime": "03:00",
+    "homeTeam": "Diriangén",
+    "awayTeam": "H&H Export",
     "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "odds": "1.74"
+  },
+  {
+    "id": 1493561,
+    "league": "USL Championship (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "FC Tulsa",
+    "awayTeam": "Sacramento Republic",
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
+  },
+  {
+    "id": 1525243,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "McKinney Chupacabras",
+    "awayTeam": "Texoma",
+    "prediction": "McKinney Chupacabras Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1544474,
+    "league": "Copa Chile",
+    "matchTime": "03:30",
+    "homeTeam": "U. Catolica",
+    "awayTeam": "Deportes Copiapo",
+    "prediction": "Deportes Copiapo Win",
+    "odds": "2.82"
+  },
+  {
+    "id": 1560531,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Monarcas",
+    "awayTeam": "Cruz Azul",
+    "prediction": "Monarcas Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1508453,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:45",
+    "homeTeam": "San Diego Wave W",
+    "awayTeam": "NJ/NY Gotham FC W",
+    "prediction": "San Diego Wave W Win",
+    "odds": "1.82"
   }
 ]
