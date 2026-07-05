@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Jeonnam Dragons",
     "awayTeam": "Busan I Park",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Jeonnam Dragons Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1506991,
@@ -90,9 +90,9 @@
     "homeTeam": "Pyeongtaek Citizen",
     "awayTeam": "Yeoju Sejong",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Yeoju Sejong Win",
     "outcome": "Won"
   },
   {
@@ -101,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Gyeongju HNP",
     "awayTeam": "Seosan Pioneer",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Seosan Pioneer Win",
-    "outcome": "Lost"
+    "prediction": "Gyeongju HNP Win",
+    "outcome": "Won"
   },
   {
     "id": 1557963,
@@ -114,7 +114,7 @@
     "homeTeam": "Busan Transportation",
     "awayTeam": "Gijang United",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Busan Transportation Win",
     "outcome": "Won"
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1536843,
