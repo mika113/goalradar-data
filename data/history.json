@@ -1,5 +1,17 @@
 [
   {
+    "id": 1544478,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "D. La Serena",
+    "awayTeam": "Antofagasta",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544475,
     "league": "Copa Chile",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560537,
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Tammeka",
     "awayTeam": "Laagri",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Tammeka Win",
     "outcome": "Won"
   },
   {
@@ -92,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sacachispas Win",
-    "outcome": "Won"
+    "prediction": "Juventud Unida Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499506,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562880,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Omonia Nicosia",
-    "awayTeam": "Hapoel Beer Sheva",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Hapoel Beer Sheva Win",
     "outcome": "Won"
   }
 ]
