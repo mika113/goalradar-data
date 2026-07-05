@@ -1,39 +1,12 @@
 [
   {
-    "id": 1506991,
-    "league": "K League 1 (South-Korea)",
-    "matchTime": "13:30",
-    "homeTeam": "FC Seoul",
-    "awayTeam": "Incheon United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
-  },
-  {
-    "id": 1510367,
-    "league": "K League 2 (South-Korea)",
-    "matchTime": "13:30",
-    "homeTeam": "Gimhae City",
-    "awayTeam": "Seoul E-Land FC",
-    "prediction": "Seoul E-Land FC Win",
-    "odds": "2.07"
-  },
-  {
-    "id": 1510368,
-    "league": "K League 2 (South-Korea)",
-    "matchTime": "13:30",
-    "homeTeam": "Gimpo Citizen",
-    "awayTeam": "Asan Mugunghwa",
-    "prediction": "Asan Mugunghwa Win",
-    "odds": "2.4"
-  },
-  {
     "id": 1510369,
     "league": "K League 2 (South-Korea)",
     "matchTime": "13:30",
     "homeTeam": "Gyeongnam FC",
     "awayTeam": "Cheonan City",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
+    "prediction": "Cheonan City Win",
+    "odds": "2.26"
   },
   {
     "id": 1510370,
@@ -41,8 +14,8 @@
     "matchTime": "13:30",
     "homeTeam": "Jeonnam Dragons",
     "awayTeam": "Busan I Park",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Busan I Park Win",
+    "odds": "3.47"
   },
   {
     "id": 1523193,
@@ -51,7 +24,7 @@
     "homeTeam": "Qingdao Jonoon",
     "awayTeam": "Chengdu Better City",
     "prediction": "Qingdao Jonoon Win",
-    "odds": "1.96"
+    "odds": "1.6"
   },
   {
     "id": 1532803,
@@ -60,7 +33,7 @@
     "homeTeam": "Dalian Yingbo B",
     "awayTeam": "Qingdao Red Lions",
     "prediction": "Dalian Yingbo B Win",
-    "odds": "1.42"
+    "odds": "1.68"
   },
   {
     "id": 1532804,
@@ -69,7 +42,7 @@
     "homeTeam": "Tai'an Tiankuang",
     "awayTeam": "Changchun Xidu",
     "prediction": "Tai'an Tiankuang Win",
-    "odds": "1.84"
+    "odds": "1.35"
   },
   {
     "id": 1534361,
@@ -78,7 +51,7 @@
     "homeTeam": "Smorgon",
     "awayTeam": "Volna",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "odds": "1.93"
   },
   {
     "id": 1541520,
@@ -86,8 +59,8 @@
     "matchTime": "14:00",
     "homeTeam": "Ilves II",
     "awayTeam": "EPS",
-    "prediction": "EPS Win",
-    "odds": "1.86"
+    "prediction": "Ilves II Win",
+    "odds": "1.47"
   },
   {
     "id": 1554746,
@@ -95,8 +68,8 @@
     "matchTime": "14:00",
     "homeTeam": "FC WIL 1900",
     "awayTeam": "Grasshoppers",
-    "prediction": "Grasshoppers Win",
-    "odds": "2.49"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
   },
   {
     "id": 1560532,
@@ -104,7 +77,34 @@
     "matchTime": "14:00",
     "homeTeam": "Union St. Gilloise",
     "awayTeam": "FCSB",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "FCSB Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1567553,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "14:00",
+    "homeTeam": "Bergisch Gladbach",
+    "awayTeam": "SSVg Velbert",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.8"
+  },
+  {
+    "id": 1528641,
+    "league": "League One (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Guangxi Hengchen",
+    "awayTeam": "Dalian Huayi",
+    "prediction": "Guangxi Hengchen Win & Over 1.5",
+    "odds": "2.2"
+  },
+  {
+    "id": 1528642,
+    "league": "League One (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Meizhou Kejia",
+    "awayTeam": "Changchun Yatai",
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   }
 ]
