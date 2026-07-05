@@ -1,30 +1,12 @@
 [
   {
-    "id": 1558484,
-    "league": "Super Liga (Moldova)",
-    "matchTime": "20:00",
-    "homeTeam": "Zimbru",
-    "awayTeam": "CSF Bălți",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1561322,
-    "league": "Segunda División (Uruguay)",
-    "matchTime": "20:00",
-    "homeTeam": "Fenix",
-    "awayTeam": "Sportivo Huracan",
-    "prediction": "Fenix Win",
-    "odds": "1.92"
-  },
-  {
     "id": 1567792,
     "league": "Reserve League (Argentina)",
     "matchTime": "20:00",
     "homeTeam": "Boca Juniors Res.",
     "awayTeam": "River Plate Res.",
     "prediction": "River Plate Res. Win",
-    "odds": "3.2"
+    "odds": "2.68"
   },
   {
     "id": 1567825,
@@ -33,7 +15,7 @@
     "homeTeam": "Danubio",
     "awayTeam": "Juventud",
     "prediction": "Juventud Win",
-    "odds": "3.28"
+    "odds": "2.56"
   },
   {
     "id": 1571476,
@@ -41,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Difaa EL Jadida",
     "awayTeam": "Renaissance Berkane",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Difaa EL Jadida Win",
+    "odds": "1.9"
   },
   {
     "id": 1571477,
@@ -50,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "FAR Rabat",
     "awayTeam": "CR Khemis Zemamra",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.06"
+    "prediction": "FAR Rabat Win",
+    "odds": "1.79"
   },
   {
     "id": 1571478,
@@ -59,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "FUS Rabat",
     "awayTeam": "Yacoub El Mansour",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.16"
+    "prediction": "FUS Rabat Win",
+    "odds": "1.68"
   },
   {
     "id": 1571479,
@@ -69,6 +51,24 @@
     "homeTeam": "Hassania Agadir",
     "awayTeam": "Kawkab Marrakech",
     "prediction": "Kawkab Marrakech Win",
-    "odds": "2.18"
+    "odds": "3.36"
+  },
+  {
+    "id": 1571480,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Ittihad Tanger",
+    "awayTeam": "CODM Meknès",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1571481,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "20:00",
+    "homeTeam": "Maghreb Fès",
+    "awayTeam": "Olympique Dcheïra",
+    "prediction": "Olympique Dcheïra Win",
+    "odds": "2.53"
   }
 ]
