@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554750,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:30",
-    "homeTeam": "RKAV Volendam",
-    "awayTeam": "FC Volendam",
-    "prediction": "RKAV Volendam Win",
-    "odds": "1.71"
-  },
-  {
     "id": 1515882,
     "league": "Virsliga (Latvia)",
     "matchTime": "16:00",
     "homeTeam": "Grobiņa",
     "awayTeam": "Tukums",
     "prediction": "Grobiņa Win",
-    "odds": "1.63"
+    "odds": "1.68"
   },
   {
     "id": 1517207,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Rops",
     "awayTeam": "PKKU",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Rops Win",
+    "odds": "1.56"
   },
   {
     "id": 1521634,
@@ -33,7 +24,7 @@
     "homeTeam": "Legion",
     "awayTeam": "Tallinna Kalev II",
     "prediction": "Legion Win",
-    "odds": "1.59"
+    "odds": "1.64"
   },
   {
     "id": 1536404,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Luki-Energiya",
     "awayTeam": "Cherepovets",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1536845,
@@ -50,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Pobeda Nizhniy Novgorod",
     "awayTeam": "Khimik Dzerzhinsk",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.66"
+    "prediction": "Khimik Dzerzhinsk Win",
+    "odds": "1.95"
   },
   {
     "id": 1539061,
@@ -60,7 +51,7 @@
     "homeTeam": "VIFK W",
     "awayTeam": "IF Gnistan",
     "prediction": "VIFK W Win",
-    "odds": "1.6"
+    "odds": "1.9"
   },
   {
     "id": 1546258,
@@ -68,8 +59,8 @@
     "matchTime": "16:00",
     "homeTeam": "Brazlândia FC SAF U20",
     "awayTeam": "Planaltina U20",
-    "prediction": "Planaltina U20 Win",
-    "odds": "2.33"
+    "prediction": "Brazlândia FC SAF U20 Win",
+    "odds": "1.96"
   },
   {
     "id": 1547303,
@@ -77,8 +68,8 @@
     "matchTime": "16:00",
     "homeTeam": "Novorizontino U20",
     "awayTeam": "Velo Clube U20",
-    "prediction": "Novorizontino U20 Win",
-    "odds": "1.31"
+    "prediction": "Velo Clube U20 Win",
+    "odds": "3.39"
   },
   {
     "id": 1547306,
@@ -86,7 +77,16 @@
     "matchTime": "16:00",
     "homeTeam": "Porto Football U20",
     "awayTeam": "Palmeiras U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.19"
+    "prediction": "Porto Football U20 Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1547308,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "16:00",
+    "homeTeam": "Referencia U20",
+    "awayTeam": "RB Bragantino U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   }
 ]
