@@ -6,9 +6,9 @@
     "homeTeam": "Wydad AC",
     "awayTeam": "UTS Rabat",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "UTS Rabat Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1571481,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Ittihad Tanger",
     "awayTeam": "CODM Meknès",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ittihad Tanger Win",
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Hassania Agadir",
     "awayTeam": "Kawkab Marrakech",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1571478,
@@ -72,15 +72,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1571477,
+    "league": "Botola Pro (Morocco)",
+    "matchDate": "FT",
+    "homeTeam": "FAR Rabat",
+    "awayTeam": "CR Khemis Zemamra",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1571476,
     "league": "Botola Pro (Morocco)",
     "matchDate": "FT",
     "homeTeam": "Difaa EL Jadida",
     "awayTeam": "Renaissance Berkane",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Renaissance Berkane Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567792,
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Fenix",
     "awayTeam": "Sportivo Huracan",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fenix Win",
     "outcome": "Won"
   },
   {
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Zimbru",
     "awayTeam": "CSF Bălți",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1557277,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Gramadense",
-    "awayTeam": "Bagé",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
