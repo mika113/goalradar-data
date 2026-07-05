@@ -1,39 +1,12 @@
 [
   {
-    "id": 1559517,
-    "league": "FA Cup (South-Korea)",
-    "matchTime": "12:00",
-    "homeTeam": "Geoje Citizen",
-    "awayTeam": "Seogot",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
-    "id": 1536842,
-    "league": "Second League - Group 4 (Russia)",
-    "matchTime": "13:00",
-    "homeTeam": "Akron II",
-    "awayTeam": "Izhevsk",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
-  },
-  {
-    "id": 1536843,
-    "league": "Second League - Group 4 (Russia)",
-    "matchTime": "13:00",
-    "homeTeam": "Dinamo Barnaul",
-    "awayTeam": "KDV",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
     "id": 1557963,
     "league": "FA Cup (South-Korea)",
     "matchTime": "13:00",
     "homeTeam": "Busan Transportation",
     "awayTeam": "Gijang United",
-    "prediction": "Gijang United Win",
-    "odds": "2.31"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1557964,
@@ -41,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Gyeongju HNP",
     "awayTeam": "Seosan Pioneer",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "prediction": "Double Chance X2",
+    "odds": "1.29"
   },
   {
     "id": 1557965,
@@ -51,7 +24,7 @@
     "homeTeam": "Pyeongtaek Citizen",
     "awayTeam": "Yeoju Sejong",
     "prediction": "Pyeongtaek Citizen Win & Over 1.5",
-    "odds": "2.46"
+    "odds": "2.8"
   },
   {
     "id": 1506989,
@@ -59,8 +32,8 @@
     "matchTime": "13:30",
     "homeTeam": "Gimcheon Sangmu FC",
     "awayTeam": "Jeju United FC",
-    "prediction": "Gimcheon Sangmu FC Win",
-    "odds": "1.88"
+    "prediction": "Jeju United FC Win",
+    "odds": "2.38"
   },
   {
     "id": 1506990,
@@ -68,7 +41,34 @@
     "matchTime": "13:30",
     "homeTeam": "Gwangju FC",
     "awayTeam": "Ulsan Hyundai FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.49"
+    "prediction": "Gwangju FC Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1506991,
+    "league": "K League 1 (South-Korea)",
+    "matchTime": "13:30",
+    "homeTeam": "FC Seoul",
+    "awayTeam": "Incheon United",
+    "prediction": "FC Seoul Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1510367,
+    "league": "K League 2 (South-Korea)",
+    "matchTime": "13:30",
+    "homeTeam": "Gimhae City",
+    "awayTeam": "Seoul E-Land FC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
+  },
+  {
+    "id": 1510368,
+    "league": "K League 2 (South-Korea)",
+    "matchTime": "13:30",
+    "homeTeam": "Gimpo Citizen",
+    "awayTeam": "Asan Mugunghwa",
+    "prediction": "Asan Mugunghwa Win",
+    "odds": "3.36"
   }
 ]
