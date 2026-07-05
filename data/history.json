@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1544477,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1544476,
@@ -41,11 +41,23 @@
     "matchDate": "FT",
     "homeTeam": "Cobresal",
     "awayTeam": "Cobreloa",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530451,
+    "league": "Torneo Federal A (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Tucuman Central",
+    "awayTeam": "Sol de América",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sol de América Win",
+    "outcome": "Won"
   },
   {
     "id": 1530450,
@@ -53,6 +65,18 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Belgrano",
     "awayTeam": "Independiente De Chivilcoy",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Sportivo Belgrano Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530448,
+    "league": "Torneo Federal A (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "San Martín Mendoza",
+    "awayTeam": "Deportivo Rincon",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -96,51 +120,27 @@
     "outcome": "Won"
   },
   {
-    "id": 1498616,
+    "id": 1525249,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "St. Croix",
+    "awayTeam": "Edgewater Castle",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1498629,
     "league": "Primera Nacional (Argentina)",
     "matchDate": "FT",
-    "homeTeam": "Atletico Mitre",
-    "awayTeam": "All Boys",
+    "homeTeam": "San Martin S.J.",
+    "awayTeam": "Chacarita Juniors",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530440,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Defensores de Belgrano VR",
-    "awayTeam": "Atletico Escobar",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Defensores de Belgrano VR Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530439,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Cipolletti",
-    "awayTeam": "Argentino Monte Maíz",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Argentino Monte Maíz Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530437,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Boca Unidos",
-    "awayTeam": "Sarmiento Resistencia",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Boca Unidos Win",
     "outcome": "Won"
   }
 ]
