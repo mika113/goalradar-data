@@ -1,30 +1,12 @@
 [
   {
-    "id": 1528012,
-    "league": "Premier League (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Aktobe",
-    "awayTeam": "Zhetysu",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1528014,
-    "league": "Premier League (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Atyrau",
-    "awayTeam": "Kaspiy",
-    "prediction": "Atyrau Win",
-    "odds": "1.8"
-  },
-  {
     "id": 1525912,
     "league": "Premier League (Belarus)",
     "matchTime": "18:00",
     "homeTeam": "Belshina",
     "awayTeam": "Baranovichi",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Belshina Win",
+    "odds": "1.35"
   },
   {
     "id": 1528016,
@@ -32,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Kaisar",
     "awayTeam": "Irtysh",
-    "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "prediction": "Kaisar Win",
+    "odds": "1.51"
   },
   {
     "id": 1528019,
@@ -41,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Ordabasy",
     "awayTeam": "Ulytau",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.06"
+    "prediction": "Ordabasy Win",
+    "odds": "1.8"
   },
   {
     "id": 1525918,
@@ -50,7 +32,25 @@
     "matchTime": "20:55",
     "homeTeam": "Torpedo Zhodino",
     "awayTeam": "FC Isloch Minsk R.",
-    "prediction": "Torpedo Zhodino Win",
-    "odds": "1.66"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
+  },
+  {
+    "id": 1494195,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "17:30",
+    "homeTeam": "IF Elfsborg",
+    "awayTeam": "Hammarby FF",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
+  },
+  {
+    "id": 1513202,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "18:00",
+    "homeTeam": "New England II",
+    "awayTeam": "Philadelphia Union II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   }
 ]
