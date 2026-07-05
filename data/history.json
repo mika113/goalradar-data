@@ -21,7 +21,67 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1513194,
+    "league": "MLS Next Pro (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Chattanooga",
+    "awayTeam": "Inter Miami II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1508452,
+    "league": "NWSL Women (USA)",
+    "matchDate": "FT",
+    "homeTeam": "North Carolina Courage W",
+    "awayTeam": "Seattle Reign FC W",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Seattle Reign FC W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493888,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Fort Wayne",
+    "awayTeam": "Spokane Velocity",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Fort Wayne Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493887,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Corpus Christi",
+    "awayTeam": "Chattanooga Red Wolves",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Corpus Christi Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493567,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Rhode Island",
+    "awayTeam": "Orange County SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1561321,
@@ -32,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "CA River Plate Win",
-    "outcome": "Won"
+    "prediction": "Oriental Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520755,
@@ -44,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ceara Win",
-    "outcome": "Lost"
+    "prediction": "Goias Win",
+    "outcome": "Won"
   },
   {
     "id": 1517306,
@@ -53,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Vancouver FC",
     "awayTeam": "York United",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Vancouver FC Win",
@@ -65,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Atlanta United II",
     "awayTeam": "Toronto II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Atlanta United II Win",
     "outcome": "Won"
   },
   {
@@ -81,66 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526883,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Santa Cruz",
-    "awayTeam": "Ituano",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567808,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Velo Clube",
-    "awayTeam": "São Luiz",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1557276,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Brasil DE Pelotas",
-    "awayTeam": "Santa Cruz RS",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544473,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Deportes Iquique",
-    "awayTeam": "Coquimbo Unido",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Deportes Iquique Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526882,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Maringá",
-    "awayTeam": "Volta Redonda",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Maringá Win",
     "outcome": "Won"
   }
 ]
