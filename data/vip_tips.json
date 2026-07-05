@@ -1,30 +1,12 @@
 [
   {
-    "id": 1531893,
-    "league": "Segunda División (Chile)",
-    "matchTime": "23:00",
-    "homeTeam": "Colchagua",
-    "awayTeam": "Lota Schwager",
-    "prediction": "Lota Schwager Win",
-    "odds": "2.3"
-  },
-  {
-    "id": 1544481,
-    "league": "Copa Chile",
-    "matchTime": "23:00",
-    "homeTeam": "Deportes Santa Cruz",
-    "awayTeam": "A. Italiano",
-    "prediction": "A. Italiano Win",
-    "odds": "3.5"
-  },
-  {
     "id": 1550771,
     "league": "Carioca C (Brazil)",
     "matchTime": "23:00",
     "homeTeam": "Búzios",
     "awayTeam": "Itaborai Profute",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.8"
   },
   {
     "id": 1550773,
@@ -32,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Ceres",
     "awayTeam": "Brescia Clube",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Ceres Win",
+    "odds": "1.7"
   },
   {
     "id": 1550774,
@@ -41,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Independente RJ",
     "awayTeam": "Mageense",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1560825,
@@ -50,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Academia Anzoátegui",
     "awayTeam": "Petare FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.21"
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
   },
   {
     "id": 1560826,
@@ -59,8 +41,8 @@
     "matchTime": "23:00",
     "homeTeam": "Club Atletico Barinas",
     "awayTeam": "Atletico el Vigia FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.22"
+    "prediction": "Club Atletico Barinas Win",
+    "odds": "1.72"
   },
   {
     "id": 1560827,
@@ -69,6 +51,24 @@
     "homeTeam": "Atletico Avila FC",
     "awayTeam": "Marítimo",
     "prediction": "Marítimo Win",
-    "odds": "1.65"
+    "odds": "3.41"
+  },
+  {
+    "id": 1560828,
+    "league": "Copa Venezuela",
+    "matchTime": "23:00",
+    "homeTeam": "Fundación Lara Deportiva",
+    "awayTeam": "Caracas FC",
+    "prediction": "Caracas FC Win",
+    "odds": "2.16"
+  },
+  {
+    "id": 1560829,
+    "league": "Copa Venezuela",
+    "matchTime": "23:00",
+    "homeTeam": "Dinamo de Puerto La Cruz",
+    "awayTeam": "Mineros de Guyana",
+    "prediction": "Dinamo de Puerto La Cruz Win",
+    "odds": "1.39"
   }
 ]
