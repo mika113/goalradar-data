@@ -5,8 +5,8 @@
     "matchDate": "FT",
     "homeTeam": "Union Espanola",
     "awayTeam": "O'Higgins",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "O'Higgins Win",
     "outcome": "Won"
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1525248,
@@ -29,7 +29,7 @@
     "matchDate": "FT",
     "homeTeam": "Ballard",
     "awayTeam": "Tacoma Stars",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ballard Win",
@@ -42,10 +42,10 @@
     "homeTeam": "Virginia Marauders",
     "awayTeam": "Bethesda SC",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Bethesda SC Win",
-    "outcome": "Won"
+    "prediction": "Virginia Marauders Win",
+    "outcome": "Lost"
   },
   {
     "id": 1508455,
@@ -54,9 +54,9 @@
     "homeTeam": "Chicago Red Stars W",
     "awayTeam": "Utah Royals W",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Chicago Red Stars W Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -78,9 +78,9 @@
     "homeTeam": "Brazil",
     "awayTeam": "Norway",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Norway Win",
     "outcome": "Won"
   },
   {
