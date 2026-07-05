@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1547307,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Corinthians U20",
     "awayTeam": "Sertãozinho U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Corinthians U20 Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tubarao Win",
-    "outcome": "Won"
+    "prediction": "Nação Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534355,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Atyrau",
     "awayTeam": "Kaspiy",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Kaspiy Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Aktobe",
     "awayTeam": "Zhetysu",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Aktobe Win",
     "outcome": "Won"
   },
   {
@@ -126,9 +126,9 @@
     "homeTeam": "Berazategui",
     "awayTeam": "Puerto Nuevo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Puerto Nuevo Win",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "ODD Ballklubb",
     "awayTeam": "Haugesund",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Haugesund Win",
     "outcome": "Won"
   }
 ]
