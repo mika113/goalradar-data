@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525248,
-    "league": "USL League Two (USA)",
-    "matchTime": "00:00",
-    "homeTeam": "Ballard",
-    "awayTeam": "Tacoma Stars",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
-  },
-  {
-    "id": 1525250,
-    "league": "USL League Two (USA)",
-    "matchTime": "00:00",
-    "homeTeam": "West Seattle Junction",
-    "awayTeam": "Oly Town",
-    "prediction": "Oly Town Win",
-    "odds": "2.47"
-  },
-  {
     "id": 1534061,
     "league": "Northern Super League (Canada)",
     "matchTime": "00:00",
     "homeTeam": "Halifax Tides W",
     "awayTeam": "AFC Toronto W",
-    "prediction": "Double Chance X2",
-    "odds": "1.69"
+    "prediction": "Halifax Tides W Win",
+    "odds": "1.86"
   },
   {
     "id": 1525254,
@@ -32,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "City SC",
     "awayTeam": "Redlands",
-    "prediction": "Redlands Win",
-    "odds": "2.04"
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
   },
   {
     "id": 1544482,
@@ -41,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Union Espanola",
     "awayTeam": "O'Higgins",
-    "prediction": "Union Espanola Win",
-    "odds": "1.42"
+    "prediction": "Both Teams To Score",
+    "odds": "1.95"
   },
   {
     "id": 1513198,
@@ -50,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "FC Cincinnati II",
     "awayTeam": "New York RB II",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
   },
   {
     "id": 1513199,
@@ -59,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Connecticut FC",
     "awayTeam": "Carolina Core",
-    "prediction": "Connecticut FC Win",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1517308,
@@ -68,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Pacific FC",
     "awayTeam": "HFX Wanderers FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.75"
+    "prediction": "HFX Wanderers FC Win",
+    "odds": "1.87"
   },
   {
     "id": 1519386,
@@ -77,8 +59,8 @@
     "matchTime": "01:00",
     "homeTeam": "Delfin SC",
     "awayTeam": "Emelec",
-    "prediction": "Delfin SC Win",
-    "odds": "1.49"
+    "prediction": "Emelec Win",
+    "odds": "3.01"
   },
   {
     "id": 1525251,
@@ -86,7 +68,25 @@
     "matchTime": "01:00",
     "homeTeam": "San Francisco City",
     "awayTeam": "Academica",
-    "prediction": "Academica Win",
-    "odds": "2.12"
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
+  },
+  {
+    "id": 1525256,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "North Carolina II",
+    "awayTeam": "Asheville City",
+    "prediction": "North Carolina II Win",
+    "odds": "1.57"
+  },
+  {
+    "id": 1493570,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Miami FC",
+    "awayTeam": "Birmingham Legion",
+    "prediction": "Miami FC Win",
+    "odds": "1.97"
   }
 ]
