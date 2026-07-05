@@ -1,48 +1,12 @@
 [
   {
-    "id": 1536846,
-    "league": "Second League - Group 4 (Russia)",
-    "matchTime": "18:00",
-    "homeTeam": "Rubin Kazan 2",
-    "awayTeam": "Krylya Sovetov II",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
-  },
-  {
-    "id": 1541709,
-    "league": "Kakkonen - Lohko C (Finland)",
-    "matchTime": "18:00",
-    "homeTeam": "VPS II",
-    "awayTeam": "Huima / Urho",
-    "prediction": "Huima / Urho Win",
-    "odds": "2.42"
-  },
-  {
-    "id": 1543340,
-    "league": "UEFA U19 Championship (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Serbia U19",
-    "awayTeam": "Croatia U19",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1543341,
-    "league": "UEFA U19 Championship (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Ukraine U19",
-    "awayTeam": "Italy U19",
-    "prediction": "Ukraine U19 Win",
-    "odds": "1.82"
-  },
-  {
     "id": 1554749,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Slavia Praha",
-    "prediction": "Double Chance X2",
-    "odds": "1.44"
+    "prediction": "Wieczysta Kraków Win",
+    "odds": "1.56"
   },
   {
     "id": 1554753,
@@ -50,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "FT Braunschweig",
     "awayTeam": "Eintracht Braunschweig",
-    "prediction": "Double Chance X2",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   },
   {
     "id": 1558483,
@@ -59,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Dacia-Buiucani",
     "awayTeam": "Sireți",
-    "prediction": "Sireți Win",
-    "odds": "2.19"
+    "prediction": "Dacia-Buiucani Win",
+    "odds": "1.37"
   },
   {
     "id": 1562879,
@@ -68,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Widzew Łódź",
     "awayTeam": "New England Revolution",
-    "prediction": "Widzew Łódź Win",
-    "odds": "1.6"
+    "prediction": "New England Revolution Win",
+    "odds": "2.91"
   },
   {
     "id": 1567556,
@@ -78,7 +42,7 @@
     "homeTeam": "MTE 1904",
     "awayTeam": "Beşiktaş",
     "prediction": "Beşiktaş Win",
-    "odds": "3.19"
+    "odds": "3.27"
   },
   {
     "id": 1576124,
@@ -86,7 +50,43 @@
     "matchTime": "18:00",
     "homeTeam": "Chabab Atl. Khenifra",
     "awayTeam": "Amal Tiznit",
-    "prediction": "Chabab Atl. Khenifra Win",
-    "odds": "1.73"
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
+  },
+  {
+    "id": 1576125,
+    "league": "Botola 2 (Morocco)",
+    "matchTime": "18:00",
+    "homeTeam": "Chabab Mohammédia",
+    "awayTeam": "KAC Kenitra",
+    "prediction": "Chabab Mohammédia Win",
+    "odds": "1.41"
+  },
+  {
+    "id": 1576126,
+    "league": "Botola 2 (Morocco)",
+    "matchTime": "18:00",
+    "homeTeam": "El Massira",
+    "awayTeam": "Raja Beni Mellal",
+    "prediction": "El Massira Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1576127,
+    "league": "Botola 2 (Morocco)",
+    "matchTime": "18:00",
+    "homeTeam": "Riadi Salmi",
+    "awayTeam": "Chabab Ben Guerir",
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
+  },
+  {
+    "id": 1576128,
+    "league": "Botola 2 (Morocco)",
+    "matchTime": "18:00",
+    "homeTeam": "Moghreb Tetouan",
+    "awayTeam": "Stade Marocain",
+    "prediction": "Stade Marocain Win",
+    "odds": "3.41"
   }
 ]
