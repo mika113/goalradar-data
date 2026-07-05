@@ -6,9 +6,9 @@
     "homeTeam": "D. La Serena",
     "awayTeam": "Antofagasta",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Antofagasta Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "Santiago Wanderers",
     "awayTeam": "Universidad de Chile",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Universidad de Chile Win",
     "outcome": "Won"
   },
   {
@@ -30,10 +30,10 @@
     "homeTeam": "Zenit",
     "awayTeam": "Gimnasia L.P.",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Gimnasia L.P. Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1560535,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Beltinci",
     "awayTeam": "Mura",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Beltinci Win",
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Dinamo Vologda",
     "awayTeam": "Yenisey II",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Dinamo Vologda Win",
-    "outcome": "Won"
+    "prediction": "Yenisey II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1513583,
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1499977,
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Juventud Unida Win",
-    "outcome": "Lost"
+    "prediction": "Sacachispas Win",
+    "outcome": "Won"
   },
   {
     "id": 1499506,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Italiano",
     "awayTeam": "Real Pilar",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sportivo Italiano Win",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "Šiauliai",
     "awayTeam": "FK Zalgiris Vilnius",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FK Zalgiris Vilnius Win",
     "outcome": "Won"
   }
 ]
