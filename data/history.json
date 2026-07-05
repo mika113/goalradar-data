@@ -1,5 +1,41 @@
 [
   {
+    "id": 1547307,
+    "league": "Paulista - U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Corinthians U20",
+    "awayTeam": "Sertãozinho U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1528014,
+    "league": "Premier League (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Atyrau",
+    "awayTeam": "Kaspiy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526884,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ypiranga-RS",
+    "awayTeam": "Paysandu",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1550525,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -20,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "BOA Win",
-    "outcome": "Won"
+    "prediction": "Caldense Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547711,
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1536236,
@@ -72,75 +108,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1567841,
+    "id": 1567842,
     "league": "Premier Soccer League (Zimbabwe)",
     "matchDate": "FT",
-    "homeTeam": "Manica Diamonds",
-    "awayTeam": "Kariba",
-    "homeScore": 1,
+    "homeTeam": "Triangle United",
+    "awayTeam": "Herentals",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Manica Diamonds Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567840,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Highlanders",
-    "awayTeam": "Simba Bhora",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567839,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Hardrock",
-    "awayTeam": "CAPS United",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567838,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Dynamos",
-    "awayTeam": "Agama",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Dynamos Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567829,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Deportivo Santani",
-    "awayTeam": "General Caballero",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "General Caballero Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1559587,
-    "league": "Paulista Série B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Sporting Paulinense",
-    "awayTeam": "Sao Carlos",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sporting Paulinense Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
