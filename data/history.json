@@ -5,6 +5,18 @@
     "matchDate": "FT",
     "homeTeam": "Shanghai Shenhua",
     "awayTeam": "Hangzhou Greentown",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Shanghai Shenhua Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567554,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Bayreuth",
+    "awayTeam": "SpVgg Greuther Fürth",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Nanjing City",
     "awayTeam": "Dongguan United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nanjing City Win",
     "outcome": "Won"
   },
   {
@@ -53,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Meizhou Kejia",
     "awayTeam": "Changchun Yatai",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1528641,
@@ -89,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Union St. Gilloise",
     "awayTeam": "FCSB",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Union St. Gilloise Win",
@@ -101,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Ilves II",
     "awayTeam": "EPS",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "EPS Win",
-    "outcome": "Lost"
+    "prediction": "Ilves II Win",
+    "outcome": "Won"
   },
   {
     "id": 1534361,
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Smorgon Win",
-    "outcome": "Won"
+    "prediction": "Volna Win",
+    "outcome": "Lost"
   },
   {
     "id": 1532804,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Changchun Xidu Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532803,
-    "league": "League Two (China)",
-    "matchDate": "FT",
-    "homeTeam": "Dalian Yingbo B",
-    "awayTeam": "Qingdao Red Lions",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
