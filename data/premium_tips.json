@@ -1,21 +1,12 @@
 [
   {
-    "id": 1519391,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "00:30",
-    "homeTeam": "Universidad Catolica",
-    "awayTeam": "Mushuc Runa SC",
-    "prediction": "Universidad Catolica Win & Over 1.5",
-    "odds": "2.42"
-  },
-  {
     "id": 1520751,
     "league": "Serie B (Brazil)",
     "matchTime": "01:00",
     "homeTeam": "Botafogo SP",
     "awayTeam": "Avai",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
+    "prediction": "Botafogo SP Win",
+    "odds": "1.89"
   },
   {
     "id": 1520759,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Vila Nova",
     "awayTeam": "São Bernardo",
-    "prediction": "São Bernardo Win",
-    "odds": "2.69"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1525260,
@@ -33,7 +24,7 @@
     "homeTeam": "Lorain County Leviathan",
     "awayTeam": "Erie Sports Center",
     "prediction": "Lorain County Leviathan Win",
-    "odds": "1.91"
+    "odds": "1.42"
   },
   {
     "id": 1526877,
@@ -42,7 +33,7 @@
     "homeTeam": "Brusque",
     "awayTeam": "Figueirense",
     "prediction": "Brusque Win",
-    "odds": "1.72"
+    "odds": "1.88"
   },
   {
     "id": 1567832,
@@ -50,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Benjamín Aceval",
     "awayTeam": "Deportivo Capiata",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Double Chance X2",
+    "odds": "1.43"
   },
   {
     "id": 1524540,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Kings Hammer Columbus",
     "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Both Teams To Score",
-    "odds": "1.84"
+    "prediction": "Kings Hammer Columbus Win",
+    "odds": "1.64"
   },
   {
     "id": 1525259,
@@ -68,8 +59,8 @@
     "matchTime": "02:00",
     "homeTeam": "Black Rock",
     "awayTeam": "Seacoast United Phantoms",
-    "prediction": "Black Rock Win & Over 1.5",
-    "odds": "2.42"
+    "prediction": "Double Chance X2",
+    "odds": "1.68"
   },
   {
     "id": 1567843,
@@ -77,8 +68,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ivinhema",
     "awayTeam": "ASA",
-    "prediction": "Ivinhema Win & Over 1.5",
-    "odds": "1.9"
+    "prediction": "Ivinhema Win",
+    "odds": "1.76"
   },
   {
     "id": 1544484,
@@ -86,8 +77,8 @@
     "matchTime": "02:30",
     "homeTeam": "Colo Colo",
     "awayTeam": "Recoleta",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
+    "prediction": "Colo Colo Win & Over 1.5",
+    "odds": "2.42"
   },
   {
     "id": 1544485,
@@ -95,8 +86,8 @@
     "matchTime": "02:30",
     "homeTeam": "Concepción",
     "awayTeam": "Deportes Temuco",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
+    "prediction": "Deportes Temuco Win",
+    "odds": "3.27"
   },
   {
     "id": 1519390,
@@ -104,7 +95,16 @@
     "matchTime": "03:00",
     "homeTeam": "Orense SC",
     "awayTeam": "Tecnico Universitario",
-    "prediction": "Double Chance X2",
-    "odds": "1.6"
+    "prediction": "Orense SC Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1524855,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Rochester",
+    "awayTeam": "Minneapolis City",
+    "prediction": "Rochester Win",
+    "odds": "1.98"
   }
 ]
