@@ -1,57 +1,12 @@
 [
   {
-    "id": 1524540,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Kings Hammer Columbus",
-    "awayTeam": "Dayton Dutch Lions",
-    "prediction": "Kings Hammer Columbus Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1525259,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Black Rock",
-    "awayTeam": "Seacoast United Phantoms",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
-  },
-  {
-    "id": 1567843,
-    "league": "Serie D (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Ivinhema",
-    "awayTeam": "ASA",
-    "prediction": "Ivinhema Win",
-    "odds": "1.73"
-  },
-  {
-    "id": 1544484,
-    "league": "Copa Chile",
-    "matchTime": "02:30",
-    "homeTeam": "Colo Colo",
-    "awayTeam": "Recoleta",
-    "prediction": "Colo Colo Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1544485,
-    "league": "Copa Chile",
-    "matchTime": "02:30",
-    "homeTeam": "Concepción",
-    "awayTeam": "Deportes Temuco",
-    "prediction": "Concepción Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1519390,
     "league": "Liga Pro (Ecuador)",
     "matchTime": "03:00",
     "homeTeam": "Orense SC",
     "awayTeam": "Tecnico Universitario",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
+    "prediction": "Orense SC Win",
+    "odds": "1.51"
   },
   {
     "id": 1524855,
@@ -59,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Rochester",
     "awayTeam": "Minneapolis City",
-    "prediction": "Rochester Win",
-    "odds": "1.87"
+    "prediction": "Double Chance X2",
+    "odds": "1.28"
   },
   {
     "id": 1526875,
@@ -68,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Amazonas",
     "awayTeam": "AO Itabaiana",
-    "prediction": "AO Itabaiana Win",
-    "odds": "1.91"
+    "prediction": "Amazonas Win",
+    "odds": "1.98"
   },
   {
     "id": 1570715,
@@ -78,7 +33,7 @@
     "homeTeam": "USA",
     "awayTeam": "Belgium",
     "prediction": "USA Win",
-    "odds": "1.45"
+    "odds": "1.7"
   },
   {
     "id": 1525261,
@@ -86,7 +41,52 @@
     "matchTime": "03:30",
     "homeTeam": "Lonestar",
     "awayTeam": "Hill Country Lobos",
-    "prediction": "Hill Country Lobos Win",
-    "odds": "3.19"
+    "prediction": "Lonestar Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1525262,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Stars FC",
+    "awayTeam": "Tucson",
+    "prediction": "Stars FC Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1567558,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Bourneview Mill",
+    "awayTeam": "Portadown",
+    "prediction": "Bourneview Mill Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1554755,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Podbeskidzie",
+    "awayTeam": "Baník Ostrava II",
+    "prediction": "Podbeskidzie Win & Over 1.5",
+    "odds": "2.56"
+  },
+  {
+    "id": 1554760,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Karviná",
+    "awayTeam": "Zemplín Michalovce",
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
+  },
+  {
+    "id": 1560538,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Hvidovre",
+    "awayTeam": "Fremad Amager",
+    "prediction": "Double Chance X2",
+    "odds": "1.26"
   }
 ]
