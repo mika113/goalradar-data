@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Brusque",
     "awayTeam": "Figueirense",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Brusque Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525260,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Lorain County Leviathan",
+    "awayTeam": "Erie Sports Center",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -29,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Vila Nova",
     "awayTeam": "São Bernardo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vila Nova Win",
+    "outcome": "Won"
   },
   {
     "id": 1520751,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1519391,
@@ -54,9 +66,9 @@
     "homeTeam": "Universidad Catolica",
     "awayTeam": "Mushuc Runa SC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mushuc Runa SC Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +78,9 @@
     "homeTeam": "Miramar",
     "awayTeam": "Atenas",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Miramar Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Concórdia U20 Win",
-    "outcome": "Won"
+    "prediction": "Joinville U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525241,
@@ -90,7 +102,7 @@
     "homeTeam": "Lansing City",
     "awayTeam": "Flint City Bucks",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Flint City Bucks Win",
     "outcome": "Won"
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Guairena FC Win",
-    "outcome": "Won"
+    "prediction": "Encarnación Win",
+    "outcome": "Lost"
   },
   {
     "id": 1508801,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Spain Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548787,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Colwyn Bay",
-    "awayTeam": "Rhyl",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Colwyn Bay Win",
     "outcome": "Won"
   }
 ]
