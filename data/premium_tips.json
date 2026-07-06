@@ -1,57 +1,12 @@
 [
   {
-    "id": 1576756,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "Portugal",
-    "awayTeam": "Spain",
-    "prediction": "Spain Win",
-    "odds": "2.31"
-  },
-  {
-    "id": 1508801,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Keflavik",
-    "awayTeam": "Fram Reykjavik",
-    "prediction": "Keflavik Win",
-    "odds": "1.59"
-  },
-  {
-    "id": 1567831,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "22:30",
-    "homeTeam": "Encarnación",
-    "awayTeam": "Guairena FC",
-    "prediction": "Encarnación Win",
-    "odds": "1.44"
-  },
-  {
-    "id": 1525241,
-    "league": "USL League Two (USA)",
-    "matchTime": "00:00",
-    "homeTeam": "Lansing City",
-    "awayTeam": "Flint City Bucks",
-    "prediction": "Lansing City Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1539831,
-    "league": "Catarinense U20 (Brazil)",
-    "matchTime": "00:00",
-    "homeTeam": "Concórdia U20",
-    "awayTeam": "Joinville U20",
-    "prediction": "Concórdia U20 Win",
-    "odds": "1.37"
-  },
-  {
     "id": 1561325,
     "league": "Segunda División (Uruguay)",
     "matchTime": "00:00",
     "homeTeam": "Miramar",
     "awayTeam": "Atenas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Miramar Win",
+    "odds": "1.64"
   },
   {
     "id": 1519391,
@@ -59,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "Universidad Catolica",
     "awayTeam": "Mushuc Runa SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.85"
+    "prediction": "Mushuc Runa SC Win",
+    "odds": "3.04"
   },
   {
     "id": 1520751,
@@ -68,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Botafogo SP",
     "awayTeam": "Avai",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Botafogo SP Win",
+    "odds": "1.92"
   },
   {
     "id": 1520759,
@@ -77,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Vila Nova",
     "awayTeam": "São Bernardo",
-    "prediction": "São Bernardo Win",
-    "odds": "2.2"
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
   },
   {
     "id": 1525260,
@@ -86,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Lorain County Leviathan",
     "awayTeam": "Erie Sports Center",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.69"
+    "prediction": "Erie Sports Center Win",
+    "odds": "3.1"
   },
   {
     "id": 1526877,
@@ -95,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Brusque",
     "awayTeam": "Figueirense",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "prediction": "Brusque Win",
+    "odds": "1.45"
   },
   {
     "id": 1567832,
@@ -104,7 +59,52 @@
     "matchTime": "01:00",
     "homeTeam": "Benjamín Aceval",
     "awayTeam": "Deportivo Capiata",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Benjamín Aceval Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1524540,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Kings Hammer Columbus",
+    "awayTeam": "Dayton Dutch Lions",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.2"
+  },
+  {
+    "id": 1525259,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Black Rock",
+    "awayTeam": "Seacoast United Phantoms",
+    "prediction": "Black Rock Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1567843,
+    "league": "Serie D (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Ivinhema",
+    "awayTeam": "ASA",
+    "prediction": "ASA Win",
+    "odds": "1.77"
+  },
+  {
+    "id": 1544484,
+    "league": "Copa Chile",
+    "matchTime": "02:30",
+    "homeTeam": "Colo Colo",
+    "awayTeam": "Recoleta",
+    "prediction": "Colo Colo Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1544485,
+    "league": "Copa Chile",
+    "matchTime": "02:30",
+    "homeTeam": "Concepción",
+    "awayTeam": "Deportes Temuco",
+    "prediction": "Deportes Temuco Win",
+    "odds": "2.1"
   }
 ]
