@@ -6,10 +6,10 @@
     "homeTeam": "Colwyn Bay",
     "awayTeam": "Rhyl",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Colwyn Bay Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1499978,
@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Yupanqui",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sportivo Barracas Win",
@@ -44,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Centro Español Win",
-    "outcome": "Lost"
+    "prediction": "Mercedes Win",
+    "outcome": "Won"
   },
   {
     "id": 1581344,
@@ -89,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "BK Hacken",
     "awayTeam": "Djurgardens IF",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Djurgardens IF Win",
     "outcome": "Won"
@@ -116,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1515883,
