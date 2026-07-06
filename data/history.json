@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1508801,
@@ -44,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Rhyl Win",
-    "outcome": "Lost"
+    "prediction": "Colwyn Bay Win",
+    "outcome": "Won"
   },
   {
     "id": 1499978,
@@ -54,9 +54,9 @@
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Yupanqui",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Yupanqui Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1499972,
@@ -114,7 +114,7 @@
     "homeTeam": "Campos AA",
     "awayTeam": "Tigres do Brasil",
     "homeScore": 3,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Campos AA Win",
     "outcome": "Won"
