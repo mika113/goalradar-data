@@ -1,102 +1,12 @@
 [
   {
-    "id": 1578540,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Brescia Clube",
-    "awayTeam": "Cardoso Moreira",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
-  },
-  {
-    "id": 1578541,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Campos AA",
-    "awayTeam": "Tigres do Brasil",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
-  },
-  {
-    "id": 1578542,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "EC Resende",
-    "awayTeam": "Búzios",
-    "prediction": "EC Resende Win",
-    "odds": "1.96"
-  },
-  {
-    "id": 1581344,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "CAAC Brasil",
-    "awayTeam": "Uniao Central",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
-    "id": 1499972,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Centro Español",
-    "awayTeam": "Mercedes",
-    "prediction": "Mercedes Win",
-    "odds": "2.43"
-  },
-  {
-    "id": 1499973,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Deportivo Muñiz",
-    "awayTeam": "Deportivo Español",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.07"
-  },
-  {
-    "id": 1499978,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Sportivo Barracas",
-    "awayTeam": "Yupanqui",
-    "prediction": "Double Chance X2",
-    "odds": "1.21"
-  },
-  {
-    "id": 1549952,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Defensores Glew",
-    "awayTeam": "Atletico Pilar",
-    "prediction": "Atletico Pilar Win",
-    "odds": "2.82"
-  },
-  {
-    "id": 1549954,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Estrella de Berisso",
-    "awayTeam": "Juventud de Bernal",
-    "prediction": "Estrella de Berisso Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1548787,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Colwyn Bay",
-    "awayTeam": "Rhyl",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
-  },
-  {
     "id": 1576756,
     "league": "World Cup",
     "matchTime": "22:00",
     "homeTeam": "Portugal",
     "awayTeam": "Spain",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.3"
+    "prediction": "Spain Win",
+    "odds": "2.31"
   },
   {
     "id": 1508801,
@@ -105,6 +15,96 @@
     "homeTeam": "Keflavik",
     "awayTeam": "Fram Reykjavik",
     "prediction": "Keflavik Win",
+    "odds": "1.59"
+  },
+  {
+    "id": 1567831,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "22:30",
+    "homeTeam": "Encarnación",
+    "awayTeam": "Guairena FC",
+    "prediction": "Encarnación Win",
     "odds": "1.44"
+  },
+  {
+    "id": 1525241,
+    "league": "USL League Two (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "Lansing City",
+    "awayTeam": "Flint City Bucks",
+    "prediction": "Lansing City Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1539831,
+    "league": "Catarinense U20 (Brazil)",
+    "matchTime": "00:00",
+    "homeTeam": "Concórdia U20",
+    "awayTeam": "Joinville U20",
+    "prediction": "Concórdia U20 Win",
+    "odds": "1.37"
+  },
+  {
+    "id": 1561325,
+    "league": "Segunda División (Uruguay)",
+    "matchTime": "00:00",
+    "homeTeam": "Miramar",
+    "awayTeam": "Atenas",
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
+  },
+  {
+    "id": 1519391,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "00:30",
+    "homeTeam": "Universidad Catolica",
+    "awayTeam": "Mushuc Runa SC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
+  },
+  {
+    "id": 1520751,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Botafogo SP",
+    "awayTeam": "Avai",
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
+  },
+  {
+    "id": 1520759,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Vila Nova",
+    "awayTeam": "São Bernardo",
+    "prediction": "São Bernardo Win",
+    "odds": "2.2"
+  },
+  {
+    "id": 1525260,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Lorain County Leviathan",
+    "awayTeam": "Erie Sports Center",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
+  },
+  {
+    "id": 1526877,
+    "league": "Serie C (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Brusque",
+    "awayTeam": "Figueirense",
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
+  },
+  {
+    "id": 1567832,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Benjamín Aceval",
+    "awayTeam": "Deportivo Capiata",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   }
 ]
