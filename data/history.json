@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567831,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "Encarnación",
+    "awayTeam": "Guairena FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1508801,
     "league": "Úrvalsdeild (Iceland)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Colwyn Bay Win",
-    "outcome": "Won"
+    "prediction": "Rhyl Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499978,
@@ -42,9 +54,9 @@
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Yupanqui",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Sportivo Barracas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo Muñiz",
     "awayTeam": "Deportivo Español",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -66,10 +78,10 @@
     "homeTeam": "Centro Español",
     "awayTeam": "Mercedes",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Centro Español Win",
-    "outcome": "Lost"
+    "prediction": "Mercedes Win",
+    "outcome": "Won"
   },
   {
     "id": 1581344,
@@ -78,10 +90,10 @@
     "homeTeam": "CAAC Brasil",
     "awayTeam": "Uniao Central",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Uniao Central Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1578542,
@@ -101,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Campos AA",
     "awayTeam": "Tigres do Brasil",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Campos AA Win",
     "outcome": "Won"
   },
   {
@@ -127,18 +139,6 @@
     "awayTeam": "Gais",
     "homeScore": 1,
     "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550526,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sportfreunde Schwaig",
-    "awayTeam": "SSV Jahn Regensburg",
-    "homeScore": 2,
-    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
