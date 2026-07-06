@@ -1,5 +1,17 @@
 [
   {
+    "id": 1519391,
+    "league": "Liga Pro (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Universidad Catolica",
+    "awayTeam": "Mushuc Runa SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1561325,
     "league": "Segunda División (Uruguay)",
     "matchDate": "FT",
@@ -30,9 +42,9 @@
     "homeTeam": "Lansing City",
     "awayTeam": "Flint City Bucks",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Lansing City Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1499972,
-    "league": "Primera C (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Centro Español",
-    "awayTeam": "Mercedes",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Centro Español Win",
-    "outcome": "Lost"
   }
 ]
