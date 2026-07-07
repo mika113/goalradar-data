@@ -1,30 +1,12 @@
 [
   {
-    "id": 1527637,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Alga",
-    "awayTeam": "Dordoi Bishkek",
-    "prediction": "Alga Win",
-    "odds": "1.65"
-  },
-  {
     "id": 1554365,
     "league": "UEFA Champions League (World)",
     "matchTime": "18:00",
     "homeTeam": "Kairat Almaty",
     "awayTeam": "Sutjeska",
-    "prediction": "Sutjeska Win",
-    "odds": "2.53"
-  },
-  {
-    "id": 1554777,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Turriff United",
-    "awayTeam": "Aberdeen U21",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Kairat Almaty Win & Over 1.5",
+    "odds": "1.87"
   },
   {
     "id": 1567565,
@@ -32,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico San Luis",
     "awayTeam": "Sporting San Jose",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Sporting San Jose Win",
+    "odds": "2.83"
   },
   {
     "id": 1576805,
@@ -41,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Switzerland",
     "awayTeam": "Colombia",
-    "prediction": "Switzerland Win",
-    "odds": "1.5"
+    "prediction": "Colombia Win",
+    "odds": "2.99"
   },
   {
     "id": 1525264,
@@ -50,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "West Virginia Alliance",
     "awayTeam": "Louisville City II",
-    "prediction": "West Virginia Alliance Win",
-    "odds": "1.87"
+    "prediction": "Louisville City II Win",
+    "odds": "2.75"
   },
   {
     "id": 1567833,
@@ -60,7 +42,7 @@
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "Independiente F.b.c.",
     "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "odds": "1.69"
   },
   {
     "id": 1520750,
@@ -68,7 +50,25 @@
     "matchTime": "02:00",
     "homeTeam": "Athletic Club",
     "awayTeam": "Operario-PR",
-    "prediction": "Athletic Club Win",
-    "odds": "1.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
+  },
+  {
+    "id": 1525244,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Christos",
+    "awayTeam": "Loudoun 2",
+    "prediction": "Christos Win",
+    "odds": "1.76"
+  },
+  {
+    "id": 1525263,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "SF Glens",
+    "awayTeam": "Almaden",
+    "prediction": "SF Glens Win",
+    "odds": "1.99"
   }
 ]
