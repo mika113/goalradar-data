@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "KI Klaksvik",
     "awayTeam": "Atert Bissen",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "KI Klaksvik Win",
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Annagh United Win",
-    "outcome": "Lost"
+    "prediction": "Dungannon Swifts Win",
+    "outcome": "Won"
   },
   {
     "id": 1546630,
@@ -66,10 +66,10 @@
     "homeTeam": "Dartford",
     "awayTeam": "Ebbsfleet United",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Ebbsfleet United Win",
+    "outcome": "Won"
   },
   {
     "id": 1546628,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1554773,
@@ -90,9 +90,9 @@
     "homeTeam": "Limavady United",
     "awayTeam": "Coleraine FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Coleraine FC Win",
     "outcome": "Won"
   },
   {
@@ -114,9 +114,9 @@
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Levski Sofia",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Borac Banja Luka Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
