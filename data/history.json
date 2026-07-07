@@ -42,7 +42,7 @@
     "homeTeam": "KI Klaksvik",
     "awayTeam": "Atert Bissen",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "KI Klaksvik Win",
     "outcome": "Won"
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Dungannon Swifts",
     "awayTeam": "Annagh United",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dungannon Swifts Win",
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1554773,
@@ -105,18 +105,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Larne Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554362,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Borac Banja Luka",
-    "awayTeam": "Levski Sofia",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
