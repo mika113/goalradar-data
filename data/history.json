@@ -24,6 +24,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1525261,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Lonestar",
+    "awayTeam": "Hill Country Lobos",
+    "homeScore": 4,
+    "awayScore": 4,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1570715,
     "league": "World Cup",
     "matchDate": "FT",
@@ -44,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Amazonas Win",
-    "outcome": "Lost"
+    "prediction": "AO Itabaiana Win",
+    "outcome": "Won"
   },
   {
     "id": 1524855,
@@ -128,19 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Dayton Dutch Lions Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567832,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Benjamín Aceval",
-    "awayTeam": "Deportivo Capiata",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Kings Hammer Columbus Win",
     "outcome": "Won"
   }
 ]
