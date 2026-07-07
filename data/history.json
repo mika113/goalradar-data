@@ -5,10 +5,34 @@
     "matchDate": "FT",
     "homeTeam": "Spain U19 W",
     "awayTeam": "Sweden U19 W",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Sweden U19 W Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567561,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Obolon'-Brovar",
+    "awayTeam": "Lokomotiv Kyiv",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1550527,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Pogoń Grod. Mazowiecki",
+    "awayTeam": "AS Trencin",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Pogoń Grod. Mazowiecki Win",
     "outcome": "Won"
   },
   {
@@ -118,29 +142,5 @@
     "status": "FT",
     "prediction": "Monaro Panthers Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1524039,
-    "league": "Queensland NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Gold Coast Knights",
-    "awayTeam": "Lions",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Gold Coast Knights Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554760,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Karviná",
-    "awayTeam": "Zemplín Michalovce",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Zemplín Michalovce Win",
-    "outcome": "Lost"
   }
 ]
