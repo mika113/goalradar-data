@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525273,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Union Macomb",
-    "awayTeam": "AFC Ann Arbor",
-    "prediction": "Union Macomb Win",
-    "odds": "1.7"
-  },
-  {
     "id": 1525274,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Vermont Green",
     "awayTeam": "Connecticut Rush",
-    "prediction": "Connecticut Rush Win",
-    "odds": "2.97"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
   },
   {
     "id": 1538374,
@@ -24,7 +15,7 @@
     "homeTeam": "Gualberto Villarroel SJ",
     "awayTeam": "Real Tomayapo",
     "prediction": "Real Tomayapo Win",
-    "odds": "2.19"
+    "odds": "3.33"
   },
   {
     "id": 1525276,
@@ -32,8 +23,8 @@
     "matchTime": "02:45",
     "homeTeam": "Hudson Valley Hammers",
     "awayTeam": "FC Motown II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Double Chance X2",
+    "odds": "1.22"
   },
   {
     "id": 1519384,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Aucas",
     "awayTeam": "Guayaquil City FC",
-    "prediction": "Aucas Win",
-    "odds": "1.95"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
   },
   {
     "id": 1525269,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Springfield",
     "awayTeam": "Des Moines Menace",
-    "prediction": "Des Moines Menace Win",
-    "odds": "2.8"
+    "prediction": "Springfield Win",
+    "odds": "1.32"
   },
   {
     "id": 1525270,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Sunflower State",
     "awayTeam": "Peoria",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "prediction": "Sunflower State Win",
+    "odds": "1.97"
   },
   {
     "id": 1525272,
@@ -68,8 +59,8 @@
     "matchTime": "03:00",
     "homeTeam": "Texoma",
     "awayTeam": "Denton Diablos",
-    "prediction": "Texoma Win",
-    "odds": "1.44"
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
   },
   {
     "id": 1513206,
@@ -77,8 +68,8 @@
     "matchTime": "04:00",
     "homeTeam": "Vancouver Whitecaps II",
     "awayTeam": "Ventura County",
-    "prediction": "Double Chance X2",
-    "odds": "1.39"
+    "prediction": "Ventura County Win",
+    "odds": "2.33"
   },
   {
     "id": 1525422,
@@ -86,8 +77,8 @@
     "matchTime": "04:00",
     "homeTeam": "Real Colorado Foxes",
     "awayTeam": "Albion Colorado",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "1.32"
+    "prediction": "Albion Colorado Win",
+    "odds": "3.38"
   },
   {
     "id": 1525275,
@@ -96,7 +87,7 @@
     "homeTeam": "Colorado Storm",
     "awayTeam": "Unión Villa Krause",
     "prediction": "Colorado Storm Win",
-    "odds": "1.34"
+    "odds": "1.96"
   },
   {
     "id": 1513197,
@@ -105,6 +96,15 @@
     "homeTeam": "The Town",
     "awayTeam": "Sporting KC II",
     "prediction": "The Town Win",
-    "odds": "1.76"
+    "odds": "1.75"
+  },
+  {
+    "id": 1525271,
+    "league": "USL League Two (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Tacoma Stars",
+    "awayTeam": "Midlakes United",
+    "prediction": "Midlakes United Win",
+    "odds": "2.59"
   }
 ]
