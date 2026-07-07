@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1554758,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Hannover 96",
+    "awayTeam": "Phönix Lübeck",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1543593,
     "league": "Premier League (Bhutan)",
     "matchDate": "FT",
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hwacheon KSPO W Win",
-    "outcome": "Lost"
+    "prediction": "Suwon FMC W Win",
+    "outcome": "Won"
   },
   {
     "id": 1527320,
@@ -104,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Zemplín Michalovce Win",
-    "outcome": "Lost"
+    "prediction": "Karviná Win",
+    "outcome": "Won"
   },
   {
     "id": 1554755,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525262,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Stars FC",
-    "awayTeam": "Tucson",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Tucson Win",
     "outcome": "Won"
   }
 ]
