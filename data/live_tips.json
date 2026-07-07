@@ -1,57 +1,12 @@
 [
   {
-    "id": 1567565,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Atletico San Luis",
-    "awayTeam": "Sporting San Jose",
-    "prediction": "Sporting San Jose Win",
-    "odds": "2.16"
-  },
-  {
-    "id": 1576805,
-    "league": "World Cup",
-    "matchTime": "23:00",
-    "homeTeam": "Switzerland",
-    "awayTeam": "Colombia",
-    "prediction": "Switzerland Win",
-    "odds": "1.67"
-  },
-  {
-    "id": 1525264,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "West Virginia Alliance",
-    "awayTeam": "Louisville City II",
-    "prediction": "West Virginia Alliance Win",
-    "odds": "1.33"
-  },
-  {
-    "id": 1567833,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "01:00",
-    "homeTeam": "Atlético Tembetary",
-    "awayTeam": "Independiente F.b.c.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
-    "id": 1520750,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Operario-PR",
-    "prediction": "Athletic Club Win",
-    "odds": "1.64"
-  },
-  {
     "id": 1525244,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Christos",
     "awayTeam": "Loudoun 2",
-    "prediction": "Loudoun 2 Win",
-    "odds": "2.39"
+    "prediction": "Christos Win",
+    "odds": "1.38"
   },
   {
     "id": 1525263,
@@ -59,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "SF Glens",
     "awayTeam": "Almaden",
-    "prediction": "SF Glens Win",
-    "odds": "1.33"
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   },
   {
     "id": 1525265,
@@ -68,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "AC Connecticut",
     "awayTeam": "Western Mass Pioneers",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.25"
+    "prediction": "AC Connecticut Win",
+    "odds": "1.63"
   },
   {
     "id": 1525266,
@@ -77,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Akron City",
     "awayTeam": "Pittsburgh Riverhounds 2",
-    "prediction": "Akron City Win",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.63"
   },
   {
     "id": 1525268,
@@ -86,7 +41,52 @@
     "matchTime": "02:00",
     "homeTeam": "New England FC",
     "awayTeam": "Boston City",
-    "prediction": "New England FC Win",
+    "prediction": "Boston City Win",
+    "odds": "3.16"
+  },
+  {
+    "id": 1525273,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Union Macomb",
+    "awayTeam": "AFC Ann Arbor",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
+  },
+  {
+    "id": 1525274,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Vermont Green",
+    "awayTeam": "Connecticut Rush",
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
+  },
+  {
+    "id": 1538374,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "02:00",
+    "homeTeam": "Gualberto Villarroel SJ",
+    "awayTeam": "Real Tomayapo",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.91"
+  },
+  {
+    "id": 1525276,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:45",
+    "homeTeam": "Hudson Valley Hammers",
+    "awayTeam": "FC Motown II",
+    "prediction": "FC Motown II Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1519384,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "03:00",
+    "homeTeam": "Aucas",
+    "awayTeam": "Guayaquil City FC",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.58"
   }
 ]
