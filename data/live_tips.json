@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554764,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Prostějov",
-    "awayTeam": "Frýdek-Místek",
-    "prediction": "Prostějov Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1541710,
     "league": "Kakkonen - Lohko C (Finland)",
     "matchTime": "18:30",
     "homeTeam": "JBK",
     "awayTeam": "Kraft",
     "prediction": "JBK Win",
-    "odds": "1.84"
+    "odds": "1.51"
   },
   {
     "id": 1554763,
@@ -24,7 +15,7 @@
     "homeTeam": "Yantra 2019",
     "awayTeam": "Spartak Pleven",
     "prediction": "Yantra 2019 Win",
-    "odds": "1.34"
+    "odds": "1.84"
   },
   {
     "id": 1562883,
@@ -32,8 +23,8 @@
     "matchTime": "18:30",
     "homeTeam": "Železničar Pančevo",
     "awayTeam": "CSKA 1948",
-    "prediction": "CSKA 1948 Win",
-    "odds": "2.99"
+    "prediction": "Železničar Pančevo Win",
+    "odds": "1.55"
   },
   {
     "id": 1547918,
@@ -41,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Plzen",
     "awayTeam": "FC Copenhagen",
-    "prediction": "FC Copenhagen Win",
-    "odds": "2.13"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1554759,
@@ -50,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "SV Horn",
     "awayTeam": "Floridsdorfer AC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1554766,
@@ -59,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Memmingen",
     "awayTeam": "FC Lugano",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
   },
   {
     "id": 1554767,
@@ -68,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "Považská Bystrica",
     "awayTeam": "Poprad",
-    "prediction": "Považská Bystrica Win",
-    "odds": "1.79"
+    "prediction": "Považská Bystrica Win & Over 1.5",
+    "odds": "2.43"
   },
   {
     "id": 1554768,
@@ -77,8 +68,8 @@
     "matchTime": "19:00",
     "homeTeam": "Roskilde",
     "awayTeam": "AB Copenhagen",
-    "prediction": "AB Copenhagen Win",
-    "odds": "2.83"
+    "prediction": "Roskilde Win & Over 1.5",
+    "odds": "2.1"
   },
   {
     "id": 1554769,
@@ -86,7 +77,16 @@
     "matchTime": "19:00",
     "homeTeam": "Spišská Nová Ves",
     "awayTeam": "Liptovský Mikuláš",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
+  },
+  {
+    "id": 1567562,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Garrel",
+    "awayTeam": "VfB Oldenburg",
     "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "odds": "1.44"
   }
 ]
