@@ -20,8 +20,8 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Atletico San Luis Win",
-    "outcome": "Won"
+    "prediction": "Sporting San Jose Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554374,
@@ -54,9 +54,9 @@
     "homeTeam": "Ashford Town (Middlesex)",
     "awayTeam": "Farnborough",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Farnborough Win",
     "outcome": "Won"
   },
   {
@@ -89,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Dartford",
     "awayTeam": "Ebbsfleet United",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Ebbsfleet United Win",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1546628,
@@ -102,9 +102,9 @@
     "homeTeam": "Bishop's Cleeve",
     "awayTeam": "Forest Green",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Forest Green Win",
     "outcome": "Won"
   },
   {
@@ -128,7 +128,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tre Fiori Win",
-    "outcome": "Lost"
+    "prediction": "Larne Win",
+    "outcome": "Won"
   }
 ]
