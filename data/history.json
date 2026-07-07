@@ -1,14 +1,26 @@
 [
   {
+    "id": 1525244,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Christos",
+    "awayTeam": "Loudoun 2",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567833,
     "league": "Division Intermedia (Paraguay)",
     "matchDate": "FT",
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "Independiente F.b.c.",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Independiente F.b.c. Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Gyori ETO FC Win",
-    "outcome": "Lost"
+    "prediction": "Vikingur Reykjavik Win",
+    "outcome": "Won"
   },
   {
     "id": 1560546,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554776,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dungannon Swifts Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548793,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Forfar Athletic",
-    "awayTeam": "Peterhead",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Peterhead Win",
     "outcome": "Won"
   }
 ]
