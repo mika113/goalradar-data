@@ -1,84 +1,12 @@
 [
   {
-    "id": 1525274,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Vermont Green",
-    "awayTeam": "Connecticut Rush",
-    "prediction": "Vermont Green Win",
-    "odds": "1.32"
-  },
-  {
-    "id": 1538374,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "02:00",
-    "homeTeam": "Gualberto Villarroel SJ",
-    "awayTeam": "Real Tomayapo",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
-  },
-  {
-    "id": 1525276,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:45",
-    "homeTeam": "Hudson Valley Hammers",
-    "awayTeam": "FC Motown II",
-    "prediction": "FC Motown II Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1519384,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Aucas",
-    "awayTeam": "Guayaquil City FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
-  },
-  {
-    "id": 1525269,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Springfield",
-    "awayTeam": "Des Moines Menace",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
-  },
-  {
-    "id": 1525270,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Sunflower State",
-    "awayTeam": "Peoria",
-    "prediction": "Sunflower State Win",
-    "odds": "1.94"
-  },
-  {
-    "id": 1525272,
-    "league": "USL League Two (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Texoma",
-    "awayTeam": "Denton Diablos",
-    "prediction": "Double Chance X2",
-    "odds": "1.59"
-  },
-  {
-    "id": 1513206,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Vancouver Whitecaps II",
-    "awayTeam": "Ventura County",
-    "prediction": "Ventura County Win",
-    "odds": "2.13"
-  },
-  {
     "id": 1525422,
     "league": "USL League Two (USA)",
     "matchTime": "04:00",
     "homeTeam": "Real Colorado Foxes",
     "awayTeam": "Albion Colorado",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "1.57"
+    "prediction": "Real Colorado Foxes Win & Over 1.5",
+    "odds": "1.85"
   },
   {
     "id": 1525275,
@@ -87,7 +15,7 @@
     "homeTeam": "Colorado Storm",
     "awayTeam": "Unión Villa Krause",
     "prediction": "Colorado Storm Win",
-    "odds": "1.42"
+    "odds": "1.4"
   },
   {
     "id": 1513197,
@@ -95,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "The Town",
     "awayTeam": "Sporting KC II",
-    "prediction": "The Town Win",
-    "odds": "1.32"
+    "prediction": "The Town Win & Over 1.5",
+    "odds": "1.85"
   },
   {
     "id": 1525271,
@@ -105,6 +33,78 @@
     "homeTeam": "Tacoma Stars",
     "awayTeam": "Midlakes United",
     "prediction": "Midlakes United Win",
-    "odds": "3.24"
+    "odds": "3.42"
+  },
+  {
+    "id": 1532759,
+    "league": "League Two (China)",
+    "matchTime": "11:00",
+    "homeTeam": "Xi'an Ronghai",
+    "awayTeam": "Dalian Kewei",
+    "prediction": "Xi'an Ronghai Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1554779,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:30",
+    "homeTeam": "Lyon",
+    "awayTeam": "Mâcon",
+    "prediction": "Lyon Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1550532,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Teplice",
+    "awayTeam": "Táborsko",
+    "prediction": "Táborsko Win",
+    "odds": "2.72"
+  },
+  {
+    "id": 1550533,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Zaglebie Lubin",
+    "awayTeam": "Baník Ostrava",
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
+  },
+  {
+    "id": 1554780,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Servette FC",
+    "awayTeam": "Stade Lausanne-Ouchy",
+    "prediction": "Double Chance X2",
+    "odds": "1.66"
+  },
+  {
+    "id": 1554781,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Zlin",
+    "awayTeam": "Hapoel Tel Aviv",
+    "prediction": "Hapoel Tel Aviv Win",
+    "odds": "2.02"
+  },
+  {
+    "id": 1560547,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Budapest Honved",
+    "awayTeam": "Soroksar",
+    "prediction": "Budapest Honved Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1562885,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Schalke 04 II",
+    "awayTeam": "Preußen Münster II",
+    "prediction": "Double Chance X2",
+    "odds": "1.57"
   }
 ]
