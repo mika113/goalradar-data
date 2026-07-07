@@ -9,7 +9,31 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1533718,
+    "league": "WK-League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Hwacheon KSPO W",
+    "awayTeam": "Suwon FMC W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1527320,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "The Cove",
+    "awayTeam": "Modbury Jets",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1537423,
@@ -41,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Karviná",
     "awayTeam": "Zemplín Michalovce",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Zemplín Michalovce Win",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554755,
@@ -92,8 +116,8 @@
     "homeScore": 4,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1570715,
@@ -104,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Belgium Win",
-    "outcome": "Won"
+    "prediction": "USA Win",
+    "outcome": "Lost"
   },
   {
     "id": 1526875,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "AO Itabaiana Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1524855,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Rochester",
-    "awayTeam": "Minneapolis City",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Minneapolis City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519390,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Orense SC",
-    "awayTeam": "Tecnico Universitario",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Tecnico Universitario Win",
     "outcome": "Won"
   }
 ]
