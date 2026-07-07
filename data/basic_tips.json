@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554373,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Vardar Skopje",
-    "awayTeam": "KuPS",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
-  },
-  {
     "id": 1554364,
     "league": "UEFA Champions League (World)",
     "matchTime": "20:30",
     "homeTeam": "Floriana",
     "awayTeam": "Shamrock Rovers",
-    "prediction": "Floriana Win",
-    "odds": "1.63"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1554362,
@@ -23,8 +14,8 @@
     "matchTime": "21:30",
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Levski Sofia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "Borac Banja Luka Win",
+    "odds": "1.91"
   },
   {
     "id": 1554372,
@@ -32,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Tre Fiori",
     "awayTeam": "Larne",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "Tre Fiori Win",
+    "odds": "1.34"
   },
   {
     "id": 1554367,
@@ -41,8 +32,8 @@
     "matchTime": "21:45",
     "homeTeam": "KI Klaksvik",
     "awayTeam": "Atert Bissen",
-    "prediction": "Atert Bissen Win",
-    "odds": "2.09"
+    "prediction": "KI Klaksvik Win",
+    "odds": "1.55"
   },
   {
     "id": 1554374,
@@ -50,7 +41,16 @@
     "matchTime": "22:00",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "Gyori ETO FC",
-    "prediction": "Gyori ETO FC Win",
-    "odds": "2.3"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
+  },
+  {
+    "id": 1543594,
+    "league": "Premier League (Bhutan)",
+    "matchTime": "13:00",
+    "homeTeam": "Paro",
+    "awayTeam": "Tensung",
+    "prediction": "Tensung Win",
+    "odds": "2.81"
   }
 ]
