@@ -54,10 +54,10 @@
     "homeTeam": "Memmingen",
     "awayTeam": "FC Lugano",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Memmingen Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554759,
@@ -89,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Lincoln Red Imps FC",
     "awayTeam": "Inter Club d'Escaldes",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Lincoln Red Imps FC Win",
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Kauno Žalgiris",
     "awayTeam": "Drita",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kauno Žalgiris Win",
     "outcome": "Won"
   },
   {
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   }
 ]
