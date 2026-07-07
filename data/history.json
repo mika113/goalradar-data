@@ -1,5 +1,17 @@
 [
   {
+    "id": 1578543,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Uni Souza",
+    "awayTeam": "Barra Mansa",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554364,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -66,10 +78,10 @@
     "homeTeam": "Vardar Skopje",
     "awayTeam": "KuPS",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "KuPS Win",
+    "outcome": "Won"
   },
   {
     "id": 1560543,
@@ -77,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Schwarz-Weiß Bregenz",
     "awayTeam": "Dornbirn",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Schwarz-Weiß Bregenz Win",
-    "outcome": "Won"
+    "prediction": "Dornbirn Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554765,
@@ -89,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Grazer AK",
     "awayTeam": "First Vienna",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -101,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Argentina",
     "awayTeam": "Egypt",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Egypt Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Liptovský Mikuláš Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1554768,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Roskilde",
-    "awayTeam": "AB Copenhagen",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
