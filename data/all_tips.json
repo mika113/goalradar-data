@@ -1,39 +1,12 @@
 [
   {
-    "id": 1527633,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Kara-Balta",
-    "awayTeam": "Talant",
-    "prediction": "Talant Win",
-    "odds": "2.14"
-  },
-  {
-    "id": 1527636,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Neftchi",
-    "awayTeam": "OshMU Aldier",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
-    "id": 1527638,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Asia Talas",
-    "awayTeam": "Abdish-Ata",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
-  },
-  {
     "id": 1554361,
     "league": "UEFA Champions League (World)",
     "matchTime": "19:00",
     "homeTeam": "Ararat-Armenia",
     "awayTeam": "Riga",
-    "prediction": "Both Teams To Score",
-    "odds": "1.9"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1554366,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Kauno Žalgiris",
     "awayTeam": "Drita",
-    "prediction": "Kauno Žalgiris Win",
-    "odds": "1.83"
+    "prediction": "Drita Win",
+    "odds": "2.14"
   },
   {
     "id": 1554368,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Lincoln Red Imps FC",
     "awayTeam": "Inter Club d'Escaldes",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.19"
+    "prediction": "Inter Club d'Escaldes Win",
+    "odds": "2.08"
   },
   {
     "id": 1554371,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Sabah FA",
     "awayTeam": "The New Saints",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "prediction": "Sabah FA Win",
+    "odds": "1.73"
   },
   {
     "id": 1554373,
@@ -69,7 +42,7 @@
     "homeTeam": "Vardar Skopje",
     "awayTeam": "KuPS",
     "prediction": "Vardar Skopje Win",
-    "odds": "1.69"
+    "odds": "1.94"
   },
   {
     "id": 1554364,
@@ -78,7 +51,7 @@
     "homeTeam": "Floriana",
     "awayTeam": "Shamrock Rovers",
     "prediction": "Floriana Win",
-    "odds": "1.95"
+    "odds": "1.56"
   },
   {
     "id": 1554362,
@@ -86,8 +59,8 @@
     "matchTime": "21:30",
     "homeTeam": "Borac Banja Luka",
     "awayTeam": "Levski Sofia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
+    "prediction": "Levski Sofia Win",
+    "odds": "2.66"
   },
   {
     "id": 1554372,
@@ -95,8 +68,8 @@
     "matchTime": "21:30",
     "homeTeam": "Tre Fiori",
     "awayTeam": "Larne",
-    "prediction": "Tre Fiori Win",
-    "odds": "1.85"
+    "prediction": "Tre Fiori Win & Over 1.5",
+    "odds": "2.28"
   },
   {
     "id": 1554367,
@@ -104,8 +77,8 @@
     "matchTime": "21:45",
     "homeTeam": "KI Klaksvik",
     "awayTeam": "Atert Bissen",
-    "prediction": "KI Klaksvik Win",
-    "odds": "1.8"
+    "prediction": "Atert Bissen Win",
+    "odds": "1.69"
   },
   {
     "id": 1554374,
@@ -113,26 +86,8 @@
     "matchTime": "22:00",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "Gyori ETO FC",
-    "prediction": "Gyori ETO FC Win",
-    "odds": "2.25"
-  },
-  {
-    "id": 1554757,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:30",
-    "homeTeam": "Fakel",
-    "awayTeam": "FC Rostov",
-    "prediction": "FC Rostov Win",
-    "odds": "2.56"
-  },
-  {
-    "id": 1562881,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:30",
-    "homeTeam": "Legia Warszawa",
-    "awayTeam": "Hapoel Beer Sheva",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
+    "prediction": "Vikingur Reykjavik Win",
+    "odds": "1.37"
   },
   {
     "id": 1554756,
@@ -140,8 +95,8 @@
     "matchTime": "18:00",
     "homeTeam": "CFR 1907 Cluj",
     "awayTeam": "FC Noah",
-    "prediction": "CFR 1907 Cluj Win",
-    "odds": "1.91"
+    "prediction": "CFR 1907 Cluj Win & Over 1.5",
+    "odds": "1.83"
   },
   {
     "id": 1554764,
@@ -149,8 +104,8 @@
     "matchTime": "18:00",
     "homeTeam": "Prostějov",
     "awayTeam": "Frýdek-Místek",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Prostějov Win & Over 1.5",
+    "odds": "2.3"
   },
   {
     "id": 1541710,
@@ -158,8 +113,8 @@
     "matchTime": "18:30",
     "homeTeam": "JBK",
     "awayTeam": "Kraft",
-    "prediction": "JBK Win",
-    "odds": "1.89"
+    "prediction": "Kraft Win",
+    "odds": "2.05"
   },
   {
     "id": 1554763,
@@ -167,8 +122,8 @@
     "matchTime": "18:30",
     "homeTeam": "Yantra 2019",
     "awayTeam": "Spartak Pleven",
-    "prediction": "Yantra 2019 Win",
-    "odds": "1.49"
+    "prediction": "Double Chance X2",
+    "odds": "1.21"
   },
   {
     "id": 1562883,
@@ -176,8 +131,8 @@
     "matchTime": "18:30",
     "homeTeam": "Železničar Pančevo",
     "awayTeam": "CSKA 1948",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Železničar Pančevo Win & Over 1.5",
+    "odds": "2.34"
   },
   {
     "id": 1547918,
@@ -185,8 +140,8 @@
     "matchTime": "19:00",
     "homeTeam": "Plzen",
     "awayTeam": "FC Copenhagen",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.56"
+    "prediction": "Plzen Win",
+    "odds": "1.37"
   },
   {
     "id": 1554759,
@@ -194,8 +149,8 @@
     "matchTime": "19:00",
     "homeTeam": "SV Horn",
     "awayTeam": "Floridsdorfer AC",
-    "prediction": "Floridsdorfer AC Win",
-    "odds": "2.67"
+    "prediction": "SV Horn Win",
+    "odds": "1.4"
   },
   {
     "id": 1554766,
@@ -203,8 +158,8 @@
     "matchTime": "19:00",
     "homeTeam": "Memmingen",
     "awayTeam": "FC Lugano",
-    "prediction": "FC Lugano Win",
-    "odds": "2.1"
+    "prediction": "Memmingen Win",
+    "odds": "1.57"
   },
   {
     "id": 1554767,
@@ -212,8 +167,8 @@
     "matchTime": "19:00",
     "homeTeam": "Považská Bystrica",
     "awayTeam": "Poprad",
-    "prediction": "Poprad Win",
-    "odds": "1.73"
+    "prediction": "Považská Bystrica Win",
+    "odds": "1.43"
   },
   {
     "id": 1554768,
@@ -221,8 +176,8 @@
     "matchTime": "19:00",
     "homeTeam": "Roskilde",
     "awayTeam": "AB Copenhagen",
-    "prediction": "AB Copenhagen Win",
-    "odds": "3.49"
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   },
   {
     "id": 1554769,
@@ -230,8 +185,8 @@
     "matchTime": "19:00",
     "homeTeam": "Spišská Nová Ves",
     "awayTeam": "Liptovský Mikuláš",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
   },
   {
     "id": 1567562,
@@ -239,8 +194,8 @@
     "matchTime": "19:00",
     "homeTeam": "Garrel",
     "awayTeam": "VfB Oldenburg",
-    "prediction": "VfB Oldenburg Win",
-    "odds": "2.2"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1567563,
@@ -248,8 +203,8 @@
     "matchTime": "19:00",
     "homeTeam": "Novi Pazar",
     "awayTeam": "Zemun",
-    "prediction": "Novi Pazar Win",
-    "odds": "1.63"
+    "prediction": "Both Teams To Score",
+    "odds": "2.03"
   },
   {
     "id": 1567564,
@@ -258,7 +213,7 @@
     "homeTeam": "PAOK",
     "awayTeam": "AEK Larnaca",
     "prediction": "PAOK Win",
-    "odds": "1.89"
+    "odds": "1.62"
   },
   {
     "id": 1576804,
@@ -266,8 +221,8 @@
     "matchTime": "19:00",
     "homeTeam": "Argentina",
     "awayTeam": "Egypt",
-    "prediction": "Egypt Win",
-    "odds": "2.52"
+    "prediction": "Argentina Win",
+    "odds": "1.94"
   },
   {
     "id": 1554765,
@@ -276,7 +231,7 @@
     "homeTeam": "Grazer AK",
     "awayTeam": "First Vienna",
     "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "odds": "1.92"
   },
   {
     "id": 1554770,
@@ -284,8 +239,8 @@
     "matchTime": "19:30",
     "homeTeam": "Gundelfingen",
     "awayTeam": "Augsburg II",
-    "prediction": "Gundelfingen Win",
-    "odds": "1.81"
+    "prediction": "Augsburg II Win",
+    "odds": "1.96"
   },
   {
     "id": 1554771,
@@ -293,8 +248,8 @@
     "matchTime": "19:30",
     "homeTeam": "Dietkirchen",
     "awayTeam": "FSV Frankfurt",
-    "prediction": "FSV Frankfurt Win",
-    "odds": "1.77"
+    "prediction": "Dietkirchen Win",
+    "odds": "1.9"
   },
   {
     "id": 1560543,
@@ -303,7 +258,7 @@
     "homeTeam": "Schwarz-Weiß Bregenz",
     "awayTeam": "Dornbirn",
     "prediction": "Schwarz-Weiß Bregenz Win",
-    "odds": "1.64"
+    "odds": "1.88"
   },
   {
     "id": 1554772,
@@ -312,7 +267,7 @@
     "homeTeam": "Shelbourne",
     "awayTeam": "Celtic",
     "prediction": "Shelbourne Win",
-    "odds": "1.85"
+    "odds": "1.87"
   },
   {
     "id": 1560539,
@@ -320,8 +275,8 @@
     "matchTime": "20:00",
     "homeTeam": "Buxton",
     "awayTeam": "SC Braga",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Buxton Win",
+    "odds": "1.64"
   },
   {
     "id": 1560544,
@@ -330,7 +285,7 @@
     "homeTeam": "Meerssen",
     "awayTeam": "MVV",
     "prediction": "Meerssen Win",
-    "odds": "1.61"
+    "odds": "1.8"
   },
   {
     "id": 1560545,
@@ -338,8 +293,8 @@
     "matchTime": "20:00",
     "homeTeam": "Weiche Flensburg",
     "awayTeam": "Rotenhof",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.02"
   },
   {
     "id": 1554410,
@@ -347,8 +302,8 @@
     "matchTime": "20:15",
     "homeTeam": "UNA Strassen",
     "awayTeam": "La Fiorita",
-    "prediction": "UNA Strassen Win",
-    "odds": "1.63"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1546627,
@@ -356,8 +311,8 @@
     "matchTime": "20:30",
     "homeTeam": "VOC",
     "awayTeam": "Sparta Rotterdam",
-    "prediction": "VOC Win & Over 1.5",
-    "odds": "2.05"
+    "prediction": "Sparta Rotterdam Win",
+    "odds": "2.85"
   },
   {
     "id": 1548784,
@@ -365,8 +320,8 @@
     "matchTime": "20:30",
     "homeTeam": "Gemert",
     "awayTeam": "Helmond Sport",
-    "prediction": "Helmond Sport Win",
-    "odds": "1.95"
+    "prediction": "Gemert Win",
+    "odds": "1.51"
   },
   {
     "id": 1578543,
@@ -375,7 +330,7 @@
     "homeTeam": "Uni Souza",
     "awayTeam": "Barra Mansa",
     "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "odds": "1.22"
   },
   {
     "id": 1543932,
@@ -383,8 +338,8 @@
     "matchTime": "21:00",
     "homeTeam": "Athletico PR U17",
     "awayTeam": "Botafogo U17",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "Botafogo U17 Win",
+    "odds": "2.36"
   },
   {
     "id": 1543934,
@@ -392,8 +347,8 @@
     "matchTime": "21:00",
     "homeTeam": "Corinthians U17",
     "awayTeam": "Palmeiras U17",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Double Chance X2",
+    "odds": "1.37"
   },
   {
     "id": 1543937,
@@ -401,8 +356,8 @@
     "matchTime": "21:00",
     "homeTeam": "Fortaleza U17",
     "awayTeam": "Atlético Mineiro U17",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Fortaleza U17 Win",
+    "odds": "1.46"
   },
   {
     "id": 1543938,
@@ -410,8 +365,8 @@
     "matchTime": "21:00",
     "homeTeam": "Juventude U17",
     "awayTeam": "Santos U17",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Juventude U17 Win",
+    "odds": "1.77"
   },
   {
     "id": 1543940,
@@ -419,8 +374,8 @@
     "matchTime": "21:00",
     "homeTeam": "Vasco U17",
     "awayTeam": "Fluminense U17",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Vasco U17 Win",
+    "odds": "1.36"
   },
   {
     "id": 1546257,
@@ -428,8 +383,8 @@
     "matchTime": "21:00",
     "homeTeam": "Taguatinga U20",
     "awayTeam": "Gama U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
+    "prediction": "Taguatinga U20 Win",
+    "odds": "1.82"
   },
   {
     "id": 1547335,
@@ -437,8 +392,8 @@
     "matchTime": "21:00",
     "homeTeam": "Gremio Prudente U20",
     "awayTeam": "Água Santa U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Água Santa U20 Win",
+    "odds": "2.72"
   },
   {
     "id": 1548785,
@@ -447,7 +402,7 @@
     "homeTeam": "Cove Rangers",
     "awayTeam": "Inverness CT",
     "prediction": "Cove Rangers Win",
-    "odds": "1.59"
+    "odds": "1.88"
   },
   {
     "id": 1554389,
@@ -455,8 +410,8 @@
     "matchTime": "21:00",
     "homeTeam": "AF Elbasani",
     "awayTeam": "Bate Borisov",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
+    "prediction": "AF Elbasani Win & Over 1.5",
+    "odds": "2.17"
   },
   {
     "id": 1578549,
@@ -464,8 +419,8 @@
     "matchTime": "21:00",
     "homeTeam": "Germany U19 W",
     "awayTeam": "Austria U19 W",
-    "prediction": "Germany U19 W Win",
-    "odds": "1.55"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 1562884,
@@ -473,8 +428,8 @@
     "matchTime": "21:15",
     "homeTeam": "Weston-super-Mare",
     "awayTeam": "Bristol Rovers",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Bristol Rovers Win",
+    "odds": "2.67"
   },
   {
     "id": 1548786,
@@ -483,7 +438,7 @@
     "homeTeam": "Airdrie United",
     "awayTeam": "Falkirk",
     "prediction": "Airdrie United Win",
-    "odds": "1.59"
+    "odds": "1.51"
   },
   {
     "id": 1548788,
@@ -491,8 +446,8 @@
     "matchTime": "21:30",
     "homeTeam": "Lossiemouth",
     "awayTeam": "Nairn County",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   },
   {
     "id": 1550528,
@@ -500,8 +455,8 @@
     "matchTime": "21:30",
     "homeTeam": "Blyth Town",
     "awayTeam": "Gateshead",
-    "prediction": "Blyth Town Win",
-    "odds": "1.78"
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   },
   {
     "id": 1550529,
@@ -509,8 +464,8 @@
     "matchTime": "21:30",
     "homeTeam": "Darvel",
     "awayTeam": "Ayr Utd",
-    "prediction": "Double Chance X2",
-    "odds": "1.69"
+    "prediction": "Ayr Utd Win",
+    "odds": "2.03"
   },
   {
     "id": 1554773,
@@ -518,8 +473,8 @@
     "matchTime": "21:30",
     "homeTeam": "Limavady United",
     "awayTeam": "Coleraine FC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Limavady United Win",
+    "odds": "1.57"
   },
   {
     "id": 1567558,
@@ -528,7 +483,7 @@
     "homeTeam": "Bourneview Mill",
     "awayTeam": "Portadown",
     "prediction": "Bourneview Mill Win",
-    "odds": "1.84"
+    "odds": "1.65"
   },
   {
     "id": 1546628,
@@ -536,8 +491,8 @@
     "matchTime": "21:45",
     "homeTeam": "Bishop's Cleeve",
     "awayTeam": "Forest Green",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
   },
   {
     "id": 1546629,
@@ -545,8 +500,8 @@
     "matchTime": "21:45",
     "homeTeam": "Aveley",
     "awayTeam": "Folkestone Invicta",
-    "prediction": "Both Teams To Score",
-    "odds": "1.94"
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   },
   {
     "id": 1546630,
@@ -554,8 +509,8 @@
     "matchTime": "21:45",
     "homeTeam": "Dartford",
     "awayTeam": "Ebbsfleet United",
-    "prediction": "Dartford Win & Over 1.5",
-    "odds": "1.84"
+    "prediction": "Ebbsfleet United Win",
+    "odds": "3.1"
   },
   {
     "id": 1547917,
@@ -563,8 +518,8 @@
     "matchTime": "21:45",
     "homeTeam": "East Kilbride",
     "awayTeam": "Celtic II",
-    "prediction": "East Kilbride Win",
-    "odds": "1.68"
+    "prediction": "Celtic II Win",
+    "odds": "2.26"
   },
   {
     "id": 1547919,
@@ -572,8 +527,8 @@
     "matchTime": "21:45",
     "homeTeam": "Evesham United",
     "awayTeam": "Redditch United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
+    "prediction": "Evesham United Win",
+    "odds": "1.42"
   },
   {
     "id": 1548793,
@@ -581,8 +536,8 @@
     "matchTime": "21:45",
     "homeTeam": "Forfar Athletic",
     "awayTeam": "Peterhead",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
+    "prediction": "Forfar Athletic Win",
+    "odds": "1.75"
   },
   {
     "id": 1550530,
@@ -590,8 +545,8 @@
     "matchTime": "21:45",
     "homeTeam": "Dungannon Swifts",
     "awayTeam": "Annagh United",
-    "prediction": "Annagh United Win",
-    "odds": "2.69"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1550531,
@@ -599,8 +554,8 @@
     "matchTime": "21:45",
     "homeTeam": "Hitchin Town",
     "awayTeam": "Barnet",
-    "prediction": "Hitchin Town Win",
-    "odds": "1.58"
+    "prediction": "Barnet Win",
+    "odds": "2.42"
   },
   {
     "id": 1554774,
@@ -608,8 +563,8 @@
     "matchTime": "21:45",
     "homeTeam": "Ashford Town (Middlesex)",
     "awayTeam": "Farnborough",
-    "prediction": "Ashford Town (Middlesex) Win",
-    "odds": "1.42"
+    "prediction": "Farnborough Win",
+    "odds": "2.35"
   },
   {
     "id": 1554775,
@@ -618,7 +573,7 @@
     "homeTeam": "Barry Town",
     "awayTeam": "Goytre AFC",
     "prediction": "Barry Town Win",
-    "odds": "1.34"
+    "odds": "1.54"
   },
   {
     "id": 1554776,
@@ -627,7 +582,7 @@
     "homeTeam": "Vale of Leithen",
     "awayTeam": "Gala Fairydean Rovers",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "odds": "1.87"
   },
   {
     "id": 1560546,
@@ -635,8 +590,8 @@
     "matchTime": "21:45",
     "homeTeam": "Bedford Town",
     "awayTeam": "Aldershot Town",
-    "prediction": "Bedford Town Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
   },
   {
     "id": 1554777,
@@ -644,8 +599,8 @@
     "matchTime": "22:00",
     "homeTeam": "Turriff United",
     "awayTeam": "Aberdeen U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.06"
+    "prediction": "Turriff United Win",
+    "odds": "1.8"
   },
   {
     "id": 1567565,
@@ -654,7 +609,7 @@
     "homeTeam": "Atletico San Luis",
     "awayTeam": "Sporting San Jose",
     "prediction": "Atletico San Luis Win",
-    "odds": "1.94"
+    "odds": "1.48"
   },
   {
     "id": 1576805,
@@ -663,7 +618,7 @@
     "homeTeam": "Switzerland",
     "awayTeam": "Colombia",
     "prediction": "Switzerland Win",
-    "odds": "1.79"
+    "odds": "1.31"
   },
   {
     "id": 1525264,
@@ -671,8 +626,8 @@
     "matchTime": "01:00",
     "homeTeam": "West Virginia Alliance",
     "awayTeam": "Louisville City II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "West Virginia Alliance Win & Over 1.5",
+    "odds": "2.8"
   },
   {
     "id": 1567833,
@@ -680,8 +635,8 @@
     "matchTime": "01:00",
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "Independiente F.b.c.",
-    "prediction": "Atlético Tembetary Win & Over 1.5",
-    "odds": "1.92"
+    "prediction": "Atlético Tembetary Win",
+    "odds": "1.96"
   },
   {
     "id": 1520750,
@@ -689,8 +644,8 @@
     "matchTime": "02:00",
     "homeTeam": "Athletic Club",
     "awayTeam": "Operario-PR",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
+    "prediction": "Athletic Club Win",
+    "odds": "1.76"
   },
   {
     "id": 1525244,
@@ -698,8 +653,8 @@
     "matchTime": "02:00",
     "homeTeam": "Christos",
     "awayTeam": "Loudoun 2",
-    "prediction": "Loudoun 2 Win",
-    "odds": "2.87"
+    "prediction": "Christos Win",
+    "odds": "1.63"
   },
   {
     "id": 1525263,
@@ -707,8 +662,8 @@
     "matchTime": "02:00",
     "homeTeam": "SF Glens",
     "awayTeam": "Almaden",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "SF Glens Win",
+    "odds": "1.39"
   },
   {
     "id": 1525265,
@@ -716,7 +671,52 @@
     "matchTime": "02:00",
     "homeTeam": "AC Connecticut",
     "awayTeam": "Western Mass Pioneers",
-    "prediction": "AC Connecticut Win & Over 1.5",
-    "odds": "2.08"
+    "prediction": "AC Connecticut Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1525266,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Akron City",
+    "awayTeam": "Pittsburgh Riverhounds 2",
+    "prediction": "Akron City Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1525268,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "New England FC",
+    "awayTeam": "Boston City",
+    "prediction": "Boston City Win",
+    "odds": "3.03"
+  },
+  {
+    "id": 1525273,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Union Macomb",
+    "awayTeam": "AFC Ann Arbor",
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
+  },
+  {
+    "id": 1525274,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Vermont Green",
+    "awayTeam": "Connecticut Rush",
+    "prediction": "Connecticut Rush Win",
+    "odds": "2.91"
+  },
+  {
+    "id": 1538374,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "02:00",
+    "homeTeam": "Gualberto Villarroel SJ",
+    "awayTeam": "Real Tomayapo",
+    "prediction": "Both Teams To Score",
+    "odds": "1.93"
   }
 ]
