@@ -1,21 +1,12 @@
 [
   {
-    "id": 1513197,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "The Town",
-    "awayTeam": "Sporting KC II",
-    "prediction": "Sporting KC II Win",
-    "odds": "2.09"
-  },
-  {
     "id": 1525271,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Tacoma Stars",
     "awayTeam": "Midlakes United",
     "prediction": "Tacoma Stars Win",
-    "odds": "1.57"
+    "odds": "1.69"
   },
   {
     "id": 1532759,
@@ -23,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "Xi'an Ronghai",
     "awayTeam": "Dalian Kewei",
-    "prediction": "Double Chance X2",
-    "odds": "1.6"
+    "prediction": "Xi'an Ronghai Win",
+    "odds": "1.87"
   },
   {
     "id": 1554779,
@@ -32,8 +23,8 @@
     "matchTime": "11:30",
     "homeTeam": "Lyon",
     "awayTeam": "Mâcon",
-    "prediction": "Double Chance X2",
-    "odds": "1.54"
+    "prediction": "Lyon Win",
+    "odds": "1.86"
   },
   {
     "id": 1550532,
@@ -42,7 +33,7 @@
     "homeTeam": "Teplice",
     "awayTeam": "Táborsko",
     "prediction": "Teplice Win",
-    "odds": "1.76"
+    "odds": "1.52"
   },
   {
     "id": 1550533,
@@ -51,7 +42,7 @@
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Baník Ostrava",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
+    "odds": "2.02"
   },
   {
     "id": 1554780,
@@ -60,7 +51,7 @@
     "homeTeam": "Servette FC",
     "awayTeam": "Stade Lausanne-Ouchy",
     "prediction": "Servette FC Win",
-    "odds": "1.45"
+    "odds": "1.75"
   },
   {
     "id": 1554781,
@@ -68,8 +59,8 @@
     "matchTime": "12:00",
     "homeTeam": "Zlin",
     "awayTeam": "Hapoel Tel Aviv",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "Zlin Win",
+    "odds": "1.92"
   },
   {
     "id": 1560547,
@@ -77,8 +68,8 @@
     "matchTime": "12:00",
     "homeTeam": "Budapest Honved",
     "awayTeam": "Soroksar",
-    "prediction": "Budapest Honved Win",
-    "odds": "1.73"
+    "prediction": "Soroksar Win",
+    "odds": "2.92"
   },
   {
     "id": 1562885,
@@ -86,7 +77,16 @@
     "matchTime": "12:00",
     "homeTeam": "Schalke 04 II",
     "awayTeam": "Preußen Münster II",
-    "prediction": "Schalke 04 II Win",
-    "odds": "1.6"
+    "prediction": "Preußen Münster II Win",
+    "odds": "2.22"
+  },
+  {
+    "id": 1554790,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:30",
+    "homeTeam": "Pogon Szczecin",
+    "awayTeam": "Chrobry Głogów",
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
   }
 ]
