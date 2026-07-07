@@ -42,9 +42,21 @@
     "homeTeam": "Dinamo Makhachkala",
     "awayTeam": "Gimnasia L.P.",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Gimnasia L.P. Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554762,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Viktoria Köln",
+    "awayTeam": "TSV Steinbach",
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "FC Viktoria Köln Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +68,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hvidovre Win",
-    "outcome": "Won"
+    "prediction": "Fremad Amager Win",
+    "outcome": "Lost"
   },
   {
     "id": 1533718,
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hwacheon KSPO W Win",
-    "outcome": "Lost"
+    "prediction": "Suwon FMC W Win",
+    "outcome": "Won"
   },
   {
     "id": 1527320,
@@ -116,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Karviná Win",
-    "outcome": "Won"
+    "prediction": "Zemplín Michalovce Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554755,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Podbeskidzie Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567559,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Arda Kardzhali",
-    "awayTeam": "Beitar Jerusalem",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
