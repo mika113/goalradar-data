@@ -12,6 +12,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1548784,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Gemert",
+    "awayTeam": "Helmond Sport",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546627,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "VOC",
+    "awayTeam": "Sparta Rotterdam",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554410,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -21,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554772,
@@ -33,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554373,
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560543,
@@ -53,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Schwarz-Weiß Bregenz",
     "awayTeam": "Dornbirn",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Schwarz-Weiß Bregenz Win",
@@ -89,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "PAOK",
     "awayTeam": "AEK Larnaca",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "PAOK Win",
     "outcome": "Won"
   },
   {
@@ -116,7 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
