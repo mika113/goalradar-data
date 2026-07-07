@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554374,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Vikingur Reykjavik",
-    "awayTeam": "Gyori ETO FC",
-    "prediction": "Vikingur Reykjavik Win",
-    "odds": "1.34"
-  },
-  {
     "id": 1543594,
     "league": "Premier League (Bhutan)",
     "matchTime": "13:00",
     "homeTeam": "Paro",
     "awayTeam": "Tensung",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
+    "prediction": "Paro Win",
+    "odds": "1.6"
   },
   {
     "id": 1527632,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Ilbirs",
     "awayTeam": "Ozgon",
-    "prediction": "Ilbirs Win",
-    "odds": "1.33"
+    "prediction": "Both Teams To Score",
+    "odds": "2.19"
   },
   {
     "id": 1527634,
@@ -32,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Alay",
     "awayTeam": "Toktogul",
-    "prediction": "Alay Win",
-    "odds": "1.96"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1527635,
@@ -41,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Asiagoal",
     "awayTeam": "Bars",
-    "prediction": "Bars Win",
-    "odds": "1.97"
+    "prediction": "Asiagoal Win",
+    "odds": "1.42"
   },
   {
     "id": 1527639,
@@ -50,7 +41,16 @@
     "matchTime": "17:00",
     "homeTeam": "Bishkek City",
     "awayTeam": "Muras United",
-    "prediction": "Bishkek City Win",
-    "odds": "1.49"
+    "prediction": "Muras United Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1527637,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchTime": "17:30",
+    "homeTeam": "Alga",
+    "awayTeam": "Dordoi Bishkek",
+    "prediction": "Alga Win",
+    "odds": "1.35"
   }
 ]
