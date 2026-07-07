@@ -12,18 +12,6 @@
     "outcome": "Won"
   },
   {
-    "id": 1567565,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico San Luis",
-    "awayTeam": "Sporting San Jose",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Atletico San Luis Win",
-    "outcome": "Won"
-  },
-  {
     "id": 1554374,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -32,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Gyori ETO FC Win",
-    "outcome": "Lost"
+    "prediction": "Vikingur Reykjavik Win",
+    "outcome": "Won"
   },
   {
     "id": 1560546,
@@ -128,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Redditch United Win",
-    "outcome": "Won"
+    "prediction": "Evesham United Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546630,
@@ -141,6 +129,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Dartford Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546629,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Aveley",
+    "awayTeam": "Folkestone Invicta",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Aveley Win",
     "outcome": "Won"
   }
 ]
