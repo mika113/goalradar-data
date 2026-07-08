@@ -6,10 +6,10 @@
     "homeTeam": "Southern Soccer Academy",
     "awayTeam": "East Atlanta",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "East Atlanta Win",
+    "outcome": "Won"
   },
   {
     "id": 1525306,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567352,
@@ -54,9 +54,9 @@
     "homeTeam": "Virginia Beach City",
     "awayTeam": "Annapolis Blues",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Annapolis Blues Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "SC United Bantams",
     "awayTeam": "Charlotte Independence 2",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Charlotte Independence 2 Win",
     "outcome": "Won"
   },
   {
@@ -78,10 +78,10 @@
     "homeTeam": "Real Central New Jersey",
     "awayTeam": "West Chester United",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Real Central New Jersey Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525296,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "Lehigh Valley United",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -113,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Cedar Stars Rush",
     "awayTeam": "Ironbound",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1525288,
