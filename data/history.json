@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Anjos do Céu U20",
     "awayTeam": "Alianca U20",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Anjos do Céu U20 Win",
-    "outcome": "Lost"
+    "prediction": "Alianca U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1554797,
@@ -68,8 +68,20 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vendsyssel FF Win",
-    "outcome": "Lost"
+    "prediction": "Kolding IF Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547920,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Basel 1893",
+    "awayTeam": "Yverdon Sport",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Yverdon Sport Win",
+    "outcome": "Won"
   },
   {
     "id": 1583648,
@@ -116,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1547922,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543594,
-    "league": "Premier League (Bhutan)",
-    "matchDate": "FT",
-    "homeTeam": "Paro",
-    "awayTeam": "Tensung",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Paro Win",
     "outcome": "Won"
   }
 ]
