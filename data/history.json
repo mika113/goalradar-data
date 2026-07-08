@@ -20,8 +20,8 @@
     "homeScore": 5,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Capo Win",
-    "outcome": "Won"
+    "prediction": "Seahorses Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525271,
@@ -56,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Albion Colorado Win",
-    "outcome": "Won"
+    "prediction": "Real Colorado Foxes Win",
+    "outcome": "Lost"
   },
   {
     "id": 1513206,
@@ -93,54 +93,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Peoria Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525269,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Springfield",
-    "awayTeam": "Des Moines Menace",
-    "homeScore": 2,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Springfield Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1519384,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Aucas",
-    "awayTeam": "Guayaquil City FC",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Aucas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525276,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Hudson Valley Hammers",
-    "awayTeam": "FC Motown II",
-    "homeScore": 0,
-    "awayScore": 5,
-    "status": "FT",
-    "prediction": "FC Motown II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538374,
-    "league": "Primera División (Bolivia)",
-    "matchDate": "FT",
-    "homeTeam": "Gualberto Villarroel SJ",
-    "awayTeam": "Real Tomayapo",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gualberto Villarroel SJ Win",
     "outcome": "Won"
   }
 ]
