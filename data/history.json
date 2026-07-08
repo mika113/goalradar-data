@@ -5,10 +5,34 @@
     "matchDate": "FT",
     "homeTeam": "Aarhus Fremad",
     "awayTeam": "Silkeborg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Silkeborg Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1550534,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Aalborg",
+    "awayTeam": "Randers FC",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547922,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Piast Gliwice",
+    "awayTeam": "Miedz Legnica",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Piast Gliwice Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Paro",
     "awayTeam": "Tensung",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Paro Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Pogon Szczecin",
     "awayTeam": "Chrobry Głogów",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -44,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Budapest Honved Win",
-    "outcome": "Won"
+    "prediction": "Soroksar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554794,
@@ -54,9 +78,9 @@
     "homeTeam": "Tychy 71",
     "awayTeam": "Sparta Katowice",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sparta Katowice Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +90,9 @@
     "homeTeam": "Zlin",
     "awayTeam": "Hapoel Tel Aviv",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Hapoel Tel Aviv Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +102,9 @@
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Baník Ostrava",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Baník Ostrava Win",
     "outcome": "Won"
   },
   {
@@ -89,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Teplice",
     "awayTeam": "Táborsko",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Teplice Win",
