@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Zenit",
     "awayTeam": "Neftchi",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Zenit Win",
+    "outcome": "Won"
   },
   {
     "id": 1554801,
@@ -20,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "SpVgg Greuther Fürth Win",
-    "outcome": "Won"
+    "prediction": "Eltersdorf Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554789,
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Flora Tallinn",
     "awayTeam": "Saburtalo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Saburtalo Win",
@@ -77,66 +77,6 @@
     "matchDate": "FT",
     "homeTeam": "Austria Vienna",
     "awayTeam": "Dunajska Streda",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582360,
-    "league": "UEFA U19 Championship (World)",
-    "matchDate": "FT",
-    "homeTeam": "Spain U19",
-    "awayTeam": "Croatia U19",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Spain U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567570,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "NK Slaven Belupo",
-    "awayTeam": "Csikszereda",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1560550,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Spartak Varna",
-    "awayTeam": "Nesebar",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Spartak Varna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554784,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Celje",
-    "awayTeam": "MTK Budapest",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "MTK Budapest Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548789,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rapid",
-    "awayTeam": "FK Košice",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
