@@ -1,39 +1,12 @@
 [
   {
-    "id": 1544673,
-    "league": "Canadian Championship (Canada)",
-    "matchTime": "02:00",
-    "homeTeam": "Supra du Quebec",
-    "awayTeam": "Atlético Ottawa",
-    "prediction": "Supra du Quebec Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1567352,
-    "league": "Copa De La Liga (Chile)",
-    "matchTime": "02:00",
-    "homeTeam": "Union La Calera",
-    "awayTeam": "Coquimbo Unido",
-    "prediction": "Union La Calera Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1525277,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Evergreen",
-    "awayTeam": "Lionsbridge",
-    "prediction": "Evergreen Win",
-    "odds": "1.82"
-  },
-  {
     "id": 1525306,
     "league": "USL League Two (USA)",
     "matchTime": "02:30",
     "homeTeam": "Apotheos",
     "awayTeam": "Dothan United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "prediction": "Dothan United Win",
+    "odds": "2.12"
   },
   {
     "id": 1525307,
@@ -41,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Manhattan",
     "awayTeam": "New Jersey Copa",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Manhattan Win",
+    "odds": "1.72"
   },
   {
     "id": 1525308,
@@ -50,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Morris Elite",
     "awayTeam": "Westchester Flames",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Double Chance X2",
+    "odds": "1.48"
   },
   {
     "id": 1525310,
@@ -59,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "Southern Soccer Academy",
     "awayTeam": "East Atlanta",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "East Atlanta Win",
+    "odds": "1.62"
   },
   {
     "id": 1525278,
@@ -68,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Davis Legacy",
     "awayTeam": "San Francisco City",
-    "prediction": "Davis Legacy Win",
-    "odds": "1.91"
+    "prediction": "San Francisco City Win",
+    "odds": "1.94"
   },
   {
     "id": 1525279,
@@ -77,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Project 51O",
     "awayTeam": "Marin",
-    "prediction": "Project 51O Win",
-    "odds": "1.48"
+    "prediction": "Double Chance X2",
+    "odds": "1.72"
   },
   {
     "id": 1525280,
@@ -86,7 +59,34 @@
     "matchTime": "03:00",
     "homeTeam": "Rochester",
     "awayTeam": "St. Croix",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "St. Croix Win",
+    "odds": "3.26"
+  },
+  {
+    "id": 1525291,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Houston FC",
+    "awayTeam": "Houston Sur",
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
+  },
+  {
+    "id": 1525292,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Jackson Boom",
+    "awayTeam": "Hattiesburg",
+    "prediction": "Hattiesburg Win",
+    "odds": "2.47"
+  },
+  {
+    "id": 1525294,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Mississippi Brilla",
+    "awayTeam": "Louisiana Krewe",
+    "prediction": "Mississippi Brilla Win",
+    "odds": "1.63"
   }
 ]
