@@ -1,5 +1,17 @@
 [
   {
+    "id": 1554370,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Petrocub",
+    "awayTeam": "Egnatia Rrogozhinë",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1554812,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554805,
@@ -18,9 +30,9 @@
     "homeTeam": "Lichtenberg",
     "awayTeam": "Hertha BSC",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Hertha BSC Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -33,90 +45,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Standard Liege Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554803,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit",
-    "awayTeam": "Neftchi",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Zenit Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554801,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Eltersdorf",
-    "awayTeam": "SpVgg Greuther Fürth",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "SpVgg Greuther Fürth Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554789,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FK Jablonec",
-    "awayTeam": "Pafos",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554778,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Olympiakos Piraeus",
-    "awayTeam": "Raków Częstochowa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1554414,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zira",
-    "awayTeam": "Torpedo Kutaisi",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zira Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554363,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Flora Tallinn",
-    "awayTeam": "Saburtalo",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Saburtalo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546631,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Austria Vienna",
-    "awayTeam": "Dunajska Streda",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Austria Vienna Win",
     "outcome": "Won"
   }
 ]
