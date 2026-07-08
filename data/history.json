@@ -56,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1547922,
@@ -81,66 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Paro Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554790,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Pogon Szczecin",
-    "awayTeam": "Chrobry Głogów",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Pogon Szczecin Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550536,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zulte Waregem",
-    "awayTeam": "Raków Częstochowa",
-    "homeScore": 4,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Raków Częstochowa Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1562885,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Schalke 04 II",
-    "awayTeam": "Preußen Münster II",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Schalke 04 II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560547,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Budapest Honved",
-    "awayTeam": "Soroksar",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Budapest Honved Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554794,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Tychy 71",
-    "awayTeam": "Sparta Katowice",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
