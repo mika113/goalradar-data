@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1547922,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Paro",
     "awayTeam": "Tensung",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Paro Win",
@@ -128,19 +128,19 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hapoel Tel Aviv Win",
-    "outcome": "Won"
+    "prediction": "Zlin Win",
+    "outcome": "Lost"
   },
   {
-    "id": 1550533,
+    "id": 1554780,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Zaglebie Lubin",
-    "awayTeam": "Baník Ostrava",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeTeam": "Servette FC",
+    "awayTeam": "Stade Lausanne-Ouchy",
+    "homeScore": 2,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Baník Ostrava Win",
+    "prediction": "Servette FC Win",
     "outcome": "Won"
   }
 ]
