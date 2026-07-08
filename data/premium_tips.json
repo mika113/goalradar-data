@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554783,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:30",
-    "homeTeam": "SV Babelsberg 03",
-    "awayTeam": "Hamburger SV II",
-    "prediction": "SV Babelsberg 03 Win",
-    "odds": "1.49"
-  },
-  {
     "id": 1554787,
     "league": "Friendlies Clubs (World)",
     "matchTime": "16:00",
     "homeTeam": "Genk",
     "awayTeam": "SK Beveren",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
+    "prediction": "SK Beveren Win",
+    "odds": "2.42"
   },
   {
     "id": 1554797,
@@ -23,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "FC Gutersloh",
     "awayTeam": "Arminia Bielefeld",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Arminia Bielefeld Win",
+    "odds": "2.9"
   },
   {
     "id": 1567322,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Anjos do Céu U20",
     "awayTeam": "Alianca U20",
-    "prediction": "Alianca U20 Win",
-    "odds": "2.32"
+    "prediction": "Anjos do Céu U20 Win",
+    "odds": "1.39"
   },
   {
     "id": 1567566,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Oleksandria",
     "awayTeam": "Inhulets",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
   },
   {
     "id": 1581823,
@@ -50,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Tanzania Prisons",
     "awayTeam": "Mbeya City",
-    "prediction": "Tanzania Prisons Win",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1582359,
@@ -60,7 +51,7 @@
     "homeTeam": "Denmark U19",
     "awayTeam": "Italy U19",
     "prediction": "Denmark U19 Win",
-    "odds": "1.58"
+    "odds": "1.36"
   },
   {
     "id": 1554792,
@@ -69,7 +60,7 @@
     "homeTeam": "Slovácko",
     "awayTeam": "Zorya Luhansk",
     "prediction": "Slovácko Win",
-    "odds": "1.79"
+    "odds": "1.8"
   },
   {
     "id": 1554798,
@@ -78,7 +69,7 @@
     "homeTeam": "Farul Constanta",
     "awayTeam": "Cherno More Varna",
     "prediction": "Farul Constanta Win",
-    "odds": "1.39"
+    "odds": "1.8"
   },
   {
     "id": 1547925,
@@ -86,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "Maccabi Haifa",
     "awayTeam": "Paks",
-    "prediction": "Paks Win",
-    "odds": "2.91"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
   },
   {
     "id": 1547926,
@@ -96,7 +87,7 @@
     "homeTeam": "Opava",
     "awayTeam": "Unie Hlubina",
     "prediction": "Opava Win",
-    "odds": "1.83"
+    "odds": "1.71"
   },
   {
     "id": 1550537,
@@ -104,7 +95,16 @@
     "matchTime": "18:00",
     "homeTeam": "Komárno",
     "awayTeam": "Lokomotíva Zvolen",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "prediction": "Komárno Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1554785,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Cherno More Varna",
+    "awayTeam": "Dobrudzha",
+    "prediction": "Double Chance X2",
+    "odds": "1.26"
   }
 ]
