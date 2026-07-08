@@ -1,30 +1,12 @@
 [
   {
-    "id": 1527634,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Alay",
-    "awayTeam": "Toktogul",
-    "prediction": "Toktogul Win",
-    "odds": "2.87"
-  },
-  {
-    "id": 1527637,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Alga",
-    "awayTeam": "Dordoi Bishkek",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
-  },
-  {
     "id": 1554365,
     "league": "UEFA Champions League (World)",
     "matchTime": "18:00",
     "homeTeam": "Kairat Almaty",
     "awayTeam": "Sutjeska",
-    "prediction": "Sutjeska Win",
-    "odds": "2.35"
+    "prediction": "Kairat Almaty Win",
+    "odds": "1.59"
   },
   {
     "id": 1554363,
@@ -32,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Flora Tallinn",
     "awayTeam": "Saburtalo",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Flora Tallinn Win & Over 1.5",
+    "odds": "2.07"
   },
   {
     "id": 1554369,
@@ -41,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "ML Vitebsk",
     "awayTeam": "Universitatea Craiova",
-    "prediction": "Universitatea Craiova Win",
-    "odds": "3.18"
+    "prediction": "ML Vitebsk Win",
+    "odds": "1.84"
   },
   {
     "id": 1554370,
@@ -50,7 +32,25 @@
     "matchTime": "20:00",
     "homeTeam": "Petrocub",
     "awayTeam": "Egnatia Rrogozhinë",
-    "prediction": "Petrocub Win",
-    "odds": "1.92"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
+  },
+  {
+    "id": 1547925,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Maccabi Haifa",
+    "awayTeam": "Paks",
+    "prediction": "Double Chance X2",
+    "odds": "1.27"
+  },
+  {
+    "id": 1547926,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Opava",
+    "awayTeam": "Unie Hlubina",
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   }
 ]
