@@ -6,6 +6,30 @@
     "homeTeam": "Žilina II",
     "awayTeam": "Třinec",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Třinec Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562886,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "TSV Hartberg",
+    "awayTeam": "Zbrojovka Brno",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560551,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lipany",
+    "awayTeam": "Humenné",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -24,16 +48,28 @@
     "outcome": "Won"
   },
   {
+    "id": 1554791,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rilski Sportist",
+    "awayTeam": "Lokomotiv Plovdiv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554785,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Cherno More Varna",
     "awayTeam": "Dobrudzha",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Dobrudzha Win",
-    "outcome": "Won"
+    "prediction": "Cherno More Varna Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554365,
@@ -45,7 +81,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1550537,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Komárno",
+    "awayTeam": "Lokomotíva Zvolen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1547925,
@@ -77,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Slovácko",
     "awayTeam": "Zorya Luhansk",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Slovácko Win",
@@ -93,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1581823,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchDate": "FT",
-    "homeTeam": "Tanzania Prisons",
-    "awayTeam": "Mbeya City",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567322,
-    "league": "Cearense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Anjos do Céu U20",
-    "awayTeam": "Alianca U20",
-    "homeScore": 4,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Anjos do Céu U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554797,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Gutersloh",
-    "awayTeam": "Arminia Bielefeld",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Arminia Bielefeld Win",
     "outcome": "Won"
   }
 ]
