@@ -30,9 +30,9 @@
     "homeTeam": "Piast Gliwice",
     "awayTeam": "Miedz Legnica",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Piast Gliwice Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Budapest Honved",
     "awayTeam": "Soroksar",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Budapest Honved Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Tychy 71",
     "awayTeam": "Sparta Katowice",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Tychy 71 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -120,27 +120,27 @@
     "outcome": "Won"
   },
   {
-    "id": 1532759,
-    "league": "League Two (China)",
+    "id": 1554779,
+    "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Xi'an Ronghai",
-    "awayTeam": "Dalian Kewei",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeTeam": "Lyon",
+    "awayTeam": "Mâcon",
+    "homeScore": 5,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Xi'an Ronghai Win",
-    "outcome": "Won"
+    "prediction": "Mâcon Win",
+    "outcome": "Lost"
   },
   {
-    "id": 1525130,
-    "league": "USL League Two (USA)",
+    "id": 1583646,
+    "league": "Friendlies (World)",
     "matchDate": "FT",
-    "homeTeam": "Capo",
-    "awayTeam": "Seahorses",
-    "homeScore": 5,
-    "awayScore": 4,
+    "homeTeam": "Australia U17",
+    "awayTeam": "Nigeria U17",
+    "homeScore": 4,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Capo Win",
+    "prediction": "Australia U17 Win",
     "outcome": "Won"
   }
 ]
