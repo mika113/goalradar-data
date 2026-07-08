@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1547922,
@@ -80,8 +80,8 @@
     "homeScore": 4,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Zulte Waregem Win",
-    "outcome": "Won"
+    "prediction": "Raków Częstochowa Win",
+    "outcome": "Lost"
   },
   {
     "id": 1562885,
@@ -128,19 +128,7 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Zlin Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1554780,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Servette FC",
-    "awayTeam": "Stade Lausanne-Ouchy",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Servette FC Win",
+    "prediction": "Hapoel Tel Aviv Win",
     "outcome": "Won"
   }
 ]
