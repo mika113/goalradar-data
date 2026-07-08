@@ -6,10 +6,10 @@
     "homeTeam": "Union La Calera",
     "awayTeam": "Coquimbo Unido",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Coquimbo Unido Win",
+    "outcome": "Won"
   },
   {
     "id": 1544673,
@@ -30,9 +30,9 @@
     "homeTeam": "Virginia Beach City",
     "awayTeam": "Annapolis Blues",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Annapolis Blues Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "SC United Bantams",
     "awayTeam": "Charlotte Independence 2",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Charlotte Independence 2 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1525296,
@@ -81,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1525289,
@@ -118,29 +118,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1525267,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Kalamazoo FC",
-    "awayTeam": "Lansing City",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520767,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ponte Preta",
-    "awayTeam": "Criciuma",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Ponte Preta Win",
-    "outcome": "Lost"
   }
 ]
