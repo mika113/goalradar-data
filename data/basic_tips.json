@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554365,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Kairat Almaty",
-    "awayTeam": "Sutjeska",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.23"
-  },
-  {
     "id": 1554363,
     "league": "UEFA Champions League (World)",
     "matchTime": "19:00",
     "homeTeam": "Flora Tallinn",
     "awayTeam": "Saburtalo",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
   },
   {
     "id": 1554369,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "ML Vitebsk",
     "awayTeam": "Universitatea Craiova",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "Universitatea Craiova Win",
+    "odds": "2.8"
   },
   {
     "id": 1554370,
@@ -32,25 +23,34 @@
     "matchTime": "20:00",
     "homeTeam": "Petrocub",
     "awayTeam": "Egnatia Rrogozhinë",
-    "prediction": "Egnatia Rrogozhinë Win",
-    "odds": "1.88"
+    "prediction": "Petrocub Win",
+    "odds": "1.43"
   },
   {
-    "id": 1547925,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Maccabi Haifa",
-    "awayTeam": "Paks",
-    "prediction": "Maccabi Haifa Win",
-    "odds": "1.34"
+    "id": 1541749,
+    "league": "Kakkonen - Lohko C (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "Jaro 2",
+    "awayTeam": "SJK-juniorit",
+    "prediction": "SJK-juniorit Win",
+    "odds": "1.9"
   },
   {
-    "id": 1547926,
+    "id": 1547924,
     "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Opava",
-    "awayTeam": "Unie Hlubina",
-    "prediction": "Opava Win",
-    "odds": "1.49"
+    "matchTime": "18:30",
+    "homeTeam": "FSV Zwickau",
+    "awayTeam": "Greuther Fürth II",
+    "prediction": "FSV Zwickau Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1548789,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Rapid",
+    "awayTeam": "FK Košice",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
   }
 ]
