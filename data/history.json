@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Silkeborg Win",
-    "outcome": "Lost"
+    "prediction": "Aarhus Fremad Win",
+    "outcome": "Won"
   },
   {
     "id": 1550534,
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Aalborg Win",
-    "outcome": "Lost"
+    "prediction": "Randers FC Win",
+    "outcome": "Won"
   },
   {
     "id": 1547922,
@@ -53,10 +53,22 @@
     "matchDate": "FT",
     "homeTeam": "Pogon Szczecin",
     "awayTeam": "Chrobry Głogów",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Pogon Szczecin Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562885,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Schalke 04 II",
+    "awayTeam": "Preußen Münster II",
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Schalke 04 II Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Lyon Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583646,
-    "league": "Friendlies (World)",
-    "matchDate": "FT",
-    "homeTeam": "Australia U17",
-    "awayTeam": "Nigeria U17",
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Australia U17 Win",
     "outcome": "Won"
   }
 ]
