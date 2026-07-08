@@ -1,30 +1,12 @@
 [
   {
-    "id": 1576776,
-    "league": "Paraibano U20 (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Treze U20",
-    "awayTeam": "Cruzeiro Itaporanga U20",
-    "prediction": "Treze U20 Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1493571,
-    "league": "USL Championship (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Hartford Athletic",
-    "awayTeam": "Orange County SC",
-    "prediction": "Orange County SC Win",
-    "odds": "2.63"
-  },
-  {
     "id": 1493893,
     "league": "USL League One (USA)",
     "matchTime": "02:00",
     "homeTeam": "Greenville Triumph",
     "awayTeam": "Sarasota Paradise",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Sarasota Paradise Win",
+    "odds": "2.82"
   },
   {
     "id": 1493894,
@@ -33,7 +15,7 @@
     "homeTeam": "NY Cosmos",
     "awayTeam": "Naples",
     "prediction": "NY Cosmos Win",
-    "odds": "1.94"
+    "odds": "1.77"
   },
   {
     "id": 1520767,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ponte Preta",
     "awayTeam": "Criciuma",
-    "prediction": "Criciuma Win",
-    "odds": "3.21"
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
   },
   {
     "id": 1524498,
@@ -50,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Toledo Villa",
     "awayTeam": "Northern Indiana",
-    "prediction": "Toledo Villa Win",
-    "odds": "1.53"
+    "prediction": "Northern Indiana Win",
+    "odds": "1.68"
   },
   {
     "id": 1525267,
@@ -59,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Kalamazoo FC",
     "awayTeam": "Lansing City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "Lansing City Win",
+    "odds": "2.91"
   },
   {
     "id": 1525287,
@@ -69,7 +51,7 @@
     "homeTeam": "Black Rock",
     "awayTeam": "Boston Bolts",
     "prediction": "Black Rock Win",
-    "odds": "1.91"
+    "odds": "1.47"
   },
   {
     "id": 1525288,
@@ -78,7 +60,7 @@
     "homeTeam": "The Villages",
     "awayTeam": "Inter Gainesville",
     "prediction": "The Villages Win",
-    "odds": "1.55"
+    "odds": "1.91"
   },
   {
     "id": 1525289,
@@ -86,7 +68,25 @@
     "matchTime": "02:00",
     "homeTeam": "Cedar Stars Rush",
     "awayTeam": "Ironbound",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
+  },
+  {
+    "id": 1525290,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Inter Miami II",
+    "awayTeam": "Weston",
+    "prediction": "Inter Miami II Win",
+    "odds": "1.44"
+  },
+  {
+    "id": 1525293,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Lakeland United",
+    "awayTeam": "FC Miami City",
+    "prediction": "FC Miami City Win",
+    "odds": "2.23"
   }
 ]
