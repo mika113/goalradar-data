@@ -1,5 +1,29 @@
 [
   {
+    "id": 1554803,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zenit",
+    "awayTeam": "Neftchi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1554801,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Eltersdorf",
+    "awayTeam": "SpVgg Greuther Fürth",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "SpVgg Greuther Fürth Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554789,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -42,6 +66,18 @@
     "homeTeam": "Flora Tallinn",
     "awayTeam": "Saburtalo",
     "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Saburtalo Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546631,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Austria Vienna",
+    "awayTeam": "Dunajska Streda",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -68,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1560550,
