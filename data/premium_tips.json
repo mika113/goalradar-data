@@ -1,21 +1,12 @@
 [
   {
-    "id": 1560551,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Lipany",
-    "awayTeam": "Humenné",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
-  },
-  {
     "id": 1562886,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "TSV Hartberg",
     "awayTeam": "Zbrojovka Brno",
-    "prediction": "Zbrojovka Brno Win",
-    "odds": "3.4"
+    "prediction": "TSV Hartberg Win",
+    "odds": "1.38"
   },
   {
     "id": 1567568,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Boulogne",
     "awayTeam": "Versailles",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "prediction": "Versailles Win",
+    "odds": "2.09"
   },
   {
     "id": 1567569,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Žilina II",
     "awayTeam": "Třinec",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1541749,
@@ -41,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "Jaro 2",
     "awayTeam": "SJK-juniorit",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
+    "prediction": "Jaro 2 Win",
+    "odds": "1.88"
   },
   {
     "id": 1547924,
@@ -51,7 +42,7 @@
     "homeTeam": "FSV Zwickau",
     "awayTeam": "Greuther Fürth II",
     "prediction": "FSV Zwickau Win",
-    "odds": "1.94"
+    "odds": "1.78"
   },
   {
     "id": 1548789,
@@ -60,7 +51,7 @@
     "homeTeam": "Rapid",
     "awayTeam": "FK Košice",
     "prediction": "Rapid Win",
-    "odds": "1.99"
+    "odds": "1.76"
   },
   {
     "id": 1554784,
@@ -68,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Celje",
     "awayTeam": "MTK Budapest",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Celje Win & Over 1.5",
+    "odds": "2.76"
   },
   {
     "id": 1560550,
@@ -77,8 +68,8 @@
     "matchTime": "18:30",
     "homeTeam": "Spartak Varna",
     "awayTeam": "Nesebar",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "Nesebar Win",
+    "odds": "1.71"
   },
   {
     "id": 1567567,
@@ -86,8 +77,8 @@
     "matchTime": "18:30",
     "homeTeam": "Świt Skolwin",
     "awayTeam": "Kluczevia Stargard",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Świt Skolwin Win",
+    "odds": "1.83"
   },
   {
     "id": 1567570,
@@ -95,8 +86,8 @@
     "matchTime": "18:30",
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "Csikszereda",
-    "prediction": "NK Slaven Belupo Win",
-    "odds": "1.78"
+    "prediction": "NK Slaven Belupo Win & Over 1.5",
+    "odds": "1.95"
   },
   {
     "id": 1567571,
@@ -104,7 +95,16 @@
     "matchTime": "18:30",
     "homeTeam": "Słowianin",
     "awayTeam": "Karkonosze Jelenia Góra",
-    "prediction": "Karkonosze Jelenia Góra Win",
-    "odds": "2.47"
+    "prediction": "Słowianin Win & Over 1.5",
+    "odds": "1.81"
+  },
+  {
+    "id": 1582360,
+    "league": "UEFA U19 Championship (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Spain U19",
+    "awayTeam": "Croatia U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   }
 ]
