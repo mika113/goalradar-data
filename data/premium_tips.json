@@ -1,57 +1,12 @@
 [
   {
-    "id": 1554786,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Chojniczanka Chojnice",
-    "awayTeam": "Polonia Środa",
-    "prediction": "Polonia Środa Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1554788,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Hannover 96 II",
-    "awayTeam": "BSG Chemie Leipzig",
-    "prediction": "Hannover 96 II Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1554796,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Zawisza Bydgoszcz",
-    "awayTeam": "Lechia Zielona Góra",
-    "prediction": "Lechia Zielona Góra Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1560541,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Brinje-Grosuplje",
-    "awayTeam": "Uta Arad",
-    "prediction": "Brinje-Grosuplje Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1560548,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:00",
-    "homeTeam": "Kolding IF",
-    "awayTeam": "Vendsyssel FF",
-    "prediction": "Vendsyssel FF Win",
-    "odds": "1.79"
-  },
-  {
     "id": 1560549,
     "league": "Friendlies Clubs (World)",
     "matchTime": "15:00",
     "homeTeam": "NEC Nijmegen",
     "awayTeam": "MSV Duisburg",
-    "prediction": "MSV Duisburg Win",
-    "odds": "2.18"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1554783,
@@ -59,8 +14,8 @@
     "matchTime": "15:30",
     "homeTeam": "SV Babelsberg 03",
     "awayTeam": "Hamburger SV II",
-    "prediction": "SV Babelsberg 03 Win",
-    "odds": "1.33"
+    "prediction": "Hamburger SV II Win",
+    "odds": "2.5"
   },
   {
     "id": 1554787,
@@ -69,7 +24,7 @@
     "homeTeam": "Genk",
     "awayTeam": "SK Beveren",
     "prediction": "Genk Win",
-    "odds": "1.91"
+    "odds": "1.39"
   },
   {
     "id": 1554797,
@@ -77,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "FC Gutersloh",
     "awayTeam": "Arminia Bielefeld",
-    "prediction": "Arminia Bielefeld Win",
-    "odds": "3.11"
+    "prediction": "Double Chance X2",
+    "odds": "1.41"
   },
   {
     "id": 1567322,
@@ -86,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Anjos do Céu U20",
     "awayTeam": "Alianca U20",
-    "prediction": "Anjos do Céu U20 Win",
-    "odds": "1.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   },
   {
     "id": 1567566,
@@ -95,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Oleksandria",
     "awayTeam": "Inhulets",
-    "prediction": "Inhulets Win",
-    "odds": "2.2"
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   },
   {
     "id": 1581823,
@@ -104,7 +59,52 @@
     "matchTime": "16:00",
     "homeTeam": "Tanzania Prisons",
     "awayTeam": "Mbeya City",
-    "prediction": "Tanzania Prisons Win",
-    "odds": "1.74"
+    "prediction": "Mbeya City Win",
+    "odds": "3.29"
+  },
+  {
+    "id": 1582359,
+    "league": "UEFA U19 Championship (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Denmark U19",
+    "awayTeam": "Italy U19",
+    "prediction": "Denmark U19 Win",
+    "odds": "1.77"
+  },
+  {
+    "id": 1554792,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Slovácko",
+    "awayTeam": "Zorya Luhansk",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
+  },
+  {
+    "id": 1554798,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:30",
+    "homeTeam": "Farul Constanta",
+    "awayTeam": "Cherno More Varna",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1547925,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Maccabi Haifa",
+    "awayTeam": "Paks",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.13"
+  },
+  {
+    "id": 1547926,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Opava",
+    "awayTeam": "Unie Hlubina",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   }
 ]
