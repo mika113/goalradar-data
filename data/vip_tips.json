@@ -1,21 +1,12 @@
 [
   {
-    "id": 1543939,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Sao Paulo U17",
-    "awayTeam": "RB Bragantino U17",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
     "id": 1549966,
     "league": "Torneo Promocional Amateur (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Ezeiza",
     "awayTeam": "Control Orientado",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
+    "prediction": "Ezeiza Win",
+    "odds": "1.51"
   },
   {
     "id": 1576747,
@@ -23,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Athletico PR U20",
     "awayTeam": "RB Bragantino U20",
-    "prediction": "RB Bragantino U20 Win",
-    "odds": "1.95"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1576748,
@@ -33,7 +24,7 @@
     "homeTeam": "Corinthians U20",
     "awayTeam": "Palmeiras U20",
     "prediction": "Corinthians U20 Win",
-    "odds": "1.76"
+    "odds": "1.67"
   },
   {
     "id": 1576749,
@@ -41,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Cruzeiro U20",
     "awayTeam": "Vasco da Gama U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "prediction": "Cruzeiro U20 Win",
+    "odds": "1.51"
   },
   {
     "id": 1576750,
@@ -50,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Santos U20",
     "awayTeam": "Botafogo U20",
-    "prediction": "Santos U20 Win",
-    "odds": "1.96"
+    "prediction": "Botafogo U20 Win",
+    "odds": "3.33"
   },
   {
     "id": 1582361,
@@ -59,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "Ukraine U19",
     "awayTeam": "Germany U19",
-    "prediction": "Ukraine U19 Win",
-    "odds": "1.33"
+    "prediction": "Germany U19 Win",
+    "odds": "1.82"
   },
   {
     "id": 1554813,
@@ -68,7 +59,16 @@
     "matchTime": "21:30",
     "homeTeam": "Montrose",
     "awayTeam": "Inverurie Loco Works",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Inverurie Loco Works Win",
+    "odds": "2.17"
+  },
+  {
+    "id": 1554814,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Newport City",
+    "awayTeam": "Newport County",
+    "prediction": "Newport County Win",
+    "odds": "2.3"
   }
 ]
