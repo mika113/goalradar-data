@@ -1,21 +1,12 @@
 [
   {
-    "id": 1532768,
-    "league": "League Two (China)",
-    "matchTime": "14:30",
-    "homeTeam": "Langfang Glory City",
-    "awayTeam": "Jiangxi Liansheng",
-    "prediction": "Langfang Glory City Win",
-    "odds": "1.79"
-  },
-  {
     "id": 1583648,
     "league": "Friendlies (World)",
     "matchTime": "14:35",
     "homeTeam": "China PR U17",
     "awayTeam": "Tanzania U17",
-    "prediction": "China PR U17 Win",
-    "odds": "1.89"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
   },
   {
     "id": 1547920,
@@ -24,7 +15,7 @@
     "homeTeam": "FC Basel 1893",
     "awayTeam": "Yverdon Sport",
     "prediction": "FC Basel 1893 Win",
-    "odds": "1.76"
+    "odds": "1.39"
   },
   {
     "id": 1554786,
@@ -32,8 +23,8 @@
     "matchTime": "15:00",
     "homeTeam": "Chojniczanka Chojnice",
     "awayTeam": "Polonia Środa",
-    "prediction": "Chojniczanka Chojnice Win",
-    "odds": "1.84"
+    "prediction": "Polonia Środa Win",
+    "odds": "2.61"
   },
   {
     "id": 1554788,
@@ -41,8 +32,8 @@
     "matchTime": "15:00",
     "homeTeam": "Hannover 96 II",
     "awayTeam": "BSG Chemie Leipzig",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
+    "prediction": "Hannover 96 II Win",
+    "odds": "1.5"
   },
   {
     "id": 1554796,
@@ -50,8 +41,8 @@
     "matchTime": "15:00",
     "homeTeam": "Zawisza Bydgoszcz",
     "awayTeam": "Lechia Zielona Góra",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
   },
   {
     "id": 1560541,
@@ -59,8 +50,8 @@
     "matchTime": "15:00",
     "homeTeam": "Brinje-Grosuplje",
     "awayTeam": "Uta Arad",
-    "prediction": "Uta Arad Win",
-    "odds": "2.49"
+    "prediction": "Brinje-Grosuplje Win & Over 1.5",
+    "odds": "1.85"
   },
   {
     "id": 1560548,
@@ -69,6 +60,15 @@
     "homeTeam": "Kolding IF",
     "awayTeam": "Vendsyssel FF",
     "prediction": "Double Chance X2",
-    "odds": "1.38"
+    "odds": "1.66"
+  },
+  {
+    "id": 1560549,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "NEC Nijmegen",
+    "awayTeam": "MSV Duisburg",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   }
 ]
