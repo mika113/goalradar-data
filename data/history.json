@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Spain U19",
     "awayTeam": "Croatia U19",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spain U19 Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "Csikszereda",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Csikszereda Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Varna",
     "awayTeam": "Nesebar",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spartak Varna Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Celje",
     "awayTeam": "MTK Budapest",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "MTK Budapest Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Jaro 2",
     "awayTeam": "SJK-juniorit",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "SJK-juniorit Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Žilina II",
     "awayTeam": "Třinec",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Žilina II Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Rilski Sportist Win",
-    "outcome": "Lost"
+    "prediction": "Lokomotiv Plovdiv Win",
+    "outcome": "Won"
   },
   {
     "id": 1554785,
