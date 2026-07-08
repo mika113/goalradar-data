@@ -1,30 +1,12 @@
 [
   {
-    "id": 1554365,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Kairat Almaty",
-    "awayTeam": "Sutjeska",
-    "prediction": "Kairat Almaty Win",
-    "odds": "1.69"
-  },
-  {
-    "id": 1554363,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Flora Tallinn",
-    "awayTeam": "Saburtalo",
-    "prediction": "Saburtalo Win",
-    "odds": "2.38"
-  },
-  {
     "id": 1554779,
     "league": "Friendlies Clubs (World)",
     "matchTime": "11:30",
     "homeTeam": "Lyon",
     "awayTeam": "Mâcon",
-    "prediction": "Lyon Win",
-    "odds": "1.84"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1548790,
@@ -32,8 +14,8 @@
     "matchTime": "12:00",
     "homeTeam": "Górnik Łęczna",
     "awayTeam": "Hetman Zamosc",
-    "prediction": "Hetman Zamosc Win",
-    "odds": "3.04"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1550532,
@@ -41,8 +23,8 @@
     "matchTime": "12:00",
     "homeTeam": "Teplice",
     "awayTeam": "Táborsko",
-    "prediction": "Teplice Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
   },
   {
     "id": 1550533,
@@ -50,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Baník Ostrava",
-    "prediction": "Zaglebie Lubin Win",
-    "odds": "1.96"
+    "prediction": "Zaglebie Lubin Win & Over 1.5",
+    "odds": "1.8"
   },
   {
     "id": 1554780,
@@ -60,7 +42,7 @@
     "homeTeam": "Servette FC",
     "awayTeam": "Stade Lausanne-Ouchy",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.14"
+    "odds": "1.73"
   },
   {
     "id": 1554781,
@@ -68,7 +50,25 @@
     "matchTime": "12:00",
     "homeTeam": "Zlin",
     "awayTeam": "Hapoel Tel Aviv",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "Zlin Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1554794,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Tychy 71",
+    "awayTeam": "Sparta Katowice",
+    "prediction": "Sparta Katowice Win",
+    "odds": "3.43"
+  },
+  {
+    "id": 1560547,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Budapest Honved",
+    "awayTeam": "Soroksar",
+    "prediction": "Budapest Honved Win",
+    "odds": "1.72"
   }
 ]
