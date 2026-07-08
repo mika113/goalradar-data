@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Anjos do Céu U20",
     "awayTeam": "Alianca U20",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Alianca U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,7 +54,7 @@
     "homeTeam": "FC Gutersloh",
     "awayTeam": "Arminia Bielefeld",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Arminia Bielefeld Win",
     "outcome": "Won"
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kolding IF Win",
-    "outcome": "Won"
+    "prediction": "Vendsyssel FF Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547920,
@@ -92,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Yverdon Sport Win",
-    "outcome": "Won"
+    "prediction": "FC Basel 1893 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1583648,
@@ -118,29 +118,5 @@
     "status": "FT",
     "prediction": "Langfang Glory City Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1550535,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Aarhus Fremad",
-    "awayTeam": "Silkeborg",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Silkeborg Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1550534,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Aalborg",
-    "awayTeam": "Randers FC",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
   }
 ]
