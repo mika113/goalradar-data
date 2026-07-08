@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554370,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Petrocub",
-    "awayTeam": "Egnatia Rrogozhinë",
-    "prediction": "Petrocub Win",
-    "odds": "1.87"
-  },
-  {
     "id": 1548790,
     "league": "Friendlies Clubs (World)",
     "matchTime": "12:00",
     "homeTeam": "Górnik Łęczna",
     "awayTeam": "Hetman Zamosc",
-    "prediction": "Górnik Łęczna Win",
-    "odds": "1.46"
+    "prediction": "Hetman Zamosc Win",
+    "odds": "1.66"
   },
   {
     "id": 1550532,
@@ -23,8 +14,8 @@
     "matchTime": "12:00",
     "homeTeam": "Teplice",
     "awayTeam": "Táborsko",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1550533,
@@ -32,8 +23,8 @@
     "matchTime": "12:00",
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Baník Ostrava",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
+    "prediction": "Baník Ostrava Win",
+    "odds": "2.73"
   },
   {
     "id": 1554780,
@@ -41,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Servette FC",
     "awayTeam": "Stade Lausanne-Ouchy",
-    "prediction": "Stade Lausanne-Ouchy Win",
-    "odds": "2.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.76"
   },
   {
     "id": 1554781,
@@ -50,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Zlin",
     "awayTeam": "Hapoel Tel Aviv",
-    "prediction": "Zlin Win",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1554794,
@@ -59,8 +50,8 @@
     "matchTime": "12:00",
     "homeTeam": "Tychy 71",
     "awayTeam": "Sparta Katowice",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1560547,
@@ -68,7 +59,16 @@
     "matchTime": "12:00",
     "homeTeam": "Budapest Honved",
     "awayTeam": "Soroksar",
-    "prediction": "Soroksar Win",
-    "odds": "1.84"
+    "prediction": "Both Teams To Score",
+    "odds": "2.19"
+  },
+  {
+    "id": 1562885,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Schalke 04 II",
+    "awayTeam": "Preußen Münster II",
+    "prediction": "Preußen Münster II Win",
+    "odds": "3.14"
   }
 ]
