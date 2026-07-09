@@ -6,9 +6,9 @@
     "homeTeam": "OFK Beograd",
     "awayTeam": "Buducnost Podgorica",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Buducnost Podgorica Win",
     "outcome": "Won"
   },
   {
@@ -66,10 +66,10 @@
     "homeTeam": "Rennes",
     "awayTeam": "Caen",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Caen Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1534789,
@@ -81,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1534787,
@@ -89,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Khan Tengri",
-    "homeScore": 3,
-    "awayScore": 1,
+    "homeScore": 4,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Aktobe Jas Win",
     "outcome": "Won"
@@ -104,8 +104,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FC Ingolstadt 04 Win",
-    "outcome": "Won"
+    "prediction": "Lask Linz Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543595,
@@ -140,7 +140,7 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Dynamos Win",
-    "outcome": "Won"
+    "prediction": "Hardrock Win",
+    "outcome": "Lost"
   }
 ]
