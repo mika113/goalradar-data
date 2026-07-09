@@ -5,6 +5,18 @@
     "matchDate": "FT",
     "homeTeam": "Ind. Juniors",
     "awayTeam": "LDU de Quito",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "LDU de Quito Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1525281,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "City SC",
+    "awayTeam": "AMSG",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -20,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Boca Juniors Win",
-    "outcome": "Won"
+    "prediction": "Atletico Paranaense Win",
+    "outcome": "Lost"
   },
   {
     "id": 1538379,
@@ -32,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "ABB Win",
-    "outcome": "Lost"
+    "prediction": "Real Potosí Win",
+    "outcome": "Won"
   },
   {
     "id": 1525424,
@@ -66,9 +78,9 @@
     "homeTeam": "Rochester",
     "awayTeam": "St. Croix",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "St. Croix Win",
     "outcome": "Won"
   },
   {
@@ -77,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Davis Legacy",
     "awayTeam": "San Francisco City",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
     "prediction": "San Francisco City Win",
