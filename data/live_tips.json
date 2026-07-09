@@ -1,75 +1,12 @@
 [
   {
-    "id": 1554406,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Atlètic Club d'Escaldes",
-    "awayTeam": "Mornar",
-    "prediction": "Mornar Win",
-    "odds": "1.7"
-  },
-  {
-    "id": 1583234,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "OFK Beograd",
-    "awayTeam": "Buducnost Podgorica",
-    "prediction": "OFK Beograd Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1548795,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Rapid",
-    "awayTeam": "Slovan Liberec",
-    "prediction": "Slovan Liberec Win",
-    "odds": "2.22"
-  },
-  {
-    "id": 1554817,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Polessya",
-    "awayTeam": "Jagiellonia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
-  },
-  {
-    "id": 1554818,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "CFR 1907 Cluj",
-    "awayTeam": "Karpaty",
-    "prediction": "CFR 1907 Cluj Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1560555,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Red Bull Salzburg",
-    "awayTeam": "Metalist 1925 Kharkiv",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
-  },
-  {
-    "id": 1562888,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:30",
-    "homeTeam": "Debreceni VSC",
-    "awayTeam": "Železničar Pančevo",
-    "prediction": "Debreceni VSC Win",
-    "odds": "1.49"
-  },
-  {
     "id": 1519567,
     "league": "Esiliiga A (Estonia)",
     "matchTime": "19:00",
     "homeTeam": "Maardu",
     "awayTeam": "Flora II",
-    "prediction": "Flora II Win",
-    "odds": "3.3"
+    "prediction": "Maardu Win",
+    "odds": "1.71"
   },
   {
     "id": 1541521,
@@ -78,7 +15,7 @@
     "homeTeam": "Musa",
     "awayTeam": "GrIFK",
     "prediction": "GrIFK Win",
-    "odds": "3.27"
+    "odds": "3.13"
   },
   {
     "id": 1547928,
@@ -86,7 +23,70 @@
     "matchTime": "19:00",
     "homeTeam": "Korona Kielce",
     "awayTeam": "Omonia Nicosia",
-    "prediction": "Korona Kielce Win",
-    "odds": "1.68"
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1554390,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Alashkert",
+    "awayTeam": "Yelimay Semey",
+    "prediction": "Yelimay Semey Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1554394,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "FK Liepaja",
+    "awayTeam": "Dečić",
+    "prediction": "Dečić Win",
+    "odds": "2.51"
+  },
+  {
+    "id": 1554396,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Dila",
+    "awayTeam": "Virtus",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1554402,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Hegelmann Litauen",
+    "awayTeam": "Paide",
+    "prediction": "Hegelmann Litauen Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1554403,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Kalju Nomme",
+    "awayTeam": "Linfield",
+    "prediction": "Kalju Nomme Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1547929,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Chemnitzer FC",
+    "awayTeam": "Union Berlin",
+    "prediction": "Chemnitzer FC Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1554391,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Bohemians",
+    "awayTeam": "St Joseph S Fc",
+    "prediction": "Bohemians Win",
+    "odds": "1.55"
   }
 ]
