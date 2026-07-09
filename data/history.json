@@ -12,6 +12,18 @@
     "outcome": "Lost"
   },
   {
+    "id": 1568104,
+    "league": "Copa De La Liga (Peru)",
+    "matchDate": "FT",
+    "homeTeam": "Atletico Grau",
+    "awayTeam": "Carlos A. Mannucci",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Atletico Grau Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554412,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Penybont Win",
-    "outcome": "Lost"
+    "prediction": "FC Santa Coloma Win",
+    "outcome": "Won"
   },
   {
     "id": 1554407,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "HNK Hajduk Split Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554441,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "CSKA Sofia",
-    "awayTeam": "Derry City",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "CSKA Sofia Win",
     "outcome": "Won"
   }
 ]
