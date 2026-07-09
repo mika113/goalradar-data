@@ -1,5 +1,17 @@
 [
   {
+    "id": 1526566,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Cuenca Juniors",
+    "awayTeam": "LDU Portoviejo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1578539,
     "league": "World Cup",
     "matchDate": "FT",
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Stjarnan",
     "awayTeam": "Vikingur Gota",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Stjarnan Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "Dinamo Tirana",
     "awayTeam": "FC Astana",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Astana Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "H&W Welders",
     "awayTeam": "Dergview",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "H&W Welders Win",
@@ -78,7 +90,7 @@
     "homeTeam": "Petrovac",
     "awayTeam": "FK Zalgiris Vilnius",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "FK Zalgiris Vilnius Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Ferencvarosi TC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554443,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "HNK Hajduk Split",
-    "awayTeam": "Žilina",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "HNK Hajduk Split Win",
     "outcome": "Won"
   }
 ]
