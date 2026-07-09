@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Dila",
     "awayTeam": "Virtus",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dila Win",
     "outcome": "Won"
   },
   {
@@ -72,6 +72,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1547928,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Korona Kielce",
+    "awayTeam": "Omonia Nicosia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1541521,
     "league": "Kakkonen - Lohko B (Finland)",
     "matchDate": "FT",
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Maardu",
     "awayTeam": "Flora II",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Maardu Win",
     "outcome": "Won"
   },
   {
@@ -101,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Debreceni VSC",
     "awayTeam": "Železničar Pančevo",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Železničar Pančevo Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548795,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rapid",
-    "awayTeam": "Slovan Liberec",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Slovan Liberec Win",
     "outcome": "Won"
   }
 ]
