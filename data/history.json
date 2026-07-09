@@ -1,5 +1,17 @@
 [
   {
+    "id": 1542927,
+    "league": "Copa Ecuador",
+    "matchDate": "FT",
+    "homeTeam": "Ind. Juniors",
+    "awayTeam": "LDU de Quito",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583233,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Boca Juniors Win",
-    "outcome": "Won"
+    "prediction": "Atletico Paranaense Win",
+    "outcome": "Lost"
   },
   {
     "id": 1538379,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1525278,
