@@ -6,7 +6,7 @@
     "homeTeam": "Nublense",
     "awayTeam": "O'Higgins",
     "prediction": "Nublense Win",
-    "odds": "1.96"
+    "odds": "1.77"
   },
   {
     "id": 1538365,
@@ -14,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Nacional Potosí",
     "awayTeam": "Aurora",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1525425,
@@ -23,8 +23,8 @@
     "matchTime": "04:00",
     "homeTeam": "Real Colorado Foxes",
     "awayTeam": "Flatirons Rush",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "1.45"
+    "prediction": "Flatirons Rush Win",
+    "odds": "2.41"
   },
   {
     "id": 1560556,
@@ -32,8 +32,8 @@
     "matchTime": "04:00",
     "homeTeam": "Colorado Rapids",
     "awayTeam": "FC Juarez",
-    "prediction": "FC Juarez Win",
-    "odds": "3.19"
+    "prediction": "Colorado Rapids Win & Over 1.5",
+    "odds": "2.27"
   },
   {
     "id": 1554821,
@@ -41,17 +41,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ludogorets",
     "awayTeam": "Septemvri Sofia",
-    "prediction": "Ludogorets Win & Over 1.5",
-    "odds": "2.02"
-  },
-  {
-    "id": 1554822,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "11:00",
-    "homeTeam": "Spartak Trnava",
-    "awayTeam": "Skalica",
-    "prediction": "Spartak Trnava Win",
-    "odds": "1.57"
+    "prediction": "Septemvri Sofia Win",
+    "odds": "3.43"
   },
   {
     "id": 1554823,
@@ -59,8 +50,8 @@
     "matchTime": "11:00",
     "homeTeam": "Wolfsberger AC",
     "awayTeam": "Başakşehir",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1554824,
@@ -68,7 +59,16 @@
     "matchTime": "11:00",
     "homeTeam": "Zlin",
     "awayTeam": "Dukla Banská Bystrica",
-    "prediction": "Zlin Win & Over 1.5",
-    "odds": "2.86"
+    "prediction": "Zlin Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1562890,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "FC Liefering",
+    "awayTeam": "Artis",
+    "prediction": "FC Liefering Win",
+    "odds": "1.56"
   }
 ]
