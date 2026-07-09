@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Stjarnan",
     "awayTeam": "Vikingur Gota",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Vikingur Gota Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -20,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Inter Turku Win",
-    "outcome": "Won"
+    "prediction": "FK Sarajevo Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554397,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1562889,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Dergview Win",
-    "outcome": "Lost"
+    "prediction": "H&W Welders Win",
+    "outcome": "Won"
   },
   {
     "id": 1554409,
@@ -102,9 +102,9 @@
     "homeTeam": "Vojvodina",
     "awayTeam": "Ferencvarosi TC",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Ferencvarosi TC Win",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "HNK Hajduk Split Win",
-    "outcome": "Won"
+    "prediction": "Žilina Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554441,
@@ -126,7 +126,7 @@
     "homeTeam": "CSKA Sofia",
     "awayTeam": "Derry City",
     "homeScore": 3,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "CSKA Sofia Win",
     "outcome": "Won"
