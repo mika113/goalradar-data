@@ -30,9 +30,9 @@
     "homeTeam": "Atletico Grau",
     "awayTeam": "Carlos A. Mannucci",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Atletico Grau Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "FK Sarajevo",
     "awayTeam": "Inter Turku",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Inter Turku Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -104,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Santa Coloma Win",
-    "outcome": "Won"
+    "prediction": "Penybont Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554407,
@@ -128,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Glentoran Win",
-    "outcome": "Lost"
+    "prediction": "Rīgas FS Win",
+    "outcome": "Won"
   },
   {
     "id": 1554446,
