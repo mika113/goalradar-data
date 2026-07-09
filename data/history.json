@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Izhevsk",
     "awayTeam": "Dinamo Barnaul",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Izhevsk Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "SV Wehen",
     "awayTeam": "FC 08 Homburg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SV Wehen Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Rennes",
     "awayTeam": "Caen",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rennes Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1534787,
@@ -68,8 +68,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Aktobe Jas Win",
-    "outcome": "Won"
+    "prediction": "Khan Tengri Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554816,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Lask Linz Win",
-    "outcome": "Lost"
+    "prediction": "FC Ingolstadt 04 Win",
+    "outcome": "Won"
   },
   {
     "id": 1543595,
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hardrock Win",
-    "outcome": "Lost"
+    "prediction": "Dynamos Win",
+    "outcome": "Won"
   },
   {
     "id": 1554815,
