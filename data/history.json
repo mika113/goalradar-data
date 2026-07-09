@@ -1,15 +1,27 @@
 [
   {
+    "id": 1554816,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Ingolstadt 04",
+    "awayTeam": "Lask Linz",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1543595,
     "league": "Premier League (Bhutan)",
     "matchDate": "FT",
     "homeTeam": "Transport United",
     "awayTeam": "Bhutan U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Transport United Win",
+    "outcome": "Won"
   },
   {
     "id": 1534786,
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Akademiya Ontustik",
     "awayTeam": "Arys",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Akademiya Ontustik Win",
+    "outcome": "Won"
   },
   {
     "id": 1495267,
@@ -92,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "CF Montreal Win",
-    "outcome": "Won"
+    "prediction": "Vancouver FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1525304,
@@ -129,18 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Sportivo San Juan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542927,
-    "league": "Copa Ecuador",
-    "matchDate": "FT",
-    "homeTeam": "Ind. Juniors",
-    "awayTeam": "LDU de Quito",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
