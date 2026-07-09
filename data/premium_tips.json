@@ -6,7 +6,7 @@
     "homeTeam": "New England FC",
     "awayTeam": "Blackwatch Rush",
     "prediction": "New England FC Win",
-    "odds": "1.77"
+    "odds": "1.34"
   },
   {
     "id": 1567353,
@@ -15,7 +15,7 @@
     "homeTeam": "Nublense",
     "awayTeam": "O'Higgins",
     "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "odds": "2.2"
   },
   {
     "id": 1538365,
@@ -24,7 +24,7 @@
     "homeTeam": "Nacional Potosí",
     "awayTeam": "Aurora",
     "prediction": "Nacional Potosí Win",
-    "odds": "1.4"
+    "odds": "1.6"
   },
   {
     "id": 1525425,
@@ -32,8 +32,8 @@
     "matchTime": "04:00",
     "homeTeam": "Real Colorado Foxes",
     "awayTeam": "Flatirons Rush",
-    "prediction": "Real Colorado Foxes Win",
-    "odds": "1.94"
+    "prediction": "Real Colorado Foxes Win & Over 1.5",
+    "odds": "1.99"
   },
   {
     "id": 1560556,
@@ -41,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Colorado Rapids",
     "awayTeam": "FC Juarez",
-    "prediction": "Colorado Rapids Win",
-    "odds": "1.64"
+    "prediction": "Colorado Rapids Win & Over 1.5",
+    "odds": "1.93"
   },
   {
     "id": 1554821,
@@ -50,17 +50,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ludogorets",
     "awayTeam": "Septemvri Sofia",
-    "prediction": "Ludogorets Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1554822,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "11:00",
-    "homeTeam": "Spartak Trnava",
-    "awayTeam": "Skalica",
-    "prediction": "Spartak Trnava Win",
-    "odds": "1.84"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
   },
   {
     "id": 1554823,
@@ -68,8 +59,8 @@
     "matchTime": "11:00",
     "homeTeam": "Wolfsberger AC",
     "awayTeam": "Başakşehir",
-    "prediction": "Wolfsberger AC Win",
-    "odds": "1.57"
+    "prediction": "Başakşehir Win",
+    "odds": "3.13"
   },
   {
     "id": 1554824,
@@ -77,8 +68,8 @@
     "matchTime": "11:00",
     "homeTeam": "Zlin",
     "awayTeam": "Dukla Banská Bystrica",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Dukla Banská Bystrica Win",
+    "odds": "2.85"
   },
   {
     "id": 1562890,
@@ -86,8 +77,8 @@
     "matchTime": "11:00",
     "homeTeam": "FC Liefering",
     "awayTeam": "Artis",
-    "prediction": "Artis Win",
-    "odds": "2.31"
+    "prediction": "FC Liefering Win",
+    "odds": "1.32"
   },
   {
     "id": 1562891,
@@ -95,8 +86,8 @@
     "matchTime": "11:00",
     "homeTeam": "RED Star FC 93",
     "awayTeam": "Laval",
-    "prediction": "RED Star FC 93 Win",
-    "odds": "1.85"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1583235,
@@ -105,6 +96,15 @@
     "homeTeam": "Fehérvár FC",
     "awayTeam": "Szombathelyi Haladas",
     "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "odds": "1.99"
+  },
+  {
+    "id": 1560557,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:30",
+    "homeTeam": "Wolfsberger AC",
+    "awayTeam": "Metalist 1925 Kharkiv",
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
   }
 ]
