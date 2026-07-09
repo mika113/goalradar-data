@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554816,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:30",
-    "homeTeam": "FC Ingolstadt 04",
-    "awayTeam": "Lask Linz",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
-  },
-  {
     "id": 1534787,
     "league": "1. Division (Kazakhstan)",
     "matchTime": "16:00",
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Khan Tengri",
-    "prediction": "Aktobe Jas Win",
-    "odds": "1.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
   },
   {
     "id": 1534789,
@@ -24,7 +15,7 @@
     "homeTeam": "Jaiyq",
     "awayTeam": "Tobol 2",
     "prediction": "Tobol 2 Win",
-    "odds": "2.26"
+    "odds": "3.48"
   },
   {
     "id": 1550543,
@@ -32,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "SV Wehen",
     "awayTeam": "FC 08 Homburg",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "SV Wehen Win",
+    "odds": "1.83"
   },
   {
     "id": 1554819,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Cracovia Krakow",
     "awayTeam": "Pardubice",
-    "prediction": "Cracovia Krakow Win & Over 1.5",
-    "odds": "1.86"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1536849,
@@ -50,8 +41,8 @@
     "matchTime": "16:30",
     "homeTeam": "Izhevsk",
     "awayTeam": "Dinamo Barnaul",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Izhevsk Win",
+    "odds": "1.57"
   },
   {
     "id": 1554406,
@@ -59,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Atlètic Club d'Escaldes",
     "awayTeam": "Mornar",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
+    "prediction": "Mornar Win",
+    "odds": "3.28"
   },
   {
     "id": 1583234,
@@ -68,7 +59,16 @@
     "matchTime": "17:00",
     "homeTeam": "OFK Beograd",
     "awayTeam": "Buducnost Podgorica",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1548795,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Rapid",
+    "awayTeam": "Slovan Liberec",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "odds": "1.71"
   }
 ]
