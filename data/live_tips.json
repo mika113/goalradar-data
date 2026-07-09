@@ -1,39 +1,12 @@
 [
   {
-    "id": 1550544,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:30",
-    "homeTeam": "Cambuur",
-    "awayTeam": "Roda",
-    "prediction": "Roda Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1567574,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:30",
-    "homeTeam": "NK Slaven Belupo",
-    "awayTeam": "Debreceni VSC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
-    "id": 1521975,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Dandenong City",
-    "awayTeam": "South Melbourne",
-    "prediction": "Dandenong City Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1541321,
     "league": "Victoria Premier League 2 (Australia)",
     "matchTime": "12:45",
     "homeTeam": "Eastern Lions",
     "awayTeam": "Werribee City",
-    "prediction": "Eastern Lions Win",
-    "odds": "1.79"
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
   },
   {
     "id": 1517809,
@@ -42,7 +15,7 @@
     "homeTeam": "Macarthur Rams",
     "awayTeam": "Bankstown City Lions",
     "prediction": "Macarthur Rams Win",
-    "odds": "1.5"
+    "odds": "1.6"
   },
   {
     "id": 1519089,
@@ -50,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "Lokomotiv Moskva U19",
     "awayTeam": "Akademiya Konoplev U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.84"
   },
   {
     "id": 1519218,
@@ -59,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Almaz Antey U19",
     "awayTeam": "Spartak Moskva U19",
-    "prediction": "Spartak Moskva U19 Win",
-    "odds": "1.95"
+    "prediction": "Almaz Antey U19 Win & Over 1.5",
+    "odds": "2.22"
   },
   {
     "id": 1520518,
@@ -68,8 +41,8 @@
     "matchTime": "13:00",
     "homeTeam": "Ulsan Citizen",
     "awayTeam": "Yeoju Sejong",
-    "prediction": "Ulsan Citizen Win & Over 1.5",
-    "odds": "2.55"
+    "prediction": "Ulsan Citizen Win",
+    "odds": "1.54"
   },
   {
     "id": 1533741,
@@ -77,8 +50,8 @@
     "matchTime": "13:00",
     "homeTeam": "Gumi Sportstoto W",
     "awayTeam": "Boeun Sangmu W",
-    "prediction": "Gumi Sportstoto W Win",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1533742,
@@ -86,7 +59,34 @@
     "matchTime": "13:00",
     "homeTeam": "Seoul W",
     "awayTeam": "Suwon FMC W",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Suwon FMC W Win",
+    "odds": "2.3"
+  },
+  {
+    "id": 1554825,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Birmingham",
+    "awayTeam": "Huddersfield",
+    "prediction": "Huddersfield Win",
+    "odds": "3.19"
+  },
+  {
+    "id": 1554827,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Sonderjyske",
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
+  },
+  {
+    "id": 1521976,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Oakleigh Cannons",
+    "awayTeam": "Avondale",
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
   }
 ]
