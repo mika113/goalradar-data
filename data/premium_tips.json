@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525119,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Midwest United",
-    "awayTeam": "Union Macomb",
-    "prediction": "Union Macomb Win",
-    "odds": "3.2"
-  },
-  {
     "id": 1525315,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "New England FC",
     "awayTeam": "Blackwatch Rush",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "New England FC Win",
+    "odds": "1.77"
   },
   {
     "id": 1567353,
@@ -23,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Nublense",
     "awayTeam": "O'Higgins",
-    "prediction": "Nublense Win",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1538365,
@@ -33,7 +24,7 @@
     "homeTeam": "Nacional Potosí",
     "awayTeam": "Aurora",
     "prediction": "Nacional Potosí Win",
-    "odds": "1.98"
+    "odds": "1.4"
   },
   {
     "id": 1525425,
@@ -41,8 +32,8 @@
     "matchTime": "04:00",
     "homeTeam": "Real Colorado Foxes",
     "awayTeam": "Flatirons Rush",
-    "prediction": "Flatirons Rush Win",
-    "odds": "2.49"
+    "prediction": "Real Colorado Foxes Win",
+    "odds": "1.94"
   },
   {
     "id": 1560556,
@@ -51,7 +42,7 @@
     "homeTeam": "Colorado Rapids",
     "awayTeam": "FC Juarez",
     "prediction": "Colorado Rapids Win",
-    "odds": "1.44"
+    "odds": "1.64"
   },
   {
     "id": 1554821,
@@ -59,8 +50,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ludogorets",
     "awayTeam": "Septemvri Sofia",
-    "prediction": "Septemvri Sofia Win",
-    "odds": "1.94"
+    "prediction": "Ludogorets Win",
+    "odds": "1.81"
   },
   {
     "id": 1554822,
@@ -68,8 +59,8 @@
     "matchTime": "11:00",
     "homeTeam": "Spartak Trnava",
     "awayTeam": "Skalica",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "prediction": "Spartak Trnava Win",
+    "odds": "1.84"
   },
   {
     "id": 1554823,
@@ -77,8 +68,8 @@
     "matchTime": "11:00",
     "homeTeam": "Wolfsberger AC",
     "awayTeam": "Başakşehir",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
+    "prediction": "Wolfsberger AC Win",
+    "odds": "1.57"
   },
   {
     "id": 1554824,
@@ -86,8 +77,8 @@
     "matchTime": "11:00",
     "homeTeam": "Zlin",
     "awayTeam": "Dukla Banská Bystrica",
-    "prediction": "Dukla Banská Bystrica Win",
-    "odds": "1.99"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1562890,
@@ -95,8 +86,8 @@
     "matchTime": "11:00",
     "homeTeam": "FC Liefering",
     "awayTeam": "Artis",
-    "prediction": "FC Liefering Win",
-    "odds": "1.56"
+    "prediction": "Artis Win",
+    "odds": "2.31"
   },
   {
     "id": 1562891,
@@ -104,7 +95,16 @@
     "matchTime": "11:00",
     "homeTeam": "RED Star FC 93",
     "awayTeam": "Laval",
-    "prediction": "Laval Win",
-    "odds": "1.9"
+    "prediction": "RED Star FC 93 Win",
+    "odds": "1.85"
+  },
+  {
+    "id": 1583235,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Fehérvár FC",
+    "awayTeam": "Szombathelyi Haladas",
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
   }
 ]
