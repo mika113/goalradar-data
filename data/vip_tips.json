@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554400,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "22:00",
-    "homeTeam": "FK Sarajevo",
-    "awayTeam": "Inter Turku",
-    "prediction": "FK Sarajevo Win",
-    "odds": "1.33"
-  },
-  {
     "id": 1554412,
     "league": "UEFA Europa Conference League (World)",
     "matchTime": "22:00",
     "homeTeam": "Stjarnan",
     "awayTeam": "Vikingur Gota",
     "prediction": "Stjarnan Win",
-    "odds": "1.44"
+    "odds": "1.58"
   },
   {
     "id": 1568104,
@@ -23,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico Grau",
     "awayTeam": "Carlos A. Mannucci",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Carlos A. Mannucci Win",
+    "odds": "1.72"
   },
   {
     "id": 1578539,
@@ -33,7 +24,7 @@
     "homeTeam": "France",
     "awayTeam": "Morocco",
     "prediction": "France Win",
-    "odds": "1.38"
+    "odds": "1.45"
   },
   {
     "id": 1526566,
@@ -41,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Deportivo Cuenca Juniors",
     "awayTeam": "LDU Portoviejo",
-    "prediction": "Deportivo Cuenca Juniors Win & Over 1.5",
-    "odds": "1.88"
+    "prediction": "LDU Portoviejo Win",
+    "odds": "1.92"
   },
   {
     "id": 1525314,
@@ -50,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Dayton Dutch Lions",
     "awayTeam": "West Virginia Alliance",
-    "prediction": "West Virginia Alliance Win",
-    "odds": "3.42"
+    "prediction": "Dayton Dutch Lions Win",
+    "odds": "1.51"
   },
   {
     "id": 1547317,
@@ -59,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Oeste U20",
     "awayTeam": "Ibrachina U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
   },
   {
     "id": 1583660,
@@ -68,7 +59,16 @@
     "matchTime": "01:00",
     "homeTeam": "United States U20 W",
     "awayTeam": "England U20 W",
-    "prediction": "England U20 W Win",
-    "odds": "1.85"
+    "prediction": "United States U20 W Win",
+    "odds": "1.34"
+  },
+  {
+    "id": 1525119,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Midwest United",
+    "awayTeam": "Union Macomb",
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   }
 ]
