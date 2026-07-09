@@ -42,9 +42,9 @@
     "homeTeam": "CSKA Sofia",
     "awayTeam": "Derry City",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "CSKA Sofia Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Vllaznia Shkodër",
     "awayTeam": "Malisheva",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Malisheva Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -90,7 +90,7 @@
     "homeTeam": "Caernarfon Town",
     "awayTeam": "FC Levadia Tallinn",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "FC Levadia Tallinn Win",
     "outcome": "Won"
@@ -104,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "US Mondorf-les-bains Win",
-    "outcome": "Lost"
+    "prediction": "Dinamo Tbilisi Win",
+    "outcome": "Won"
   },
   {
     "id": 1554445,
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554411,
