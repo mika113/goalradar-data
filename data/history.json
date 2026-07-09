@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1554400,
@@ -54,9 +54,9 @@
     "homeTeam": "Petrovac",
     "awayTeam": "FK Zalgiris Vilnius",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "FK Zalgiris Vilnius Win",
     "outcome": "Won"
   },
   {
@@ -78,10 +78,10 @@
     "homeTeam": "NSI Runavik",
     "awayTeam": "Hamrun Spartans",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Hamrun Spartans Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1554401,
@@ -90,10 +90,10 @@
     "homeTeam": "Glentoran",
     "awayTeam": "Rīgas FS",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Glentoran Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554446,
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Ferencvarosi TC Win",
-    "outcome": "Won"
+    "prediction": "Vojvodina Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554443,
