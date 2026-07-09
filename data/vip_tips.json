@@ -1,21 +1,12 @@
 [
   {
-    "id": 1543935,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Cruzeiro U17",
-    "awayTeam": "Internacional U17",
-    "prediction": "Internacional U17 Win",
-    "odds": "2.35"
-  },
-  {
     "id": 1547310,
     "league": "Paulista - U20 (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "América-SP U20",
     "awayTeam": "Jabaquara U20",
-    "prediction": "Jabaquara U20 Win",
-    "odds": "1.76"
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
   },
   {
     "id": 1554413,
@@ -23,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Vllaznia Shkodër",
     "awayTeam": "Malisheva",
-    "prediction": "Vllaznia Shkodër Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1554401,
@@ -32,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Glentoran",
     "awayTeam": "Rīgas FS",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   },
   {
     "id": 1554407,
@@ -41,8 +32,8 @@
     "matchTime": "21:45",
     "homeTeam": "NSI Runavik",
     "awayTeam": "Hamrun Spartans",
-    "prediction": "NSI Runavik Win & Over 1.5",
-    "odds": "2.01"
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
   },
   {
     "id": 1554408,
@@ -50,8 +41,8 @@
     "matchTime": "21:45",
     "homeTeam": "Penybont",
     "awayTeam": "FC Santa Coloma",
-    "prediction": "FC Santa Coloma Win",
-    "odds": "2.41"
+    "prediction": "Penybont Win",
+    "odds": "1.41"
   },
   {
     "id": 1554409,
@@ -59,8 +50,8 @@
     "matchTime": "21:45",
     "homeTeam": "Petrovac",
     "awayTeam": "FK Zalgiris Vilnius",
-    "prediction": "Petrovac Win",
-    "odds": "1.31"
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   },
   {
     "id": 1562889,
@@ -68,7 +59,16 @@
     "matchTime": "21:45",
     "homeTeam": "H&W Welders",
     "awayTeam": "Dergview",
-    "prediction": "Dergview Win",
-    "odds": "1.71"
+    "prediction": "H&W Welders Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1554397,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "22:00",
+    "homeTeam": "Dinamo Tirana",
+    "awayTeam": "FC Astana",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
   }
 ]
