@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Boca Juniors",
     "awayTeam": "Atletico Paranaense",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Boca Juniors Win",
     "outcome": "Won"
   },
   {
@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Real Potosí",
     "awayTeam": "ABB",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Real Potosí Win",
@@ -44,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "RKC Win",
-    "outcome": "Lost"
+    "prediction": "Chicago Dutch Lions Win",
+    "outcome": "Won"
   },
   {
     "id": 1525278,
@@ -68,8 +68,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "East Atlanta Win",
-    "outcome": "Lost"
+    "prediction": "Southern Soccer Academy Win",
+    "outcome": "Won"
   },
   {
     "id": 1525306,
@@ -93,30 +93,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Coquimbo Unido Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1544673,
-    "league": "Canadian Championship (Canada)",
-    "matchDate": "FT",
-    "homeTeam": "Supra du Quebec",
-    "awayTeam": "Atlético Ottawa",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Supra du Quebec Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525311,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Virginia Beach City",
-    "awayTeam": "Annapolis Blues",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Annapolis Blues Win",
     "outcome": "Won"
   }
 ]
