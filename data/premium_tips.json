@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525317,
-    "league": "USL League Two (USA)",
-    "matchTime": "05:00",
-    "homeTeam": "Tucson",
-    "awayTeam": "Capo",
-    "prediction": "Tucson Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1525319,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "West Seattle Junction",
     "awayTeam": "Snohomish United",
-    "prediction": "Snohomish United Win",
-    "odds": "2.7"
+    "prediction": "West Seattle Junction Win",
+    "odds": "1.9"
   },
   {
     "id": 1583243,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Guadalajara Chivas",
     "awayTeam": "Leones Negros UDG",
-    "prediction": "Double Chance X2",
-    "odds": "1.78"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1533044,
@@ -32,8 +23,8 @@
     "matchTime": "05:15",
     "homeTeam": "New Town",
     "awayTeam": "South Hobart II",
-    "prediction": "South Hobart II Win",
-    "odds": "2.62"
+    "prediction": "New Town Win",
+    "odds": "1.81"
   },
   {
     "id": 1533045,
@@ -41,8 +32,8 @@
     "matchTime": "05:15",
     "homeTeam": "Glenorchy Knights U21",
     "awayTeam": "Olympia Warriors",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.78"
+    "prediction": "Olympia Warriors Win",
+    "odds": "1.99"
   },
   {
     "id": 1522141,
@@ -51,7 +42,7 @@
     "homeTeam": "Port Melbourne",
     "awayTeam": "North Sunshine Eagles",
     "prediction": "Port Melbourne Win",
-    "odds": "1.61"
+    "odds": "1.77"
   },
   {
     "id": 1523780,
@@ -60,7 +51,7 @@
     "homeTeam": "Weston Bears",
     "awayTeam": "Lambton Jaffas",
     "prediction": "Lambton Jaffas Win",
-    "odds": "2.86"
+    "odds": "3.02"
   },
   {
     "id": 1523781,
@@ -69,7 +60,7 @@
     "homeTeam": "Edgeworth Eagles",
     "awayTeam": "Belmont Swansea",
     "prediction": "Edgeworth Eagles Win",
-    "odds": "1.42"
+    "odds": "1.31"
   },
   {
     "id": 1529271,
@@ -77,8 +68,8 @@
     "matchTime": "07:00",
     "homeTeam": "South Hobart",
     "awayTeam": "Ulverstone",
-    "prediction": "South Hobart Win",
-    "odds": "1.43"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1532592,
@@ -86,8 +77,8 @@
     "matchTime": "07:00",
     "homeTeam": "Singleton Strikers",
     "awayTeam": "South Cardiff",
-    "prediction": "Singleton Strikers Win",
-    "odds": "1.73"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
   },
   {
     "id": 1532593,
@@ -95,8 +86,8 @@
     "matchTime": "07:00",
     "homeTeam": "Cessnock City Hornets",
     "awayTeam": "Dudley Redhead United",
-    "prediction": "Cessnock City Hornets Win",
-    "odds": "1.9"
+    "prediction": "Dudley Redhead United Win",
+    "odds": "2.68"
   },
   {
     "id": 1541446,
@@ -104,7 +95,16 @@
     "matchTime": "07:00",
     "homeTeam": "Moreland City",
     "awayTeam": "Springvale",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
+  },
+  {
+    "id": 1529272,
+    "league": "Tasmania NPL (Australia)",
+    "matchTime": "07:30",
+    "homeTeam": "Clarence Zebras",
+    "awayTeam": "Launceston City",
+    "prediction": "Clarence Zebras Win",
+    "odds": "1.45"
   }
 ]
