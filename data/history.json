@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Njardvik",
     "awayTeam": "Grindavik",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Grindavik Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1514226,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1514225,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Ægir",
     "awayTeam": "HK Kopavogur",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Spain",
     "awayTeam": "Belgium",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spain Win",
     "outcome": "Won"
   },
   {
@@ -90,10 +90,10 @@
     "homeTeam": "Erith & Belvedere",
     "awayTeam": "Whitstable Town",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Erith & Belvedere Win",
-    "outcome": "Lost"
+    "prediction": "Whitstable Town Win",
+    "outcome": "Won"
   },
   {
     "id": 1584775,
@@ -138,7 +138,7 @@
     "homeTeam": "Livingston",
     "awayTeam": "Heart Of Midlothian",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Livingston Win",
     "outcome": "Won"
