@@ -9,7 +9,43 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525316,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Oakland County",
+    "awayTeam": "Midwest United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Lost"
+  },
+  {
+    "id": 1525025,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "FC Miami City",
+    "awayTeam": "Lakeland United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520769,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Sport Recife",
+    "awayTeam": "Botafogo SP",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1525341,
@@ -17,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Hattiesburg",
     "awayTeam": "Little Rock Rangers",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Little Rock Rangers Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -32,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Deportivo Maldonado Win",
-    "outcome": "Won"
+    "prediction": "Albion FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520765,
@@ -105,42 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Njardvik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1514227,
-    "league": "1. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Leiknir R.",
-    "awayTeam": "Grotta",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Leiknir R. Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1514226,
-    "league": "1. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "IR Reykjavik",
-    "awayTeam": "Throttur Reykjavik",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1514225,
-    "league": "1. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Ægir",
-    "awayTeam": "HK Kopavogur",
-    "homeScore": 3,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "HK Kopavogur Win",
     "outcome": "Won"
   }
 ]
