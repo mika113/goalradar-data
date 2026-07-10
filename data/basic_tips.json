@@ -1,21 +1,12 @@
 [
   {
-    "id": 1582684,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "00:00",
-    "homeTeam": "Fernando De La Mora",
-    "awayTeam": "Paraguari AC",
-    "prediction": "Fernando De La Mora Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1519396,
     "league": "Liga Pro (Ecuador)",
     "matchTime": "01:00",
     "homeTeam": "Leones del Norte",
     "awayTeam": "Universidad Catolica",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "Leones del Norte Win",
+    "odds": "1.66"
   },
   {
     "id": 1520765,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Juventude",
     "awayTeam": "Vila Nova",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1576787,
@@ -32,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Deportivo Maldonado",
     "awayTeam": "Albion FC",
-    "prediction": "Albion FC Win",
-    "odds": "2.17"
+    "prediction": "Deportivo Maldonado Win",
+    "odds": "1.53"
   },
   {
     "id": 1525341,
@@ -41,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Hattiesburg",
     "awayTeam": "Little Rock Rangers",
-    "prediction": "Hattiesburg Win",
-    "odds": "1.86"
+    "prediction": "Double Chance X2",
+    "odds": "1.61"
   },
   {
     "id": 1520769,
@@ -51,6 +42,15 @@
     "homeTeam": "Sport Recife",
     "awayTeam": "Botafogo SP",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
+    "odds": "1.83"
+  },
+  {
+    "id": 1525025,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "FC Miami City",
+    "awayTeam": "Lakeland United",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.2"
   }
 ]
