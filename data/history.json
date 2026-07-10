@@ -1,14 +1,26 @@
 [
   {
+    "id": 1568101,
+    "league": "Copa De La Liga (Peru)",
+    "matchDate": "FT",
+    "homeTeam": "Alianza Atletico",
+    "awayTeam": "Molinos El Pirata",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1514228,
     "league": "1. Deild (Iceland)",
     "matchDate": "FT",
     "homeTeam": "Njardvik",
     "awayTeam": "Grindavik",
     "homeScore": 4,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Njardvik Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1514226,
@@ -32,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Throttur Reykjavik Win",
-    "outcome": "Won"
+    "prediction": "IR Reykjavik Win",
+    "outcome": "Lost"
   },
   {
     "id": 1514225,
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1583242,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Livingston",
-    "awayTeam": "Heart Of Midlothian",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Heart Of Midlothian Win",
-    "outcome": "Lost"
   }
 ]
