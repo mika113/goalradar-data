@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1568103,
@@ -20,8 +20,20 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Cienciano Win",
-    "outcome": "Lost"
+    "prediction": "ADT Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567323,
+    "league": "Cearense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Floresta CE U20",
+    "awayTeam": "Horizonte U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1547324,
@@ -34,6 +46,18 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1547322,
+    "league": "Paulista - U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Tanabi SP U20",
+    "awayTeam": "Osasco Audax U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1547321,
@@ -113,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Juventus U20",
     "awayTeam": "São Bento U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547312,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Botafogo SP U20",
-    "awayTeam": "SC Paulinense SP U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
