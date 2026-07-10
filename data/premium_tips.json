@@ -1,30 +1,12 @@
 [
   {
-    "id": 1584756,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Kudrivka",
-    "awayTeam": "Rebel",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
-  },
-  {
-    "id": 1517208,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "17:30",
-    "homeTeam": "Inter Turku II",
-    "awayTeam": "Rops",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
-  },
-  {
     "id": 1534365,
     "league": "1. Division (Belarus)",
     "matchTime": "17:30",
     "homeTeam": "Slonim",
     "awayTeam": "Niva",
-    "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "prediction": "Slonim Win",
+    "odds": "1.66"
   },
   {
     "id": 1554900,
@@ -33,7 +15,7 @@
     "homeTeam": "Karviná",
     "awayTeam": "Považská Bystrica",
     "prediction": "Považská Bystrica Win",
-    "odds": "3.41"
+    "odds": "2.2"
   },
   {
     "id": 1519088,
@@ -41,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Fakel U19",
     "awayTeam": "Ural U20",
-    "prediction": "Fakel U19 Win",
-    "odds": "1.63"
+    "prediction": "Ural U20 Win",
+    "odds": "2.71"
   },
   {
     "id": 1519091,
@@ -51,7 +33,7 @@
     "homeTeam": "Rodina Moscow U19",
     "awayTeam": "Rostov U19",
     "prediction": "Rodina Moscow U19 Win",
-    "odds": "1.85"
+    "odds": "1.63"
   },
   {
     "id": 1547932,
@@ -59,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Austria Lustenau",
     "awayTeam": "FC Aarau",
-    "prediction": "Austria Lustenau Win & Over 1.5",
-    "odds": "2.01"
+    "prediction": "Austria Lustenau Win",
+    "odds": "1.37"
   },
   {
     "id": 1554826,
@@ -68,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "FC Nordsjaelland",
     "awayTeam": "Gornik Zabrze",
-    "prediction": "Gornik Zabrze Win",
-    "odds": "3.38"
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   },
   {
     "id": 1554829,
@@ -77,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Yantra 2019",
     "awayTeam": "Fratria",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.56"
+    "prediction": "Yantra 2019 Win",
+    "odds": "1.98"
   },
   {
     "id": 1554830,
@@ -86,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "FC Zurich",
     "awayTeam": "Sochaux",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
+    "prediction": "FC Zurich Win",
+    "odds": "1.48"
   },
   {
     "id": 1554831,
@@ -95,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "SKU Amstetten",
     "awayTeam": "Artis",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1560559,
@@ -104,7 +86,25 @@
     "matchTime": "18:00",
     "homeTeam": "FC Voluntari",
     "awayTeam": "Metalul Buzău",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Metalul Buzău Win",
+    "odds": "3.2"
+  },
+  {
+    "id": 1560560,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Francs Borains",
+    "awayTeam": "Crossing Schaerbeek",
+    "prediction": "Francs Borains Win & Over 1.5",
+    "odds": "2.51"
+  },
+  {
+    "id": 1562895,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Sturm Graz II",
+    "awayTeam": "Beltinci",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   }
 ]
