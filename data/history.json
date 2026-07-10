@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Dynamo Kyiv Win",
-    "outcome": "Won"
+    "prediction": "Radomiak Radom Win",
+    "outcome": "Lost"
   },
   {
     "id": 1541445,
@@ -117,30 +117,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Preston Lions Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510372,
-    "league": "K League 2 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Suwon City FC",
-    "awayTeam": "Jeonnam Dragons",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Jeonnam Dragons Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1510371,
-    "league": "K League 2 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Cheonan City",
-    "awayTeam": "Gimhae City",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Gimhae City Win",
     "outcome": "Won"
   }
 ]
