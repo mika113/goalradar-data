@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1547931,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Plzen",
+    "awayTeam": "BSC Young Boys",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583714,
     "league": "Premier League (Lebanon)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567575,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548800,
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Ekibastuz",
     "awayTeam": "Sport Academy Kairat",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 4,
     "status": "FT",
     "prediction": "Sport Academy Kairat Win",
@@ -114,7 +126,7 @@
     "homeTeam": "Rubin Kazan U20",
     "awayTeam": "Dinamo Moskva U19",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Dinamo Moskva U19 Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Shandong Luneng Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550545,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Osters IF",
-    "awayTeam": "Lyngby",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Lyngby Win",
     "outcome": "Won"
   }
 ]
