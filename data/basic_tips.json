@@ -1,30 +1,12 @@
 [
   {
-    "id": 1492735,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "22:00",
-    "homeTeam": "Waterford",
-    "awayTeam": "St Patrick's Athl.",
-    "prediction": "Waterford Win",
-    "odds": "1.42"
-  },
-  {
-    "id": 1581821,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "Spain",
-    "awayTeam": "Belgium",
-    "prediction": "Spain Win",
-    "odds": "1.93"
-  },
-  {
     "id": 1514225,
     "league": "1. Deild (Iceland)",
     "matchTime": "22:15",
     "homeTeam": "Ægir",
     "awayTeam": "HK Kopavogur",
-    "prediction": "Ægir Win",
-    "odds": "1.95"
+    "prediction": "HK Kopavogur Win",
+    "odds": "2.48"
   },
   {
     "id": 1514226,
@@ -32,8 +14,8 @@
     "matchTime": "22:15",
     "homeTeam": "IR Reykjavik",
     "awayTeam": "Throttur Reykjavik",
-    "prediction": "Throttur Reykjavik Win",
-    "odds": "3.33"
+    "prediction": "IR Reykjavik Win",
+    "odds": "1.97"
   },
   {
     "id": 1514227,
@@ -41,8 +23,8 @@
     "matchTime": "22:15",
     "homeTeam": "Leiknir R.",
     "awayTeam": "Grotta",
-    "prediction": "Leiknir R. Win",
-    "odds": "1.38"
+    "prediction": "Both Teams To Score",
+    "odds": "1.66"
   },
   {
     "id": 1514228,
@@ -50,7 +32,25 @@
     "matchTime": "22:15",
     "homeTeam": "Njardvik",
     "awayTeam": "Grindavik",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Double Chance X2",
+    "odds": "1.54"
+  },
+  {
+    "id": 1560565,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "23:00",
+    "homeTeam": "Atlante FC",
+    "awayTeam": "Toluca",
+    "prediction": "Atlante FC Win & Over 1.5",
+    "odds": "2.55"
+  },
+  {
+    "id": 1567584,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "23:00",
+    "homeTeam": "Atlas",
+    "awayTeam": "Puebla",
+    "prediction": "Atlas Win",
+    "odds": "2.0"
   }
 ]
