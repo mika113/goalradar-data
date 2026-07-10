@@ -1,5 +1,17 @@
 [
   {
+    "id": 1525341,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Hattiesburg",
+    "awayTeam": "Little Rock Rangers",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Little Rock Rangers Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1576787,
     "league": "Primera División - Apertura (Uruguay)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Leones del Norte Win",
-    "outcome": "Won"
+    "prediction": "Universidad Catolica Win",
+    "outcome": "Lost"
   },
   {
     "id": 1582684,
@@ -116,8 +128,8 @@
     "homeScore": 3,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "HK Kopavogur Win",
-    "outcome": "Won"
+    "prediction": "Ægir Win",
+    "outcome": "Lost"
   },
   {
     "id": 1581821,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Spain Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1492735,
-    "league": "Premier Division (Ireland)",
-    "matchDate": "FT",
-    "homeTeam": "Waterford",
-    "awayTeam": "St Patrick's Athl.",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
