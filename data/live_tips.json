@@ -1,66 +1,12 @@
 [
   {
-    "id": 1492735,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "22:00",
-    "homeTeam": "Waterford",
-    "awayTeam": "St Patrick's Athl.",
-    "prediction": "Waterford Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1581821,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "Spain",
-    "awayTeam": "Belgium",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
-  },
-  {
-    "id": 1514225,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Ægir",
-    "awayTeam": "HK Kopavogur",
-    "prediction": "Ægir Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1514226,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "IR Reykjavik",
-    "awayTeam": "Throttur Reykjavik",
-    "prediction": "IR Reykjavik Win & Over 1.5",
-    "odds": "2.0"
-  },
-  {
-    "id": 1514227,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Leiknir R.",
-    "awayTeam": "Grotta",
-    "prediction": "Leiknir R. Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1514228,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Njardvik",
-    "awayTeam": "Grindavik",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
-  },
-  {
     "id": 1560565,
     "league": "Friendlies Clubs (World)",
     "matchTime": "23:00",
     "homeTeam": "Atlante FC",
     "awayTeam": "Toluca",
-    "prediction": "Toluca Win",
-    "odds": "2.22"
+    "prediction": "Atlante FC Win",
+    "odds": "1.59"
   },
   {
     "id": 1567584,
@@ -68,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atlas",
     "awayTeam": "Puebla",
-    "prediction": "Atlas Win",
-    "odds": "1.71"
+    "prediction": "Atlas Win & Over 1.5",
+    "odds": "2.47"
   },
   {
     "id": 1567585,
@@ -77,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico San Luis",
     "awayTeam": "Mineros de Zacatecas",
-    "prediction": "Atletico San Luis Win",
-    "odds": "1.77"
+    "prediction": "Mineros de Zacatecas Win",
+    "odds": "2.55"
   },
   {
     "id": 1568101,
@@ -86,7 +32,61 @@
     "matchTime": "23:30",
     "homeTeam": "Alianza Atletico",
     "awayTeam": "Molinos El Pirata",
-    "prediction": "Molinos El Pirata Win",
-    "odds": "2.21"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
+  },
+  {
+    "id": 1582684,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "00:00",
+    "homeTeam": "Fernando De La Mora",
+    "awayTeam": "Paraguari AC",
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
+  },
+  {
+    "id": 1519396,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "01:00",
+    "homeTeam": "Leones del Norte",
+    "awayTeam": "Universidad Catolica",
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
+  },
+  {
+    "id": 1520765,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Juventude",
+    "awayTeam": "Vila Nova",
+    "prediction": "Juventude Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1576787,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Deportivo Maldonado",
+    "awayTeam": "Albion FC",
+    "prediction": "Deportivo Maldonado Win & Over 1.5",
+    "odds": "2.2"
+  },
+  {
+    "id": 1525341,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:30",
+    "homeTeam": "Hattiesburg",
+    "awayTeam": "Little Rock Rangers",
+    "prediction": "Hattiesburg Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1520769,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Sport Recife",
+    "awayTeam": "Botafogo SP",
+    "prediction": "Botafogo SP Win",
+    "odds": "2.82"
   }
 ]
