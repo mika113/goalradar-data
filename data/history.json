@@ -44,8 +44,8 @@
     "homeScore": 3,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Ægir Win",
-    "outcome": "Lost"
+    "prediction": "HK Kopavogur Win",
+    "outcome": "Won"
   },
   {
     "id": 1581821,
@@ -116,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1584768,
@@ -125,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Bridlington Town",
     "awayTeam": "Whitby Town",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Whitby Town Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Livingston Win",
-    "outcome": "Won"
+    "prediction": "Heart Of Midlothian Win",
+    "outcome": "Lost"
   }
 ]
