@@ -1,66 +1,12 @@
 [
   {
-    "id": 1521974,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Green Gully",
-    "awayTeam": "Altona Magic",
-    "prediction": "Double Chance X2",
-    "odds": "1.37"
-  },
-  {
-    "id": 1524072,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Peninsula Power",
-    "awayTeam": "WDSC Wolves",
-    "prediction": "WDSC Wolves Win",
-    "odds": "2.53"
-  },
-  {
-    "id": 1524074,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Brisbane Roar II",
-    "awayTeam": "Rochedale Rovers",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
-    "id": 1550544,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:30",
-    "homeTeam": "Cambuur",
-    "awayTeam": "Roda",
-    "prediction": "Cambuur Win",
-    "odds": "1.55"
-  },
-  {
-    "id": 1567574,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:30",
-    "homeTeam": "NK Slaven Belupo",
-    "awayTeam": "Debreceni VSC",
-    "prediction": "Debreceni VSC Win",
-    "odds": "3.22"
-  },
-  {
-    "id": 1521975,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Dandenong City",
-    "awayTeam": "South Melbourne",
-    "prediction": "Dandenong City Win & Over 1.5",
-    "odds": "1.89"
-  },
-  {
     "id": 1541321,
     "league": "Victoria Premier League 2 (Australia)",
     "matchTime": "12:45",
     "homeTeam": "Eastern Lions",
     "awayTeam": "Werribee City",
-    "prediction": "Eastern Lions Win",
-    "odds": "1.93"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1517809,
@@ -68,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Macarthur Rams",
     "awayTeam": "Bankstown City Lions",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Double Chance X2",
+    "odds": "1.72"
   },
   {
     "id": 1519089,
@@ -78,7 +24,7 @@
     "homeTeam": "Lokomotiv Moskva U19",
     "awayTeam": "Akademiya Konoplev U20",
     "prediction": "Lokomotiv Moskva U19 Win",
-    "odds": "1.56"
+    "odds": "1.86"
   },
   {
     "id": 1519218,
@@ -86,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Almaz Antey U19",
     "awayTeam": "Spartak Moskva U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
   },
   {
     "id": 1520518,
@@ -96,7 +42,7 @@
     "homeTeam": "Ulsan Citizen",
     "awayTeam": "Yeoju Sejong",
     "prediction": "Yeoju Sejong Win",
-    "odds": "3.08"
+    "odds": "1.69"
   },
   {
     "id": 1533741,
@@ -104,7 +50,61 @@
     "matchTime": "13:00",
     "homeTeam": "Gumi Sportstoto W",
     "awayTeam": "Boeun Sangmu W",
+    "prediction": "Gumi Sportstoto W Win",
+    "odds": "1.76"
+  },
+  {
+    "id": 1533742,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Seoul W",
+    "awayTeam": "Suwon FMC W",
+    "prediction": "Seoul W Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1554825,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Birmingham",
+    "awayTeam": "Huddersfield",
+    "prediction": "Birmingham Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 1554827,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Sonderjyske",
+    "prediction": "Holstein Kiel Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1521976,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Oakleigh Cannons",
+    "awayTeam": "Avondale",
+    "prediction": "Oakleigh Cannons Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1529269,
+    "league": "Tasmania NPL (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Glenorchy Knights",
+    "awayTeam": "Kingborough Lions",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
+    "odds": "1.94"
+  },
+  {
+    "id": 1529270,
+    "league": "Tasmania NPL (Australia)",
+    "matchTime": "13:15",
+    "homeTeam": "Launceston United",
+    "awayTeam": "Riverside",
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   }
 ]
