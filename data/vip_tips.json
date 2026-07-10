@@ -1,48 +1,12 @@
 [
   {
-    "id": 1567585,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Atletico San Luis",
-    "awayTeam": "Mineros de Zacatecas",
-    "prediction": "Atletico San Luis Win",
-    "odds": "1.57"
-  },
-  {
-    "id": 1568101,
-    "league": "Copa De La Liga (Peru)",
-    "matchTime": "23:30",
-    "homeTeam": "Alianza Atletico",
-    "awayTeam": "Molinos El Pirata",
-    "prediction": "Alianza Atletico Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1582684,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "00:00",
-    "homeTeam": "Fernando De La Mora",
-    "awayTeam": "Paraguari AC",
-    "prediction": "Fernando De La Mora Win & Over 1.5",
-    "odds": "2.57"
-  },
-  {
-    "id": 1519396,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "01:00",
-    "homeTeam": "Leones del Norte",
-    "awayTeam": "Universidad Catolica",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
-  },
-  {
     "id": 1520765,
     "league": "Serie B (Brazil)",
     "matchTime": "01:00",
     "homeTeam": "Juventude",
     "awayTeam": "Vila Nova",
-    "prediction": "Double Chance X2",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
   },
   {
     "id": 1576787,
@@ -51,7 +15,7 @@
     "homeTeam": "Deportivo Maldonado",
     "awayTeam": "Albion FC",
     "prediction": "Albion FC Win",
-    "odds": "2.91"
+    "odds": "2.05"
   },
   {
     "id": 1525341,
@@ -59,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Hattiesburg",
     "awayTeam": "Little Rock Rangers",
-    "prediction": "Little Rock Rangers Win",
-    "odds": "2.08"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1520769,
@@ -68,7 +32,43 @@
     "matchTime": "02:00",
     "homeTeam": "Sport Recife",
     "awayTeam": "Botafogo SP",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "prediction": "Botafogo SP Win",
+    "odds": "2.49"
+  },
+  {
+    "id": 1525025,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "FC Miami City",
+    "awayTeam": "Lakeland United",
+    "prediction": "FC Miami City Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1525316,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Oakland County",
+    "awayTeam": "Midwest United",
+    "prediction": "Oakland County Win & Over 1.5",
+    "odds": "2.44"
+  },
+  {
+    "id": 1525318,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Western Mass Pioneers",
+    "awayTeam": "Vermont Green",
+    "prediction": "Vermont Green Win",
+    "odds": "2.85"
+  },
+  {
+    "id": 1550549,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "02:30",
+    "homeTeam": "FC Cincinnati",
+    "awayTeam": "Burnley",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   }
 ]
