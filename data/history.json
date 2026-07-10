@@ -18,9 +18,9 @@
     "homeTeam": "Erith & Belvedere",
     "awayTeam": "Whitstable Town",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Whitstable Town Win",
     "outcome": "Won"
   },
   {
@@ -114,9 +114,9 @@
     "homeTeam": "Cork City",
     "awayTeam": "Longford Town",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Longford Town Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +129,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1492930,
-    "league": "First Division (Ireland)",
-    "matchDate": "FT",
-    "homeTeam": "Athlone Town",
-    "awayTeam": "Cobh Ramblers",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Athlone Town Win",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
