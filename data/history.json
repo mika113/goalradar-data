@@ -1,15 +1,51 @@
 [
   {
-    "id": 1554824,
+    "id": 1584757,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Zlin",
-    "awayTeam": "Dukla Banská Bystrica",
+    "homeTeam": "Petrolul Ploiesti",
+    "awayTeam": "ASA Targu Mures",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584755,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rodez",
+    "awayTeam": "Bastia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Bastia Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554886,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Wieczysta Kraków",
+    "awayTeam": "Ruch Chorzów",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1554824,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zlin",
+    "awayTeam": "Dukla Banská Bystrica",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1584754,
@@ -104,31 +140,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Aurora Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567353,
-    "league": "Copa De La Liga (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Nublense",
-    "awayTeam": "O'Higgins",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Nublense Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525315,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "New England FC",
-    "awayTeam": "Blackwatch Rush",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "New England FC Win",
+    "prediction": "Nacional Potosí Win",
     "outcome": "Won"
   }
 ]
