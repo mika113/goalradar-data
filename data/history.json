@@ -54,7 +54,7 @@
     "homeTeam": "Shandong Luneng",
     "awayTeam": "Yunnan Yukun",
     "homeScore": 3,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Shandong Luneng Win",
     "outcome": "Won"
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "FC Nordsjaelland Win",
-    "outcome": "Lost"
+    "prediction": "Hradec Králové Win",
+    "outcome": "Won"
   },
   {
     "id": 1567578,
@@ -90,9 +90,9 @@
     "homeTeam": "Whittlesea United",
     "awayTeam": "Kingston City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kingston City Win",
     "outcome": "Won"
   },
   {
@@ -101,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Essendon Royals SC",
     "awayTeam": "Box Hill",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Essendon Royals SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1524224,
@@ -125,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Brunswick Juventus FC",
     "awayTeam": "Western United II",
-    "homeScore": 2,
-    "awayScore": 3,
+    "homeScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Western United II Win",
     "outcome": "Won"
@@ -137,8 +137,8 @@
     "matchDate": "FT",
     "homeTeam": "Langwarrin",
     "awayTeam": "Melbourne Victory II",
-    "homeScore": 2,
-    "awayScore": 2,
+    "homeScore": 3,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
