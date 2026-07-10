@@ -1,48 +1,12 @@
 [
   {
-    "id": 1554886,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Wieczysta Kraków",
-    "awayTeam": "Ruch Chorzów",
-    "prediction": "Ruch Chorzów Win",
-    "odds": "2.49"
-  },
-  {
-    "id": 1584755,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Rodez",
-    "awayTeam": "Bastia",
-    "prediction": "Rodez Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1584757,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Petrolul Ploiesti",
-    "awayTeam": "ASA Targu Mures",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1521974,
-    "league": "Victoria NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Green Gully",
-    "awayTeam": "Altona Magic",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
     "id": 1524072,
     "league": "Queensland NPL (Australia)",
     "matchTime": "12:30",
     "homeTeam": "Peninsula Power",
     "awayTeam": "WDSC Wolves",
-    "prediction": "WDSC Wolves Win",
-    "odds": "2.68"
+    "prediction": "Peninsula Power Win",
+    "odds": "1.55"
   },
   {
     "id": 1524074,
@@ -51,7 +15,7 @@
     "homeTeam": "Brisbane Roar II",
     "awayTeam": "Rochedale Rovers",
     "prediction": "Brisbane Roar II Win & Over 1.5",
-    "odds": "2.72"
+    "odds": "2.8"
   },
   {
     "id": 1550544,
@@ -59,8 +23,8 @@
     "matchTime": "12:30",
     "homeTeam": "Cambuur",
     "awayTeam": "Roda",
-    "prediction": "Cambuur Win",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
   },
   {
     "id": 1567574,
@@ -68,7 +32,43 @@
     "matchTime": "12:30",
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "Debreceni VSC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Debreceni VSC Win",
+    "odds": "3.03"
+  },
+  {
+    "id": 1521975,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "12:45",
+    "homeTeam": "Dandenong City",
+    "awayTeam": "South Melbourne",
+    "prediction": "Dandenong City Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1541321,
+    "league": "Victoria Premier League 2 (Australia)",
+    "matchTime": "12:45",
+    "homeTeam": "Eastern Lions",
+    "awayTeam": "Werribee City",
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
+  },
+  {
+    "id": 1517809,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchTime": "13:00",
+    "homeTeam": "Macarthur Rams",
+    "awayTeam": "Bankstown City Lions",
+    "prediction": "Macarthur Rams Win",
+    "odds": "1.53"
+  },
+  {
+    "id": 1519089,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "13:00",
+    "homeTeam": "Lokomotiv Moskva U19",
+    "awayTeam": "Akademiya Konoplev U20",
+    "prediction": "Lokomotiv Moskva U19 Win",
+    "odds": "1.83"
   }
 ]
