@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Inter de Minas U20",
     "awayTeam": "Villa Real U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Inter de Minas U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1568103,
@@ -36,6 +36,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1550547,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Parkgate",
+    "awayTeam": "Rotherham",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547934,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Enfield Town",
+    "awayTeam": "Leyton Orient",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Enfield Town Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1547324,
     "league": "Paulista - U20 (Brazil)",
     "matchDate": "FT",
@@ -48,6 +72,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1547323,
+    "league": "Paulista - U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "União São João U20",
+    "awayTeam": "Aguai U20",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Aguai U20 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1547322,
     "league": "Paulista - U20 (Brazil)",
     "matchDate": "FT",
@@ -57,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547321,
@@ -65,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Sfera U20",
     "awayTeam": "Flamengo SP U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sfera U20 Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Santo André U20",
     "awayTeam": "Bandeirante U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Santo André U20 Win",
     "outcome": "Won"
   },
   {
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Mirassol U20",
     "awayTeam": "Portuguesa Santista U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547315,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ituano U20",
-    "awayTeam": "Gremio Prudente U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547314,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Guarani U20",
-    "awayTeam": "Mauá U20",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Guarani U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547313,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Juventus U20",
-    "awayTeam": "São Bento U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
