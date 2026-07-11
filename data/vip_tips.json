@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525335,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "AFC Ann Arbor",
-    "awayTeam": "Kalamazoo FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
-  },
-  {
     "id": 1525336,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Black Rock",
     "awayTeam": "Boston City",
-    "prediction": "Black Rock Win",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.73"
   },
   {
     "id": 1525337,
@@ -23,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Charlotte Independence 2",
     "awayTeam": "North Carolina II",
-    "prediction": "North Carolina II Win",
-    "odds": "1.87"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1525340,
@@ -32,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Flint City Bucks",
     "awayTeam": "Union Macomb",
-    "prediction": "Flint City Bucks Win & Over 1.5",
-    "odds": "2.27"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1525342,
@@ -41,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Hickory",
     "awayTeam": "Asheville City",
-    "prediction": "Hickory Win",
-    "odds": "1.93"
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
   },
   {
     "id": 1525343,
@@ -50,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Hill City",
     "awayTeam": "Virginia Marauders",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Hill City Win",
+    "odds": "1.85"
   },
   {
     "id": 1525345,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Hudson Valley Hammers",
     "awayTeam": "Cedar Stars Rush",
-    "prediction": "Double Chance X2",
-    "odds": "1.29"
+    "prediction": "Hudson Valley Hammers Win",
+    "odds": "1.62"
   },
   {
     "id": 1525346,
@@ -68,7 +59,16 @@
     "matchTime": "02:00",
     "homeTeam": "Lionsbridge",
     "awayTeam": "Charlottesville Blues",
-    "prediction": "Lionsbridge Win",
-    "odds": "1.48"
+    "prediction": "Lionsbridge Win & Over 1.5",
+    "odds": "2.97"
+  },
+  {
+    "id": 1525347,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Lorain County Leviathan",
+    "awayTeam": "Steel City",
+    "prediction": "Lorain County Leviathan Win",
+    "odds": "1.78"
   }
 ]
