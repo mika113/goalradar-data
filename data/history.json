@@ -1,5 +1,41 @@
 [
   {
+    "id": 1584829,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Laci",
+    "awayTeam": "Vora",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567609,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Nafta",
+    "awayTeam": "FK Partizan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562908,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Slavia Sofia",
+    "awayTeam": "Montana",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583263,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -21,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567369,
@@ -41,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Riga Mariners",
     "awayTeam": "BFC Daugavpils",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Riga Mariners Win",
+    "outcome": "Won"
   },
   {
     "id": 1567365,
@@ -90,9 +126,9 @@
     "homeTeam": "FC Krasnodar",
     "awayTeam": "FC Rostov",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Rostov Win",
     "outcome": "Won"
   },
   {
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Grenoble",
     "awayTeam": "Bourg-en-bresse 01",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554915,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sturm Graz",
-    "awayTeam": "Sanfrecce Hiroshima",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sturm Graz Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554914,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Slavia Praha",
-    "awayTeam": "Slovan Bratislava",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Slovan Bratislava Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554913,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Puskas Academy",
-    "awayTeam": "FC BW Linz",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
