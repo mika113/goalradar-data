@@ -1,30 +1,12 @@
 [
   {
-    "id": 1531216,
-    "league": "USL League One Cup (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Hartford Athletic",
-    "awayTeam": "Westchester SC",
-    "prediction": "Hartford Athletic Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1531231,
-    "league": "USL League One Cup (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Portland Hearts of Pine",
-    "awayTeam": "NY Cosmos",
-    "prediction": "NY Cosmos Win",
-    "odds": "1.61"
-  },
-  {
     "id": 1534063,
     "league": "Northern Super League (Canada)",
     "matchTime": "02:00",
     "homeTeam": "Calgary Wild W",
     "awayTeam": "Vancouver Rise W",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Calgary Wild W Win",
+    "odds": "1.86"
   },
   {
     "id": 1542668,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Pittsburgh Riverhounds",
     "awayTeam": "Loudoun United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
   },
   {
     "id": 1548830,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Houston Dynamo",
     "awayTeam": "CD Olimpia",
-    "prediction": "CD Olimpia Win",
-    "odds": "3.06"
+    "prediction": "Houston Dynamo Win",
+    "odds": "1.49"
   },
   {
     "id": 1525361,
@@ -50,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "Ironbound",
     "awayTeam": "Manhattan",
-    "prediction": "Ironbound Win & Over 1.5",
-    "odds": "2.67"
+    "prediction": "Manhattan Win",
+    "odds": "2.8"
   },
   {
     "id": 1531213,
@@ -59,8 +41,8 @@
     "matchTime": "02:30",
     "homeTeam": "Charleston Battery",
     "awayTeam": "Charlotte Independence",
-    "prediction": "Charlotte Independence Win",
-    "odds": "3.11"
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
   },
   {
     "id": 1531214,
@@ -68,8 +50,8 @@
     "matchTime": "02:30",
     "homeTeam": "Tampa Bay Rowdies",
     "awayTeam": "Naples",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Tampa Bay Rowdies Win & Over 1.5",
+    "odds": "2.89"
   },
   {
     "id": 1531215,
@@ -77,8 +59,8 @@
     "matchTime": "02:30",
     "homeTeam": "Sarasota Paradise",
     "awayTeam": "Miami FC",
-    "prediction": "Sarasota Paradise Win",
-    "odds": "1.54"
+    "prediction": "Miami FC Win",
+    "odds": "2.84"
   },
   {
     "id": 1531217,
@@ -86,7 +68,25 @@
     "matchTime": "02:30",
     "homeTeam": "Greenville Triumph",
     "awayTeam": "Richmond Kickers",
-    "prediction": "Greenville Triumph Win",
-    "odds": "1.83"
+    "prediction": "Richmond Kickers Win",
+    "odds": "3.06"
+  },
+  {
+    "id": 1531220,
+    "league": "USL League One Cup (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Fort Wayne",
+    "awayTeam": "Detroit City",
+    "prediction": "Fort Wayne Win & Over 1.5",
+    "odds": "2.98"
+  },
+  {
+    "id": 1542669,
+    "league": "USL League One Cup (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Rhode Island",
+    "awayTeam": "Brooklyn",
+    "prediction": "Double Chance X2",
+    "odds": "1.47"
   }
 ]
