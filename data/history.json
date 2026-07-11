@@ -1,5 +1,29 @@
 [
   {
+    "id": 1567339,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "San Luis",
+    "awayTeam": "U. Catolica",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567338,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Deportes Copiapo",
+    "awayTeam": "Everton de Vina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1584325,
     "league": "Segunda División (Uruguay)",
     "matchDate": "FT",
@@ -21,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1576790,
@@ -32,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Progreso Win",
-    "outcome": "Lost"
+    "prediction": "Wanderers Win",
+    "outcome": "Won"
   },
   {
     "id": 1567818,
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1526569,
@@ -90,7 +114,7 @@
     "homeTeam": "Trasandino",
     "awayTeam": "Municipal Salamanca",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Municipal Salamanca Win",
     "outcome": "Won"
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525326,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Seacoast United Phantoms",
-    "awayTeam": "AC Connecticut",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519398,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Mushuc Runa SC",
-    "awayTeam": "Independiente del Valle",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Independiente del Valle Win",
     "outcome": "Won"
   }
 ]
