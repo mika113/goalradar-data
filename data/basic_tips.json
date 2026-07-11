@@ -1,30 +1,12 @@
 [
   {
-    "id": 1567338,
-    "league": "Copa Chile",
-    "matchTime": "00:30",
-    "homeTeam": "Deportes Copiapo",
-    "awayTeam": "Everton de Vina",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
-  },
-  {
-    "id": 1567339,
-    "league": "Copa Chile",
-    "matchTime": "00:30",
-    "homeTeam": "San Luis",
-    "awayTeam": "U. Catolica",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
-  },
-  {
     "id": 1525329,
     "league": "USL League Two (USA)",
     "matchTime": "01:00",
     "homeTeam": "Boston Bolts",
     "awayTeam": "Blackwatch Rush",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
   },
   {
     "id": 1525331,
@@ -33,7 +15,7 @@
     "homeTeam": "Staten Island Athletic",
     "awayTeam": "Morris Elite",
     "prediction": "Staten Island Athletic Win",
-    "odds": "1.5"
+    "odds": "1.88"
   },
   {
     "id": 1508461,
@@ -41,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "North Carolina Courage W",
     "awayTeam": "Washington Spirit W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   },
   {
     "id": 1513209,
@@ -50,7 +32,25 @@
     "matchTime": "02:00",
     "homeTeam": "Atlanta United II",
     "awayTeam": "Inter Miami II",
-    "prediction": "Inter Miami II Win",
-    "odds": "3.13"
+    "prediction": "Double Chance X2",
+    "odds": "1.74"
+  },
+  {
+    "id": 1513210,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Crown Legacy",
+    "awayTeam": "New York City II",
+    "prediction": "Crown Legacy Win",
+    "odds": "1.87"
+  },
+  {
+    "id": 1513211,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Houston Dynamo FC II",
+    "awayTeam": "St. Louis City II",
+    "prediction": "Houston Dynamo FC II Win",
+    "odds": "1.31"
   }
 ]
