@@ -1,30 +1,12 @@
 [
   {
-    "id": 1525329,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Boston Bolts",
-    "awayTeam": "Blackwatch Rush",
-    "prediction": "Boston Bolts Win",
-    "odds": "1.75"
-  },
-  {
-    "id": 1525331,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Staten Island Athletic",
-    "awayTeam": "Morris Elite",
-    "prediction": "Double Chance X2",
-    "odds": "1.43"
-  },
-  {
     "id": 1508461,
     "league": "NWSL Women (USA)",
     "matchTime": "01:30",
     "homeTeam": "North Carolina Courage W",
     "awayTeam": "Washington Spirit W",
-    "prediction": "North Carolina Courage W Win",
-    "odds": "1.55"
+    "prediction": "Washington Spirit W Win",
+    "odds": "1.74"
   },
   {
     "id": 1513209,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Atlanta United II",
     "awayTeam": "Inter Miami II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1513210,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Crown Legacy",
     "awayTeam": "New York City II",
-    "prediction": "New York City II Win",
-    "odds": "2.19"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1513211,
@@ -50,7 +32,25 @@
     "matchTime": "02:00",
     "homeTeam": "Houston Dynamo FC II",
     "awayTeam": "St. Louis City II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
+  },
+  {
+    "id": 1519394,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "02:00",
+    "homeTeam": "Guayaquil City FC",
+    "awayTeam": "Delfin SC",
+    "prediction": "Guayaquil City FC Win",
+    "odds": "1.76"
+  },
+  {
+    "id": 1525332,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "St. Croix",
+    "awayTeam": "Rockford Raptors",
+    "prediction": "Rockford Raptors Win",
+    "odds": "2.96"
   }
 ]
