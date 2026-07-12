@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567341,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Cobreloa",
+    "awayTeam": "D. La Serena",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567340,
     "league": "Copa Chile",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567371,
@@ -54,10 +66,10 @@
     "homeTeam": "Magni",
     "awayTeam": "Haukar",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Haukar Win",
-    "outcome": "Lost"
+    "prediction": "Magni Win",
+    "outcome": "Won"
   },
   {
     "id": 1543425,
@@ -78,9 +90,9 @@
     "homeTeam": "Dalvík / Reynir",
     "awayTeam": "Fjolnir",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fjolnir Win",
     "outcome": "Won"
   },
   {
@@ -116,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Levadia U19 Win",
-    "outcome": "Won"
+    "prediction": "Tallinna Kalev II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1519595,
@@ -128,19 +140,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nõmme United II Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1499980,
-    "league": "Primera C (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Central Ballester",
-    "awayTeam": "General Lamadrid",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Central Ballester Win",
+    "prediction": "Flora II Win",
     "outcome": "Won"
   }
 ]
