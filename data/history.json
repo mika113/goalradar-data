@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567342,
@@ -66,7 +66,7 @@
     "homeTeam": "Edgewater Castle",
     "awayTeam": "Minneapolis City",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Minneapolis City Win",
     "outcome": "Won"
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "San Martin Tucuman",
     "awayTeam": "Almagro",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "San Martin Tucuman Win",
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "FH hafnarfjordur",
     "awayTeam": "Valur Reykjavik",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Valur Reykjavik Win",
-    "outcome": "Lost"
+    "prediction": "FH hafnarfjordur Win",
+    "outcome": "Won"
   }
 ]
