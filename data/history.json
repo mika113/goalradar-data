@@ -1,5 +1,17 @@
 [
   {
+    "id": 1543426,
+    "league": "2. Deild (Iceland)",
+    "matchDate": "FT",
+    "homeTeam": "Magni",
+    "awayTeam": "Haukar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1547586,
     "league": "A Lyga (Lithuania)",
     "matchDate": "FT",
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1554922,
@@ -81,66 +93,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Jagiellonia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1536851,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Khimik Dzerzhinsk",
-    "awayTeam": "Akron II",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Khimik Dzerzhinsk Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534536,
-    "league": "1. Division (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Volna",
-    "awayTeam": "Shakhter Soligorsk",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Volna Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1528024,
-    "league": "Premier League (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "FK Tobol Kostanay",
-    "awayTeam": "Okzhetpes",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FK Tobol Kostanay Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1494697,
-    "league": "Eliteserien (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Sandefjord",
-    "awayTeam": "Ham-Kam",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sandefjord Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1494696,
-    "league": "Eliteserien (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Rosenborg",
-    "awayTeam": "Kristiansund BK",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rosenborg Win",
     "outcome": "Won"
   }
 ]
