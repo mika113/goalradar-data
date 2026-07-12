@@ -1,5 +1,29 @@
 [
   {
+    "id": 1584835,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Botev Plovdiv",
+    "awayTeam": "Beroe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1582672,
+    "league": "Supercupa (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Universitatea Craiova",
+    "awayTeam": "Universitatea Cluj",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1494698,
     "league": "Eliteserien (Norway)",
     "matchDate": "FT",
@@ -17,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Sheriff Tiraspol",
     "awayTeam": "Zimbru",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Sheriff Tiraspol Win",
     "outcome": "Won"
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1499988,
@@ -92,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Cobresal Win",
-    "outcome": "Lost"
+    "prediction": "Antofagasta Win",
+    "outcome": "Won"
   },
   {
     "id": 1567371,
@@ -114,33 +138,9 @@
     "homeTeam": "Spartak Kostroma",
     "awayTeam": "KAMAZ",
     "homeScore": 3,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Spartak Kostroma Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548835,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit",
-    "awayTeam": "FK Crvena Zvezda",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Zenit Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543426,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Magni",
-    "awayTeam": "Haukar",
-    "homeScore": 2,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Haukar Win",
     "outcome": "Won"
   }
 ]
