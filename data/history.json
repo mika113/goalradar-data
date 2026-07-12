@@ -12,6 +12,54 @@
     "outcome": "Won"
   },
   {
+    "id": 1525376,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "The Villages",
+    "awayTeam": "Shark Coast",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525374,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "RKC",
+    "awayTeam": "River Light",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525368,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Bigfoot",
+    "awayTeam": "Midlakes United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1508464,
+    "league": "NWSL Women (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Denver Summit W",
+    "awayTeam": "Houston Dash W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526887,
     "league": "Serie C (Brazil)",
     "matchDate": "FT",
@@ -21,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1525373,
@@ -54,9 +102,9 @@
     "homeTeam": "Connecticut FC",
     "awayTeam": "Toronto II",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Connecticut FC Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -68,8 +116,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Orlando City II Win",
-    "outcome": "Won"
+    "prediction": "FC Cincinnati II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1576793,
@@ -78,10 +126,10 @@
     "homeTeam": "Racing Montevideo",
     "awayTeam": "Penarol",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Racing Montevideo Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1567343,
@@ -93,54 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Huachipato Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567342,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Concepción",
-    "awayTeam": "D. Puerto Montt",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538402,
-    "league": "Primera División (Bolivia)",
-    "matchDate": "FT",
-    "homeTeam": "The Strongest",
-    "awayTeam": "Bolívar",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567815,
-    "league": "Serie D (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Guaporé",
-    "awayTeam": "Luverdense",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525369,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Edgewater Castle",
-    "awayTeam": "Minneapolis City",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Minneapolis City Win",
     "outcome": "Won"
   }
 ]
