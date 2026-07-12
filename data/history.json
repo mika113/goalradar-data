@@ -1,5 +1,29 @@
 [
   {
+    "id": 1531894,
+    "league": "Segunda División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Lota Schwager",
+    "awayTeam": "Provincial Osorno",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1529128,
+    "league": "Segunda División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Colina",
+    "awayTeam": "Real San Joaquín",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Colina Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1540056,
     "league": "Copa Argentina",
     "matchDate": "FT",
@@ -69,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567817,
@@ -118,29 +142,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Lost"
-  },
-  {
-    "id": 1567354,
-    "league": "Copa De La Liga (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Coquimbo Unido",
-    "awayTeam": "Union La Calera",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542030,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Caravaggio",
-    "awayTeam": "Jaraguá",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Caravaggio Win",
-    "outcome": "Won"
   }
 ]
