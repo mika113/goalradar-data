@@ -18,9 +18,9 @@
     "homeTeam": "Lakeland United",
     "awayTeam": "Inter Miami II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Inter Miami II Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "CRB",
     "awayTeam": "Goias",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Goias Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Connecticut FC",
     "awayTeam": "Toronto II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Toronto II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1513218,
@@ -78,9 +78,9 @@
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Huachipato",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Huachipato Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1538402,
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1567815,
@@ -126,9 +126,9 @@
     "homeTeam": "Edgewater Castle",
     "awayTeam": "Minneapolis City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Minneapolis City Win",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "West Seattle Junction",
     "awayTeam": "Bangers",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bangers Win",
     "outcome": "Won"
   }
 ]
