@@ -1,48 +1,12 @@
 [
   {
-    "id": 1544848,
-    "league": "Canadian Championship (Canada)",
-    "matchTime": "23:00",
-    "homeTeam": "Forge",
-    "awayTeam": "Saint-Laurent",
-    "prediction": "Forge Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1550564,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Columbus Crew",
-    "awayTeam": "Burnley",
-    "prediction": "Columbus Crew Win",
-    "odds": "1.57"
-  },
-  {
-    "id": 1560845,
-    "league": "Copa Venezuela",
-    "matchTime": "23:00",
-    "homeTeam": "Aragua FC",
-    "awayTeam": "Caracas FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
-  },
-  {
-    "id": 1560846,
-    "league": "Copa Venezuela",
-    "matchTime": "23:00",
-    "homeTeam": "Club Atletico Barinas",
-    "awayTeam": "Real Frontera",
-    "prediction": "Club Atletico Barinas Win",
-    "odds": "1.38"
-  },
-  {
     "id": 1560847,
     "league": "Copa Venezuela",
     "matchTime": "23:00",
     "homeTeam": "Atletico Avila FC",
     "awayTeam": "Academia Anzoátegui",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Academia Anzoátegui Win",
+    "odds": "2.21"
   },
   {
     "id": 1560848,
@@ -50,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Bolívar",
     "awayTeam": "Mineros de Guyana",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "Bolívar Win",
+    "odds": "1.57"
   },
   {
     "id": 1560849,
@@ -59,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico el Vigia FC",
     "awayTeam": "Zamora FC",
-    "prediction": "Atletico el Vigia FC Win & Over 1.5",
-    "odds": "1.99"
+    "prediction": "Atletico el Vigia FC Win",
+    "odds": "1.63"
   },
   {
     "id": 1560850,
@@ -68,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Deportivo Lara",
     "awayTeam": "Urena SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
   },
   {
     "id": 1560851,
@@ -77,8 +41,8 @@
     "matchTime": "23:00",
     "homeTeam": "Marítimo",
     "awayTeam": "Petare FC",
-    "prediction": "Marítimo Win",
-    "odds": "1.72"
+    "prediction": "Petare FC Win",
+    "odds": "1.92"
   },
   {
     "id": 1560852,
@@ -86,8 +50,8 @@
     "matchTime": "23:00",
     "homeTeam": "Monagas SC",
     "awayTeam": "Dinamo de Puerto La Cruz",
-    "prediction": "Monagas SC Win",
-    "odds": "1.88"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 1560853,
@@ -95,8 +59,8 @@
     "matchTime": "23:00",
     "homeTeam": "Trujillanos FC",
     "awayTeam": "Rayo Zuliano",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Trujillanos FC Win",
+    "odds": "1.91"
   },
   {
     "id": 1560854,
@@ -104,7 +68,43 @@
     "matchTime": "23:00",
     "homeTeam": "Yaracuyanos FC",
     "awayTeam": "Fundación Lara Deportiva",
+    "prediction": "Fundación Lara Deportiva Win",
+    "odds": "3.21"
+  },
+  {
+    "id": 1567811,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Capital Brasilia",
+    "awayTeam": "Nacional AM",
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
+  },
+  {
+    "id": 1567813,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Ferroviario",
+    "awayTeam": "Imperatriz",
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
+  },
+  {
+    "id": 1567822,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Treze",
+    "awayTeam": "CRAC",
+    "prediction": "CRAC Win",
+    "odds": "2.14"
+  },
+  {
+    "id": 1567844,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "ASA",
+    "awayTeam": "Ivinhema",
     "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "odds": "1.22"
   }
 ]
