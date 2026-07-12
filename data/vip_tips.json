@@ -1,48 +1,12 @@
 [
   {
-    "id": 1582702,
-    "league": "Copa Nicaragua",
-    "matchTime": "01:00",
-    "homeTeam": "Jalapa",
-    "awayTeam": "Matagalpa",
-    "prediction": "Jalapa Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1526887,
-    "league": "Serie C (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Botafogo PB",
-    "awayTeam": "Confiança",
-    "prediction": "Botafogo PB Win",
-    "odds": "1.7"
-  },
-  {
-    "id": 1508464,
-    "league": "NWSL Women (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Denver Summit W",
-    "awayTeam": "Houston Dash W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
-  },
-  {
-    "id": 1525368,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Bigfoot",
-    "awayTeam": "Midlakes United",
-    "prediction": "Bigfoot Win",
-    "odds": "1.38"
-  },
-  {
     "id": 1525374,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "RKC",
     "awayTeam": "River Light",
     "prediction": "RKC Win",
-    "odds": "1.63"
+    "odds": "1.37"
   },
   {
     "id": 1525375,
@@ -50,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Appalachian",
     "awayTeam": "SC United Bantams",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Appalachian Win",
+    "odds": "1.62"
   },
   {
     "id": 1525376,
@@ -59,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "The Villages",
     "awayTeam": "Shark Coast",
-    "prediction": "Shark Coast Win",
-    "odds": "3.02"
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
   },
   {
     "id": 1525378,
@@ -68,7 +32,43 @@
     "matchTime": "02:00",
     "homeTeam": "Weston",
     "awayTeam": "Miami AC",
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
+  },
+  {
+    "id": 1586119,
+    "league": "Supercopa (Costa-Rica)",
+    "matchTime": "02:00",
+    "homeTeam": "LD Alajuelense",
+    "awayTeam": "CS Herediano",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.91"
+  },
+  {
+    "id": 1519393,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "02:10",
+    "homeTeam": "Emelec",
+    "awayTeam": "Barcelona SC",
+    "prediction": "Emelec Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1538400,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "02:30",
+    "homeTeam": "Real Tomayapo",
+    "awayTeam": "Independiente Petrolero",
     "prediction": "Double Chance X2",
-    "odds": "1.7"
+    "odds": "1.62"
+  },
+  {
+    "id": 1544847,
+    "league": "Canadian Championship (Canada)",
+    "matchTime": "02:30",
+    "homeTeam": "CF Montreal",
+    "awayTeam": "Vancouver FC",
+    "prediction": "CF Montreal Win",
+    "odds": "1.4"
   }
 ]
