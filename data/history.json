@@ -24,6 +24,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1567342,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Concepción",
+    "awayTeam": "D. Puerto Montt",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1538402,
     "league": "Primera División (Bolivia)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567815,
@@ -104,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Almagro Win",
-    "outcome": "Lost"
+    "prediction": "San Martin Tucuman Win",
+    "outcome": "Won"
   },
   {
     "id": 1568102,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582701,
-    "league": "Copa Nicaragua",
-    "matchDate": "FT",
-    "homeTeam": "H&H Export",
-    "awayTeam": "Diriangén",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "H&H Export Win",
     "outcome": "Won"
   }
 ]
