@@ -1,21 +1,12 @@
 [
   {
-    "id": 1530461,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "22:00",
-    "homeTeam": "Germinal de Rawson",
-    "awayTeam": "Olimpo Bahia Blanca",
-    "prediction": "Germinal de Rawson Win",
-    "odds": "1.56"
-  },
-  {
     "id": 1530465,
     "league": "Torneo Federal A (Argentina)",
     "matchTime": "22:00",
     "homeTeam": "Sarmiento de La Banda",
     "awayTeam": "San Martin Formosa",
-    "prediction": "San Martin Formosa Win",
-    "odds": "3.13"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1538401,
@@ -23,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Real Potosí",
     "awayTeam": "Nacional Potosí",
-    "prediction": "Real Potosí Win",
-    "odds": "1.71"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1542030,
@@ -33,7 +24,7 @@
     "homeTeam": "Caravaggio",
     "awayTeam": "Jaraguá",
     "prediction": "Jaraguá Win",
-    "odds": "1.88"
+    "odds": "1.89"
   },
   {
     "id": 1548244,
@@ -41,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Linhares",
     "awayTeam": "Audax São Mateus",
-    "prediction": "Linhares Win",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1567354,
@@ -50,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "Coquimbo Unido",
     "awayTeam": "Union La Calera",
-    "prediction": "Coquimbo Unido Win",
-    "odds": "1.53"
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
   },
   {
     "id": 1567809,
@@ -59,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "ABC",
     "awayTeam": "Águia de Marabá",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.87"
+    "prediction": "ABC Win",
+    "odds": "1.75"
   },
   {
     "id": 1567814,
@@ -68,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Gama",
     "awayTeam": "Porto Velho",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Gama Win",
+    "odds": "1.31"
   },
   {
     "id": 1567816,
@@ -77,8 +68,8 @@
     "matchTime": "22:00",
     "homeTeam": "Iguatu",
     "awayTeam": "Maguary PE",
-    "prediction": "Iguatu Win",
-    "odds": "1.36"
+    "prediction": "Maguary PE Win",
+    "odds": "1.98"
   },
   {
     "id": 1567817,
@@ -86,8 +77,8 @@
     "matchTime": "22:00",
     "homeTeam": "Manauara",
     "awayTeam": "Goiatuba EC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.94"
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   },
   {
     "id": 1567820,
@@ -96,7 +87,7 @@
     "homeTeam": "Portuguesa RJ",
     "awayTeam": "Sao Jose",
     "prediction": "Portuguesa RJ Win",
-    "odds": "1.87"
+    "odds": "1.72"
   },
   {
     "id": 1567823,
@@ -104,7 +95,16 @@
     "matchTime": "22:00",
     "homeTeam": "Uberlandia",
     "awayTeam": "Serra Branca",
-    "prediction": "Uberlandia Win",
-    "odds": "1.78"
+    "prediction": "Serra Branca Win",
+    "odds": "3.34"
+  },
+  {
+    "id": 1583296,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "22:00",
+    "homeTeam": "Cascavel",
+    "awayTeam": "Corinthians",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   }
 ]
