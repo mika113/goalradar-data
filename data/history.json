@@ -1,15 +1,27 @@
 [
   {
-    "id": 1584835,
-    "league": "Friendlies Clubs (World)",
+    "id": 1578545,
+    "league": "Carioca C (Brazil)",
     "matchDate": "FT",
-    "homeTeam": "Botev Plovdiv",
-    "awayTeam": "Beroe",
+    "homeTeam": "Búzios",
+    "awayTeam": "EC Resende",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1584835,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Botev Plovdiv",
+    "awayTeam": "Beroe",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Beroe Win",
+    "outcome": "Lost"
   },
   {
     "id": 1582672,
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1494698,
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1567340,
@@ -128,19 +140,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FS Jelgava Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1563071,
-    "league": "First League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Spartak Kostroma",
-    "awayTeam": "KAMAZ",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Spartak Kostroma Win",
+    "prediction": "Rīgas FS Win",
     "outcome": "Won"
   }
 ]
