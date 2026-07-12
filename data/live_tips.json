@@ -1,57 +1,12 @@
 [
   {
-    "id": 1549972,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Control Orientado",
-    "awayTeam": "Everton La Plata",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
-  },
-  {
-    "id": 1549973,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Belgrano Zarate",
-    "awayTeam": "Las Mandarinas",
-    "prediction": "Las Mandarinas Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1568105,
-    "league": "Copa De La Liga (Peru)",
-    "matchTime": "21:00",
-    "homeTeam": "UCV Moquegua",
-    "awayTeam": "Deportivo Garcilaso",
-    "prediction": "Deportivo Garcilaso Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1576792,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "21:00",
-    "homeTeam": "Boston River",
-    "awayTeam": "Central Espanol",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
-  },
-  {
-    "id": 1581833,
-    "league": "Copa Gaúcha (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Gramadense",
-    "awayTeam": "Brasil DE Pelotas",
-    "prediction": "Gramadense Win",
-    "odds": "1.64"
-  },
-  {
     "id": 1582678,
     "league": "Baiano - 2 (Brazil)",
     "matchTime": "21:00",
     "homeTeam": "Feira FC",
     "awayTeam": "Fluminense De Feira",
-    "prediction": "Feira FC Win & Over 1.5",
-    "odds": "2.28"
+    "prediction": "Feira FC Win",
+    "odds": "1.43"
   },
   {
     "id": 1582688,
@@ -59,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "SOL DE America",
     "awayTeam": "Benjamín Aceval",
-    "prediction": "SOL DE America Win",
-    "odds": "1.51"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1583295,
@@ -68,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "U.N.A.M. - Pumas",
     "awayTeam": "America de Cali",
-    "prediction": "U.N.A.M. - Pumas Win",
-    "odds": "1.48"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1584328,
@@ -77,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Cerrito",
     "awayTeam": "Miramar",
-    "prediction": "Cerrito Win",
-    "odds": "1.76"
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   },
   {
     "id": 1498637,
@@ -87,6 +42,51 @@
     "homeTeam": "Colon Santa Fe",
     "awayTeam": "Central Norte",
     "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "odds": "1.94"
+  },
+  {
+    "id": 1499990,
+    "league": "Primera C (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Mercedes",
+    "awayTeam": "Victoriano Arenas",
+    "prediction": "Mercedes Win",
+    "odds": "1.44"
+  },
+  {
+    "id": 1530458,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Deportivo Rincon",
+    "awayTeam": "Huracan Las Heras",
+    "prediction": "Double Chance X2",
+    "odds": "1.76"
+  },
+  {
+    "id": 1530462,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:30",
+    "homeTeam": "Juventud Antoniana",
+    "awayTeam": "Tucuman Central",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1567821,
+    "league": "Serie D (Brazil)",
+    "matchTime": "21:30",
+    "homeTeam": "São Luiz",
+    "awayTeam": "Velo Clube",
+    "prediction": "São Luiz Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1585100,
+    "league": "Brasiliense U20 (Brazil)",
+    "matchTime": "21:30",
+    "homeTeam": "Brasília U20",
+    "awayTeam": "Luziânia U20",
+    "prediction": "Brasília U20 Win",
+    "odds": "1.75"
   }
 ]
