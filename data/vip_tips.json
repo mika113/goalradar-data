@@ -1,57 +1,12 @@
 [
   {
-    "id": 1498639,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Gimnasia Jujuy",
-    "awayTeam": "Chacarita Juniors",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
-    "id": 1499989,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Leandro N. Alem",
-    "awayTeam": "Argentino Rosario",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
-  },
-  {
-    "id": 1499991,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Puerto Nuevo",
-    "awayTeam": "Estrella Del Sur",
-    "prediction": "Puerto Nuevo Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1508803,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "21:00",
-    "homeTeam": "Fram Reykjavik",
-    "awayTeam": "Thor Akureyri",
-    "prediction": "Fram Reykjavik Win",
-    "odds": "1.87"
-  },
-  {
-    "id": 1508804,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "21:00",
-    "homeTeam": "KA Akureyri",
-    "awayTeam": "IA Akranes",
-    "prediction": "IA Akranes Win",
-    "odds": "2.98"
-  },
-  {
     "id": 1508805,
     "league": "Úrvalsdeild (Iceland)",
     "matchTime": "21:00",
     "homeTeam": "KR Reykjavik",
     "awayTeam": "IBV Vestmannaeyjar",
-    "prediction": "IBV Vestmannaeyjar Win",
-    "odds": "3.16"
+    "prediction": "KR Reykjavik Win",
+    "odds": "1.8"
   },
   {
     "id": 1530457,
@@ -60,7 +15,7 @@
     "homeTeam": "Circulo Deportivo",
     "awayTeam": "Sol de Mayo",
     "prediction": "Circulo Deportivo Win",
-    "odds": "1.51"
+    "odds": "1.99"
   },
   {
     "id": 1530459,
@@ -68,7 +23,52 @@
     "matchTime": "21:00",
     "homeTeam": "El Linqueño",
     "awayTeam": "Independiente De Chivilcoy",
-    "prediction": "El Linqueño Win",
-    "odds": "1.66"
+    "prediction": "Independiente De Chivilcoy Win",
+    "odds": "3.36"
+  },
+  {
+    "id": 1530466,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Sol de América",
+    "awayTeam": "Boca Unidos",
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
+  },
+  {
+    "id": 1530468,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Villa Mitre",
+    "awayTeam": "Guillermo Brown",
+    "prediction": "Villa Mitre Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1541998,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Tubarao",
+    "awayTeam": "Metropolitano",
+    "prediction": "Tubarao Win",
+    "odds": "1.8"
+  },
+  {
+    "id": 1542000,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Juventus SC",
+    "awayTeam": "Guarani de Palhoça",
+    "prediction": "Guarani de Palhoça Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1547311,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Água Santa U20",
+    "awayTeam": "Porto Football U20",
+    "prediction": "Porto Football U20 Win",
+    "odds": "3.42"
   }
 ]
