@@ -1,30 +1,12 @@
 [
   {
-    "id": 1578547,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Tigres do Brasil",
-    "awayTeam": "Campos AA",
-    "prediction": "Tigres do Brasil Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1581345,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Uniao Central",
-    "awayTeam": "CAAC Brasil",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
     "id": 1498639,
     "league": "Primera Nacional (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Gimnasia Jujuy",
     "awayTeam": "Chacarita Juniors",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   },
   {
     "id": 1499989,
@@ -32,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Leandro N. Alem",
     "awayTeam": "Argentino Rosario",
-    "prediction": "Argentino Rosario Win",
-    "odds": "2.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1499991,
@@ -41,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Puerto Nuevo",
     "awayTeam": "Estrella Del Sur",
-    "prediction": "Puerto Nuevo Win",
-    "odds": "1.78"
+    "prediction": "Estrella Del Sur Win",
+    "odds": "2.18"
   },
   {
     "id": 1508803,
@@ -50,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "Thor Akureyri",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.63"
   },
   {
     "id": 1508804,
@@ -59,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "KA Akureyri",
     "awayTeam": "IA Akranes",
-    "prediction": "IA Akranes Win",
-    "odds": "3.02"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1508805,
@@ -68,7 +50,25 @@
     "matchTime": "21:00",
     "homeTeam": "KR Reykjavik",
     "awayTeam": "IBV Vestmannaeyjar",
-    "prediction": "IBV Vestmannaeyjar Win",
+    "prediction": "KR Reykjavik Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1530457,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Circulo Deportivo",
+    "awayTeam": "Sol de Mayo",
+    "prediction": "Double Chance X2",
     "odds": "1.68"
+  },
+  {
+    "id": 1530459,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "El Linqueño",
+    "awayTeam": "Independiente De Chivilcoy",
+    "prediction": "Independiente De Chivilcoy Win",
+    "odds": "1.75"
   }
 ]
