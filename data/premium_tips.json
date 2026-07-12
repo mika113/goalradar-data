@@ -1,66 +1,12 @@
 [
   {
-    "id": 1520764,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "CRB",
-    "awayTeam": "Goias",
-    "prediction": "Goias Win",
-    "odds": "2.35"
-  },
-  {
-    "id": 1525373,
-    "league": "USL League Two (USA)",
-    "matchTime": "01:00",
-    "homeTeam": "Lakeland United",
-    "awayTeam": "Inter Miami II",
-    "prediction": "Inter Miami II Win",
-    "odds": "3.15"
-  },
-  {
-    "id": 1582702,
-    "league": "Copa Nicaragua",
-    "matchTime": "01:00",
-    "homeTeam": "Jalapa",
-    "awayTeam": "Matagalpa",
-    "prediction": "Matagalpa Win",
-    "odds": "2.04"
-  },
-  {
-    "id": 1526887,
-    "league": "Serie C (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Botafogo PB",
-    "awayTeam": "Confiança",
-    "prediction": "Confiança Win",
-    "odds": "2.2"
-  },
-  {
-    "id": 1508464,
-    "league": "NWSL Women (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Denver Summit W",
-    "awayTeam": "Houston Dash W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
-  },
-  {
-    "id": 1525368,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Bigfoot",
-    "awayTeam": "Midlakes United",
-    "prediction": "Bigfoot Win",
-    "odds": "1.89"
-  },
-  {
     "id": 1525374,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "RKC",
     "awayTeam": "River Light",
-    "prediction": "RKC Win",
-    "odds": "1.31"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1525375,
@@ -68,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Appalachian",
     "awayTeam": "SC United Bantams",
-    "prediction": "Appalachian Win",
-    "odds": "1.51"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1525376,
@@ -77,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "The Villages",
     "awayTeam": "Shark Coast",
-    "prediction": "The Villages Win & Over 1.5",
-    "odds": "2.44"
+    "prediction": "The Villages Win",
+    "odds": "1.5"
   },
   {
     "id": 1525378,
@@ -86,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Weston",
     "awayTeam": "Miami AC",
-    "prediction": "Weston Win",
-    "odds": "1.64"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1586119,
@@ -95,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "LD Alajuelense",
     "awayTeam": "CS Herediano",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1519393,
@@ -104,7 +50,61 @@
     "matchTime": "02:10",
     "homeTeam": "Emelec",
     "awayTeam": "Barcelona SC",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Barcelona SC Win",
+    "odds": "2.29"
+  },
+  {
+    "id": 1538400,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "02:30",
+    "homeTeam": "Real Tomayapo",
+    "awayTeam": "Independiente Petrolero",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1544847,
+    "league": "Canadian Championship (Canada)",
+    "matchTime": "02:30",
+    "homeTeam": "CF Montreal",
+    "awayTeam": "Vancouver FC",
+    "prediction": "Vancouver FC Win",
+    "odds": "2.24"
+  },
+  {
+    "id": 1513216,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "The Town",
+    "awayTeam": "Tacoma Defiance",
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
+  },
+  {
+    "id": 1525371,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Ballard",
+    "awayTeam": "Snohomish United",
+    "prediction": "Snohomish United Win",
+    "odds": "2.8"
+  },
+  {
+    "id": 1567355,
+    "league": "Copa De La Liga (Chile)",
+    "matchTime": "03:00",
+    "homeTeam": "O'Higgins",
+    "awayTeam": "Nublense",
+    "prediction": "O'Higgins Win",
+    "odds": "1.32"
+  },
+  {
+    "id": 1583662,
+    "league": "Friendlies Women (World)",
+    "matchTime": "03:00",
+    "homeTeam": "United States U20 W",
+    "awayTeam": "Colombia U20 W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
   }
 ]
