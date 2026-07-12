@@ -1,5 +1,29 @@
 [
   {
+    "id": 1540056,
+    "league": "Copa Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Independ. Rivadavia",
+    "awayTeam": "Tigre",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519392,
+    "league": "Liga Pro (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Cuenca",
+    "awayTeam": "Aucas",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Aucas Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1583297,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -12,11 +36,35 @@
     "outcome": "Won"
   },
   {
+    "id": 1583296,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cascavel",
+    "awayTeam": "Corinthians",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567823,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Uberlandia",
     "awayTeam": "Serra Branca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Uberlandia Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567820,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Portuguesa RJ",
+    "awayTeam": "Sao Jose",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -29,6 +77,18 @@
     "matchDate": "FT",
     "homeTeam": "Manauara",
     "awayTeam": "Goiatuba EC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567816,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Iguatu",
+    "awayTeam": "Maguary PE",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -57,6 +117,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567354,
+    "league": "Copa De La Liga (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Coquimbo Unido",
+    "awayTeam": "Union La Calera",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -65,82 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Caravaggio",
     "awayTeam": "Jaraguá",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1538401,
-    "league": "Primera División (Bolivia)",
-    "matchDate": "FT",
-    "homeTeam": "Real Potosí",
-    "awayTeam": "Nacional Potosí",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530461,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Germinal de Rawson",
-    "awayTeam": "Olimpo Bahia Blanca",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Olimpo Bahia Blanca Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526892,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Maranhão",
-    "awayTeam": "Ypiranga-RS",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526891,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ituano",
-    "awayTeam": "Ferroviária",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526885,
-    "league": "Serie C (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Anápolis",
-    "awayTeam": "Maringá",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520768,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "São Bernardo",
-    "awayTeam": "Cuiaba",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Caravaggio Win",
     "outcome": "Won"
   }
 ]
