@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567340,
+    "league": "Copa Chile",
+    "matchDate": "FT",
+    "homeTeam": "Antofagasta",
+    "awayTeam": "Cobresal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567371,
     "league": "Cup (Latvia)",
     "matchDate": "FT",
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Kostroma",
     "awayTeam": "KAMAZ",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Spartak Kostroma Win",
+    "outcome": "Won"
   },
   {
     "id": 1548835,
@@ -29,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Zenit",
     "awayTeam": "FK Crvena Zvezda",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Zenit Win",
+    "outcome": "Won"
   },
   {
     "id": 1543426,
@@ -44,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Magni Win",
-    "outcome": "Won"
+    "prediction": "Haukar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1543425,
@@ -116,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Flora II Win",
-    "outcome": "Won"
+    "prediction": "Nõmme United II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1499980,
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Central Ballester",
     "awayTeam": "General Lamadrid",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547586,
-    "league": "A Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "TransINVEST Vilnius",
-    "awayTeam": "Banga",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Banga Win",
+    "prediction": "Central Ballester Win",
     "outcome": "Won"
   }
 ]
