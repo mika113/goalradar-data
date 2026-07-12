@@ -1,5 +1,17 @@
 [
   {
+    "id": 1586119,
+    "league": "Supercopa (Costa-Rica)",
+    "matchDate": "FT",
+    "homeTeam": "LD Alajuelense",
+    "awayTeam": "CS Herediano",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526887,
     "league": "Serie C (Brazil)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1525373,
@@ -93,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1538402,
@@ -129,18 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Minneapolis City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525365,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "West Seattle Junction",
-    "awayTeam": "Bangers",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Bangers Win",
     "outcome": "Won"
   }
 ]
