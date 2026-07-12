@@ -1,48 +1,12 @@
 [
   {
-    "id": 1567811,
-    "league": "Serie D (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Capital Brasilia",
-    "awayTeam": "Nacional AM",
-    "prediction": "Nacional AM Win",
-    "odds": "2.22"
-  },
-  {
-    "id": 1567813,
-    "league": "Serie D (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Ferroviario",
-    "awayTeam": "Imperatriz",
-    "prediction": "Ferroviario Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1567822,
-    "league": "Serie D (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Treze",
-    "awayTeam": "CRAC",
-    "prediction": "Treze Win",
-    "odds": "1.87"
-  },
-  {
-    "id": 1567844,
-    "league": "Serie D (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "ASA",
-    "awayTeam": "Ivinhema",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
-  },
-  {
     "id": 1582701,
     "league": "Copa Nicaragua",
     "matchTime": "23:00",
     "homeTeam": "H&H Export",
     "awayTeam": "Diriangén",
     "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "odds": "1.85"
   },
   {
     "id": 1583298,
@@ -51,7 +15,7 @@
     "homeTeam": "Gremio",
     "awayTeam": "Cruzeiro",
     "prediction": "Gremio Win",
-    "odds": "1.87"
+    "odds": "1.73"
   },
   {
     "id": 1508806,
@@ -60,7 +24,7 @@
     "homeTeam": "FH hafnarfjordur",
     "awayTeam": "Valur Reykjavik",
     "prediction": "FH hafnarfjordur Win",
-    "odds": "1.53"
+    "odds": "1.42"
   },
   {
     "id": 1581835,
@@ -68,8 +32,8 @@
     "matchTime": "23:15",
     "homeTeam": "Sporting Cristal W",
     "awayTeam": "U. de Deportes W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Sporting Cristal W Win & Over 1.5",
+    "odds": "1.98"
   },
   {
     "id": 1568102,
@@ -77,8 +41,8 @@
     "matchTime": "23:30",
     "homeTeam": "UTC Cajamarca",
     "awayTeam": "Deportiva Agropecuaria",
-    "prediction": "UTC Cajamarca Win & Over 1.5",
-    "odds": "2.72"
+    "prediction": "UTC Cajamarca Win",
+    "odds": "1.72"
   },
   {
     "id": 1498645,
@@ -86,7 +50,43 @@
     "matchTime": "00:00",
     "homeTeam": "San Martin Tucuman",
     "awayTeam": "Almagro",
-    "prediction": "Almagro Win",
-    "odds": "2.23"
+    "prediction": "San Martin Tucuman Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1513217,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "Carolina Core",
+    "awayTeam": "Chattanooga",
+    "prediction": "Carolina Core Win",
+    "odds": "1.33"
+  },
+  {
+    "id": 1520761,
+    "league": "Serie B (Brazil)",
+    "matchTime": "00:00",
+    "homeTeam": "Atletico Goianiense",
+    "awayTeam": "Fortaleza EC",
+    "prediction": "Atletico Goianiense Win & Over 1.5",
+    "odds": "2.43"
+  },
+  {
+    "id": 1525365,
+    "league": "USL League Two (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "West Seattle Junction",
+    "awayTeam": "Bangers",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1525369,
+    "league": "USL League Two (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "Edgewater Castle",
+    "awayTeam": "Minneapolis City",
+    "prediction": "Edgewater Castle Win",
+    "odds": "1.39"
   }
 ]
