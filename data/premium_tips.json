@@ -1,66 +1,12 @@
 [
   {
-    "id": 1581345,
-    "league": "Carioca C (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "Uniao Central",
-    "awayTeam": "CAAC Brasil",
-    "prediction": "Uniao Central Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1498639,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Gimnasia Jujuy",
-    "awayTeam": "Chacarita Juniors",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
-  },
-  {
-    "id": 1499989,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Leandro N. Alem",
-    "awayTeam": "Argentino Rosario",
-    "prediction": "Leandro N. Alem Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1499991,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Puerto Nuevo",
-    "awayTeam": "Estrella Del Sur",
-    "prediction": "Puerto Nuevo Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1508803,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "21:00",
-    "homeTeam": "Fram Reykjavik",
-    "awayTeam": "Thor Akureyri",
-    "prediction": "Fram Reykjavik Win",
-    "odds": "1.5"
-  },
-  {
-    "id": 1508804,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchTime": "21:00",
-    "homeTeam": "KA Akureyri",
-    "awayTeam": "IA Akranes",
-    "prediction": "IA Akranes Win",
-    "odds": "3.1"
-  },
-  {
     "id": 1508805,
     "league": "Úrvalsdeild (Iceland)",
     "matchTime": "21:00",
     "homeTeam": "KR Reykjavik",
     "awayTeam": "IBV Vestmannaeyjar",
-    "prediction": "Double Chance X2",
-    "odds": "1.74"
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   },
   {
     "id": 1530457,
@@ -68,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Circulo Deportivo",
     "awayTeam": "Sol de Mayo",
-    "prediction": "Sol de Mayo Win",
-    "odds": "1.88"
+    "prediction": "Double Chance X2",
+    "odds": "1.78"
   },
   {
     "id": 1530459,
@@ -77,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "El Linqueño",
     "awayTeam": "Independiente De Chivilcoy",
-    "prediction": "Independiente De Chivilcoy Win",
-    "odds": "3.04"
+    "prediction": "Double Chance X2",
+    "odds": "1.32"
   },
   {
     "id": 1530466,
@@ -86,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Sol de América",
     "awayTeam": "Boca Unidos",
-    "prediction": "Sol de América Win",
-    "odds": "1.42"
+    "prediction": "Boca Unidos Win",
+    "odds": "1.69"
   },
   {
     "id": 1530468,
@@ -95,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Villa Mitre",
     "awayTeam": "Guillermo Brown",
-    "prediction": "Guillermo Brown Win",
-    "odds": "2.72"
+    "prediction": "Villa Mitre Win & Over 1.5",
+    "odds": "1.8"
   },
   {
     "id": 1541998,
@@ -104,7 +50,61 @@
     "matchTime": "21:00",
     "homeTeam": "Tubarao",
     "awayTeam": "Metropolitano",
-    "prediction": "Tubarao Win",
-    "odds": "1.74"
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
+  },
+  {
+    "id": 1542000,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Juventus SC",
+    "awayTeam": "Guarani de Palhoça",
+    "prediction": "Juventus SC Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1547311,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Água Santa U20",
+    "awayTeam": "Porto Football U20",
+    "prediction": "Água Santa U20 Win & Over 1.5",
+    "odds": "2.07"
+  },
+  {
+    "id": 1547715,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Mamoré",
+    "awayTeam": "CAP",
+    "prediction": "Mamoré Win & Over 1.5",
+    "odds": "2.01"
+  },
+  {
+    "id": 1547716,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Caldense",
+    "awayTeam": "Uberaba",
+    "prediction": "Caldense Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1547717,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Guarani MG",
+    "awayTeam": "BOA",
+    "prediction": "Double Chance X2",
+    "odds": "1.75"
+  },
+  {
+    "id": 1547719,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Aymorés",
+    "awayTeam": "Democrata SL",
+    "prediction": "Aymorés Win",
+    "odds": "1.75"
   }
 ]
