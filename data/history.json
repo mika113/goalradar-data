@@ -1,10 +1,34 @@
 [
   {
+    "id": 1578547,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Tigres do Brasil",
+    "awayTeam": "Campos AA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1578545,
     "league": "Carioca C (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Búzios",
     "awayTeam": "EC Resende",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1578544,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Barra Mansa",
+    "awayTeam": "Uni Souza",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -20,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Beroe Win",
-    "outcome": "Lost"
+    "prediction": "Botev Plovdiv Win",
+    "outcome": "Won"
   },
   {
     "id": 1582672,
@@ -33,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1494698,
@@ -44,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sarpsborg 08 FF Win",
-    "outcome": "Won"
+    "prediction": "Viking Win",
+    "outcome": "Lost"
   },
   {
     "id": 1567859,
@@ -69,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1519395,
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Cobreloa",
     "awayTeam": "D. La Serena",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567340,
-    "league": "Copa Chile",
-    "matchDate": "FT",
-    "homeTeam": "Antofagasta",
-    "awayTeam": "Cobresal",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Antofagasta Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567371,
-    "league": "Cup (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Rīgas FS",
-    "awayTeam": "FS Jelgava",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rīgas FS Win",
+    "prediction": "Cobreloa Win",
     "outcome": "Won"
   }
 ]
