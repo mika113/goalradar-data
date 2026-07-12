@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567817,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Manauara",
+    "awayTeam": "Goiatuba EC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567814,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1530461,
@@ -33,6 +45,54 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Olimpo Bahia Blanca Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526892,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Maranhão",
+    "awayTeam": "Ypiranga-RS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526891,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Ituano",
+    "awayTeam": "Ferroviária",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1526885,
+    "league": "Serie C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Anápolis",
+    "awayTeam": "Maringá",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520768,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Bernardo",
+    "awayTeam": "Cuiaba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
