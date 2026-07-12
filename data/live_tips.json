@@ -1,21 +1,12 @@
 [
   {
-    "id": 1519393,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "02:10",
-    "homeTeam": "Emelec",
-    "awayTeam": "Barcelona SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
-  },
-  {
     "id": 1538400,
     "league": "Primera División (Bolivia)",
     "matchTime": "02:30",
     "homeTeam": "Real Tomayapo",
     "awayTeam": "Independiente Petrolero",
-    "prediction": "Both Teams To Score",
-    "odds": "2.0"
+    "prediction": "Independiente Petrolero Win",
+    "odds": "3.12"
   },
   {
     "id": 1544847,
@@ -23,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "CF Montreal",
     "awayTeam": "Vancouver FC",
-    "prediction": "CF Montreal Win",
-    "odds": "1.95"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.12"
   },
   {
     "id": 1513216,
@@ -32,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "The Town",
     "awayTeam": "Tacoma Defiance",
-    "prediction": "The Town Win",
-    "odds": "1.51"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1525371,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Ballard",
     "awayTeam": "Snohomish United",
-    "prediction": "Ballard Win & Over 1.5",
-    "odds": "1.8"
+    "prediction": "Snohomish United Win",
+    "odds": "3.2"
   },
   {
     "id": 1567355,
@@ -51,7 +42,7 @@
     "homeTeam": "O'Higgins",
     "awayTeam": "Nublense",
     "prediction": "O'Higgins Win",
-    "odds": "1.84"
+    "odds": "1.46"
   },
   {
     "id": 1583662,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "United States U20 W",
     "awayTeam": "Colombia U20 W",
-    "prediction": "Colombia U20 W Win",
-    "odds": "2.64"
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
   },
   {
     "id": 1513220,
@@ -68,8 +59,8 @@
     "matchTime": "03:30",
     "homeTeam": "Austin II",
     "awayTeam": "Minnesota United II",
-    "prediction": "Austin II Win & Over 1.5",
-    "odds": "2.3"
+    "prediction": "Austin II Win",
+    "odds": "1.68"
   },
   {
     "id": 1525372,
@@ -77,8 +68,8 @@
     "matchTime": "04:00",
     "homeTeam": "Academica",
     "awayTeam": "SF Glens",
-    "prediction": "Academica Win",
-    "odds": "1.73"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1525377,
@@ -86,7 +77,16 @@
     "matchTime": "05:00",
     "homeTeam": "Sportivo San Juan",
     "awayTeam": "Marin",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Sportivo San Juan Win & Over 1.5",
+    "odds": "1.89"
+  },
+  {
+    "id": 1583651,
+    "league": "Friendlies (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Vietnam",
+    "awayTeam": "Gangwon FC",
+    "prediction": "Vietnam Win",
+    "odds": "1.94"
   }
 ]
