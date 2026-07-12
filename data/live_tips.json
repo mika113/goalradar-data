@@ -1,21 +1,12 @@
 [
   {
-    "id": 1583297,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Fluminense",
-    "awayTeam": "Bahia",
-    "prediction": "Fluminense Win",
-    "odds": "1.7"
-  },
-  {
     "id": 1519392,
     "league": "Liga Pro (Ecuador)",
     "matchTime": "22:15",
     "homeTeam": "Deportivo Cuenca",
     "awayTeam": "Aucas",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
+    "prediction": "Deportivo Cuenca Win & Over 1.5",
+    "odds": "2.08"
   },
   {
     "id": 1540056,
@@ -23,8 +14,8 @@
     "matchTime": "22:15",
     "homeTeam": "Independ. Rivadavia",
     "awayTeam": "Tigre",
-    "prediction": "Independ. Rivadavia Win & Over 1.5",
-    "odds": "2.01"
+    "prediction": "Independ. Rivadavia Win",
+    "odds": "1.91"
   },
   {
     "id": 1498641,
@@ -32,8 +23,8 @@
     "matchTime": "22:30",
     "homeTeam": "Godoy Cruz",
     "awayTeam": "Defensores De Belgrano",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
+    "prediction": "Godoy Cruz Win",
+    "odds": "1.56"
   },
   {
     "id": 1529128,
@@ -41,8 +32,8 @@
     "matchTime": "22:30",
     "homeTeam": "Colina",
     "awayTeam": "Real San Joaquín",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.98"
+    "prediction": "Real San Joaquín Win",
+    "odds": "2.33"
   },
   {
     "id": 1529130,
@@ -51,7 +42,7 @@
     "homeTeam": "Linares Unido",
     "awayTeam": "Colchagua",
     "prediction": "Linares Unido Win",
-    "odds": "1.72"
+    "odds": "1.39"
   },
   {
     "id": 1529131,
@@ -68,8 +59,8 @@
     "matchTime": "22:30",
     "homeTeam": "Lota Schwager",
     "awayTeam": "Provincial Osorno",
-    "prediction": "Lota Schwager Win",
-    "odds": "1.55"
+    "prediction": "Lota Schwager Win & Over 1.5",
+    "odds": "2.15"
   },
   {
     "id": 1498640,
@@ -77,8 +68,8 @@
     "matchTime": "23:00",
     "homeTeam": "Gimnasia Y Tiro",
     "awayTeam": "Patronato",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Patronato Win",
+    "odds": "2.92"
   },
   {
     "id": 1508463,
@@ -86,7 +77,16 @@
     "matchTime": "23:00",
     "homeTeam": "Seattle Reign FC W",
     "awayTeam": "Portland Thorns W",
-    "prediction": "Seattle Reign FC W Win & Over 1.5",
-    "odds": "2.77"
+    "prediction": "Seattle Reign FC W Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1513215,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Chicago Fire II",
+    "awayTeam": "New York RB II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   }
 ]
