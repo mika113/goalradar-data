@@ -1,39 +1,12 @@
 [
   {
-    "id": 1583662,
-    "league": "Friendlies Women (World)",
-    "matchTime": "03:00",
-    "homeTeam": "United States U20 W",
-    "awayTeam": "Colombia U20 W",
-    "prediction": "United States U20 W Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1513220,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Austin II",
-    "awayTeam": "Minnesota United II",
-    "prediction": "Austin II Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1525372,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "Academica",
-    "awayTeam": "SF Glens",
-    "prediction": "Both Teams To Score",
-    "odds": "1.74"
-  },
-  {
     "id": 1525377,
     "league": "USL League Two (USA)",
     "matchTime": "05:00",
     "homeTeam": "Sportivo San Juan",
     "awayTeam": "Marin",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Sportivo San Juan Win",
+    "odds": "1.39"
   },
   {
     "id": 1583651,
@@ -41,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "Vietnam",
     "awayTeam": "Gangwon FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
   },
   {
     "id": 1527279,
@@ -50,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "Adelaide Blue Eagles",
     "awayTeam": "Modbury Jets",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
+    "prediction": "Adelaide Blue Eagles Win",
+    "odds": "1.62"
   },
   {
     "id": 1522143,
@@ -59,8 +32,8 @@
     "matchTime": "13:30",
     "homeTeam": "Bulleen Lions",
     "awayTeam": "Brunswick City",
-    "prediction": "Brunswick City Win",
-    "odds": "3.07"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 1528776,
@@ -68,7 +41,34 @@
     "matchTime": "14:00",
     "homeTeam": "Ningbo Professional",
     "awayTeam": "Dongguan United",
-    "prediction": "Dongguan United Win",
-    "odds": "1.77"
+    "prediction": "Ningbo Professional Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1548836,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Hradec Králové",
+    "awayTeam": "Karlsruher SC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1562913,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "NK Lokomotiva Zagreb",
+    "awayTeam": "Epitsentr Dunayivtsi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
+  },
+  {
+    "id": 1583299,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "HNK Gorica",
+    "awayTeam": "Göztepe",
+    "prediction": "Göztepe Win",
+    "odds": "3.39"
   }
 ]
