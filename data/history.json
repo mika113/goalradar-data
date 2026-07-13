@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567355,
+    "league": "Copa De La Liga (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "O'Higgins",
+    "awayTeam": "Nublense",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1544847,
     "league": "Canadian Championship (Canada)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1538400,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1525376,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Connecticut FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513218,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "FC Cincinnati II",
-    "awayTeam": "Orlando City II",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Orlando City II Win",
     "outcome": "Won"
   }
 ]
