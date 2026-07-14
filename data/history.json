@@ -8,8 +8,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Imst Win",
-    "outcome": "Lost"
+    "prediction": "Arminia Bielefeld Win",
+    "outcome": "Won"
   },
   {
     "id": 1554946,
@@ -20,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sporting CP Win",
-    "outcome": "Won"
+    "prediction": "Celtic Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554938,
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Macva Win",
-    "outcome": "Lost"
+    "prediction": "Naftagas Win",
+    "outcome": "Won"
   },
   {
     "id": 1546667,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1583302,
@@ -81,66 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576824,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Unión Santa Fe Res.",
-    "awayTeam": "Gimnasia La Plata Res.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576823,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Rosario Central Res.",
-    "awayTeam": "San Lorenzo Res.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576822,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Estudiantes La Plata Res",
-    "awayTeam": "Colón Res.",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Estudiantes La Plata Res Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576821,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Atlético Tucumán Res.",
-    "awayTeam": "Aldosivi Res.",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567625,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "NK Slaven Belupo",
-    "awayTeam": "Sanfrecce Hiroshima",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Sanfrecce Hiroshima Win",
     "outcome": "Won"
   }
 ]
