@@ -1,57 +1,12 @@
 [
   {
-    "id": 1519404,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "00:30",
-    "homeTeam": "Macara",
-    "awayTeam": "Mushuc Runa SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
-  },
-  {
-    "id": 1499519,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Brown DE Adrogue",
-    "awayTeam": "Deportivo Laferrere",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1499520,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Comunicaciones",
-    "awayTeam": "Villa Dalmine",
-    "prediction": "Villa Dalmine Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1499522,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Deportivo Merlo",
-    "awayTeam": "Real Pilar",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
-  },
-  {
-    "id": 1499527,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Ituzaingó",
-    "awayTeam": "San Martín Burzaco",
-    "prediction": "Ituzaingó Win",
-    "odds": "1.7"
-  },
-  {
     "id": 1538383,
     "league": "Primera División (Bolivia)",
     "matchTime": "01:00",
     "homeTeam": "Real Oruro",
     "awayTeam": "Always Ready",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "prediction": "Both Teams To Score",
+    "odds": "1.79"
   },
   {
     "id": 1586078,
@@ -59,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Asheville City",
     "awayTeam": "Virginia Beach City",
-    "prediction": "Asheville City Win",
-    "odds": "1.43"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.11"
   },
   {
     "id": 1589337,
@@ -68,7 +23,52 @@
     "matchTime": "02:00",
     "homeTeam": "Lehigh Valley United",
     "awayTeam": "Appalachian",
-    "prediction": "Appalachian Win",
-    "odds": "2.5"
+    "prediction": "Lehigh Valley United Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1519405,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "03:00",
+    "homeTeam": "Manta FC",
+    "awayTeam": "Delfin SC",
+    "prediction": "Delfin SC Win",
+    "odds": "1.89"
+  },
+  {
+    "id": 1538384,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "03:30",
+    "homeTeam": "Blooming",
+    "awayTeam": "Gualberto Villarroel SJ",
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
+  },
+  {
+    "id": 1586079,
+    "league": "USL League Two (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "New England FC",
+    "awayTeam": "Ironbound",
+    "prediction": "New England FC Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1589260,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "10:00",
+    "homeTeam": "Cerezo Osaka",
+    "awayTeam": "Tochigi City",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1589261,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "10:00",
+    "homeTeam": "Kashima",
+    "awayTeam": "Vegalta Sendai",
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   }
 ]
