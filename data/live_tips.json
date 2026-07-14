@@ -1,21 +1,12 @@
 [
   {
-    "id": 1581356,
-    "league": "FA Cup (South-Korea)",
-    "matchTime": "13:00",
-    "homeTeam": "Changwon City",
-    "awayTeam": "Gimhae City",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.94"
-  },
-  {
     "id": 1581358,
     "league": "FA Cup (South-Korea)",
     "matchTime": "13:00",
     "homeTeam": "Daegu FC",
     "awayTeam": "Siheung Citizen",
-    "prediction": "Siheung Citizen Win",
-    "odds": "3.02"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1581359,
@@ -23,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Hwaseong",
     "awayTeam": "Yangpyeong",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
+    "prediction": "Hwaseong Win",
+    "odds": "1.36"
   },
   {
     "id": 1581360,
@@ -32,7 +23,7 @@
     "matchTime": "13:00",
     "homeTeam": "Paju Citizen",
     "awayTeam": "Gangneung City",
-    "prediction": "Paju Citizen Win",
+    "prediction": "Both Teams To Score",
     "odds": "1.64"
   },
   {
@@ -41,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Seongnam FC",
     "awayTeam": "Pocheon",
-    "prediction": "Pocheon Win",
-    "odds": "2.25"
+    "prediction": "Seongnam FC Win",
+    "odds": "1.67"
   },
   {
     "id": 1581362,
@@ -50,8 +41,8 @@
     "matchTime": "13:00",
     "homeTeam": "Suwon City FC",
     "awayTeam": "Pyeongchang United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "prediction": "Suwon City FC Win",
+    "odds": "1.95"
   },
   {
     "id": 1581363,
@@ -59,8 +50,8 @@
     "matchTime": "13:00",
     "homeTeam": "Ulsan Citizen",
     "awayTeam": "Seoul E-Land FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Ulsan Citizen Win",
+    "odds": "1.48"
   },
   {
     "id": 1581364,
@@ -68,8 +59,8 @@
     "matchTime": "13:00",
     "homeTeam": "Yongin City",
     "awayTeam": "Dangjin Citizen",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.74"
+    "prediction": "Yongin City Win",
+    "odds": "2.0"
   },
   {
     "id": 1581837,
@@ -77,8 +68,8 @@
     "matchTime": "13:00",
     "homeTeam": "Busan Transportation",
     "awayTeam": "Suwon Bluewings",
-    "prediction": "Busan Transportation Win",
-    "odds": "1.4"
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
   },
   {
     "id": 1581838,
@@ -86,7 +77,16 @@
     "matchTime": "13:00",
     "homeTeam": "Cheongju",
     "awayTeam": "Gyeongju HNP",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Cheongju Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1581839,
+    "league": "FA Cup (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Namyangju",
+    "awayTeam": "Gimpo Citizen",
+    "prediction": "Gimpo Citizen Win",
+    "odds": "3.37"
   }
 ]
