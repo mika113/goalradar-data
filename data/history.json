@@ -8,8 +8,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Spain Win",
-    "outcome": "Won"
+    "prediction": "France Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554425,
@@ -20,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "UNA Strassen Win",
-    "outcome": "Won"
+    "prediction": "La Fiorita Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554385,
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Slough Town",
     "awayTeam": "Basingstoke Town",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Basingstoke Town Win",
     "outcome": "Won"
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Cliftonville FC",
     "awayTeam": "Moyola Park",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Moyola Park Win",
-    "outcome": "Lost"
+    "prediction": "Cliftonville FC Win",
+    "outcome": "Won"
   }
 ]
