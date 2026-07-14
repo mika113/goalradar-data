@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1584846,
@@ -60,6 +60,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1554948,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Barry Town",
+    "awayTeam": "Trethomas Bluebirds",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1548850,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -89,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Spartans",
     "awayTeam": "Stirling Albion",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Stirling Albion Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548134,
@@ -114,10 +126,10 @@
     "homeTeam": "Linlithgow Rose",
     "awayTeam": "ST Johnstone",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "ST Johnstone Win",
+    "outcome": "Won"
   },
   {
     "id": 1548132,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Kilmarnock",
     "awayTeam": "Raith Rovers",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548131,
-    "league": "League Cup (Scotland)",
-    "matchDate": "FT",
-    "homeTeam": "Kelty Hearts",
-    "awayTeam": "Queen's Park",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
