@@ -1,21 +1,12 @@
 [
   {
-    "id": 1538383,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "01:00",
-    "homeTeam": "Real Oruro",
-    "awayTeam": "Always Ready",
-    "prediction": "Real Oruro Win",
-    "odds": "1.32"
-  },
-  {
     "id": 1586078,
     "league": "USL League Two (USA)",
     "matchTime": "02:00",
     "homeTeam": "Asheville City",
     "awayTeam": "Virginia Beach City",
-    "prediction": "Virginia Beach City Win",
-    "odds": "2.9"
+    "prediction": "Asheville City Win",
+    "odds": "1.56"
   },
   {
     "id": 1589337,
@@ -24,7 +15,7 @@
     "homeTeam": "Lehigh Valley United",
     "awayTeam": "Appalachian",
     "prediction": "Lehigh Valley United Win",
-    "odds": "1.77"
+    "odds": "1.58"
   },
   {
     "id": 1519405,
@@ -32,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Manta FC",
     "awayTeam": "Delfin SC",
-    "prediction": "Delfin SC Win",
-    "odds": "3.07"
+    "prediction": "Manta FC Win",
+    "odds": "1.57"
   },
   {
     "id": 1538384,
@@ -42,7 +33,7 @@
     "homeTeam": "Blooming",
     "awayTeam": "Gualberto Villarroel SJ",
     "prediction": "Blooming Win",
-    "odds": "1.37"
+    "odds": "1.88"
   },
   {
     "id": 1586079,
@@ -51,7 +42,7 @@
     "homeTeam": "New England FC",
     "awayTeam": "Ironbound",
     "prediction": "New England FC Win",
-    "odds": "1.68"
+    "odds": "1.74"
   },
   {
     "id": 1589260,
@@ -60,7 +51,7 @@
     "homeTeam": "Cerezo Osaka",
     "awayTeam": "Tochigi City",
     "prediction": "Cerezo Osaka Win",
-    "odds": "1.55"
+    "odds": "1.43"
   },
   {
     "id": 1589261,
@@ -69,6 +60,15 @@
     "homeTeam": "Kashima",
     "awayTeam": "Vegalta Sendai",
     "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "odds": "1.96"
+  },
+  {
+    "id": 1584854,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "CSA Steaua Bucureşti",
+    "awayTeam": "Tunari",
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
   }
 ]
