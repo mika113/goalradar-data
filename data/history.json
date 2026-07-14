@@ -1,5 +1,17 @@
 [
   {
+    "id": 1560605,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Petah Tikva",
+    "awayTeam": "Spartak Pleven",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Hapoel Petah Tikva Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554381,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1547959,
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1527535,
@@ -29,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Muras United",
     "awayTeam": "Bars",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Muras United Win",
+    "outcome": "Won"
   },
   {
     "id": 1589255,
@@ -42,9 +54,9 @@
     "homeTeam": "Bukovyna",
     "awayTeam": "Metal Kharkiv",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Bukovyna Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Lokomotiv",
     "awayTeam": "CSKA Moscow",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lokomotiv Win",
     "outcome": "Won"
   },
   {
@@ -117,18 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Dordrecht Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543598,
-    "league": "Premier League (Bhutan)",
-    "matchDate": "FT",
-    "homeTeam": "Bhutan U19",
-    "awayTeam": "Drukpa",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
