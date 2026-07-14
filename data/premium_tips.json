@@ -1,93 +1,12 @@
 [
   {
-    "id": 1514244,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "20:00",
-    "homeTeam": "HK Kopavogur",
-    "awayTeam": "IR Reykjavik",
-    "prediction": "HK Kopavogur Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1549974,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "20:00",
-    "homeTeam": "Buenos Aires City",
-    "awayTeam": "Ezeiza",
-    "prediction": "Buenos Aires City Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1560608,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "NEC Nijmegen",
-    "awayTeam": "V-varen Nagasaki",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
-  },
-  {
-    "id": 1562917,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Sparta Lichtenberg",
-    "awayTeam": "Mariendorf",
-    "prediction": "Sparta Lichtenberg Win & Over 1.5",
-    "odds": "1.98"
-  },
-  {
-    "id": 1567627,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Lokeren-Temse",
-    "awayTeam": "Olympic Charleroi",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
-  },
-  {
-    "id": 1584843,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Deutschlandsberger SC",
-    "awayTeam": "Lebring",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
-  },
-  {
-    "id": 1584844,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Weiz",
-    "awayTeam": "Ilzer SV",
-    "prediction": "Weiz Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1554939,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:30",
-    "homeTeam": "Lask Linz",
-    "awayTeam": "Fenerbahçe",
-    "prediction": "Lask Linz Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1589258,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:30",
-    "homeTeam": "Kilia Kiel",
-    "awayTeam": "Todesfelde",
-    "prediction": "Kilia Kiel Win",
-    "odds": "1.51"
-  },
-  {
     "id": 1499518,
     "league": "Primera B Metropolitana (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Argentino Quilmes",
     "awayTeam": "Arsenal Sarandi",
     "prediction": "Argentino Quilmes Win",
-    "odds": "1.45"
+    "odds": "1.7"
   },
   {
     "id": 1499521,
@@ -95,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Defensores Unidos",
     "awayTeam": "Excursionistas",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
   },
   {
     "id": 1499524,
@@ -104,7 +23,88 @@
     "matchTime": "21:00",
     "homeTeam": "Deportivo Camioneros",
     "awayTeam": "Liniers",
+    "prediction": "Liniers Win",
+    "odds": "3.15"
+  },
+  {
+    "id": 1499525,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Dock Sud",
+    "awayTeam": "UAI Urquiza",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.82"
+  },
+  {
+    "id": 1499526,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Flandria",
+    "awayTeam": "Argentino de Merlo",
+    "prediction": "Argentino de Merlo Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1499528,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Sportivo Italiano",
+    "awayTeam": "Villa San Carlos",
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
+  },
+  {
+    "id": 1514200,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "21:00",
+    "homeTeam": "Grotta",
+    "awayTeam": "Grindavik",
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
+  },
+  {
+    "id": 1543941,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Atletico GO U17",
+    "awayTeam": "Cruzeiro U17",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1543942,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Atlético Mineiro U17",
+    "awayTeam": "Athletico PR U17",
     "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "odds": "1.27"
+  },
+  {
+    "id": 1543943,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Botafogo U17",
+    "awayTeam": "Fortaleza U17",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
+  },
+  {
+    "id": 1543944,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "RB Bragantino U17",
+    "awayTeam": "Juventude U17",
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
+  },
+  {
+    "id": 1543945,
+    "league": "Brasileiro U17 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Fluminense U17",
+    "awayTeam": "Gremio U17",
+    "prediction": "Gremio U17 Win",
+    "odds": "2.35"
   }
 ]
