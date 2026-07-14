@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Helsingborg Win",
-    "outcome": "Lost"
+    "prediction": "AB Copenhagen Win",
+    "outcome": "Won"
   },
   {
     "id": 1554931,
@@ -24,12 +24,24 @@
     "outcome": "Won"
   },
   {
+    "id": 1543598,
+    "league": "Premier League (Bhutan)",
+    "matchDate": "FT",
+    "homeTeam": "Bhutan U19",
+    "awayTeam": "Drukpa",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1523197,
     "league": "Super League (China)",
     "matchDate": "FT",
     "homeTeam": "Hangzhou Greentown",
     "awayTeam": "Qingdao Jonoon",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Hangzhou Greentown Win",
@@ -56,8 +68,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Radomiak Radom Win",
-    "outcome": "Lost"
+    "prediction": "Legia Warszawa Win",
+    "outcome": "Won"
   },
   {
     "id": 1560866,
@@ -68,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "SD Raiders Win",
-    "outcome": "Won"
+    "prediction": "Rochedale Rovers Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560857,
