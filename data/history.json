@@ -1,12 +1,36 @@
 [
   {
+    "id": 1560608,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "NEC Nijmegen",
+    "awayTeam": "V-varen Nagasaki",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554384,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Riga",
+    "awayTeam": "Ararat-Armenia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1567626,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Imst",
     "awayTeam": "Arminia Bielefeld",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Arminia Bielefeld Win",
     "outcome": "Won"
@@ -69,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1583302,
