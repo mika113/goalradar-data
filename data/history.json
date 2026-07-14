@@ -6,9 +6,9 @@
     "homeTeam": "Weiz",
     "awayTeam": "Ilzer SV",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Weiz Win",
     "outcome": "Lost"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "NEC Nijmegen",
     "awayTeam": "V-varen Nagasaki",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NEC Nijmegen Win",
     "outcome": "Won"
   },
   {
@@ -29,6 +29,18 @@
     "matchDate": "FT",
     "homeTeam": "Riga",
     "awayTeam": "Ararat-Armenia",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ararat-Armenia Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1554378,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Gyori ETO FC",
+    "awayTeam": "Vikingur Reykjavik",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -41,6 +53,18 @@
     "matchDate": "FT",
     "homeTeam": "HK Kopavogur",
     "awayTeam": "IR Reykjavik",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "HK Kopavogur Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589256,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Buchbach",
+    "awayTeam": "Al Wahda FC",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -54,10 +78,10 @@
     "homeTeam": "Imst",
     "awayTeam": "Arminia Bielefeld",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Imst Win",
-    "outcome": "Lost"
+    "prediction": "Arminia Bielefeld Win",
+    "outcome": "Won"
   },
   {
     "id": 1554946,
@@ -105,30 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Naftagas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546667,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Eintracht Mahlsdorf",
-    "awayTeam": "Luckenwalde",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583302,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Port Vale",
-    "awayTeam": "Tamworth",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
