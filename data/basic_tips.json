@@ -1,23 +1,5 @@
 [
   {
-    "id": 1554379,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Saburtalo",
-    "awayTeam": "Flora Tallinn",
-    "prediction": "Saburtalo Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1554380,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Inter Club d'Escaldes",
-    "awayTeam": "Lincoln Red Imps FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
-  },
-  {
     "id": 1554378,
     "league": "UEFA Champions League (World)",
     "matchTime": "20:00",
@@ -32,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Riga",
     "awayTeam": "Ararat-Armenia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
+    "prediction": "Riga Win",
+    "odds": "1.72"
   },
   {
     "id": 1554383,
@@ -41,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Levski Sofia",
     "awayTeam": "Borac Banja Luka",
-    "prediction": "Double Chance X2",
-    "odds": "1.65"
+    "prediction": "Borac Banja Luka Win",
+    "odds": "3.06"
   },
   {
     "id": 1554387,
@@ -50,7 +32,25 @@
     "matchTime": "20:30",
     "homeTeam": "The New Saints",
     "awayTeam": "Sabah FA",
-    "prediction": "The New Saints Win",
-    "odds": "1.78"
+    "prediction": "Sabah FA Win",
+    "odds": "2.76"
+  },
+  {
+    "id": 1554376,
+    "league": "UEFA Champions League (World)",
+    "matchTime": "21:00",
+    "homeTeam": "Drita",
+    "awayTeam": "Kauno Žalgiris",
+    "prediction": "Drita Win & Over 1.5",
+    "odds": "2.6"
+  },
+  {
+    "id": 1546667,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Eintracht Mahlsdorf",
+    "awayTeam": "Luckenwalde",
+    "prediction": "Eintracht Mahlsdorf Win",
+    "odds": "1.9"
   }
 ]
