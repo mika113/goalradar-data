@@ -24,6 +24,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1589159,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Olaria",
+    "awayTeam": "Bangu",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589158,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Pérolas Negras",
+    "awayTeam": "CFRJ / Maricá",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1589157,
     "league": "Copa Rio (Brazil)",
     "matchDate": "FT",
@@ -42,7 +66,7 @@
     "homeTeam": "Barbate",
     "awayTeam": "Cadiz",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Cadiz Win",
     "outcome": "Won"
@@ -116,31 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1562923,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Borussia M'gladbach II",
-    "awayTeam": "TuS Koblenz",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "TuS Koblenz Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554972,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Tasmania Berlin",
-    "awayTeam": "Hertha Zehlendorf",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
