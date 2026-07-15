@@ -29,10 +29,34 @@
     "matchDate": "FT",
     "homeTeam": "Pelikan Łowicz",
     "awayTeam": "Swit",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Pelikan Łowicz Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583311,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Clermont Foot",
+    "awayTeam": "Bourges Foot 18",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567633,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ajax",
+    "awayTeam": "VfL Bochum",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ajax Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560614,
@@ -54,9 +78,9 @@
     "homeTeam": "Kisvarda FC",
     "awayTeam": "Bukovyna",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bukovyna Win",
     "outcome": "Won"
   },
   {
@@ -65,6 +89,18 @@
     "matchDate": "FT",
     "homeTeam": "Polonia Warszawa",
     "awayTeam": "Zlin",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Zlin Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554957,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Al-Ahli Jeddah",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -81,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554428,
@@ -89,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Malisheva",
     "awayTeam": "Vllaznia Shkodër",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Malisheva Win",
     "outcome": "Won"
   },
   {
@@ -101,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Hansa Rostock",
     "awayTeam": "Greifswalder FC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Hansa Rostock Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589266,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Caen",
-    "awayTeam": "Gobelins",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Gobelins Win",
     "outcome": "Won"
   }
 ]
