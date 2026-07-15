@@ -1,5 +1,17 @@
 [
   {
+    "id": 1539838,
+    "league": "Catarinense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Criciuma U20",
+    "awayTeam": "Concórdia U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1589161,
     "league": "Copa Rio (Brazil)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589159,
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Olaria",
     "awayTeam": "Bangu",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Olaria Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589157,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "AS Eupen Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567635,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "SC St. Tönis",
-    "awayTeam": "Fortuna Düsseldorf II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
