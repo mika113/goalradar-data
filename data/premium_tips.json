@@ -1,30 +1,12 @@
 [
   {
-    "id": 1493575,
-    "league": "USL Championship (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Sporting JAX",
-    "awayTeam": "Pittsburgh Riverhounds",
-    "prediction": "Sporting JAX Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1493897,
-    "league": "USL League One (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Forward Madison",
-    "awayTeam": "Richmond Kickers",
-    "prediction": "Forward Madison Win",
-    "odds": "1.92"
-  },
-  {
     "id": 1508465,
     "league": "NWSL Women (USA)",
     "matchTime": "03:00",
     "homeTeam": "NJ/NY Gotham FC W",
     "awayTeam": "Washington Spirit W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1538386,
@@ -32,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "The Strongest",
     "awayTeam": "Oriente Petrolero",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Double Chance X2",
+    "odds": "1.56"
   },
   {
     "id": 1576751,
@@ -42,7 +24,7 @@
     "homeTeam": "Botafogo U20",
     "awayTeam": "Santos U20",
     "prediction": "Botafogo U20 Win",
-    "odds": "1.74"
+    "odds": "1.72"
   },
   {
     "id": 1576753,
@@ -50,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "RB Bragantino U20",
     "awayTeam": "Athletico PR U20",
-    "prediction": "Athletico PR U20 Win",
-    "odds": "2.49"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1519401,
@@ -59,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "Barcelona SC",
     "awayTeam": "Guayaquil City FC",
-    "prediction": "Guayaquil City FC Win",
-    "odds": "2.81"
+    "prediction": "Barcelona SC Win",
+    "odds": "1.75"
   },
   {
     "id": 1548853,
@@ -68,8 +50,8 @@
     "matchTime": "03:30",
     "homeTeam": "Houston Dynamo",
     "awayTeam": "America de Cali",
-    "prediction": "Houston Dynamo Win",
-    "odds": "1.43"
+    "prediction": "America de Cali Win",
+    "odds": "3.28"
   },
   {
     "id": 1589269,
@@ -77,8 +59,8 @@
     "matchTime": "04:30",
     "homeTeam": "Kawasaki Frontale",
     "awayTeam": "Vanraure Hachinohe",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.02"
   },
   {
     "id": 1550568,
@@ -87,7 +69,7 @@
     "homeTeam": "Real Salt Lake",
     "awayTeam": "Burnley",
     "prediction": "Real Salt Lake Win",
-    "odds": "1.73"
+    "odds": "1.96"
   },
   {
     "id": 1589177,
@@ -96,7 +78,7 @@
     "homeTeam": "Malaysia W",
     "awayTeam": "Singapore",
     "prediction": "Malaysia W Win",
-    "odds": "1.35"
+    "odds": "1.83"
   },
   {
     "id": 1589178,
@@ -104,7 +86,25 @@
     "matchTime": "11:45",
     "homeTeam": "Indonesia W",
     "awayTeam": "Cambodia W",
-    "prediction": "Indonesia W Win",
-    "odds": "1.44"
+    "prediction": "Indonesia W Win & Over 1.5",
+    "odds": "2.35"
+  },
+  {
+    "id": 1527336,
+    "league": "South Australia State League 1",
+    "matchTime": "12:45",
+    "homeTeam": "Fulham United",
+    "awayTeam": "Cumberland United",
+    "prediction": "Cumberland United Win",
+    "odds": "1.8"
+  },
+  {
+    "id": 1554975,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Raków Częstochowa",
+    "awayTeam": "GKS Katowice",
+    "prediction": "Raków Częstochowa Win & Over 1.5",
+    "odds": "2.09"
   }
 ]
