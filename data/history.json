@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Cuniburo Win",
-    "outcome": "Won"
+    "prediction": "El Nacional Win",
+    "outcome": "Lost"
   },
   {
     "id": 1589162,
@@ -30,10 +30,10 @@
     "homeTeam": "England",
     "awayTeam": "Argentina",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "England Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1554386,
@@ -42,7 +42,7 @@
     "homeTeam": "Sutjeska",
     "awayTeam": "Kairat Almaty",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Kairat Almaty Win",
     "outcome": "Won"
@@ -53,10 +53,22 @@
     "matchDate": "FT",
     "homeTeam": "Egnatia Rrogozhinë",
     "awayTeam": "Petrocub",
-    "homeScore": 4,
+    "homeScore": 6,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Egnatia Rrogozhinë Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1582697,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Sao Luis",
+    "awayTeam": "Pinheiro",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Pinheiro Win",
     "outcome": "Won"
   },
   {
@@ -69,6 +81,18 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "FK Liepaja Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584862,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ards Rangers",
+    "awayTeam": "Ballymacash Rangers",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Blumenau Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1540195,
-    "league": "Cearense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Caucaia U20",
-    "awayTeam": "Fortaleza U20",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Fortaleza U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1539838,
-    "league": "Catarinense U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Criciuma U20",
-    "awayTeam": "Concórdia U20",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Criciuma U20 Win",
     "outcome": "Won"
   }
 ]
