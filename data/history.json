@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Busan I Park",
     "awayTeam": "Geoje Citizen",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Busan I Park Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +33,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1581837,
+    "league": "FA Cup (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Busan Transportation",
+    "awayTeam": "Suwon Bluewings",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1581364,
@@ -69,7 +81,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
+  },
+  {
+    "id": 1581361,
+    "league": "FA Cup (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Seongnam FC",
+    "awayTeam": "Pocheon",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1581360,
@@ -90,9 +114,9 @@
     "homeTeam": "Hwaseong",
     "awayTeam": "Yangpyeong",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Yangpyeong Win",
     "outcome": "Won"
   },
   {
@@ -113,30 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Changwon City",
     "awayTeam": "Gimhae City",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1581355,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Ansan Greeners",
-    "awayTeam": "Jinju Citizen",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560860,
-    "league": "Australia Cup",
-    "matchDate": "FT",
-    "homeTeam": "FK Beograd",
-    "awayTeam": "North Sunshine Eagles",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
