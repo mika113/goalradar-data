@@ -18,9 +18,9 @@
     "homeTeam": "RAAL La Louvière",
     "awayTeam": "Excelsior Virton",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "RAAL La Louvière Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -80,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Delfin SC Win",
-    "outcome": "Won"
+    "prediction": "Manta FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1589337,
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Deportivo Merlo Win",
-    "outcome": "Won"
+    "prediction": "Real Pilar Win",
+    "outcome": "Lost"
   }
 ]
