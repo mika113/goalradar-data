@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "England",
     "awayTeam": "Argentina",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "England Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Sutjeska",
     "awayTeam": "Kairat Almaty",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kairat Almaty Win",
     "outcome": "Won"
   },
   {
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Egnatia Rrogozhinë",
     "awayTeam": "Petrocub",
-    "homeScore": 3,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Petrocub Win",
-    "outcome": "Lost"
+    "prediction": "Egnatia Rrogozhinë Win",
+    "outcome": "Won"
   },
   {
     "id": 1554421,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "KI Klaksvik Win",
-    "outcome": "Won"
+    "prediction": "Atert Bissen Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542031,
@@ -92,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Jaraguá Win",
-    "outcome": "Lost"
+    "prediction": "Nação Win",
+    "outcome": "Won"
   },
   {
     "id": 1542004,
