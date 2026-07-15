@@ -20,8 +20,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Mafra Win",
-    "outcome": "Lost"
+    "prediction": "FC Fredericia Win",
+    "outcome": "Won"
   },
   {
     "id": 1581840,
@@ -30,9 +30,9 @@
     "homeTeam": "Gyeongnam FC",
     "awayTeam": "Yeoju Sejong",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Yeoju Sejong Win",
     "outcome": "Won"
   },
   {
@@ -57,42 +57,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Busan I Park Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584849,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Santa Clara",
-    "awayTeam": "Leça",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Santa Clara Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584848,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Benfica B",
-    "awayTeam": "Lusitano Évora 1911",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581839,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Namyangju",
-    "awayTeam": "Gimpo Citizen",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gimpo Citizen Win",
     "outcome": "Won"
   }
 ]
