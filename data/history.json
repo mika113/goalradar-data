@@ -1,5 +1,17 @@
 [
   {
+    "id": 1567631,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Fleury 91",
+    "awayTeam": "Boulogne",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554428,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -20,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Greifswalder FC Win",
-    "outcome": "Lost"
+    "prediction": "Hansa Rostock Win",
+    "outcome": "Won"
   },
   {
     "id": 1589266,
@@ -32,79 +44,7 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Gobelins Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584857,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Odra Opole",
-    "awayTeam": "Maccabi Netanya",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Maccabi Netanya Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560617,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Reims",
-    "awayTeam": "Francs Borains",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Francs Borains Win",
+    "prediction": "Caen Win",
     "outcome": "Lost"
-  },
-  {
-    "id": 1584852,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Kudrivka",
-    "awayTeam": "Kolos Kovalivka II",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kudrivka Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567632,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Obolon'-Brovar",
-    "awayTeam": "Chernihiv",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560616,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Red Bull Salzburg",
-    "awayTeam": "Gamba Osaka",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Gamba Osaka Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567629,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Famalicao",
-    "awayTeam": "Lusitânia Lourosa",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Famalicao Win",
-    "outcome": "Won"
   }
 ]
