@@ -18,10 +18,10 @@
     "homeTeam": "Obolon'-Brovar",
     "awayTeam": "Chernihiv",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Chernihiv Win",
+    "outcome": "Won"
   },
   {
     "id": 1560616,
@@ -32,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Red Bull Salzburg Win",
-    "outcome": "Lost"
+    "prediction": "Gamba Osaka Win",
+    "outcome": "Won"
   },
   {
     "id": 1567629,
@@ -69,54 +69,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Verl Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550567,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Fredericia",
-    "awayTeam": "Mafra",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "FC Fredericia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581840,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Gyeongnam FC",
-    "awayTeam": "Yeoju Sejong",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Yeoju Sejong Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581357,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Cheonan City",
-    "awayTeam": "Mokpo City",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Cheonan City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589346,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Busan I Park",
-    "awayTeam": "Geoje Citizen",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Busan I Park Win",
     "outcome": "Won"
   }
 ]
