@@ -6,9 +6,9 @@
     "homeTeam": "FC Fredericia",
     "awayTeam": "Mafra",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Fredericia Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Cheonan City",
     "awayTeam": "Mokpo City",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Cheonan City Win",
     "outcome": "Won"
   },
   {
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Busan I Park",
     "awayTeam": "Geoje Citizen",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Busan I Park Win",
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Cheongju",
     "awayTeam": "Gyeongju HNP",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Cheongju Win",
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Suwon City FC",
     "awayTeam": "Pyeongchang United",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Suwon City FC Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1581360,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Paju Citizen",
     "awayTeam": "Gangneung City",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Paju Citizen Win",
     "outcome": "Won"
   }
 ]
