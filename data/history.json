@@ -36,6 +36,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1582698,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Timon MA",
+    "awayTeam": "Tupan",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Timon MA Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554386,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Dečić Win",
-    "outcome": "Lost"
+    "prediction": "FK Liepaja Win",
+    "outcome": "Won"
   },
   {
     "id": 1584862,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542002,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Blumenau",
-    "awayTeam": "Metropolitano",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Blumenau Win",
     "outcome": "Won"
   }
 ]
