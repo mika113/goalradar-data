@@ -18,6 +18,18 @@
     "homeTeam": "Solihull Moors",
     "awayTeam": "Birmingham",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Birmingham Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560618,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Patro Eisden",
+    "awayTeam": "St. Truiden",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -29,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Lyon",
     "awayTeam": "Servette FC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Servette FC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546676,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Chemnitzer FC",
+    "awayTeam": "SpVgg Unterhaching",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -69,6 +93,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   }
 ]
