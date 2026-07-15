@@ -1,75 +1,12 @@
 [
   {
-    "id": 1582697,
-    "league": "Maranhense - 2 (Brazil)",
-    "matchTime": "21:30",
-    "homeTeam": "Sao Luis",
-    "awayTeam": "Pinheiro",
-    "prediction": "Sao Luis Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1582695,
-    "league": "Maranhense - 2 (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Araioses",
-    "awayTeam": "Cordino",
-    "prediction": "Double Chance X2",
-    "odds": "1.29"
-  },
-  {
-    "id": 1582698,
-    "league": "Maranhense - 2 (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Timon MA",
-    "awayTeam": "Tupan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
-  },
-  {
-    "id": 1586077,
-    "league": "World Cup",
-    "matchTime": "22:00",
-    "homeTeam": "England",
-    "awayTeam": "Argentina",
-    "prediction": "Argentina Win",
-    "odds": "3.5"
-  },
-  {
-    "id": 1589162,
-    "league": "Copa Rio (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "CEAC / Araruama",
-    "awayTeam": "Boavista SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
-  },
-  {
-    "id": 1526576,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "22:30",
-    "homeTeam": "Cuniburo",
-    "awayTeam": "El Nacional",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
-    "id": 1567636,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Austin",
-    "awayTeam": "Charlotte",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
-  },
-  {
     "id": 1582696,
     "league": "Maranhense - 2 (Brazil)",
     "matchTime": "23:00",
     "homeTeam": "Lago Verde",
     "awayTeam": "Expressinho",
-    "prediction": "Expressinho Win",
-    "odds": "3.22"
+    "prediction": "Lago Verde Win",
+    "odds": "1.8"
   },
   {
     "id": 1519402,
@@ -77,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Leones del Norte",
     "awayTeam": "Deportivo Cuenca",
-    "prediction": "Deportivo Cuenca Win",
-    "odds": "3.48"
+    "prediction": "Leones del Norte Win",
+    "odds": "1.84"
   },
   {
     "id": 1519407,
@@ -86,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Universidad Catolica",
     "awayTeam": "LDU de Quito",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "LDU de Quito Win",
+    "odds": "1.79"
   },
   {
     "id": 1538388,
@@ -95,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Real Potosí",
     "awayTeam": "San Antonio Bulo Bulo",
-    "prediction": "Real Potosí Win",
-    "odds": "1.86"
+    "prediction": "San Antonio Bulo Bulo Win",
+    "odds": "3.28"
   },
   {
     "id": 1542003,
@@ -105,6 +42,69 @@
     "homeTeam": "Caravaggio",
     "awayTeam": "Tubarao",
     "prediction": "Tubarao Win",
-    "odds": "2.98"
+    "odds": "2.49"
+  },
+  {
+    "id": 1493898,
+    "league": "USL League One (USA)",
+    "matchTime": "01:30",
+    "homeTeam": "One Knoxville",
+    "awayTeam": "Fort Wayne",
+    "prediction": "Fort Wayne Win",
+    "odds": "2.82"
+  },
+  {
+    "id": 1542001,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Hercílio Luz",
+    "awayTeam": "Juventus SC",
+    "prediction": "Juventus SC Win",
+    "odds": "2.82"
+  },
+  {
+    "id": 1589163,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Resende",
+    "awayTeam": "Sampaio Corrêa RJ",
+    "prediction": "Resende Win",
+    "odds": "1.37"
+  },
+  {
+    "id": 1493573,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Lexington",
+    "awayTeam": "New Mexico United",
+    "prediction": "Lexington Win",
+    "odds": "1.57"
+  },
+  {
+    "id": 1493574,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Miami FC",
+    "awayTeam": "Indy Eleven",
+    "prediction": "Indy Eleven Win",
+    "odds": "3.24"
+  },
+  {
+    "id": 1493896,
+    "league": "USL League One (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Chattanooga Red Wolves",
+    "awayTeam": "Alta",
+    "prediction": "Alta Win",
+    "odds": "2.26"
+  },
+  {
+    "id": 1508466,
+    "league": "NWSL Women (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Orlando Pride W",
+    "awayTeam": "Boston Legacy W",
+    "prediction": "Orlando Pride W Win",
+    "odds": "1.59"
   }
 ]
