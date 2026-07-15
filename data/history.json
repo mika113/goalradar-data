@@ -1,14 +1,50 @@
 [
   {
+    "id": 1584860,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Orlando Pirates",
+    "awayTeam": "Cordoba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583327,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Vitesse",
+    "awayTeam": "AEK Athens FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583326,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "AS Eupen",
     "awayTeam": "La Calamine",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "AS Eupen Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567635,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "SC St. Tönis",
+    "awayTeam": "Fortuna Düsseldorf II",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Fortuna Düsseldorf II Win",
     "outcome": "Won"
   },
   {
@@ -17,6 +53,30 @@
     "matchDate": "FT",
     "homeTeam": "Borussia M'gladbach II",
     "awayTeam": "TuS Koblenz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554972,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Tasmania Berlin",
+    "awayTeam": "Hertha Zehlendorf",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554971,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Heist",
+    "awayTeam": "KV Mechelen",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -30,9 +90,9 @@
     "homeTeam": "Hoek",
     "awayTeam": "NAC Breda",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NAC Breda Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1584856,
