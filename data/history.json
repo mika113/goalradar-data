@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1581357,
@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Cheonan City Win",
-    "outcome": "Won"
+    "prediction": "Mokpo City Win",
+    "outcome": "Lost"
   },
   {
     "id": 1589346,
@@ -45,102 +45,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Busan I Park Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581839,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Namyangju",
-    "awayTeam": "Gimpo Citizen",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Gimpo Citizen Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581838,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Cheongju",
-    "awayTeam": "Gyeongju HNP",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Cheongju Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581837,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Busan Transportation",
-    "awayTeam": "Suwon Bluewings",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581364,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Yongin City",
-    "awayTeam": "Dangjin Citizen",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Dangjin Citizen Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581363,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Ulsan Citizen",
-    "awayTeam": "Seoul E-Land FC",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581362,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Suwon City FC",
-    "awayTeam": "Pyeongchang United",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Suwon City FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581361,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Seongnam FC",
-    "awayTeam": "Pocheon",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581360,
-    "league": "FA Cup (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Paju Citizen",
-    "awayTeam": "Gangneung City",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Paju Citizen Win",
     "outcome": "Won"
   }
 ]
