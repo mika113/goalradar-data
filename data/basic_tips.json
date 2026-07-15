@@ -6,7 +6,7 @@
     "homeTeam": "Universitatea Craiova",
     "awayTeam": "ML Vitebsk",
     "prediction": "Universitatea Craiova Win",
-    "odds": "1.76"
+    "odds": "1.54"
   },
   {
     "id": 1554375,
@@ -14,8 +14,8 @@
     "matchTime": "21:15",
     "homeTeam": "Atert Bissen",
     "awayTeam": "KI Klaksvik",
-    "prediction": "Atert Bissen Win & Over 1.5",
-    "odds": "2.49"
+    "prediction": "Atert Bissen Win",
+    "odds": "1.88"
   },
   {
     "id": 1554377,
@@ -23,8 +23,8 @@
     "matchTime": "22:00",
     "homeTeam": "Egnatia Rrogozhinë",
     "awayTeam": "Petrocub",
-    "prediction": "Double Chance X2",
-    "odds": "1.38"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1554386,
@@ -32,17 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Sutjeska",
     "awayTeam": "Kairat Almaty",
-    "prediction": "Sutjeska Win",
-    "odds": "1.69"
-  },
-  {
-    "id": 1586131,
-    "league": "Friendlies (World)",
-    "matchTime": "19:15",
-    "homeTeam": "Bahrain U20",
-    "awayTeam": "Palestine U20",
-    "prediction": "Bahrain U20 Win",
-    "odds": "1.82"
+    "prediction": "Kairat Almaty Win",
+    "odds": "2.77"
   },
   {
     "id": 1546676,
@@ -50,7 +41,16 @@
     "matchTime": "19:30",
     "homeTeam": "Chemnitzer FC",
     "awayTeam": "SpVgg Unterhaching",
+    "prediction": "Chemnitzer FC Win & Over 1.5",
+    "odds": "2.73"
+  },
+  {
+    "id": 1554967,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "Lyon",
+    "awayTeam": "Servette FC",
     "prediction": "Both Teams To Score",
-    "odds": "1.82"
+    "odds": "2.11"
   }
 ]
