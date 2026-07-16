@@ -6,7 +6,7 @@
     "homeTeam": "Vestri",
     "awayTeam": "Qarabag",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.39"
   },
   {
     "id": 1492291,
@@ -15,7 +15,7 @@
     "homeTeam": "Botafogo",
     "awayTeam": "Santos",
     "prediction": "Botafogo Win",
-    "odds": "1.84"
+    "odds": "1.52"
   },
   {
     "id": 1492299,
@@ -23,17 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Vitoria",
     "awayTeam": "Vasco DA Gama",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
-  },
-  {
-    "id": 1514231,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Afturelding",
-    "awayTeam": "Leiknir R.",
-    "prediction": "Afturelding Win & Over 1.5",
-    "odds": "2.05"
+    "prediction": "Vitoria Win",
+    "odds": "1.62"
   },
   {
     "id": 1586135,
@@ -41,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Fort Lauderdale United",
     "awayTeam": "Southern Soccer Academy",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Fort Lauderdale United Win & Over 1.5",
+    "odds": "2.05"
   },
   {
     "id": 1589338,
@@ -50,7 +41,16 @@
     "matchTime": "23:00",
     "homeTeam": "Minneapolis City",
     "awayTeam": "West Virginia Alliance",
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
+  },
+  {
+    "id": 1519400,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "00:30",
+    "homeTeam": "Aucas",
+    "awayTeam": "Independiente del Valle",
     "prediction": "Double Chance 1X",
-    "odds": "1.24"
+    "odds": "1.33"
   }
 ]
