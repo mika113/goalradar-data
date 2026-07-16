@@ -1,14 +1,50 @@
 [
   {
+    "id": 1554450,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Universitatea Cluj",
+    "awayTeam": "Dynamo Kyiv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554448,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Derry City",
+    "awayTeam": "CSKA Sofia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554422,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Hamrun Spartans",
+    "awayTeam": "NSI Runavik",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1589959,
     "league": "Super Cup (Poland)",
     "matchDate": "FT",
     "homeTeam": "Lech Poznan",
     "awayTeam": "Gornik Zabrze",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Gornik Zabrze Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -81,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1494706,
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1557929,
-    "league": "Super Cup (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Hapoel Beer Sheva",
-    "awayTeam": "Maccabi Tel Aviv",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554432,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rīgas FS",
-    "awayTeam": "Glentoran",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rīgas FS Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554426,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Levadia Tallinn",
-    "awayTeam": "Caernarfon Town",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FC Levadia Tallinn Win",
     "outcome": "Won"
   }
 ]
