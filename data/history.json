@@ -30,7 +30,7 @@
     "homeTeam": "Vestri",
     "awayTeam": "Qarabag",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Qarabag Win",
     "outcome": "Won"
@@ -44,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Afturelding Win",
-    "outcome": "Won"
+    "prediction": "Leiknir R. Win",
+    "outcome": "Lost"
   },
   {
     "id": 1576752,
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Corinthians U20",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Palmeiras U20 Win",
-    "outcome": "Won"
+    "prediction": "Corinthians U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554438,
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "ABB",
     "awayTeam": "Independiente Petrolero",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "ABB Win",
+    "outcome": "Won"
   },
   {
     "id": 1526571,
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Al Ansar",
     "awayTeam": "Jwaaya FC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Al Ansar Win",
