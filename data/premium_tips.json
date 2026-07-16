@@ -1,21 +1,12 @@
 [
   {
-    "id": 1490327,
-    "league": "Major League Soccer (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "St. Louis City",
-    "awayTeam": "Sporting Kansas City",
-    "prediction": "St. Louis City Win",
-    "odds": "1.32"
-  },
-  {
     "id": 1586137,
     "league": "USL League Two (USA)",
     "matchTime": "03:30",
     "homeTeam": "Dothan United",
     "awayTeam": "The Villages",
     "prediction": "Dothan United Win",
-    "odds": "1.5"
+    "odds": "1.71"
   },
   {
     "id": 1589339,
@@ -23,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "Peoria",
     "awayTeam": "Sueno",
-    "prediction": "Peoria Win",
-    "odds": "1.76"
+    "prediction": "Sueno Win",
+    "odds": "2.95"
   },
   {
     "id": 1540103,
@@ -32,8 +23,8 @@
     "matchTime": "03:45",
     "homeTeam": "Sarmiento Junin",
     "awayTeam": "Boca Juniors",
-    "prediction": "Boca Juniors Win",
-    "odds": "3.08"
+    "prediction": "Double Chance X2",
+    "odds": "1.34"
   },
   {
     "id": 1550894,
@@ -42,7 +33,7 @@
     "homeTeam": "Necaxa",
     "awayTeam": "Atlante FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "odds": "1.6"
   },
   {
     "id": 1586138,
@@ -50,8 +41,8 @@
     "matchTime": "04:15",
     "homeTeam": "Laredo Heat",
     "awayTeam": "Texoma",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1490328,
@@ -59,8 +50,8 @@
     "matchTime": "05:30",
     "homeTeam": "Seattle Sounders",
     "awayTeam": "Portland Timbers",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
+    "prediction": "Portland Timbers Win",
+    "odds": "1.72"
   },
   {
     "id": 1550895,
@@ -68,8 +59,8 @@
     "matchTime": "06:10",
     "homeTeam": "Club Tijuana",
     "awayTeam": "Tigres UANL",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Club Tijuana Win",
+    "odds": "1.74"
   },
   {
     "id": 1549332,
@@ -77,8 +68,8 @@
     "matchTime": "10:30",
     "homeTeam": "Sydney FC U20",
     "awayTeam": "Manly Utd U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   },
   {
     "id": 1519099,
@@ -87,7 +78,7 @@
     "homeTeam": "Ural U20",
     "awayTeam": "Dinamo Moskva U19",
     "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "odds": "1.7"
   },
   {
     "id": 1583333,
@@ -95,8 +86,8 @@
     "matchTime": "11:00",
     "homeTeam": "Leganes",
     "awayTeam": "Albacete",
-    "prediction": "Leganes Win",
-    "odds": "1.68"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1584863,
@@ -104,7 +95,16 @@
     "matchTime": "11:00",
     "homeTeam": "Aragvi Dusheti",
     "awayTeam": "FC Urartu",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1591871,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:00",
+    "homeTeam": "FC Ryukyu",
+    "awayTeam": "Urawa",
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
   }
 ]
