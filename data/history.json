@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "Maccabi Tel Aviv",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hapoel Beer Sheva Win",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
   },
   {
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "FC Levadia Tallinn",
     "awayTeam": "Caernarfon Town",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FC Levadia Tallinn Win",
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Pafos Win",
-    "outcome": "Lost"
+    "prediction": "Slovan Bratislava Win",
+    "outcome": "Won"
   },
   {
     "id": 1554094,
@@ -90,9 +90,9 @@
     "homeTeam": "Niroye Zamini",
     "awayTeam": "Sanat Naft",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sanat Naft Win",
     "outcome": "Won"
   },
   {
@@ -105,18 +105,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554090,
-    "league": "Azadegan League (Iran)",
-    "matchDate": "FT",
-    "homeTeam": "Mes Kerman",
-    "awayTeam": "Navad Urmia",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Mes Kerman Win",
     "outcome": "Won"
   },
   {
@@ -142,5 +130,17 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1554087,
+    "league": "Azadegan League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Be'sat Kermanshah",
+    "awayTeam": "Pars Jonoubi JAM",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Pars Jonoubi JAM Win",
+    "outcome": "Lost"
   }
 ]
