@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1550569,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1539834,
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1534797,
@@ -42,9 +42,9 @@
     "homeTeam": "Khan Tengri",
     "awayTeam": "Yelimay Semey 2",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Yelimay Semey 2 Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Tanzania Prisons",
     "awayTeam": "Polisi Tanzania",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tanzania Prisons Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Taraz",
     "awayTeam": "Aktobe Jas",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Aktobe Jas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -92,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Puskas Academy Win",
-    "outcome": "Lost"
+    "prediction": "Başakşehir Win",
+    "outcome": "Won"
   },
   {
     "id": 1560620,
