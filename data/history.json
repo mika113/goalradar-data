@@ -1,14 +1,26 @@
 [
   {
+    "id": 1576752,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Palmeiras U20",
+    "awayTeam": "Corinthians U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554427,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
     "homeTeam": "Linfield",
     "awayTeam": "Kalju Nomme",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Linfield Win",
     "outcome": "Won"
   },
   {
@@ -66,7 +78,7 @@
     "homeTeam": "Glenavon FC",
     "awayTeam": "Doncaster",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Doncaster Win",
     "outcome": "Won"
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1576828,
@@ -128,19 +140,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Newell's Old Boys Res. Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576826,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Godoy Cruz Res.",
-    "awayTeam": "Argentinos Juniors Res.",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Godoy Cruz Res. Win",
-    "outcome": "Won"
+    "prediction": "Huracán Res. Win",
+    "outcome": "Lost"
   }
 ]
