@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1534793,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Arys",
+    "awayTeam": "Turan Turkistan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1562926,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -92,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1589269,
@@ -116,8 +128,8 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Real Salt Lake Win",
-    "outcome": "Won"
+    "prediction": "Burnley Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548853,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Houston Dynamo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519401,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Barcelona SC",
-    "awayTeam": "Guayaquil City FC",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
