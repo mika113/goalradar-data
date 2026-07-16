@@ -1,5 +1,17 @@
 [
   {
+    "id": 1589164,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Gonçalo EC RJ",
+    "awayTeam": "Volta Redonda",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554450,
     "league": "UEFA Europa League (World)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589959,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554420,
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1554416,
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Valerenga",
     "awayTeam": "Aalesund",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567637,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Apollon Limassol",
-    "awayTeam": "AEK Larnaca",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Valerenga Win",
     "outcome": "Won"
   }
 ]
