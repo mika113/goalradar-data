@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1554438,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Virtus",
+    "awayTeam": "Dila",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554427,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1576827,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Huracán Res.",
-    "awayTeam": "Newell's Old Boys Res.",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Huracán Res. Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
