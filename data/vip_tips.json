@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548855,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Glenavon FC",
-    "awayTeam": "Doncaster",
-    "prediction": "Doncaster Win",
-    "odds": "2.0"
-  },
-  {
     "id": 1562918,
     "league": "Friendlies Clubs (World)",
     "matchTime": "21:30",
     "homeTeam": "Bangor",
     "awayTeam": "Ards",
-    "prediction": "Bangor Win",
-    "odds": "1.99"
+    "prediction": "Ards Win",
+    "odds": "2.06"
   },
   {
     "id": 1554415,
@@ -23,8 +14,8 @@
     "matchTime": "21:45",
     "homeTeam": "Mornar",
     "awayTeam": "Atlètic Club d'Escaldes",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
+    "prediction": "Atlètic Club d'Escaldes Win",
+    "odds": "2.51"
   },
   {
     "id": 1554427,
@@ -32,8 +23,8 @@
     "matchTime": "21:45",
     "homeTeam": "Linfield",
     "awayTeam": "Kalju Nomme",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Kalju Nomme Win",
+    "odds": "2.06"
   },
   {
     "id": 1526571,
@@ -41,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Atletico FC",
     "awayTeam": "San Antonio",
-    "prediction": "San Antonio Win",
-    "odds": "2.19"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1538385,
@@ -50,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "ABB",
     "awayTeam": "Independiente Petrolero",
-    "prediction": "Independiente Petrolero Win",
-    "odds": "3.11"
+    "prediction": "Double Chance X2",
+    "odds": "1.21"
   },
   {
     "id": 1554438,
@@ -60,7 +51,7 @@
     "homeTeam": "Virtus",
     "awayTeam": "Dila",
     "prediction": "Virtus Win",
-    "odds": "1.97"
+    "odds": "1.69"
   },
   {
     "id": 1576752,
@@ -68,7 +59,16 @@
     "matchTime": "22:00",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Corinthians U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
+    "prediction": "Palmeiras U20 Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1514231,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Afturelding",
+    "awayTeam": "Leiknir R.",
+    "prediction": "Afturelding Win",
+    "odds": "1.56"
   }
 ]
