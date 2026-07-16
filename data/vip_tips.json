@@ -1,48 +1,12 @@
 [
   {
-    "id": 1554451,
-    "league": "UEFA Europa League (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Vestri",
-    "awayTeam": "Qarabag",
-    "prediction": "Vestri Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1492291,
-    "league": "Serie A (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Botafogo",
-    "awayTeam": "Santos",
-    "prediction": "Botafogo Win",
-    "odds": "1.46"
-  },
-  {
     "id": 1492299,
     "league": "Serie A (Brazil)",
     "matchTime": "01:30",
     "homeTeam": "Vitoria",
     "awayTeam": "Vasco DA Gama",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
-  },
-  {
-    "id": 1554422,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:30",
-    "homeTeam": "Hamrun Spartans",
-    "awayTeam": "NSI Runavik",
-    "prediction": "NSI Runavik Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1566998,
-    "league": "Oberliga - Bayern Süd (Germany)",
-    "matchTime": "20:30",
-    "homeTeam": "Erlbach",
-    "awayTeam": "Hankofen-Hailing",
-    "prediction": "Erlbach Win",
-    "odds": "1.41"
+    "prediction": "Vasco DA Gama Win",
+    "odds": "2.95"
   },
   {
     "id": 1589164,
@@ -50,8 +14,8 @@
     "matchTime": "20:45",
     "homeTeam": "São Gonçalo EC RJ",
     "awayTeam": "Volta Redonda",
-    "prediction": "São Gonçalo EC RJ Win",
-    "odds": "1.39"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.22"
   },
   {
     "id": 1547332,
@@ -59,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Juventus U20",
     "awayTeam": "Sertãozinho U20",
-    "prediction": "Juventus U20 Win",
-    "odds": "1.85"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
   },
   {
     "id": 1554419,
@@ -68,7 +32,43 @@
     "matchTime": "21:00",
     "homeTeam": "Ballkani",
     "awayTeam": "GAP Connah S Quay FC",
-    "prediction": "Ballkani Win",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.19"
+  },
+  {
+    "id": 1554433,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "21:00",
+    "homeTeam": "Shkendija",
+    "awayTeam": "Europa",
+    "prediction": "Europa Win",
+    "odds": "2.04"
+  },
+  {
+    "id": 1554434,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "21:00",
+    "homeTeam": "Sileks",
+    "awayTeam": "Dinamo Minsk",
+    "prediction": "Sileks Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1576825,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Atl. Rafaela 2",
+    "awayTeam": "Independiente Riva. Res.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.89"
+  },
+  {
+    "id": 1576826,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Godoy Cruz Res.",
+    "awayTeam": "Argentinos Juniors Res.",
+    "prediction": "Godoy Cruz Res. Win",
+    "odds": "1.38"
   }
 ]
