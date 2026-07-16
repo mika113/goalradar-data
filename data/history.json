@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Atletico FC",
     "awayTeam": "San Antonio",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Atletico FC Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1554427,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Linfield",
     "awayTeam": "Kalju Nomme",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Linfield Win",
+    "outcome": "Won"
   },
   {
     "id": 1554415,
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Bangor",
     "awayTeam": "Ards",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Bangor Win",
@@ -126,10 +126,10 @@
     "homeTeam": "Glenavon FC",
     "awayTeam": "Doncaster",
     "homeScore": 0,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
-    "prediction": "Doncaster Win",
-    "outcome": "Won"
+    "prediction": "Glenavon FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554449,
