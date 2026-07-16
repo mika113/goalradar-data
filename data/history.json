@@ -1,5 +1,17 @@
 [
   {
+    "id": 1560622,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Paks",
+    "awayTeam": "NK Slaven Belupo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1592779,
     "league": "Liga MX U21 (Mexico)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554439,
@@ -53,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "FC Astana",
     "awayTeam": "Dinamo Tirana",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Dinamo Tirana Win",
+    "outcome": "Lost"
   },
   {
     "id": 1516064,
@@ -92,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1585107,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Avaí U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534797,
-    "league": "1. Division (Kazakhstan)",
-    "matchDate": "FT",
-    "homeTeam": "Khan Tengri",
-    "awayTeam": "Yelimay Semey 2",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Yelimay Semey 2 Win",
     "outcome": "Won"
   }
 ]
