@@ -1,30 +1,12 @@
 [
   {
-    "id": 1538385,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "22:00",
-    "homeTeam": "ABB",
-    "awayTeam": "Independiente Petrolero",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
-  },
-  {
-    "id": 1554438,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Virtus",
-    "awayTeam": "Dila",
-    "prediction": "Virtus Win",
-    "odds": "1.4"
-  },
-  {
     "id": 1576752,
     "league": "Brasileiro U20 A (Brazil)",
     "matchTime": "22:00",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Corinthians U20",
     "prediction": "Palmeiras U20 Win",
-    "odds": "1.31"
+    "odds": "1.59"
   },
   {
     "id": 1514231,
@@ -32,8 +14,8 @@
     "matchTime": "22:15",
     "homeTeam": "Afturelding",
     "awayTeam": "Leiknir R.",
-    "prediction": "Afturelding Win",
-    "odds": "1.64"
+    "prediction": "Afturelding Win & Over 1.5",
+    "odds": "2.82"
   },
   {
     "id": 1586135,
@@ -41,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Fort Lauderdale United",
     "awayTeam": "Southern Soccer Academy",
-    "prediction": "Fort Lauderdale United Win",
-    "odds": "1.91"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1589338,
@@ -50,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Minneapolis City",
     "awayTeam": "West Virginia Alliance",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
   },
   {
     "id": 1519400,
@@ -59,8 +41,8 @@
     "matchTime": "00:30",
     "homeTeam": "Aucas",
     "awayTeam": "Independiente del Valle",
-    "prediction": "Both Teams To Score",
-    "odds": "1.94"
+    "prediction": "Aucas Win",
+    "odds": "1.81"
   },
   {
     "id": 1540059,
@@ -69,6 +51,24 @@
     "homeTeam": "Racing Club",
     "awayTeam": "Defensa Y Justicia",
     "prediction": "Racing Club Win",
-    "odds": "1.85"
+    "odds": "1.86"
+  },
+  {
+    "id": 1586136,
+    "league": "USL League Two (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Little Rock Rangers",
+    "awayTeam": "GFI",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
+  },
+  {
+    "id": 1592780,
+    "league": "Liga MX U21 (Mexico)",
+    "matchTime": "01:45",
+    "homeTeam": "Club Tijuana U21",
+    "awayTeam": "Tigres UANL U21",
+    "prediction": "Tigres UANL U21 Win",
+    "odds": "2.85"
   }
 ]
