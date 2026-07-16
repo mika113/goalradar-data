@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Corinthians U20",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Palmeiras U20 Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "San Antonio Win",
-    "outcome": "Won"
+    "prediction": "Atletico FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554427,
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1554415,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Žilina",
     "awayTeam": "HNK Hajduk Split",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "HNK Hajduk Split Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -137,7 +137,7 @@
     "matchDate": "FT",
     "homeTeam": "Ferencvarosi TC",
     "awayTeam": "Vojvodina",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ferencvarosi TC Win",
