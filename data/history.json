@@ -5,7 +5,7 @@
     "matchDate": "FT",
     "homeTeam": "Fulham United",
     "awayTeam": "Cumberland United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Cumberland United Win",
@@ -21,6 +21,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589269,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kawasaki Frontale",
+    "awayTeam": "Vanraure Hachinohe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Sporting JAX Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513221,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "New England II",
-    "awayTeam": "Columbus Crew II",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
