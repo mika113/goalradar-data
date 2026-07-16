@@ -1,84 +1,12 @@
 [
   {
-    "id": 1554435,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Vikingur Gota",
-    "awayTeam": "Stjarnan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
-    "id": 1554440,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "FK Zalgiris Vilnius",
-    "awayTeam": "Petrovac",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
-  },
-  {
-    "id": 1589959,
-    "league": "Super Cup (Poland)",
-    "matchTime": "20:00",
-    "homeTeam": "Lech Poznan",
-    "awayTeam": "Gornik Zabrze",
-    "prediction": "Lech Poznan Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1554422,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:30",
-    "homeTeam": "Hamrun Spartans",
-    "awayTeam": "NSI Runavik",
-    "prediction": "NSI Runavik Win",
-    "odds": "2.18"
-  },
-  {
-    "id": 1566998,
-    "league": "Oberliga - Bayern Süd (Germany)",
-    "matchTime": "20:30",
-    "homeTeam": "Erlbach",
-    "awayTeam": "Hankofen-Hailing",
-    "prediction": "Erlbach Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1589164,
-    "league": "Copa Rio (Brazil)",
-    "matchTime": "20:45",
-    "homeTeam": "São Gonçalo EC RJ",
-    "awayTeam": "Volta Redonda",
-    "prediction": "Volta Redonda Win",
-    "odds": "2.53"
-  },
-  {
-    "id": 1547332,
-    "league": "Paulista - U20 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Juventus U20",
-    "awayTeam": "Sertãozinho U20",
-    "prediction": "Sertãozinho U20 Win",
-    "odds": "2.94"
-  },
-  {
-    "id": 1554419,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "21:00",
-    "homeTeam": "Ballkani",
-    "awayTeam": "GAP Connah S Quay FC",
-    "prediction": "Ballkani Win",
-    "odds": "1.79"
-  },
-  {
     "id": 1554433,
     "league": "UEFA Europa Conference League (World)",
     "matchTime": "21:00",
     "homeTeam": "Shkendija",
     "awayTeam": "Europa",
-    "prediction": "Shkendija Win & Over 1.5",
-    "odds": "1.87"
+    "prediction": "Europa Win",
+    "odds": "2.79"
   },
   {
     "id": 1554434,
@@ -86,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Sileks",
     "awayTeam": "Dinamo Minsk",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.07"
+    "prediction": "Sileks Win",
+    "odds": "1.61"
   },
   {
     "id": 1576825,
@@ -95,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Atl. Rafaela 2",
     "awayTeam": "Independiente Riva. Res.",
-    "prediction": "Independiente Riva. Res. Win",
-    "odds": "2.21"
+    "prediction": "Atl. Rafaela 2 Win",
+    "odds": "1.58"
   },
   {
     "id": 1576826,
@@ -104,7 +32,79 @@
     "matchTime": "21:00",
     "homeTeam": "Godoy Cruz Res.",
     "awayTeam": "Argentinos Juniors Res.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.64"
+  },
+  {
+    "id": 1576827,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Huracán Res.",
+    "awayTeam": "Newell's Old Boys Res.",
     "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "odds": "2.09"
+  },
+  {
+    "id": 1576828,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Independiente Res.",
+    "awayTeam": "Deportivo Riestra Res.",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.59"
+  },
+  {
+    "id": 1576829,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Platense Res.",
+    "awayTeam": "San Martín San Juan Res.",
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
+  },
+  {
+    "id": 1576830,
+    "league": "Reserve League (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Tigre Res.",
+    "awayTeam": "Instituto Res.",
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
+  },
+  {
+    "id": 1548855,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Glenavon FC",
+    "awayTeam": "Doncaster",
+    "prediction": "Glenavon FC Win & Over 1.5",
+    "odds": "2.77"
+  },
+  {
+    "id": 1562918,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Bangor",
+    "awayTeam": "Ards",
+    "prediction": "Bangor Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1554415,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "21:45",
+    "homeTeam": "Mornar",
+    "awayTeam": "Atlètic Club d'Escaldes",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1554427,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "21:45",
+    "homeTeam": "Linfield",
+    "awayTeam": "Kalju Nomme",
+    "prediction": "Kalju Nomme Win",
+    "odds": "1.81"
   }
 ]
