@@ -1,5 +1,29 @@
 [
   {
+    "id": 1554449,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ferencvarosi TC",
+    "awayTeam": "Vojvodina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1576830,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Tigre Res.",
+    "awayTeam": "Instituto Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1576829,
     "league": "Reserve League (Argentina)",
     "matchDate": "FT",
@@ -21,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1576827,
@@ -33,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1576826,
@@ -66,9 +90,9 @@
     "homeTeam": "Aluminij",
     "awayTeam": "Sheriff Tiraspol",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sheriff Tiraspol Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +102,9 @@
     "homeTeam": "Sileks",
     "awayTeam": "Dinamo Minsk",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dinamo Minsk Win",
     "outcome": "Won"
   },
   {
@@ -101,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Ballkani",
     "awayTeam": "GAP Connah S Quay FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ballkani Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Juventus U20",
     "awayTeam": "Sertãozinho U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589164,
-    "league": "Copa Rio (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "São Gonçalo EC RJ",
-    "awayTeam": "Volta Redonda",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "São Gonçalo EC RJ Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554450,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Universitatea Cluj",
-    "awayTeam": "Dynamo Kyiv",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Juventus U20 Win",
     "outcome": "Won"
   }
 ]
