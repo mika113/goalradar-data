@@ -1,30 +1,12 @@
 [
   {
-    "id": 1554423,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Ilves",
-    "awayTeam": "FC Differdange 03",
-    "prediction": "Ilves Win & Over 1.5",
-    "odds": "2.77"
-  },
-  {
-    "id": 1554430,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Paide",
-    "awayTeam": "Hegelmann Litauen",
-    "prediction": "Hegelmann Litauen Win",
-    "odds": "2.11"
-  },
-  {
     "id": 1554431,
     "league": "UEFA Europa Conference League (World)",
     "matchTime": "19:00",
     "homeTeam": "Pyunik Yerevan",
     "awayTeam": "Marsaxlokk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Pyunik Yerevan Win",
+    "odds": "1.67"
   },
   {
     "id": 1554436,
@@ -32,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "St Joseph S Fc",
     "awayTeam": "Bohemians",
-    "prediction": "Bohemians Win",
-    "odds": "2.79"
+    "prediction": "St Joseph S Fc Win",
+    "odds": "1.68"
   },
   {
     "id": 1554437,
@@ -41,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Torpedo Kutaisi",
     "awayTeam": "Zira",
-    "prediction": "Torpedo Kutaisi Win",
-    "odds": "1.41"
+    "prediction": "Zira Win",
+    "odds": "3.36"
   },
   {
     "id": 1562925,
@@ -50,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "LNZ Cherkasy",
     "awayTeam": "Göztepe",
-    "prediction": "LNZ Cherkasy Win & Over 1.5",
-    "odds": "1.98"
+    "prediction": "LNZ Cherkasy Win",
+    "odds": "1.88"
   },
   {
     "id": 1567639,
@@ -59,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Jagiellonia",
     "awayTeam": "Sparta Praha",
-    "prediction": "Sparta Praha Win",
-    "odds": "2.81"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1554087,
@@ -68,8 +50,8 @@
     "matchTime": "19:15",
     "homeTeam": "Be'sat Kermanshah",
     "awayTeam": "Pars Jonoubi JAM",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Pars Jonoubi JAM Win",
+    "odds": "2.45"
   },
   {
     "id": 1554088,
@@ -77,8 +59,8 @@
     "matchTime": "19:15",
     "homeTeam": "Damash Gilanian",
     "awayTeam": "Fard Alborz",
-    "prediction": "Fard Alborz Win",
-    "odds": "3.28"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1554089,
@@ -86,8 +68,8 @@
     "matchTime": "19:15",
     "homeTeam": "Mes Soongoun",
     "awayTeam": "Shahrdari Noshahr",
-    "prediction": "Mes Soongoun Win",
-    "odds": "1.5"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   },
   {
     "id": 1554090,
@@ -95,8 +77,8 @@
     "matchTime": "19:15",
     "homeTeam": "Mes Kerman",
     "awayTeam": "Navad Urmia",
-    "prediction": "Navad Urmia Win",
-    "odds": "1.9"
+    "prediction": "Mes Kerman Win",
+    "odds": "1.53"
   },
   {
     "id": 1554091,
@@ -104,7 +86,25 @@
     "matchTime": "19:15",
     "homeTeam": "Naft Gachsaran",
     "awayTeam": "Mes Shahr-e Babak",
-    "prediction": "Naft Gachsaran Win & Over 1.5",
-    "odds": "2.12"
+    "prediction": "Mes Shahr-e Babak Win",
+    "odds": "2.46"
+  },
+  {
+    "id": 1554093,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "19:15",
+    "homeTeam": "Niroye Zamini",
+    "awayTeam": "Sanat Naft",
+    "prediction": "Sanat Naft Win",
+    "odds": "2.18"
+  },
+  {
+    "id": 1554094,
+    "league": "Azadegan League (Iran)",
+    "matchTime": "19:15",
+    "homeTeam": "Saipa",
+    "awayTeam": "Naft Bandar Abbas",
+    "prediction": "Naft Bandar Abbas Win",
+    "odds": "1.78"
   }
 ]
