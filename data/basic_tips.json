@@ -1,21 +1,12 @@
 [
   {
-    "id": 1592147,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "17:00",
-    "homeTeam": "Tadamon Sour",
-    "awayTeam": "Reyady Abaseya",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
-  },
-  {
     "id": 1585107,
     "league": "Premier League (Lebanon)",
     "matchTime": "17:30",
     "homeTeam": "Al Ahed",
     "awayTeam": "Al Nejmeh",
     "prediction": "Al Ahed Win",
-    "odds": "1.78"
+    "odds": "1.38"
   },
   {
     "id": 1554448,
@@ -23,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "Derry City",
     "awayTeam": "CSKA Sofia",
-    "prediction": "Double Chance X2",
-    "odds": "1.37"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1554450,
@@ -32,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Universitatea Cluj",
     "awayTeam": "Dynamo Kyiv",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "Dynamo Kyiv Win",
+    "odds": "2.13"
   },
   {
     "id": 1554447,
@@ -41,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Aluminij",
     "awayTeam": "Sheriff Tiraspol",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.87"
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
   },
   {
     "id": 1554449,
@@ -50,7 +41,16 @@
     "matchTime": "21:15",
     "homeTeam": "Ferencvarosi TC",
     "awayTeam": "Vojvodina",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
+  },
+  {
+    "id": 1554452,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Žilina",
+    "awayTeam": "HNK Hajduk Split",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   }
 ]
