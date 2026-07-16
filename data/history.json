@@ -1,5 +1,17 @@
 [
   {
+    "id": 1534794,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Ekibastuz",
+    "awayTeam": "Shakhter Karagandy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1554975,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1527336,
@@ -68,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "America de Cali Win",
-    "outcome": "Lost"
+    "prediction": "Houston Dynamo Win",
+    "outcome": "Won"
   },
   {
     "id": 1519401,
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "NJ/NY Gotham FC W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493897,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Forward Madison",
-    "awayTeam": "Richmond Kickers",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Forward Madison Win",
-    "outcome": "Won"
+    "prediction": "Washington Spirit W Win",
+    "outcome": "Lost"
   }
 ]
