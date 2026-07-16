@@ -1,5 +1,17 @@
 [
   {
+    "id": 1585104,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Tanzania Prisons",
+    "awayTeam": "Polisi Tanzania",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1562926,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -20,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1543600,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1589269,
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1576753,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "RB Bragantino U20",
-    "awayTeam": "Athletico PR U20",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "RB Bragantino U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
