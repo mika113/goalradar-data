@@ -1,21 +1,12 @@
 [
   {
-    "id": 1576827,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Huracán Res.",
-    "awayTeam": "Newell's Old Boys Res.",
-    "prediction": "Newell's Old Boys Res. Win",
-    "odds": "1.83"
-  },
-  {
     "id": 1576828,
     "league": "Reserve League (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Independiente Res.",
     "awayTeam": "Deportivo Riestra Res.",
-    "prediction": "Independiente Res. Win",
-    "odds": "1.46"
+    "prediction": "Deportivo Riestra Res. Win",
+    "odds": "2.55"
   },
   {
     "id": 1576829,
@@ -24,7 +15,7 @@
     "homeTeam": "Platense Res.",
     "awayTeam": "San Martín San Juan Res.",
     "prediction": "Platense Res. Win",
-    "odds": "1.39"
+    "odds": "1.88"
   },
   {
     "id": 1576830,
@@ -32,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Tigre Res.",
     "awayTeam": "Instituto Res.",
-    "prediction": "Tigre Res. Win & Over 1.5",
-    "odds": "2.01"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.63"
   },
   {
     "id": 1548855,
@@ -42,7 +33,7 @@
     "homeTeam": "Glenavon FC",
     "awayTeam": "Doncaster",
     "prediction": "Glenavon FC Win",
-    "odds": "1.64"
+    "odds": "1.89"
   },
   {
     "id": 1562918,
@@ -50,8 +41,8 @@
     "matchTime": "21:30",
     "homeTeam": "Bangor",
     "awayTeam": "Ards",
-    "prediction": "Both Teams To Score",
-    "odds": "2.0"
+    "prediction": "Ards Win",
+    "odds": "2.37"
   },
   {
     "id": 1554415,
@@ -59,8 +50,8 @@
     "matchTime": "21:45",
     "homeTeam": "Mornar",
     "awayTeam": "Atlètic Club d'Escaldes",
-    "prediction": "Mornar Win & Over 1.5",
-    "odds": "2.77"
+    "prediction": "Mornar Win",
+    "odds": "1.54"
   },
   {
     "id": 1554427,
@@ -68,8 +59,8 @@
     "matchTime": "21:45",
     "homeTeam": "Linfield",
     "awayTeam": "Kalju Nomme",
-    "prediction": "Linfield Win",
-    "odds": "1.73"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
   },
   {
     "id": 1526571,
@@ -77,8 +68,8 @@
     "matchTime": "22:00",
     "homeTeam": "Atletico FC",
     "awayTeam": "San Antonio",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
   },
   {
     "id": 1538385,
@@ -86,8 +77,8 @@
     "matchTime": "22:00",
     "homeTeam": "ABB",
     "awayTeam": "Independiente Petrolero",
-    "prediction": "ABB Win",
-    "odds": "1.5"
+    "prediction": "Double Chance X2",
+    "odds": "1.54"
   },
   {
     "id": 1554438,
@@ -95,8 +86,8 @@
     "matchTime": "22:00",
     "homeTeam": "Virtus",
     "awayTeam": "Dila",
-    "prediction": "Virtus Win & Over 1.5",
-    "odds": "2.05"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1576752,
@@ -104,7 +95,16 @@
     "matchTime": "22:00",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Corinthians U20",
-    "prediction": "Palmeiras U20 Win",
-    "odds": "1.66"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
+  },
+  {
+    "id": 1514231,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Afturelding",
+    "awayTeam": "Leiknir R.",
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   }
 ]
