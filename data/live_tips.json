@@ -1,30 +1,12 @@
 [
   {
-    "id": 1554093,
-    "league": "Azadegan League (Iran)",
-    "matchTime": "19:15",
-    "homeTeam": "Niroye Zamini",
-    "awayTeam": "Sanat Naft",
-    "prediction": "Sanat Naft Win",
-    "odds": "2.19"
-  },
-  {
-    "id": 1554094,
-    "league": "Azadegan League (Iran)",
-    "matchTime": "19:15",
-    "homeTeam": "Saipa",
-    "awayTeam": "Naft Bandar Abbas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.27"
-  },
-  {
     "id": 1554095,
     "league": "Azadegan League (Iran)",
     "matchTime": "19:15",
     "homeTeam": "Shenavarsazi Qeshm",
     "awayTeam": "Havadar",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "prediction": "Double Chance X2",
+    "odds": "1.28"
   },
   {
     "id": 1560621,
@@ -32,8 +14,8 @@
     "matchTime": "19:15",
     "homeTeam": "Slovan Bratislava",
     "awayTeam": "Pafos",
-    "prediction": "Slovan Bratislava Win",
-    "odds": "1.79"
+    "prediction": "Pafos Win",
+    "odds": "1.89"
   },
   {
     "id": 1547973,
@@ -41,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "SC Wiener Neustadt",
     "awayTeam": "QPR",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1554426,
@@ -50,8 +32,8 @@
     "matchTime": "19:30",
     "homeTeam": "FC Levadia Tallinn",
     "awayTeam": "Caernarfon Town",
-    "prediction": "FC Levadia Tallinn Win",
-    "odds": "1.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1554432,
@@ -59,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Rīgas FS",
     "awayTeam": "Glentoran",
-    "prediction": "Glentoran Win",
-    "odds": "2.49"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1557929,
@@ -69,7 +51,7 @@
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "Maccabi Tel Aviv",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.77"
+    "odds": "2.16"
   },
   {
     "id": 1567637,
@@ -77,8 +59,8 @@
     "matchTime": "19:30",
     "homeTeam": "Apollon Limassol",
     "awayTeam": "AEK Larnaca",
-    "prediction": "AEK Larnaca Win",
-    "odds": "2.25"
+    "prediction": "Apollon Limassol Win & Over 1.5",
+    "odds": "2.16"
   },
   {
     "id": 1494706,
@@ -86,7 +68,25 @@
     "matchTime": "20:00",
     "homeTeam": "Valerenga",
     "awayTeam": "Aalesund",
-    "prediction": "Valerenga Win",
-    "odds": "1.39"
+    "prediction": "Aalesund Win",
+    "odds": "3.09"
+  },
+  {
+    "id": 1554416,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Bate Borisov",
+    "awayTeam": "AF Elbasani",
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
+  },
+  {
+    "id": 1554417,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Dinamo Tbilisi",
+    "awayTeam": "US Mondorf-les-bains",
+    "prediction": "Dinamo Tbilisi Win & Over 1.5",
+    "odds": "2.11"
   }
 ]
