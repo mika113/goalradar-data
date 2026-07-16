@@ -9,6 +9,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1534798,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Taraz",
+    "awayTeam": "Aktobe Jas",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Aktobe Jas Win",
     "outcome": "Won"
   },
   {
@@ -18,10 +30,10 @@
     "homeTeam": "Arys",
     "awayTeam": "Turan Turkistan",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Arys Win",
+    "outcome": "Lost"
   },
   {
     "id": 1562926,
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Thimphu",
     "awayTeam": "Paro",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
     "prediction": "Paro Win",
@@ -66,7 +78,7 @@
     "homeTeam": "Ekibastuz",
     "awayTeam": "Shakhter Karagandy",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Shakhter Karagandy Win",
     "outcome": "Won"
@@ -128,19 +140,7 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Burnley Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1548853,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Houston Dynamo",
-    "awayTeam": "America de Cali",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Houston Dynamo Win",
+    "prediction": "Real Salt Lake Win",
     "outcome": "Won"
   }
 ]
