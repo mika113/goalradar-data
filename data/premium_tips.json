@@ -1,48 +1,12 @@
 [
   {
-    "id": 1516058,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "18:00",
-    "homeTeam": "Bunyodkor",
-    "awayTeam": "Nasaf",
-    "prediction": "Bunyodkor Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1516061,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "18:00",
-    "homeTeam": "Neftchi",
-    "awayTeam": "Buxoro",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.94"
-  },
-  {
-    "id": 1516064,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "18:00",
-    "homeTeam": "Sogdiana",
-    "awayTeam": "Xorazm",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
-  },
-  {
-    "id": 1554418,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "18:00",
-    "homeTeam": "FC Astana",
-    "awayTeam": "Dinamo Tirana",
-    "prediction": "FC Astana Win",
-    "odds": "1.49"
-  },
-  {
     "id": 1554424,
     "league": "UEFA Europa Conference League (World)",
     "matchTime": "18:00",
     "homeTeam": "Inter Turku",
     "awayTeam": "FK Sarajevo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
+    "prediction": "Inter Turku Win",
+    "odds": "1.66"
   },
   {
     "id": 1554439,
@@ -50,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Yelimay Semey",
     "awayTeam": "Alashkert",
-    "prediction": "Yelimay Semey Win",
-    "odds": "1.6"
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
   },
   {
     "id": 1583329,
@@ -59,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "HNK Gorica",
     "awayTeam": "Epitsentr Dunayivtsi",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Epitsentr Dunayivtsi Win",
+    "odds": "2.9"
   },
   {
     "id": 1592779,
@@ -68,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Necaxa U21",
     "awayTeam": "Atlante U21",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1548854,
@@ -78,7 +42,7 @@
     "homeTeam": "Metalist 1925 Kharkiv",
     "awayTeam": "Hradec Králové",
     "prediction": "Metalist 1925 Kharkiv Win",
-    "odds": "1.57"
+    "odds": "1.71"
   },
   {
     "id": 1560622,
@@ -86,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "Paks",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
+    "prediction": "Paks Win",
+    "odds": "3.31"
   },
   {
     "id": 1519597,
@@ -95,7 +59,7 @@
     "matchTime": "19:00",
     "homeTeam": "Viimsi",
     "awayTeam": "Elva",
-    "prediction": "Double Chance 1X",
+    "prediction": "Viimsi Win",
     "odds": "1.51"
   },
   {
@@ -104,7 +68,43 @@
     "matchTime": "19:00",
     "homeTeam": "Cumbayá",
     "awayTeam": "9 de Octubre",
-    "prediction": "9 de Octubre Win",
-    "odds": "2.85"
+    "prediction": "Cumbayá Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1541640,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "HIFK Helsinki",
+    "awayTeam": "PPJ",
+    "prediction": "HIFK Helsinki Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1554423,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Ilves",
+    "awayTeam": "FC Differdange 03",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1554430,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Paide",
+    "awayTeam": "Hegelmann Litauen",
+    "prediction": "Paide Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1554431,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Pyunik Yerevan",
+    "awayTeam": "Marsaxlokk",
+    "prediction": "Marsaxlokk Win",
+    "odds": "2.37"
   }
 ]
