@@ -18,7 +18,7 @@
     "homeTeam": "Eldense",
     "awayTeam": "Millwall",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Millwall Win",
     "outcome": "Won"
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Olympiakos Piraeus",
     "awayTeam": "Fortuna Sittard",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Olympiakos Piraeus Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Dunajska Streda",
     "awayTeam": "Bolton",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dunajska Streda Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Appalachian Win",
-    "outcome": "Won"
+    "prediction": "Charlotte Independence 2 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1557971,
@@ -92,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nafta Win",
-    "outcome": "Lost"
+    "prediction": "Koper Win",
+    "outcome": "Won"
   },
   {
     "id": 1554992,
