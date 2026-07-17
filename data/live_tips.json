@@ -1,39 +1,12 @@
 [
   {
-    "id": 1589961,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "22:00",
-    "homeTeam": "Amal Tiznit",
-    "awayTeam": "Olympique Dcheïra",
-    "prediction": "Amal Tiznit Win",
-    "odds": "1.54"
-  },
-  {
-    "id": 1589962,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "22:00",
-    "homeTeam": "El Massira",
-    "awayTeam": "UTS Rabat",
-    "prediction": "El Massira Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1514234,
-    "league": "1. Deild (Iceland)",
-    "matchTime": "22:15",
-    "homeTeam": "Fylkir",
-    "awayTeam": "Njardvik",
-    "prediction": "Fylkir Win",
-    "odds": "1.76"
-  },
-  {
     "id": 1543427,
     "league": "2. Deild (Iceland)",
     "matchTime": "22:15",
     "homeTeam": "Haukar",
     "awayTeam": "Thróttur Vogar",
-    "prediction": "Thróttur Vogar Win",
-    "odds": "3.39"
+    "prediction": "Haukar Win",
+    "odds": "1.77"
   },
   {
     "id": 1543428,
@@ -41,8 +14,8 @@
     "matchTime": "22:15",
     "homeTeam": "KFG",
     "awayTeam": "Kári",
-    "prediction": "Kári Win",
-    "odds": "1.99"
+    "prediction": "KFG Win",
+    "odds": "1.69"
   },
   {
     "id": 1543429,
@@ -50,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Hvíti riddarinn",
     "awayTeam": "Vikingur Olafsiik",
-    "prediction": "Hvíti riddarinn Win",
-    "odds": "1.93"
+    "prediction": "Both Teams To Score",
+    "odds": "1.82"
   },
   {
     "id": 1589340,
@@ -59,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Steel City",
     "awayTeam": "Northern Indiana",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Steel City Win",
+    "odds": "1.54"
   },
   {
     "id": 1589404,
@@ -68,8 +41,8 @@
     "matchTime": "23:00",
     "homeTeam": "Ocean City Nor'easters",
     "awayTeam": "FC Motown II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
+    "prediction": "Ocean City Nor'easters Win",
+    "odds": "1.89"
   },
   {
     "id": 1549418,
@@ -78,7 +51,7 @@
     "homeTeam": "Sporting Cristal",
     "awayTeam": "Deportivo Garcilaso",
     "prediction": "Sporting Cristal Win",
-    "odds": "1.79"
+    "odds": "1.51"
   },
   {
     "id": 1498662,
@@ -86,7 +59,34 @@
     "matchTime": "00:00",
     "homeTeam": "Nueva Chicago",
     "awayTeam": "Agropecuario",
+    "prediction": "Nueva Chicago Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1589341,
+    "league": "USL League Two (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "Colorado Storm",
+    "awayTeam": "Snohomish United",
+    "prediction": "Snohomish United Win",
+    "odds": "2.08"
+  },
+  {
+    "id": 1526574,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "00:30",
+    "homeTeam": "LDU Portoviejo",
+    "awayTeam": "Ind. Juniors",
     "prediction": "Double Chance X2",
-    "odds": "1.6"
+    "odds": "1.22"
+  },
+  {
+    "id": 1540061,
+    "league": "Copa Argentina",
+    "matchTime": "00:45",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Deportivo Riestra",
+    "prediction": "San Lorenzo Win",
+    "odds": "1.77"
   }
 ]
