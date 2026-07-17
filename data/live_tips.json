@@ -1,21 +1,12 @@
 [
   {
-    "id": 1508467,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Kansas City W",
-    "awayTeam": "San Diego Wave W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.18"
-  },
-  {
     "id": 1519409,
     "league": "Liga Pro (Ecuador)",
     "matchTime": "03:00",
     "homeTeam": "Delfin SC",
     "awayTeam": "Macara",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "prediction": "Macara Win",
+    "odds": "3.18"
   },
   {
     "id": 1520774,
@@ -23,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Fortaleza EC",
     "awayTeam": "Novorizontino",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Novorizontino Win",
+    "odds": "3.38"
   },
   {
     "id": 1520776,
@@ -32,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Londrina",
     "awayTeam": "Botafogo SP",
-    "prediction": "Botafogo SP Win",
-    "odds": "3.41"
+    "prediction": "Londrina Win",
+    "odds": "1.81"
   },
   {
     "id": 1538395,
@@ -42,7 +33,7 @@
     "homeTeam": "Bolívar",
     "awayTeam": "Guabirá",
     "prediction": "Double Chance 1X",
-    "odds": "1.24"
+    "odds": "1.6"
   },
   {
     "id": 1586080,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Diriangén",
     "awayTeam": "San Marcos",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
   },
   {
     "id": 1490329,
@@ -60,7 +51,7 @@
     "homeTeam": "Nashville SC",
     "awayTeam": "Atlanta United FC",
     "prediction": "Nashville SC Win",
-    "odds": "1.76"
+    "odds": "1.84"
   },
   {
     "id": 1540060,
@@ -69,7 +60,7 @@
     "homeTeam": "River Plate",
     "awayTeam": "Aldosivi",
     "prediction": "River Plate Win",
-    "odds": "1.31"
+    "odds": "1.52"
   },
   {
     "id": 1549412,
@@ -77,8 +68,8 @@
     "matchTime": "04:00",
     "homeTeam": "Cienciano",
     "awayTeam": "FBC Melgar",
-    "prediction": "Double Chance X2",
-    "odds": "1.47"
+    "prediction": "Cienciano Win",
+    "odds": "1.43"
   },
   {
     "id": 1550896,
@@ -87,6 +78,15 @@
     "homeTeam": "Atletico San Luis",
     "awayTeam": "Cruz Azul",
     "prediction": "Atletico San Luis Win",
-    "odds": "1.86"
+    "odds": "1.91"
+  },
+  {
+    "id": 1550897,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Leon",
+    "awayTeam": "Atlas",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.13"
   }
 ]
