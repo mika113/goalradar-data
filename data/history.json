@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1523203,
@@ -54,9 +54,9 @@
     "homeTeam": "Dongguan United",
     "awayTeam": "Nantong Zhiyun",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nantong Zhiyun Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nunawading Win",
-    "outcome": "Won"
+    "prediction": "Springvale Win",
+    "outcome": "Lost"
   },
   {
     "id": 1527103,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "West Torrens Birkalla",
     "awayTeam": "Para Hills Knights",
-    "homeScore": 6,
+    "homeScore": 7,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Para Hills Knights Win",
-    "outcome": "Lost"
+    "prediction": "West Torrens Birkalla Win",
+    "outcome": "Won"
   }
 ]
