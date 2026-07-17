@@ -18,6 +18,18 @@
     "homeTeam": "Eldense",
     "awayTeam": "Millwall",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Millwall Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560626,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Zalaegerszegi TE",
+    "awayTeam": "Epitsentr Dunayivtsi",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589403,
@@ -116,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "SV Kapfenberg Win",
-    "outcome": "Lost"
+    "prediction": "Wolfsberger AC Win",
+    "outcome": "Won"
   },
   {
     "id": 1554092,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551053,
-    "league": "First League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Spartak Varna",
-    "awayTeam": "CSKA 1948",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Spartak Varna Win",
     "outcome": "Won"
   }
 ]
