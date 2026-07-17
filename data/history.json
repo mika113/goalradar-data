@@ -6,6 +6,18 @@
     "homeTeam": "Unia Swarzędz",
     "awayTeam": "Sokół Kleczew",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sokół Kleczew Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584864,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Jong AZ",
+    "awayTeam": "Jong Ajax",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Nordsjaelland",
     "awayTeam": "Sparta Praha",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -33,7 +45,31 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1517904,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Prospect United",
+    "awayTeam": "Macarthur Rams",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1517903,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Hurstville FC",
+    "awayTeam": "Dulwich Hill",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1541366,
@@ -41,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Eastern Lions",
     "awayTeam": "Bayside Argonauts",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Bayside Argonauts Win",
+    "outcome": "Lost"
   },
   {
     "id": 1593667,
@@ -78,9 +114,9 @@
     "homeTeam": "Kalighat Club",
     "awayTeam": "Police",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Police Win",
     "outcome": "Won"
   },
   {
@@ -89,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Aryan",
     "awayTeam": "Mohammedan",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Mohammedan Win",
     "outcome": "Won"
@@ -105,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Box Hill Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1527102,
-    "league": "South Australia NPL",
-    "matchDate": "FT",
-    "homeTeam": "Campbelltown City",
-    "awayTeam": "Adelaide Comets",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1521981,
-    "league": "Victoria NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Bentleigh Greens",
-    "awayTeam": "Dandenong City",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Dandenong City Win",
     "outcome": "Won"
   }
 ]
