@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1576796,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1546073,
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Bahia",
     "awayTeam": "Chapecoense-sc",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bahia Win",
     "outcome": "Won"
   },
   {
@@ -129,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1498662,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Nueva Chicago",
     "awayTeam": "Agropecuario",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Agropecuario Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
