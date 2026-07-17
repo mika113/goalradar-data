@@ -1,5 +1,17 @@
 [
   {
+    "id": 1547983,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sparta Praha II",
+    "awayTeam": "FSV Zwickau",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1592147,
     "league": "Premier League (Lebanon)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1519094,
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Chertanovo U20 Win",
-    "outcome": "Lost"
+    "prediction": "Rostov U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1519093,
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Boston City U20",
     "awayTeam": "América Mineiro U20",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Boston City U20 Win",
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Slovan Liberec Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554978,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Nordsjaelland",
-    "awayTeam": "Jagiellonia",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
