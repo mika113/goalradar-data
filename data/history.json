@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Sheffield Utd Win",
-    "outcome": "Won"
+    "prediction": "Levante Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554983,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1534796,
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Yunnan Yukun",
     "awayTeam": "SHANGHAI SIPG",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519095,
+    "league": "Youth Championship (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Akademiya Konoplev U20",
+    "awayTeam": "Rodina Moscow U19",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
