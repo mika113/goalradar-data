@@ -20,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Wanderers Win",
-    "outcome": "Won"
+    "prediction": "Club Nacional Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546073,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Marília",
     "awayTeam": "Grêmio Prudente",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Marília Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sfera U20 Win",
-    "outcome": "Won"
+    "prediction": "Tanabi SP U20 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520778,
@@ -129,18 +129,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498662,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Nueva Chicago",
-    "awayTeam": "Agropecuario",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
