@@ -1,15 +1,51 @@
 [
   {
-    "id": 1584873,
-    "league": "Friendlies Clubs (World)",
+    "id": 1557970,
+    "league": "1. SNL (Slovenia)",
     "matchDate": "FT",
-    "homeTeam": "Austria Vienna",
-    "awayTeam": "Paks",
+    "homeTeam": "Celje",
+    "awayTeam": "Mura",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1551049,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Levski Sofia",
+    "awayTeam": "Dunav Ruse",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589272,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ümraniyespor",
+    "awayTeam": "Galatasaray",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ümraniyespor Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584873,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Austria Vienna",
+    "awayTeam": "Paks",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Paks Win",
+    "outcome": "Lost"
   },
   {
     "id": 1583339,
@@ -18,10 +54,10 @@
     "homeTeam": "FC ST. Gallen",
     "awayTeam": "Norwich",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Norwich Win",
+    "outcome": "Won"
   },
   {
     "id": 1580410,
@@ -65,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "West Brom",
     "awayTeam": "Bromley",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -84,63 +120,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1553813,
+    "league": "Super Liga (Serbia)",
+    "matchDate": "FT",
+    "homeTeam": "Železničar Pančevo",
+    "awayTeam": "Radnicki NIS",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Železničar Pančevo Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1553808,
     "league": "Super Liga (Serbia)",
     "matchDate": "FT",
     "homeTeam": "FK Crvena Zvezda",
     "awayTeam": "Macva",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1549414,
-    "league": "Primera División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "FC Cajamarca",
-    "awayTeam": "Juan Pablo II College",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547986,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Alfreton Town",
-    "awayTeam": "Derby",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547346,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "União Suzano U20",
-    "awayTeam": "Portuguesa U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547344,
-    "league": "Paulista - U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "São Caetano U20",
-    "awayTeam": "EC São Bernardo U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FK Crvena Zvezda Win",
     "outcome": "Won"
   }
 ]
