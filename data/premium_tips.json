@@ -1,21 +1,12 @@
 [
   {
-    "id": 1519094,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Rostov U19",
-    "awayTeam": "Chertanovo U20",
-    "prediction": "Chertanovo U20 Win",
-    "odds": "2.54"
-  },
-  {
     "id": 1534795,
     "league": "1. Division (Kazakhstan)",
     "matchTime": "17:00",
     "homeTeam": "Astana II",
     "awayTeam": "Jaiyq",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Jaiyq Win",
+    "odds": "2.62"
   },
   {
     "id": 1548856,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Bohemians 1905",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
+    "prediction": "Zaglebie Lubin Win",
+    "odds": "1.94"
   },
   {
     "id": 1583332,
@@ -32,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Kolos Kovalivka",
     "awayTeam": "Kudrivka",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Kudrivka Win",
+    "odds": "1.94"
   },
   {
     "id": 1547983,
@@ -41,8 +32,8 @@
     "matchTime": "17:30",
     "homeTeam": "Sparta Praha II",
     "awayTeam": "FSV Zwickau",
-    "prediction": "Sparta Praha II Win",
-    "odds": "1.53"
+    "prediction": "FSV Zwickau Win",
+    "odds": "2.22"
   },
   {
     "id": 1554984,
@@ -50,8 +41,8 @@
     "matchTime": "17:30",
     "homeTeam": "Radcliffe",
     "awayTeam": "Shrewsbury",
-    "prediction": "Radcliffe Win",
-    "odds": "1.86"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1560628,
@@ -59,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "SSV Jeddeloh",
     "awayTeam": "Preußen Münster",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "prediction": "Preußen Münster Win",
+    "odds": "2.23"
   },
   {
     "id": 1516059,
@@ -68,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mash'al",
     "awayTeam": "Kokand-1912",
-    "prediction": "Mash'al Win",
-    "odds": "1.52"
+    "prediction": "Double Chance X2",
+    "odds": "1.43"
   },
   {
     "id": 1516060,
@@ -78,7 +69,7 @@
     "homeTeam": "Navbahor",
     "awayTeam": "Olmaliq",
     "prediction": "Olmaliq Win",
-    "odds": "2.83"
+    "odds": "1.64"
   },
   {
     "id": 1516062,
@@ -87,7 +78,7 @@
     "homeTeam": "Pakhtakor",
     "awayTeam": "Lokomotiv",
     "prediction": "Pakhtakor Win",
-    "odds": "1.88"
+    "odds": "1.5"
   },
   {
     "id": 1529968,
@@ -95,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "CSKA Moskva W",
     "awayTeam": "Rostov W",
-    "prediction": "CSKA Moskva W Win & Over 1.5",
-    "odds": "2.96"
+    "prediction": "CSKA Moskva W Win",
+    "odds": "1.64"
   },
   {
     "id": 1547982,
@@ -105,6 +96,15 @@
     "homeTeam": "Lincoln",
     "awayTeam": "Leyton Orient",
     "prediction": "Leyton Orient Win",
-    "odds": "2.93"
+    "odds": "2.26"
+  },
+  {
+    "id": 1548857,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Annecy",
+    "awayTeam": "FC Sion",
+    "prediction": "FC Sion Win",
+    "odds": "1.94"
   }
 ]
