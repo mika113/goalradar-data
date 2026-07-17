@@ -1,5 +1,29 @@
 [
   {
+    "id": 1560632,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Krems / Rehberg",
+    "awayTeam": "SKU Amstetten",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1560631,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Eldense",
+    "awayTeam": "Millwall",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1591876,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -18,9 +42,9 @@
     "homeTeam": "Charlotte Independence 2",
     "awayTeam": "Appalachian",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Appalachian Win",
     "outcome": "Won"
   },
   {
@@ -30,10 +54,10 @@
     "homeTeam": "Nafta",
     "awayTeam": "Koper",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Koper Win",
+    "outcome": "Won"
   },
   {
     "id": 1554992,
@@ -54,10 +78,10 @@
     "homeTeam": "Oudenaarde",
     "awayTeam": "Club Brugge II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Oudenaarde Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554989,
@@ -81,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1551053,
@@ -93,54 +117,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Spartak Varna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548883,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Ústí nad Labem",
-    "awayTeam": "Dukla Praha",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Dukla Praha Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548859,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Bayreuth",
-    "awayTeam": "FC Carl Zeiss Jena",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519096,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Krasnodar U19",
-    "awayTeam": "CSKA Moskva U19",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513589,
-    "league": "Meistriliiga (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Flora Tallinn",
-    "awayTeam": "Nõmme United",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Nõmme United Win",
     "outcome": "Won"
   }
 ]
