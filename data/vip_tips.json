@@ -1,21 +1,12 @@
 [
   {
-    "id": 1520775,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Juventude",
-    "awayTeam": "Cuiaba",
-    "prediction": "Juventude Win",
-    "odds": "1.32"
-  },
-  {
     "id": 1520778,
     "league": "Serie B (Brazil)",
     "matchTime": "01:00",
     "homeTeam": "São Bernardo",
     "awayTeam": "Avai",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Avai Win",
+    "odds": "3.1"
   },
   {
     "id": 1547345,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Tanabi SP U20",
     "awayTeam": "Sfera U20",
-    "prediction": "Sfera U20 Win",
-    "odds": "3.32"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1498661,
@@ -32,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Ferro Carril Oeste",
     "awayTeam": "Colon Santa Fe",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "Colon Santa Fe Win",
+    "odds": "2.76"
   },
   {
     "id": 1546073,
@@ -41,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Marília",
     "awayTeam": "Grêmio Prudente",
-    "prediction": "Marília Win",
-    "odds": "1.73"
+    "prediction": "Double Chance X2",
+    "odds": "1.61"
   },
   {
     "id": 1576796,
@@ -51,7 +42,7 @@
     "homeTeam": "Club Nacional",
     "awayTeam": "Wanderers",
     "prediction": "Club Nacional Win",
-    "odds": "1.75"
+    "odds": "1.41"
   },
   {
     "id": 1586069,
@@ -59,8 +50,8 @@
     "matchTime": "01:30",
     "homeTeam": "12 de Junio VH",
     "awayTeam": "General Caballero",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.87"
+    "prediction": "12 de Junio VH Win & Over 1.5",
+    "odds": "1.85"
   },
   {
     "id": 1498656,
@@ -68,7 +59,16 @@
     "matchTime": "02:00",
     "homeTeam": "Ciudad de Bolívar",
     "awayTeam": "All Boys",
-    "prediction": "All Boys Win",
-    "odds": "2.5"
+    "prediction": "Ciudad de Bolívar Win",
+    "odds": "1.64"
+  },
+  {
+    "id": 1513222,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Toronto II",
+    "awayTeam": "FC Cincinnati II",
+    "prediction": "Toronto II Win",
+    "odds": "1.41"
   }
 ]
