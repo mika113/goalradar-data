@@ -1,5 +1,17 @@
 [
   {
+    "id": 1557971,
+    "league": "1. SNL (Slovenia)",
+    "matchDate": "FT",
+    "homeTeam": "Nafta",
+    "awayTeam": "Koper",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1565186,
     "league": "Liga I (Romania)",
     "matchDate": "FT",
@@ -9,138 +21,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562928,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "NK Lokomotiva Zagreb",
-    "awayTeam": "Karpaty",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1550572,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rennes",
-    "awayTeam": "Guingamp",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Rennes Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541716,
-    "league": "Kakkonen - Lohko C (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Vaajakoski",
-    "awayTeam": "Huima / Urho",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541527,
-    "league": "Kakkonen - Lohko B (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "GrIFK",
-    "awayTeam": "ÅIFK",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "ÅIFK Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1592783,
-    "league": "Liga MX U21 (Mexico)",
-    "matchDate": "FT",
-    "homeTeam": "Juarez U21",
-    "awayTeam": "Puebla U21",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Juarez U21 Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1592782,
-    "league": "Liga MX U21 (Mexico)",
-    "matchDate": "FT",
-    "homeTeam": "Club Leon U21",
-    "awayTeam": "Atlas U21",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1592781,
-    "league": "Liga MX U21 (Mexico)",
-    "matchDate": "FT",
-    "homeTeam": "Atl. San Luis U21",
-    "awayTeam": "Cruz Azul U21",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Cruz Azul U21 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1591875,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Radomiak Radom",
-    "awayTeam": "Legia Warszawa II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554990,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Austria Vienna (Am)",
-    "awayTeam": "SV Lafnitz",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Austria Vienna (Am) Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554988,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Montpellier",
-    "awayTeam": "Le Puy Foot",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Montpellier Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554987,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Metz",
-    "awayTeam": "Seraing United",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Metz Win",
     "outcome": "Won"
   }
 ]
