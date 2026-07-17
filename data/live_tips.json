@@ -1,39 +1,12 @@
 [
   {
-    "id": 1560627,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "SKN ST. Polten",
-    "awayTeam": "Slovan Liberec",
-    "prediction": "SKN ST. Polten Win",
-    "odds": "1.47"
-  },
-  {
-    "id": 1560630,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Humenné",
-    "awayTeam": "Sandecja Nowy Sącz",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.68"
-  },
-  {
-    "id": 1562929,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Sigma Olomouc",
-    "awayTeam": "Al Sadd",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
-  },
-  {
     "id": 1567641,
     "league": "Friendlies Clubs (World)",
     "matchTime": "16:00",
     "homeTeam": "Pogoń Grod. Mazowiecki",
     "awayTeam": "Wigry Suwałki",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
+    "prediction": "Pogoń Grod. Mazowiecki Win",
+    "odds": "1.78"
   },
   {
     "id": 1580407,
@@ -41,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Boston City U20",
     "awayTeam": "América Mineiro U20",
-    "prediction": "Boston City U20 Win & Over 1.5",
-    "odds": "2.7"
+    "prediction": "Boston City U20 Win",
+    "odds": "1.87"
   },
   {
     "id": 1580408,
@@ -50,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Itabirito U20",
     "awayTeam": "Social U20",
-    "prediction": "Social U20 Win",
-    "odds": "2.13"
+    "prediction": "Itabirito U20 Win",
+    "odds": "1.85"
   },
   {
     "id": 1591874,
@@ -59,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Erzurumspor FK",
     "awayTeam": "Rizespor",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "prediction": "Erzurumspor FK Win & Over 1.5",
+    "odds": "2.69"
   },
   {
     "id": 1592155,
@@ -69,7 +42,7 @@
     "homeTeam": "Jia Hua",
     "awayTeam": "CPK",
     "prediction": "CPK Win",
-    "odds": "2.42"
+    "odds": "3.1"
   },
   {
     "id": 1547980,
@@ -77,8 +50,8 @@
     "matchTime": "16:30",
     "homeTeam": "FSV Mainz 05",
     "awayTeam": "1. FC Kaiserslautern",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
+    "prediction": "FSV Mainz 05 Win & Over 1.5",
+    "odds": "2.09"
   },
   {
     "id": 1584866,
@@ -86,7 +59,34 @@
     "matchTime": "16:30",
     "homeTeam": "Spaeri",
     "awayTeam": "FC Urartu",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "prediction": "FC Urartu Win",
+    "odds": "2.22"
+  },
+  {
+    "id": 1519093,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "Fakel U19",
+    "awayTeam": "Zenit U19",
+    "prediction": "Double Chance X2",
+    "odds": "1.61"
+  },
+  {
+    "id": 1519094,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "Rostov U19",
+    "awayTeam": "Chertanovo U20",
+    "prediction": "Rostov U19 Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1534795,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "17:00",
+    "homeTeam": "Astana II",
+    "awayTeam": "Jaiyq",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
   }
 ]
