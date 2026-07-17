@@ -1,12 +1,21 @@
 [
   {
+    "id": 1591875,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Radomiak Radom",
+    "awayTeam": "Legia Warszawa II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.63"
+  },
+  {
     "id": 1592781,
     "league": "Liga MX U21 (Mexico)",
     "matchTime": "18:00",
     "homeTeam": "Atl. San Luis U21",
     "awayTeam": "Cruz Azul U21",
-    "prediction": "Atl. San Luis U21 Win",
-    "odds": "1.33"
+    "prediction": "Atl. San Luis U21 Win & Over 1.5",
+    "odds": "2.06"
   },
   {
     "id": 1592782,
@@ -14,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Club Leon U21",
     "awayTeam": "Atlas U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Club Leon U21 Win",
+    "odds": "1.76"
   },
   {
     "id": 1592783,
@@ -23,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Juarez U21",
     "awayTeam": "Puebla U21",
-    "prediction": "Juarez U21 Win",
-    "odds": "1.83"
+    "prediction": "Puebla U21 Win",
+    "odds": "1.94"
   },
   {
     "id": 1541527,
@@ -32,8 +41,8 @@
     "matchTime": "18:30",
     "homeTeam": "GrIFK",
     "awayTeam": "ÅIFK",
-    "prediction": "GrIFK Win",
-    "odds": "1.91"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1541716,
@@ -41,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "Vaajakoski",
     "awayTeam": "Huima / Urho",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Vaajakoski Win & Over 1.5",
+    "odds": "2.0"
   },
   {
     "id": 1550572,
@@ -50,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Rennes",
     "awayTeam": "Guingamp",
-    "prediction": "Rennes Win",
-    "odds": "1.95"
+    "prediction": "Guingamp Win",
+    "odds": "2.52"
   },
   {
     "id": 1562928,
@@ -59,8 +68,8 @@
     "matchTime": "18:30",
     "homeTeam": "NK Lokomotiva Zagreb",
     "awayTeam": "Karpaty",
-    "prediction": "NK Lokomotiva Zagreb Win & Over 1.5",
-    "odds": "2.31"
+    "prediction": "Karpaty Win",
+    "odds": "1.69"
   },
   {
     "id": 1565186,
@@ -68,8 +77,8 @@
     "matchTime": "18:30",
     "homeTeam": "FC Voluntari",
     "awayTeam": "FC Botosani",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "FC Botosani Win",
+    "odds": "3.27"
   },
   {
     "id": 1504262,
@@ -78,15 +87,6 @@
     "homeTeam": "KäPa",
     "awayTeam": "SJK Akatemia",
     "prediction": "Double Chance 1X",
-    "odds": "1.58"
-  },
-  {
-    "id": 1504263,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "Klubi-04",
-    "awayTeam": "Haka",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.09"
+    "odds": "1.3"
   }
 ]
