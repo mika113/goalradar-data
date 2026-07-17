@@ -6,9 +6,9 @@
     "homeTeam": "FC Voluntari",
     "awayTeam": "FC Botosani",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Voluntari Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1550572,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Rennes",
     "awayTeam": "Guingamp",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Rennes Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Puebla U21 Win",
-    "outcome": "Won"
+    "prediction": "Juarez U21 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1592782,
