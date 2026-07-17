@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560631,
@@ -17,6 +17,30 @@
     "matchDate": "FT",
     "homeTeam": "Eldense",
     "awayTeam": "Millwall",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554994,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Olympiakos Piraeus",
+    "awayTeam": "Fortuna Sittard",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546679,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Dunajska Streda",
+    "awayTeam": "Bolton",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -80,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Oudenaarde Win",
-    "outcome": "Lost"
+    "prediction": "Club Brugge II Win",
+    "outcome": "Won"
   },
   {
     "id": 1554989,
@@ -92,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Wolfsberger AC Win",
-    "outcome": "Won"
+    "prediction": "SV Kapfenberg Win",
+    "outcome": "Lost"
   },
   {
     "id": 1554092,
