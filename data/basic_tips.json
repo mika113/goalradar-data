@@ -1,21 +1,12 @@
 [
   {
-    "id": 1541366,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "12:45",
-    "homeTeam": "Eastern Lions",
-    "awayTeam": "Bayside Argonauts",
-    "prediction": "Eastern Lions Win",
-    "odds": "1.54"
-  },
-  {
     "id": 1517903,
     "league": "New South Wales NPL 2 (Australia)",
     "matchTime": "13:00",
     "homeTeam": "Hurstville FC",
     "awayTeam": "Dulwich Hill",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Hurstville FC Win & Over 1.5",
+    "odds": "1.9"
   },
   {
     "id": 1517904,
@@ -23,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Prospect United",
     "awayTeam": "Macarthur Rams",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
+    "prediction": "Prospect United Win",
+    "odds": "1.99"
   },
   {
     "id": 1533745,
@@ -32,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "Suwon FMC W",
     "awayTeam": "Hwacheon KSPO W",
-    "prediction": "Suwon FMC W Win",
-    "odds": "1.87"
+    "prediction": "Hwacheon KSPO W Win",
+    "odds": "2.56"
   },
   {
     "id": 1547979,
@@ -41,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Wisla Plock",
     "awayTeam": "ŁKS Łódź",
-    "prediction": "Wisla Plock Win",
-    "odds": "1.52"
+    "prediction": "Wisla Plock Win & Over 1.5",
+    "odds": "1.92"
   },
   {
     "id": 1547981,
@@ -50,7 +41,16 @@
     "matchTime": "13:00",
     "homeTeam": "FC Nordsjaelland",
     "awayTeam": "Sparta Praha",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
+    "prediction": "FC Nordsjaelland Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1554981,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Sonderjyske",
+    "awayTeam": "Kolding IF",
+    "prediction": "Kolding IF Win",
+    "odds": "3.02"
   }
 ]
