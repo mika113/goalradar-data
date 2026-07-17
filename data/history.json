@@ -12,6 +12,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1520775,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Juventude",
+    "awayTeam": "Cuiaba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520770,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "America Mineiro",
+    "awayTeam": "Ceara",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1540061,
     "league": "Copa Argentina",
     "matchDate": "FT",
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Haukar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1514234,
-    "league": "1. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Fylkir",
-    "awayTeam": "Njardvik",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Fylkir Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589962,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "El Massira",
-    "awayTeam": "UTS Rabat",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
