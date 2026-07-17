@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548857,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Annecy",
-    "awayTeam": "FC Sion",
-    "prediction": "Annecy Win",
-    "odds": "1.31"
-  },
-  {
     "id": 1548858,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "Ried",
     "awayTeam": "Rot-Weiß Essen",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1554982,
@@ -23,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Le Havre",
     "awayTeam": "Amiens",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.57"
+    "prediction": "Le Havre Win",
+    "odds": "1.54"
   },
   {
     "id": 1554985,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Zbrojovka Brno",
     "awayTeam": "Podbrezová",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   },
   {
     "id": 1554986,
@@ -42,7 +33,7 @@
     "homeTeam": "Hertha BSC II",
     "awayTeam": "Schöningen",
     "prediction": "Schöningen Win",
-    "odds": "3.01"
+    "odds": "1.83"
   },
   {
     "id": 1554987,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Metz",
     "awayTeam": "Seraing United",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   },
   {
     "id": 1554988,
@@ -59,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "Montpellier",
     "awayTeam": "Le Puy Foot",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "Le Puy Foot Win",
+    "odds": "2.34"
   },
   {
     "id": 1554990,
@@ -68,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Austria Vienna (Am)",
     "awayTeam": "SV Lafnitz",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "SV Lafnitz Win",
+    "odds": "3.47"
   },
   {
     "id": 1560629,
@@ -77,8 +68,8 @@
     "matchTime": "18:00",
     "homeTeam": "Wacker Burghausen",
     "awayTeam": "Augsburg II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "Wacker Burghausen Win",
+    "odds": "1.89"
   },
   {
     "id": 1560705,
@@ -86,7 +77,16 @@
     "matchTime": "18:00",
     "homeTeam": "Viktoria Žižkov",
     "awayTeam": "Baník Souš",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
+    "prediction": "Viktoria Žižkov Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1591875,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Radomiak Radom",
+    "awayTeam": "Legia Warszawa II",
+    "prediction": "Radomiak Radom Win",
+    "odds": "1.72"
   }
 ]
