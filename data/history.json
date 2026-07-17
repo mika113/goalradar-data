@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1548856,
@@ -30,10 +30,10 @@
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Bohemians 1905",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Zaglebie Lubin Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534795,
@@ -80,8 +80,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "1. FC Kaiserslautern Win",
-    "outcome": "Lost"
+    "prediction": "FSV Mainz 05 Win",
+    "outcome": "Won"
   },
   {
     "id": 1591874,
@@ -128,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Sandecja Nowy Sącz Win",
-    "outcome": "Won"
+    "prediction": "Humenné Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560627,
@@ -138,7 +138,7 @@
     "homeTeam": "SKN ST. Polten",
     "awayTeam": "Slovan Liberec",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Slovan Liberec Win",
     "outcome": "Won"
