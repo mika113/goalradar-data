@@ -6,9 +6,9 @@
     "homeTeam": "KFG",
     "awayTeam": "Kári",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kári Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Fylkir",
     "awayTeam": "Njardvik",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fylkir Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "El Massira Win",
-    "outcome": "Won"
+    "prediction": "UTS Rabat Win",
+    "outcome": "Lost"
   },
   {
     "id": 1498652,
@@ -140,7 +140,7 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "St Mochta&apos;s Win",
-    "outcome": "Lost"
+    "prediction": "Dundalk Win",
+    "outcome": "Won"
   }
 ]
