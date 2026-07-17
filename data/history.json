@@ -1,15 +1,39 @@
 [
   {
+    "id": 1592783,
+    "league": "Liga MX U21 (Mexico)",
+    "matchDate": "FT",
+    "homeTeam": "Juarez U21",
+    "awayTeam": "Puebla U21",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Puebla U21 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1592782,
+    "league": "Liga MX U21 (Mexico)",
+    "matchDate": "FT",
+    "homeTeam": "Club Leon U21",
+    "awayTeam": "Atlas U21",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1592781,
     "league": "Liga MX U21 (Mexico)",
     "matchDate": "FT",
     "homeTeam": "Atl. San Luis U21",
     "awayTeam": "Cruz Azul U21",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Cruz Azul U21 Win",
+    "outcome": "Won"
   },
   {
     "id": 1591875,
@@ -21,6 +45,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554990,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Austria Vienna (Am)",
+    "awayTeam": "SV Lafnitz",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Austria Vienna (Am) Win",
     "outcome": "Won"
   },
   {
@@ -36,6 +72,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1554987,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Metz",
+    "awayTeam": "Seraing United",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Metz Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1554985,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -45,7 +93,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1547982,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lincoln",
+    "awayTeam": "Leyton Orient",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1529968,
@@ -57,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1516062,
@@ -65,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Pakhtakor",
     "awayTeam": "Lokomotiv",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pakhtakor Win",
     "outcome": "Won"
   },
   {
@@ -77,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Navbahor",
     "awayTeam": "Olmaliq",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1516059,
-    "league": "Super League (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Mash'al",
-    "awayTeam": "Kokand-1912",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
