@@ -42,10 +42,10 @@
     "homeTeam": "Hvíti riddarinn",
     "awayTeam": "Vikingur Olafsiik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vikingur Olafsiik Win",
+    "outcome": "Won"
   },
   {
     "id": 1543428,
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "KFG",
     "awayTeam": "Kári",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Kári Win",
     "outcome": "Won"
@@ -78,7 +78,7 @@
     "homeTeam": "Fylkir",
     "awayTeam": "Njardvik",
     "homeScore": 4,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Fylkir Win",
     "outcome": "Won"
