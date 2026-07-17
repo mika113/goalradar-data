@@ -5,7 +5,7 @@
     "matchDate": "FT",
     "homeTeam": "FSV Mainz 05",
     "awayTeam": "1. FC Kaiserslautern",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FSV Mainz 05 Win",
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1580408,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1580407,
@@ -54,7 +54,7 @@
     "homeTeam": "Humenné",
     "awayTeam": "Sandecja Nowy Sącz",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Sandecja Nowy Sącz Win",
     "outcome": "Won"
@@ -90,9 +90,9 @@
     "homeTeam": "Korona Kielce",
     "awayTeam": "Nieciecza",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nieciecza Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +102,21 @@
     "homeTeam": "Tobol 2",
     "awayTeam": "Akademiya Ontustik",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Akademiya Ontustik Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583332,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kolos Kovalivka",
+    "awayTeam": "Kudrivka",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Kolos Kovalivka Win",
     "outcome": "Won"
   },
   {
