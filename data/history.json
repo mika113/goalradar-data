@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Voluntari",
     "awayTeam": "FC Botosani",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Voluntari Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Rennes",
     "awayTeam": "Guingamp",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,9 +54,9 @@
     "homeTeam": "GrIFK",
     "awayTeam": "ÅIFK",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "ÅIFK Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Juarez U21 Win",
-    "outcome": "Lost"
+    "prediction": "Puebla U21 Win",
+    "outcome": "Won"
   },
   {
     "id": 1592782,
@@ -81,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1592781,
@@ -90,7 +90,7 @@
     "homeTeam": "Atl. San Luis U21",
     "awayTeam": "Cruz Azul U21",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Cruz Azul U21 Win",
     "outcome": "Won"
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Austria Vienna (Am)",
     "awayTeam": "SV Lafnitz",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Austria Vienna (Am) Win",
