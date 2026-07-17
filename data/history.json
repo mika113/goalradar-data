@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Levante Win",
-    "outcome": "Lost"
+    "prediction": "Sheffield Utd Win",
+    "outcome": "Won"
   },
   {
     "id": 1554983,
@@ -17,10 +17,22 @@
     "matchDate": "FT",
     "homeTeam": "FC Midtjylland",
     "awayTeam": "Odense",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Midtjylland Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554977,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "De Graafschap",
+    "awayTeam": "Telstar",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Telstar Win",
     "outcome": "Lost"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Sport Academy Kairat",
     "awayTeam": "Kaspij Aktau 2",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sport Academy Kairat Win",
     "outcome": "Won"
   },
   {
@@ -46,6 +58,30 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1519098,
+    "league": "Youth Championship (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Spartak Moskva U19",
+    "awayTeam": "Lokomotiv Moskva U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519097,
+    "league": "Youth Championship (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Rubin Kazan U20",
+    "awayTeam": "Nizhny Novgorod U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1519095,
