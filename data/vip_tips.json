@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554981,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "13:00",
-    "homeTeam": "Sonderjyske",
-    "awayTeam": "Kolding IF",
-    "prediction": "Kolding IF Win",
-    "odds": "3.17"
-  },
-  {
     "id": 1560624,
     "league": "Friendlies Clubs (World)",
     "matchTime": "13:00",
     "homeTeam": "Motor Lublin",
     "awayTeam": "Hapoel Katamon",
-    "prediction": "Hapoel Katamon Win",
-    "odds": "2.96"
+    "prediction": "Double Chance X2",
+    "odds": "1.31"
   },
   {
     "id": 1584864,
@@ -23,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Jong AZ",
     "awayTeam": "Jong Ajax",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Jong AZ Win",
+    "odds": "1.66"
   },
   {
     "id": 1584867,
@@ -33,7 +24,7 @@
     "homeTeam": "Unia Swarzędz",
     "awayTeam": "Sokół Kleczew",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
+    "odds": "1.64"
   },
   {
     "id": 1589270,
@@ -42,7 +33,7 @@
     "homeTeam": "Viborg",
     "awayTeam": "Aarhus Fremad",
     "prediction": "Viborg Win",
-    "odds": "1.41"
+    "odds": "1.36"
   },
   {
     "id": 1591873,
@@ -50,8 +41,8 @@
     "matchTime": "13:00",
     "homeTeam": "Lokomotive Leipzig",
     "awayTeam": "Hallescher FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.21"
+    "prediction": "Lokomotive Leipzig Win",
+    "odds": "1.54"
   },
   {
     "id": 1522144,
@@ -59,8 +50,8 @@
     "matchTime": "13:30",
     "homeTeam": "Northcote City",
     "awayTeam": "Manningham United Blues",
-    "prediction": "Northcote City Win",
-    "odds": "1.66"
+    "prediction": "Manningham United Blues Win",
+    "odds": "2.02"
   },
   {
     "id": 1522148,
@@ -68,7 +59,16 @@
     "matchTime": "13:30",
     "homeTeam": "Melbourne Knights",
     "awayTeam": "Brunswick City",
-    "prediction": "Melbourne Knights Win & Over 1.5",
-    "odds": "2.95"
+    "prediction": "Both Teams To Score",
+    "odds": "1.61"
+  },
+  {
+    "id": 1527103,
+    "league": "South Australia NPL",
+    "matchTime": "13:30",
+    "homeTeam": "West Torrens Birkalla",
+    "awayTeam": "Para Hills Knights",
+    "prediction": "West Torrens Birkalla Win",
+    "odds": "1.54"
   }
 ]
