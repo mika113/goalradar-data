@@ -1,21 +1,12 @@
 [
   {
-    "id": 1520778,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "São Bernardo",
-    "awayTeam": "Avai",
-    "prediction": "Avai Win",
-    "odds": "3.25"
-  },
-  {
     "id": 1547345,
     "league": "Paulista - U20 (Brazil)",
     "matchTime": "01:00",
     "homeTeam": "Tanabi SP U20",
     "awayTeam": "Sfera U20",
-    "prediction": "Sfera U20 Win",
-    "odds": "2.17"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1498661,
@@ -23,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "Ferro Carril Oeste",
     "awayTeam": "Colon Santa Fe",
-    "prediction": "Ferro Carril Oeste Win",
-    "odds": "1.74"
+    "prediction": "Colon Santa Fe Win",
+    "odds": "3.23"
   },
   {
     "id": 1546073,
@@ -32,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Marília",
     "awayTeam": "Grêmio Prudente",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Grêmio Prudente Win",
+    "odds": "2.41"
   },
   {
     "id": 1576796,
@@ -41,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Club Nacional",
     "awayTeam": "Wanderers",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
   },
   {
     "id": 1586069,
@@ -51,7 +42,7 @@
     "homeTeam": "12 de Junio VH",
     "awayTeam": "General Caballero",
     "prediction": "12 de Junio VH Win",
-    "odds": "1.45"
+    "odds": "1.42"
   },
   {
     "id": 1498656,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Ciudad de Bolívar",
     "awayTeam": "All Boys",
-    "prediction": "Ciudad de Bolívar Win",
-    "odds": "1.72"
+    "prediction": "Both Teams To Score",
+    "odds": "1.94"
   },
   {
     "id": 1513222,
@@ -69,6 +60,15 @@
     "homeTeam": "Toronto II",
     "awayTeam": "FC Cincinnati II",
     "prediction": "Toronto II Win",
-    "odds": "1.42"
+    "odds": "1.45"
+  },
+  {
+    "id": 1517310,
+    "league": "Canadian Premier League (Canada)",
+    "matchTime": "02:00",
+    "homeTeam": "Atlético Ottawa",
+    "awayTeam": "York United",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   }
 ]
