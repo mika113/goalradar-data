@@ -1,5 +1,17 @@
 [
   {
+    "id": 1526574,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "LDU Portoviejo",
+    "awayTeam": "Ind. Juniors",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1498662,
     "league": "Primera Nacional (Argentina)",
     "matchDate": "FT",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Sporting Cristal",
     "awayTeam": "Deportivo Garcilaso",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sporting Cristal Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Steel City",
     "awayTeam": "Northern Indiana",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Steel City Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Hvíti riddarinn Win",
-    "outcome": "Lost"
+    "prediction": "Vikingur Olafsiik Win",
+    "outcome": "Won"
   },
   {
     "id": 1543428,
@@ -80,8 +92,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Haukar Win",
-    "outcome": "Won"
+    "prediction": "Thróttur Vogar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1514234,
@@ -129,18 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Colchester Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560635,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Heart Of Midlothian",
-    "awayTeam": "Rayo Vallecano",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Heart Of Midlothian Win",
     "outcome": "Won"
   }
 ]
