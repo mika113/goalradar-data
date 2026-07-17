@@ -18,9 +18,9 @@
     "homeTeam": "FC Midtjylland",
     "awayTeam": "Odense",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Midtjylland Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Telstar Win",
-    "outcome": "Lost"
+    "prediction": "De Graafschap Win",
+    "outcome": "Won"
   },
   {
     "id": 1534796,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Sport Academy Kairat",
     "awayTeam": "Kaspij Aktau 2",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sport Academy Kairat Win",
@@ -81,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1519095,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Akademiya Konoplev U20",
     "awayTeam": "Rodina Moscow U19",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Akademiya Konoplev U20 Win",
     "outcome": "Won"
   },
   {
@@ -105,18 +105,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Henan Jianye Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523203,
-    "league": "Super League (China)",
-    "matchDate": "FT",
-    "homeTeam": "Beijing Guoan",
-    "awayTeam": "Shenyang Urban",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Beijing Guoan Win",
     "outcome": "Won"
   }
 ]
