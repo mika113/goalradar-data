@@ -1,5 +1,17 @@
 [
   {
+    "id": 1591874,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Erzurumspor FK",
+    "awayTeam": "Rizespor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1580408,
     "league": "Mineiro U20 (Brazil)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1580407,
@@ -17,6 +29,18 @@
     "matchDate": "FT",
     "homeTeam": "Boston City U20",
     "awayTeam": "América Mineiro U20",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Boston City U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560630,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Humenné",
+    "awayTeam": "Sandecja Nowy Sącz",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -29,6 +53,42 @@
     "matchDate": "FT",
     "homeTeam": "SKN ST. Polten",
     "awayTeam": "Slovan Liberec",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "SKN ST. Polten Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554978,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Nordsjaelland",
+    "awayTeam": "Jagiellonia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547976,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Korona Kielce",
+    "awayTeam": "Nieciecza",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1534799,
+    "league": "1. Division (Kazakhstan)",
+    "matchDate": "FT",
+    "homeTeam": "Tobol 2",
+    "awayTeam": "Akademiya Ontustik",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
