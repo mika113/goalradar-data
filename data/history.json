@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554994,
@@ -41,106 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Olympiakos Piraeus",
     "awayTeam": "Fortuna Sittard",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Olympiakos Piraeus Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1546679,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dunajska Streda",
-    "awayTeam": "Bolton",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Dunajska Streda Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1591876,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Mladost DG",
-    "awayTeam": "FK Vozdovac",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589403,
-    "league": "USL League Two (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Charlotte Independence 2",
-    "awayTeam": "Appalachian",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Charlotte Independence 2 Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1557971,
-    "league": "1. SNL (Slovenia)",
-    "matchDate": "FT",
-    "homeTeam": "Nafta",
-    "awayTeam": "Koper",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Koper Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554992,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Falkenbergs FF",
-    "awayTeam": "Laholm",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Falkenbergs FF Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554991,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Oudenaarde",
-    "awayTeam": "Club Brugge II",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Club Brugge II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554989,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Wolfsberger AC",
-    "awayTeam": "SV Kapfenberg",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Wolfsberger AC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554092,
-    "league": "Azadegan League (Iran)",
-    "matchDate": "FT",
-    "homeTeam": "Nassaji Mazandaran",
-    "awayTeam": "Ario Eslamshahr",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
