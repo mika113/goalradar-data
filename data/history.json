@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1593666,
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1593664,
@@ -54,9 +54,9 @@
     "homeTeam": "Aryan",
     "awayTeam": "Mohammedan",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mohammedan Win",
     "outcome": "Won"
   },
   {
@@ -81,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1521981,
@@ -93,54 +93,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Dandenong City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1521980,
-    "league": "Victoria NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Green Gully",
-    "awayTeam": "Dandenong Thunder",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Green Gully Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517597,
-    "league": "New South Wales NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Sydney FC U23",
-    "awayTeam": "Manly United",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1562927,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Stockport County",
-    "awayTeam": "Bristol City",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Stockport County Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519219,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Almaz Antey U19",
-    "awayTeam": "Dynamo Makhachkala U19",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Almaz Antey U19 Win",
     "outcome": "Won"
   }
 ]
