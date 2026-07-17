@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1546073,
@@ -34,6 +34,18 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1498661,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Ferro Carril Oeste",
+    "awayTeam": "Colon Santa Fe",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Colon Santa Fe Win",
+    "outcome": "Lost"
   },
   {
     "id": 1492140,
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "São Bernardo",
     "awayTeam": "Avai",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "São Bernardo Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Juventude",
     "awayTeam": "Cuiaba",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Juventude Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Agropecuario Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1549418,
-    "league": "Primera División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Sporting Cristal",
-    "awayTeam": "Deportivo Garcilaso",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sporting Cristal Win",
     "outcome": "Won"
   }
 ]
