@@ -1,21 +1,12 @@
 [
   {
-    "id": 1547983,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:30",
-    "homeTeam": "Sparta Praha II",
-    "awayTeam": "FSV Zwickau",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
-  },
-  {
     "id": 1554984,
     "league": "Friendlies Clubs (World)",
     "matchTime": "17:30",
     "homeTeam": "Radcliffe",
     "awayTeam": "Shrewsbury",
-    "prediction": "Radcliffe Win",
-    "odds": "1.42"
+    "prediction": "Radcliffe Win & Over 1.5",
+    "odds": "2.61"
   },
   {
     "id": 1560628,
@@ -23,8 +14,8 @@
     "matchTime": "17:30",
     "homeTeam": "SSV Jeddeloh",
     "awayTeam": "Preußen Münster",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "SSV Jeddeloh Win & Over 1.5",
+    "odds": "2.16"
   },
   {
     "id": 1516059,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Mash'al",
     "awayTeam": "Kokand-1912",
-    "prediction": "Kokand-1912 Win",
-    "odds": "1.66"
+    "prediction": "Mash'al Win",
+    "odds": "1.32"
   },
   {
     "id": 1516060,
@@ -42,7 +33,7 @@
     "homeTeam": "Navbahor",
     "awayTeam": "Olmaliq",
     "prediction": "Navbahor Win",
-    "odds": "1.92"
+    "odds": "1.47"
   },
   {
     "id": 1516062,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Pakhtakor",
     "awayTeam": "Lokomotiv",
-    "prediction": "Pakhtakor Win",
-    "odds": "1.37"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1529968,
@@ -60,7 +51,7 @@
     "homeTeam": "CSKA Moskva W",
     "awayTeam": "Rostov W",
     "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "odds": "1.92"
   },
   {
     "id": 1547982,
@@ -68,7 +59,16 @@
     "matchTime": "18:00",
     "homeTeam": "Lincoln",
     "awayTeam": "Leyton Orient",
-    "prediction": "Leyton Orient Win",
-    "odds": "3.17"
+    "prediction": "Lincoln Win & Over 1.5",
+    "odds": "2.8"
+  },
+  {
+    "id": 1548857,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Annecy",
+    "awayTeam": "FC Sion",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
   }
 ]
