@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "West Torrens Birkalla",
     "awayTeam": "Para Hills Knights",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "West Torrens Birkalla Win",
-    "outcome": "Won"
+    "prediction": "Para Hills Knights Win",
+    "outcome": "Lost"
   },
   {
     "id": 1522148,
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Northcote City",
     "awayTeam": "Manningham United Blues",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Northcote City Win",
+    "outcome": "Won"
   },
   {
     "id": 1584867,
@@ -80,67 +80,7 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sparta Praha Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1533745,
-    "league": "WK-League (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Suwon FMC W",
-    "awayTeam": "Hwacheon KSPO W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517904,
-    "league": "New South Wales NPL 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Prospect United",
-    "awayTeam": "Macarthur Rams",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517903,
-    "league": "New South Wales NPL 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Hurstville FC",
-    "awayTeam": "Dulwich Hill",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Hurstville FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1541366,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Eastern Lions",
-    "awayTeam": "Bayside Argonauts",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Eastern Lions Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593667,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "Peerless",
-    "awayTeam": "Coal India",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Nordsjaelland Win",
     "outcome": "Won"
   }
 ]
