@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1520778,
+    "league": "Serie B (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Bernardo",
+    "awayTeam": "Avai",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1520775,
     "league": "Serie B (Brazil)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1540061,
@@ -80,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Deportivo Garcilaso Win",
-    "outcome": "Lost"
+    "prediction": "Sporting Cristal Win",
+    "outcome": "Won"
   },
   {
     "id": 1589404,
@@ -92,8 +104,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FC Motown II Win",
-    "outcome": "Lost"
+    "prediction": "Ocean City Nor'easters Win",
+    "outcome": "Won"
   },
   {
     "id": 1589340,
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 5,
     "status": "FT",
-    "prediction": "Kári Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543427,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Haukar",
-    "awayTeam": "Thróttur Vogar",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Haukar Win",
-    "outcome": "Won"
+    "prediction": "KFG Win",
+    "outcome": "Lost"
   }
 ]
