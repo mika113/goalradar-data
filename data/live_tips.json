@@ -1,39 +1,12 @@
 [
   {
-    "id": 1589342,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Flint City Bucks",
-    "awayTeam": "Buffalo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
-  },
-  {
-    "id": 1589343,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Ventura County Fusion",
-    "awayTeam": "Project 51O",
-    "prediction": "Project 51O Win",
-    "odds": "2.95"
-  },
-  {
-    "id": 1589406,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Lionsbridge",
-    "awayTeam": "Asheville City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
     "id": 1508467,
     "league": "NWSL Women (USA)",
     "matchTime": "03:00",
     "homeTeam": "Kansas City W",
     "awayTeam": "San Diego Wave W",
-    "prediction": "Kansas City W Win",
-    "odds": "1.79"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.18"
   },
   {
     "id": 1519409,
@@ -41,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Delfin SC",
     "awayTeam": "Macara",
-    "prediction": "Delfin SC Win",
-    "odds": "1.98"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1520774,
@@ -50,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Fortaleza EC",
     "awayTeam": "Novorizontino",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.24"
   },
   {
     "id": 1520776,
@@ -60,7 +33,7 @@
     "homeTeam": "Londrina",
     "awayTeam": "Botafogo SP",
     "prediction": "Botafogo SP Win",
-    "odds": "3.36"
+    "odds": "3.41"
   },
   {
     "id": 1538395,
@@ -68,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Bolívar",
     "awayTeam": "Guabirá",
-    "prediction": "Double Chance X2",
-    "odds": "1.51"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1586080,
@@ -77,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Diriangén",
     "awayTeam": "San Marcos",
-    "prediction": "Diriangén Win",
-    "odds": "1.89"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1490329,
@@ -87,6 +60,33 @@
     "homeTeam": "Nashville SC",
     "awayTeam": "Atlanta United FC",
     "prediction": "Nashville SC Win",
-    "odds": "1.66"
+    "odds": "1.76"
+  },
+  {
+    "id": 1540060,
+    "league": "Copa Argentina",
+    "matchTime": "03:45",
+    "homeTeam": "River Plate",
+    "awayTeam": "Aldosivi",
+    "prediction": "River Plate Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1549412,
+    "league": "Primera División (Peru)",
+    "matchTime": "04:00",
+    "homeTeam": "Cienciano",
+    "awayTeam": "FBC Melgar",
+    "prediction": "Double Chance X2",
+    "odds": "1.47"
+  },
+  {
+    "id": 1550896,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Atletico San Luis",
+    "awayTeam": "Cruz Azul",
+    "prediction": "Atletico San Luis Win",
+    "odds": "1.86"
   }
 ]
