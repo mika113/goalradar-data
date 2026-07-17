@@ -1,5 +1,29 @@
 [
   {
+    "id": 1591876,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Mladost DG",
+    "awayTeam": "FK Vozdovac",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589403,
+    "league": "USL League Two (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Charlotte Independence 2",
+    "awayTeam": "Appalachian",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1557971,
     "league": "1. SNL (Slovenia)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1554992,
@@ -17,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Falkenbergs FF",
     "awayTeam": "Laholm",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Falkenbergs FF Win",
     "outcome": "Won"
   },
   {
@@ -36,15 +60,39 @@
     "outcome": "Won"
   },
   {
+    "id": 1554989,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Wolfsberger AC",
+    "awayTeam": "SV Kapfenberg",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Wolfsberger AC Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1554092,
+    "league": "Azadegan League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Nassaji Mazandaran",
+    "awayTeam": "Ario Eslamshahr",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1551053,
     "league": "First League (Bulgaria)",
     "matchDate": "FT",
     "homeTeam": "Spartak Varna",
     "awayTeam": "CSKA 1948",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spartak Varna Win",
     "outcome": "Won"
   },
   {
@@ -53,6 +101,18 @@
     "matchDate": "FT",
     "homeTeam": "Ústí nad Labem",
     "awayTeam": "Dukla Praha",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Dukla Praha Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548859,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Bayreuth",
+    "awayTeam": "FC Carl Zeiss Jena",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -65,46 +125,22 @@
     "matchDate": "FT",
     "homeTeam": "Krasnodar U19",
     "awayTeam": "CSKA Moskva U19",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1504263,
-    "league": "Ykkösliiga (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "Klubi-04",
-    "awayTeam": "Haka",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1504262,
-    "league": "Ykkösliiga (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "KäPa",
-    "awayTeam": "SJK Akatemia",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565186,
-    "league": "Liga I (Romania)",
-    "matchDate": "FT",
-    "homeTeam": "FC Voluntari",
-    "awayTeam": "FC Botosani",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1513589,
+    "league": "Meistriliiga (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Flora Tallinn",
+    "awayTeam": "Nõmme United",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Nõmme United Win",
     "outcome": "Won"
   }
 ]
