@@ -1,14 +1,26 @@
 [
   {
+    "id": 1560749,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Leioa",
+    "awayTeam": "Athletic Club",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1591886,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Elche",
     "awayTeam": "Kaizer Chiefs",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Elche Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1584332,
@@ -42,9 +54,9 @@
     "homeTeam": "Rapid Vienna",
     "awayTeam": "Hamburger SV",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "Rapid Vienna Win",
     "outcome": "Lost"
   },
   {
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "NK Osijek",
     "awayTeam": "Budapest Honved",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "NK Osijek Win",
@@ -117,18 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589961,
-    "league": "Botola Pro (Morocco)",
-    "matchDate": "FT",
-    "homeTeam": "Amal Tiznit",
-    "awayTeam": "Olympique Dcheïra",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
