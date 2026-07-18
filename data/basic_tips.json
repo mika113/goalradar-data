@@ -1,30 +1,12 @@
 [
   {
-    "id": 1520771,
-    "league": "Serie B (Brazil)",
-    "matchTime": "00:00",
-    "homeTeam": "Atletico Goianiense",
-    "awayTeam": "Athletic Club",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
-  },
-  {
-    "id": 1591865,
-    "league": "World Cup",
-    "matchTime": "00:00",
-    "homeTeam": "France",
-    "awayTeam": "England",
-    "prediction": "France Win",
-    "odds": "1.74"
-  },
-  {
     "id": 1513224,
     "league": "MLS Next Pro (USA)",
     "matchTime": "00:30",
     "homeTeam": "Crown Legacy",
     "awayTeam": "Chicago Fire II",
-    "prediction": "Crown Legacy Win",
-    "odds": "1.6"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1519413,
@@ -32,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Leones del Norte",
-    "prediction": "Leones del Norte Win",
-    "odds": "2.47"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   },
   {
     "id": 1589350,
@@ -41,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Goiatuba EC",
     "awayTeam": "Ferroviario",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
+    "prediction": "Ferroviario Win",
+    "odds": "1.89"
   },
   {
     "id": 1513225,
@@ -50,7 +32,25 @@
     "matchTime": "01:00",
     "homeTeam": "Columbus Crew II",
     "awayTeam": "Philadelphia Union II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.97"
+    "prediction": "Columbus Crew II Win",
+    "odds": "1.94"
+  },
+  {
+    "id": 1546070,
+    "league": "Copa Paulista (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Bandeirante SP",
+    "awayTeam": "Linense",
+    "prediction": "Bandeirante SP Win",
+    "odds": "1.87"
+  },
+  {
+    "id": 1586082,
+    "league": "Primera Division (Nicaragua)",
+    "matchTime": "01:00",
+    "homeTeam": "Jalapa",
+    "awayTeam": "Walter Ferretti",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
