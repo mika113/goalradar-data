@@ -1,57 +1,12 @@
 [
   {
-    "id": 1493906,
-    "league": "USL League One (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Union Omaha",
-    "awayTeam": "Westchester SC",
-    "prediction": "Union Omaha Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1513226,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Chattanooga",
-    "awayTeam": "Orlando City II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
-  },
-  {
-    "id": 1513228,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Houston Dynamo FC II",
-    "awayTeam": "Colorado Rapids II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
-  },
-  {
-    "id": 1513229,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "St. Louis City II",
-    "awayTeam": "Portland Timbers II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
-  },
-  {
-    "id": 1550899,
-    "league": "Liga MX (Mexico)",
-    "matchTime": "02:00",
-    "homeTeam": "U.N.A.M. - Pumas",
-    "awayTeam": "CF Pachuca",
-    "prediction": "CF Pachuca Win",
-    "odds": "1.88"
-  },
-  {
     "id": 1567687,
     "league": "Friendlies Clubs (World)",
     "matchTime": "02:00",
     "homeTeam": "Millonarios",
     "awayTeam": "Colo Colo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Colo Colo Win",
+    "odds": "2.15"
   },
   {
     "id": 1493576,
@@ -59,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Charleston Battery",
     "awayTeam": "Sacramento Republic",
-    "prediction": "Charleston Battery Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1493582,
@@ -69,7 +24,7 @@
     "homeTeam": "Rhode Island",
     "awayTeam": "Hartford Athletic",
     "prediction": "Rhode Island Win",
-    "odds": "1.56"
+    "odds": "1.77"
   },
   {
     "id": 1493902,
@@ -77,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "Fort Wayne",
     "awayTeam": "Greenville Triumph",
-    "prediction": "Greenville Triumph Win",
-    "odds": "2.02"
+    "prediction": "Fort Wayne Win & Over 1.5",
+    "odds": "2.33"
   },
   {
     "id": 1493904,
@@ -86,7 +41,52 @@
     "matchTime": "02:30",
     "homeTeam": "One Knoxville",
     "awayTeam": "Alta",
+    "prediction": "One Knoxville Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1549413,
+    "league": "Primera División (Peru)",
+    "matchTime": "02:30",
+    "homeTeam": "Cusco",
+    "awayTeam": "Alianza Atletico",
+    "prediction": "Alianza Atletico Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1508472,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Racing Louisville W",
+    "awayTeam": "Houston Dash W",
     "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "odds": "2.08"
+  },
+  {
+    "id": 1513223,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "The Town",
+    "awayTeam": "North Texas",
+    "prediction": "The Town Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1513231,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Huntsville City",
+    "awayTeam": "Atlanta United II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1519408,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "03:00",
+    "homeTeam": "Barcelona SC",
+    "awayTeam": "Libertad",
+    "prediction": "Barcelona SC Win",
+    "odds": "1.97"
   }
 ]
