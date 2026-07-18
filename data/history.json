@@ -8,8 +8,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Zlín II Win",
-    "outcome": "Won"
+    "prediction": "Trenčín II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1584877,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1529973,
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Zvezda Perm W",
     "awayTeam": "Zenit W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1517600,
+    "league": "New South Wales NPL (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "St. George Saints",
+    "awayTeam": "Rockdale City Suns",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -117,30 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532820,
-    "league": "League Two (China)",
-    "matchDate": "FT",
-    "homeTeam": "Shanghai Second",
-    "awayTeam": "Shandong Taishan II",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532819,
-    "league": "League Two (China)",
-    "matchDate": "FT",
-    "homeTeam": "Changchun Xidu",
-    "awayTeam": "Shanghai Port II",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Shanghai Port II Win",
     "outcome": "Won"
   }
 ]
