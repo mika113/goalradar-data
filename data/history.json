@@ -1,14 +1,26 @@
 [
   {
+    "id": 1592164,
+    "league": "Super Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Zenit",
+    "awayTeam": "Spartak Moscow",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1567670,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Petro de Luanda",
     "awayTeam": "Valencia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Petro de Luanda Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +30,9 @@
     "homeTeam": "Uni Minsk",
     "awayTeam": "Baranovichi",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Baranovichi Win",
     "outcome": "Won"
   },
   {
@@ -42,10 +54,10 @@
     "homeTeam": "Le Mans",
     "awayTeam": "La Roche VF",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Le Mans Win",
-    "outcome": "Lost"
+    "prediction": "La Roche VF Win",
+    "outcome": "Won"
   },
   {
     "id": 1583387,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560739,
@@ -93,18 +105,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Dynamo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560737,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC BW Linz",
-    "awayTeam": "Eintracht Braunschweig",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
