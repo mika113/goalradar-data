@@ -48,6 +48,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1549336,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "UNSW U20",
+    "awayTeam": "NWS Spirit U20",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "UNSW U20 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1591879,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Viktoria Plzeň II",
     "awayTeam": "Pardubice II",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
