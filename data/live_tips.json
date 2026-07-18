@@ -1,21 +1,12 @@
 [
   {
-    "id": 1549415,
-    "league": "Primera División (Peru)",
-    "matchTime": "23:30",
-    "homeTeam": "Atletico Grau",
-    "awayTeam": "UTC Cajamarca",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
-  },
-  {
     "id": 1520771,
     "league": "Serie B (Brazil)",
     "matchTime": "00:00",
     "homeTeam": "Atletico Goianiense",
     "awayTeam": "Athletic Club",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.85"
+    "prediction": "Athletic Club Win",
+    "odds": "3.15"
   },
   {
     "id": 1591865,
@@ -23,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "France",
     "awayTeam": "England",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1513224,
@@ -32,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Crown Legacy",
     "awayTeam": "Chicago Fire II",
-    "prediction": "Crown Legacy Win",
-    "odds": "1.74"
+    "prediction": "Double Chance X2",
+    "odds": "1.47"
   },
   {
     "id": 1519413,
@@ -42,7 +33,7 @@
     "homeTeam": "LDU de Quito",
     "awayTeam": "Leones del Norte",
     "prediction": "Leones del Norte Win",
-    "odds": "2.33"
+    "odds": "3.16"
   },
   {
     "id": 1589350,
@@ -50,8 +41,8 @@
     "matchTime": "00:30",
     "homeTeam": "Goiatuba EC",
     "awayTeam": "Ferroviario",
-    "prediction": "Ferroviario Win",
-    "odds": "2.48"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1513225,
@@ -59,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "Columbus Crew II",
     "awayTeam": "Philadelphia Union II",
-    "prediction": "Philadelphia Union II Win",
-    "odds": "2.62"
+    "prediction": "Columbus Crew II Win",
+    "odds": "1.45"
   },
   {
     "id": 1546070,
@@ -68,8 +59,8 @@
     "matchTime": "01:00",
     "homeTeam": "Bandeirante SP",
     "awayTeam": "Linense",
-    "prediction": "Linense Win",
-    "odds": "3.45"
+    "prediction": "Bandeirante SP Win",
+    "odds": "1.81"
   },
   {
     "id": 1586082,
@@ -77,8 +68,8 @@
     "matchTime": "01:00",
     "homeTeam": "Jalapa",
     "awayTeam": "Walter Ferretti",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
+    "prediction": "Walter Ferretti Win",
+    "odds": "3.42"
   },
   {
     "id": 1586139,
@@ -86,7 +77,16 @@
     "matchTime": "01:00",
     "homeTeam": "Coquimbo Unido",
     "awayTeam": "O'Higgins",
-    "prediction": "Coquimbo Unido Win",
-    "odds": "1.89"
+    "prediction": "O'Higgins Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1589351,
+    "league": "Serie D (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Luverdense",
+    "awayTeam": "ABC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.77"
   }
 ]
