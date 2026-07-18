@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Warta Sieradz Win",
-    "outcome": "Won"
+    "prediction": "Kluczbork Win",
+    "outcome": "Lost"
   },
   {
     "id": 1583348,
@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "HIK",
     "awayTeam": "Holbæk B&I",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560681,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Podbeskidzie",
+    "awayTeam": "Nieciecza",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
