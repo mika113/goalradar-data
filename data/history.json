@@ -1,5 +1,17 @@
 [
   {
+    "id": 1560748,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rapid Vienna",
+    "awayTeam": "Hamburger SV",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1592164,
     "league": "Super Cup (Russia)",
     "matchDate": "FT",
@@ -45,66 +57,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584894,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Le Mans",
-    "awayTeam": "La Roche VF",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "La Roche VF Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583387,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Nice",
-    "awayTeam": "Nimes",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Nice Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567686,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Kladno",
-    "awayTeam": "Hapoel Rishon LeZion",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Hapoel Rishon LeZion Win",
     "outcome": "Lost"
-  },
-  {
-    "id": 1560745,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Harelbeke",
-    "awayTeam": "Kortrijk",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1560739,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dynamo",
-    "awayTeam": "CSKA Moscow",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Dynamo Win",
-    "outcome": "Won"
   }
 ]
