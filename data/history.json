@@ -1,5 +1,29 @@
 [
   {
+    "id": 1592165,
+    "league": "All-Island Cup - Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Shelbourne W",
+    "awayTeam": "Galway United W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546263,
+    "league": "Brasiliense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Legiao U20",
+    "awayTeam": "Brasiliense U20",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Brasiliense U20 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1565190,
     "league": "Liga I (Romania)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1557972,
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589407,
@@ -54,9 +78,9 @@
     "homeTeam": "Aymorés",
     "awayTeam": "BOA",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Aymorés Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -66,9 +90,9 @@
     "homeTeam": "Sportivo Carapeguá",
     "awayTeam": "Guairena FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Guairena FC Win",
     "outcome": "Won"
   },
   {
