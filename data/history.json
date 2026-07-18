@@ -1,5 +1,17 @@
 [
   {
+    "id": 1542007,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Nação",
+    "awayTeam": "Caravaggio",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1589409,
     "league": "Mineiro - 2 (Brazil)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589352,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1589349,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Goias Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520773,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Criciuma",
-    "awayTeam": "Vila Nova",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Criciuma Win",
     "outcome": "Won"
   }
 ]
