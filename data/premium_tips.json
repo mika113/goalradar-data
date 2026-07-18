@@ -1,66 +1,12 @@
 [
   {
-    "id": 1546699,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Rot-weiss Oberhausen",
-    "awayTeam": "Borussia Dortmund",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
-  },
-  {
-    "id": 1547804,
-    "league": "Coppa (Belarus)",
-    "matchTime": "18:00",
-    "homeTeam": "Lida",
-    "awayTeam": "Torpedo Zhodino",
-    "prediction": "Torpedo Zhodino Win",
-    "odds": "2.38"
-  },
-  {
-    "id": 1547808,
-    "league": "Coppa (Belarus)",
-    "matchTime": "18:00",
-    "homeTeam": "Ostrovets FC",
-    "awayTeam": "FC Vitebsk",
-    "prediction": "Ostrovets FC Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1547989,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Legia Warszawa",
-    "awayTeam": "Aris",
-    "prediction": "Legia Warszawa Win",
-    "odds": "1.66"
-  },
-  {
-    "id": 1547990,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Miedz Legnica",
-    "awayTeam": "Chojniczanka Chojnice",
-    "prediction": "Miedz Legnica Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1547991,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Nyiregyhaza",
-    "awayTeam": "Bukovyna",
-    "prediction": "Nyiregyhaza Win & Over 1.5",
-    "odds": "2.63"
-  },
-  {
     "id": 1548880,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "Táborsko",
     "awayTeam": "WSPG Wels",
-    "prediction": "WSPG Wels Win",
-    "odds": "3.01"
+    "prediction": "Double Chance 1X",
+    "odds": "1.48"
   },
   {
     "id": 1556381,
@@ -69,7 +15,7 @@
     "homeTeam": "Minija",
     "awayTeam": "Jonava",
     "prediction": "Minija Win",
-    "odds": "1.31"
+    "odds": "1.75"
   },
   {
     "id": 1560638,
@@ -77,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Vasas",
     "awayTeam": "Fehérvár FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Fehérvár FC Win",
+    "odds": "2.09"
   },
   {
     "id": 1560738,
@@ -86,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Cracovia Kraków II",
     "awayTeam": "Zlaté Moravce",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Zlaté Moravce Win",
+    "odds": "2.46"
   },
   {
     "id": 1560740,
@@ -95,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "FC Eindhoven",
     "awayTeam": "Den Bosch",
-    "prediction": "Double Chance X2",
-    "odds": "1.29"
+    "prediction": "FC Eindhoven Win & Over 1.5",
+    "odds": "2.28"
   },
   {
     "id": 1560742,
@@ -104,7 +50,61 @@
     "matchTime": "18:00",
     "homeTeam": "Sampdoria",
     "awayTeam": "Taverne",
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1560743,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Amiens",
+    "awayTeam": "Quevilly",
+    "prediction": "Quevilly Win",
+    "odds": "1.94"
+  },
+  {
+    "id": 1560757,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Atert Bissen",
+    "awayTeam": "Excelsior Virton",
+    "prediction": "Excelsior Virton Win",
+    "odds": "3.25"
+  },
+  {
+    "id": 1562935,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:00",
+    "homeTeam": "Caen",
+    "awayTeam": "Laval",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
+    "odds": "1.94"
+  },
+  {
+    "id": 1565049,
+    "league": "Second League A - Division A Silver (Russia)",
+    "matchTime": "18:00",
+    "homeTeam": "Rodina Moskva II",
+    "awayTeam": "Tyumen",
+    "prediction": "Rodina Moskva II Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1566696,
+    "league": "Oberliga - Bayern Nord (Germany)",
+    "matchTime": "18:00",
+    "homeTeam": "Nordlingen",
+    "awayTeam": "Gebenbach",
+    "prediction": "Gebenbach Win",
+    "odds": "2.37"
+  },
+  {
+    "id": 1567002,
+    "league": "Oberliga - Bayern Süd (Germany)",
+    "matchTime": "18:00",
+    "homeTeam": "Gundelfingen",
+    "awayTeam": "Deisenhofen",
+    "prediction": "Gundelfingen Win",
+    "odds": "1.5"
   }
 ]
