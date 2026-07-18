@@ -1,15 +1,27 @@
 [
   {
-    "id": 1560748,
-    "league": "Friendlies Clubs (World)",
+    "id": 1585134,
+    "league": "Super Liga (Moldova)",
     "matchDate": "FT",
-    "homeTeam": "Rapid Vienna",
-    "awayTeam": "Hamburger SV",
+    "homeTeam": "Zimbru",
+    "awayTeam": "Sireți",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Lost"
+  },
+  {
+    "id": 1560748,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Rapid Vienna",
+    "awayTeam": "Hamburger SV",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Rapid Vienna Win",
+    "outcome": "Won"
   },
   {
     "id": 1550578,
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1592164,
