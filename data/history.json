@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1510380,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1510379,
@@ -42,9 +42,9 @@
     "homeTeam": "Gimpo Citizen",
     "awayTeam": "Daegu FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Daegu FC Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1507000,
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Daejeon Citizen",
     "awayTeam": "Ulsan Hyundai FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Daejeon Citizen Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Kluczbork Win",
-    "outcome": "Lost"
+    "prediction": "Warta Sieradz Win",
+    "outcome": "Won"
   },
   {
     "id": 1583348,
