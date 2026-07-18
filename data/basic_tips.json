@@ -1,21 +1,12 @@
 [
   {
-    "id": 1549336,
-    "league": "Npl Nsw U20 (Australia)",
-    "matchTime": "12:15",
-    "homeTeam": "UNSW U20",
-    "awayTeam": "NWS Spirit U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
-  },
-  {
     "id": 1560645,
     "league": "Friendlies Clubs (World)",
     "matchTime": "12:30",
     "homeTeam": "KVC Westerlo",
     "awayTeam": "Beerschot VA",
-    "prediction": "KVC Westerlo Win & Over 1.5",
-    "odds": "2.72"
+    "prediction": "Beerschot VA Win",
+    "odds": "2.1"
   },
   {
     "id": 1560698,
@@ -23,8 +14,8 @@
     "matchTime": "12:30",
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Maccabi Netanya",
-    "prediction": "Wieczysta Kraków Win",
-    "odds": "1.63"
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   },
   {
     "id": 1560704,
@@ -32,8 +23,8 @@
     "matchTime": "12:30",
     "homeTeam": "Zaglebie Sosnowiec",
     "awayTeam": "Podhale Nowy Targ",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "prediction": "Podhale Nowy Targ Win",
+    "odds": "1.71"
   },
   {
     "id": 1567238,
@@ -41,8 +32,8 @@
     "matchTime": "12:30",
     "homeTeam": "Kirchanschöring",
     "awayTeam": "Landshut",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "prediction": "Landshut Win",
+    "odds": "3.19"
   },
   {
     "id": 1567666,
@@ -50,7 +41,16 @@
     "matchTime": "12:30",
     "homeTeam": "Moreirense",
     "awayTeam": "AVS",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "AVS Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1567673,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:30",
+    "homeTeam": "Vizela",
+    "awayTeam": "Chaves",
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   }
 ]
