@@ -1,48 +1,12 @@
 [
   {
-    "id": 1592165,
-    "league": "All-Island Cup - Women (World)",
-    "matchTime": "21:35",
-    "homeTeam": "Shelbourne W",
-    "awayTeam": "Galway United W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
-  },
-  {
-    "id": 1583388,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "21:45",
-    "homeTeam": "Eastleigh",
-    "awayTeam": "Southampton",
-    "prediction": "Eastleigh Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1511612,
-    "league": "Primera B (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Deportes Temuco",
-    "awayTeam": "Cobreloa",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
-  },
-  {
-    "id": 1511614,
-    "league": "Primera B (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Recoleta",
-    "awayTeam": "Santiago Wanderers",
-    "prediction": "Recoleta Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1517312,
     "league": "Canadian Premier League (Canada)",
     "matchTime": "22:00",
     "homeTeam": "Cavalry FC",
     "awayTeam": "HFX Wanderers FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "Cavalry FC Win",
+    "odds": "1.85"
   },
   {
     "id": 1519410,
@@ -50,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Deportivo Cuenca",
     "awayTeam": "Universidad Catolica",
-    "prediction": "Universidad Catolica Win",
-    "odds": "1.84"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1520773,
@@ -60,7 +24,7 @@
     "homeTeam": "Criciuma",
     "awayTeam": "Vila Nova",
     "prediction": "Criciuma Win",
-    "odds": "1.83"
+    "odds": "1.62"
   },
   {
     "id": 1520777,
@@ -69,7 +33,7 @@
     "homeTeam": "Ponte Preta",
     "awayTeam": "Goias",
     "prediction": "Ponte Preta Win",
-    "odds": "1.38"
+    "odds": "1.51"
   },
   {
     "id": 1520779,
@@ -77,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "Sport Recife",
     "awayTeam": "Operario-PR",
-    "prediction": "Operario-PR Win",
-    "odds": "2.16"
+    "prediction": "Sport Recife Win",
+    "odds": "1.81"
   },
   {
     "id": 1538391,
@@ -86,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "Always Ready",
     "awayTeam": "Universitario de Vinto",
-    "prediction": "Universitario de Vinto Win",
-    "odds": "3.03"
+    "prediction": "Always Ready Win",
+    "odds": "1.95"
   },
   {
     "id": 1546071,
@@ -95,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Comercial",
     "awayTeam": "Noroeste",
-    "prediction": "Comercial Win",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1576798,
@@ -105,6 +69,42 @@
     "homeTeam": "Penarol",
     "awayTeam": "Boston River",
     "prediction": "Penarol Win",
-    "odds": "1.63"
+    "odds": "1.33"
+  },
+  {
+    "id": 1589348,
+    "league": "Serie D (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Cianorte",
+    "awayTeam": "ASA",
+    "prediction": "Cianorte Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1589349,
+    "league": "Serie D (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Sao Jose",
+    "awayTeam": "Treze",
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1589352,
+    "league": "Serie D (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Nacional AM",
+    "awayTeam": "Iguatu",
+    "prediction": "Iguatu Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1589408,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Villa Nova",
+    "awayTeam": "Valeriodoce",
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
   }
 ]
