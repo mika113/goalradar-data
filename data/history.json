@@ -33,6 +33,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1513225,
+    "league": "MLS Next Pro (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Columbus Crew II",
+    "awayTeam": "Philadelphia Union II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -56,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "LDU de Quito Win",
-    "outcome": "Lost"
+    "prediction": "Leones del Norte Win",
+    "outcome": "Won"
   },
   {
     "id": 1513224,
@@ -77,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "France",
     "awayTeam": "England",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "England Win",
-    "outcome": "Won"
+    "prediction": "France Win",
+    "outcome": "Lost"
   },
   {
     "id": 1520771,
@@ -128,19 +140,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Portuguesa Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1542007,
-    "league": "Catarinense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Nação",
-    "awayTeam": "Caravaggio",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Uberlandia Win",
     "outcome": "Won"
   }
 ]
