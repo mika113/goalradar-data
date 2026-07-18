@@ -6,10 +6,10 @@
     "homeTeam": "Karlsruher SC",
     "awayTeam": "Shimizu S-pulse",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Karlsruher SC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1547809,
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Smorgon",
     "awayTeam": "FC Minsk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Smorgon Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "SCR Altach",
     "awayTeam": "Grasshoppers",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Grasshoppers Win",
+    "outcome": "Lost"
   },
   {
     "id": 1591881,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Kingstonian",
     "awayTeam": "Tooting & Mitcham United",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Kingstonian Win",
@@ -68,8 +68,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Notts County Win",
-    "outcome": "Lost"
+    "prediction": "Nottingham Forest Win",
+    "outcome": "Won"
   },
   {
     "id": 1583379,
@@ -80,7 +80,7 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Bamber Bridge Win",
-    "outcome": "Lost"
+    "prediction": "Morecambe Win",
+    "outcome": "Won"
   }
 ]
