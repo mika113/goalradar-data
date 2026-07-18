@@ -1,39 +1,12 @@
 [
   {
-    "id": 1549413,
-    "league": "Primera División (Peru)",
-    "matchTime": "02:30",
-    "homeTeam": "Cusco",
-    "awayTeam": "Alianza Atletico",
-    "prediction": "Cusco Win",
-    "odds": "1.88"
-  },
-  {
-    "id": 1508472,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Racing Louisville W",
-    "awayTeam": "Houston Dash W",
-    "prediction": "Racing Louisville W Win",
-    "odds": "1.47"
-  },
-  {
-    "id": 1513223,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "The Town",
-    "awayTeam": "North Texas",
-    "prediction": "The Town Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1513231,
     "league": "MLS Next Pro (USA)",
     "matchTime": "03:00",
     "homeTeam": "Huntsville City",
     "awayTeam": "Atlanta United II",
-    "prediction": "Huntsville City Win",
-    "odds": "1.69"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
   },
   {
     "id": 1519408,
@@ -41,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Barcelona SC",
     "awayTeam": "Libertad",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.09"
+    "prediction": "Libertad Win",
+    "odds": "1.67"
   },
   {
     "id": 1586083,
@@ -50,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Managua",
     "awayTeam": "Rancho Santana",
-    "prediction": "Rancho Santana Win",
-    "odds": "1.91"
+    "prediction": "Managua Win",
+    "odds": "1.52"
   },
   {
     "id": 1595444,
@@ -60,7 +33,7 @@
     "homeTeam": "Fort Lauderdale United",
     "awayTeam": "The Villages",
     "prediction": "Fort Lauderdale United Win",
-    "odds": "1.83"
+    "odds": "1.58"
   },
   {
     "id": 1493578,
@@ -69,7 +42,7 @@
     "homeTeam": "FC Tulsa",
     "awayTeam": "El Paso Locomotive",
     "prediction": "FC Tulsa Win",
-    "odds": "1.51"
+    "odds": "1.39"
   },
   {
     "id": 1538396,
@@ -77,8 +50,8 @@
     "matchTime": "03:30",
     "homeTeam": "Aurora",
     "awayTeam": "Oriente Petrolero",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
+    "prediction": "Aurora Win",
+    "odds": "1.69"
   },
   {
     "id": 1595445,
@@ -86,7 +59,34 @@
     "matchTime": "03:30",
     "homeTeam": "Peoria",
     "awayTeam": "Minneapolis City",
-    "prediction": "Minneapolis City Win",
-    "odds": "1.92"
+    "prediction": "Peoria Win",
+    "odds": "1.57"
+  },
+  {
+    "id": 1508473,
+    "league": "NWSL Women (USA)",
+    "matchTime": "03:45",
+    "homeTeam": "Utah Royals W",
+    "awayTeam": "Orlando Pride W",
+    "prediction": "Utah Royals W Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1493583,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Las Vegas Lights",
+    "prediction": "San Antonio Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1559523,
+    "league": "Segunda División (Peru)",
+    "matchTime": "04:00",
+    "homeTeam": "Carlos A. Mannucci",
+    "awayTeam": "Deportivo Llacuabamba",
+    "prediction": "Deportivo Llacuabamba Win",
+    "odds": "2.37"
   }
 ]
