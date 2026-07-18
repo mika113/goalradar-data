@@ -9,7 +9,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1493904,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "One Knoxville",
+    "awayTeam": "Alta",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1493902,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1493576,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1513228,
@@ -104,8 +116,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Orlando City II Win",
-    "outcome": "Won"
+    "prediction": "Chattanooga Win",
+    "outcome": "Lost"
   },
   {
     "id": 1493906,
@@ -126,21 +138,9 @@
     "homeTeam": "Richmond Kickers",
     "awayTeam": "Spokane Velocity",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493903,
-    "league": "USL League One (USA)",
-    "matchDate": "FT",
-    "homeTeam": "NY Cosmos",
-    "awayTeam": "Corpus Christi",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spokane Velocity Win",
     "outcome": "Won"
   }
 ]
