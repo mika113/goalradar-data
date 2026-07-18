@@ -24,15 +24,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1583359,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Goczałkowice Zdrój",
+    "awayTeam": "Rekord Bielsko-Biała",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1560741,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Podbrezová",
     "awayTeam": "Liptovský Mikuláš",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Liptovský Mikuláš Win",
     "outcome": "Won"
   },
   {
@@ -128,7 +140,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
