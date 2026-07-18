@@ -1,21 +1,12 @@
 [
   {
-    "id": 1562946,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:15",
-    "homeTeam": "BSC Young Boys",
-    "awayTeam": "Étoile Carouge",
-    "prediction": "Double Chance X2",
-    "odds": "1.64"
-  },
-  {
     "id": 1511611,
     "league": "Primera B (Chile)",
     "matchTime": "19:30",
     "homeTeam": "Deportes Copiapo",
     "awayTeam": "D. Puerto Montt",
-    "prediction": "Deportes Copiapo Win",
-    "odds": "1.66"
+    "prediction": "D. Puerto Montt Win",
+    "odds": "3.33"
   },
   {
     "id": 1511615,
@@ -23,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "Union San Felipe",
     "awayTeam": "Deportes Iquique",
-    "prediction": "Deportes Iquique Win",
-    "odds": "1.92"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1547811,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Uni Minsk",
     "awayTeam": "Baranovichi",
-    "prediction": "Uni Minsk Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1567670,
@@ -41,8 +32,8 @@
     "matchTime": "19:30",
     "homeTeam": "Petro de Luanda",
     "awayTeam": "Valencia",
-    "prediction": "Petro de Luanda Win",
-    "odds": "1.75"
+    "prediction": "Valencia Win",
+    "odds": "2.58"
   },
   {
     "id": 1589285,
@@ -51,6 +42,15 @@
     "homeTeam": "Guimaraes",
     "awayTeam": "Academica",
     "prediction": "Guimaraes Win",
-    "odds": "1.99"
+    "odds": "1.79"
+  },
+  {
+    "id": 1592164,
+    "league": "Super Cup (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "Zenit",
+    "awayTeam": "Spartak Moscow",
+    "prediction": "Both Teams To Score",
+    "odds": "2.03"
   }
 ]
