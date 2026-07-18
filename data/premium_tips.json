@@ -1,21 +1,12 @@
 [
   {
-    "id": 1517214,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "PKKU",
-    "awayTeam": "OLS",
-    "prediction": "OLS Win",
-    "odds": "1.79"
-  },
-  {
     "id": 1517215,
     "league": "Ykkönen (Finland)",
     "matchTime": "16:00",
     "homeTeam": "TPV",
     "awayTeam": "KuPS Akatemia",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
+    "prediction": "TPV Win",
+    "odds": "1.76"
   },
   {
     "id": 1529969,
@@ -24,7 +15,7 @@
     "homeTeam": "Krylya Sovetov W",
     "awayTeam": "Chertanovo W",
     "prediction": "Krylya Sovetov W Win",
-    "odds": "1.68"
+    "odds": "1.36"
   },
   {
     "id": 1541641,
@@ -33,7 +24,7 @@
     "homeTeam": "Union Plaani",
     "awayTeam": "Atlantis",
     "prediction": "Union Plaani Win",
-    "odds": "1.93"
+    "odds": "1.47"
   },
   {
     "id": 1546262,
@@ -41,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Gama U20",
     "awayTeam": "Sobradinho U20",
-    "prediction": "Gama U20 Win",
-    "odds": "1.94"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1546688,
@@ -50,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Northampton",
     "awayTeam": "Coventry",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Northampton Win",
+    "odds": "1.68"
   },
   {
     "id": 1546689,
@@ -59,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Verden 04",
     "awayTeam": "Werder Bremen",
-    "prediction": "Werder Bremen Win",
-    "odds": "2.73"
+    "prediction": "Verden 04 Win",
+    "odds": "1.54"
   },
   {
     "id": 1546690,
@@ -68,8 +59,8 @@
     "matchTime": "16:00",
     "homeTeam": "Yeovil Town",
     "awayTeam": "Bristol Rovers",
-    "prediction": "Double Chance X2",
-    "odds": "1.62"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1547807,
@@ -77,8 +68,8 @@
     "matchTime": "16:00",
     "homeTeam": "Osipovichy",
     "awayTeam": "FC Dnepr Mogilev",
-    "prediction": "Osipovichy Win",
-    "odds": "1.42"
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
   },
   {
     "id": 1548864,
@@ -86,8 +77,8 @@
     "matchTime": "16:00",
     "homeTeam": "NAC Breda",
     "awayTeam": "Excelsior",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "prediction": "NAC Breda Win",
+    "odds": "1.53"
   },
   {
     "id": 1548872,
@@ -96,7 +87,7 @@
     "homeTeam": "Cliftonville FC",
     "awayTeam": "Newington Youth",
     "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "odds": "1.8"
   },
   {
     "id": 1548873,
@@ -104,7 +95,16 @@
     "matchTime": "16:00",
     "homeTeam": "Dundela",
     "awayTeam": "Ballymena United",
-    "prediction": "Ballymena United Win",
-    "odds": "1.69"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.0"
+  },
+  {
+    "id": 1548874,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Queen's University",
+    "awayTeam": "Ballymena United",
+    "prediction": "Queen's University Win",
+    "odds": "1.95"
   }
 ]
