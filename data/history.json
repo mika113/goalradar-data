@@ -18,9 +18,9 @@
     "homeTeam": "Valur Reykjavik",
     "awayTeam": "Fram Reykjavik",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Fram Reykjavik Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1589352,
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1589348,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1576798,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Penarol",
     "awayTeam": "Boston River",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Penarol Win",
     "outcome": "Won"
   },
   {
