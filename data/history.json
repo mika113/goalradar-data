@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Twente",
     "awayTeam": "Gent",
-    "homeScore": 2,
-    "awayScore": 2,
+    "homeScore": 0,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1583378,
@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Sportfreunde Lotte",
     "awayTeam": "Real Betis",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1567678,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ajax",
+    "awayTeam": "Olympiakos Piraeus",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -53,6 +65,18 @@
     "matchDate": "FT",
     "homeTeam": "TSV Hartberg",
     "awayTeam": "First Vienna",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "TSV Hartberg Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548875,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "SF Baumberg",
+    "awayTeam": "Bayer Leverkusen",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -81,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1589367,
@@ -93,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1589366,
@@ -101,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "MWOS",
     "awayTeam": "Agama",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "MWOS Win",
     "outcome": "Won"
   },
   {
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589364,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Hunters",
-    "awayTeam": "Chicken Inn",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589363,
-    "league": "Premier Soccer League (Zimbabwe)",
-    "matchDate": "FT",
-    "homeTeam": "Bulawayo Chiefs",
-    "awayTeam": "Platinum",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Platinum Win",
     "outcome": "Won"
   }
 ]
