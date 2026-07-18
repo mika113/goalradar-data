@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1560751,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "SC Braga",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1546263,
     "league": "Brasiliense U20 (Brazil)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1557972,
@@ -66,10 +78,10 @@
     "homeTeam": "ADT",
     "awayTeam": "Universitario",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Universitario Win",
+    "outcome": "Won"
   },
   {
     "id": 1589407,
@@ -78,9 +90,9 @@
     "homeTeam": "Aymorés",
     "awayTeam": "BOA",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Aymorés Win",
     "outcome": "Won"
   },
   {
@@ -105,6 +117,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
