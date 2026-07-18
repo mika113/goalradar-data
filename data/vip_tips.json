@@ -1,21 +1,12 @@
 [
   {
-    "id": 1567673,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:30",
-    "homeTeam": "Vizela",
-    "awayTeam": "Chaves",
-    "prediction": "Vizela Win",
-    "odds": "1.37"
-  },
-  {
     "id": 1583346,
     "league": "Friendlies Clubs (World)",
     "matchTime": "12:30",
     "homeTeam": "Dunkerque",
     "awayTeam": "Standard Liege",
-    "prediction": "Dunkerque Win",
-    "odds": "1.92"
+    "prediction": "Double Chance 1X",
+    "odds": "1.26"
   },
   {
     "id": 1584879,
@@ -23,8 +14,8 @@
     "matchTime": "12:30",
     "homeTeam": "Benfica B",
     "awayTeam": "Torreense",
-    "prediction": "Torreense Win",
-    "odds": "1.94"
+    "prediction": "Benfica B Win",
+    "odds": "1.68"
   },
   {
     "id": 1584890,
@@ -33,7 +24,7 @@
     "homeTeam": "Odra Bytom Odrzański",
     "awayTeam": "Lipno Stęszew",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.86"
+    "odds": "1.57"
   },
   {
     "id": 1589276,
@@ -51,7 +42,7 @@
     "homeTeam": "East Bengal",
     "awayTeam": "Railway",
     "prediction": "East Bengal Win",
-    "odds": "1.97"
+    "odds": "1.57"
   },
   {
     "id": 1549337,
@@ -59,8 +50,8 @@
     "matchTime": "12:45",
     "homeTeam": "Sutherland Sharks U20",
     "awayTeam": "Sydney Olympic U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "Sydney Olympic U20 Win",
+    "odds": "2.82"
   },
   {
     "id": 1520546,
@@ -68,7 +59,16 @@
     "matchTime": "13:00",
     "homeTeam": "Dangjin Citizen",
     "awayTeam": "Jeonbuk Motors II",
-    "prediction": "Dangjin Citizen Win",
-    "odds": "1.68"
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
+  },
+  {
+    "id": 1529568,
+    "league": "1. Liga (Latvia)",
+    "matchTime": "13:00",
+    "homeTeam": "Leevon / PPK",
+    "awayTeam": "Riga Mariners",
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
   }
 ]
