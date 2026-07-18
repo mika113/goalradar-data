@@ -1,5 +1,17 @@
 [
   {
+    "id": 1589351,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Luverdense",
+    "awayTeam": "ABC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1589350,
     "league": "Serie D (Brazil)",
     "matchDate": "FT",
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1549415,
@@ -66,7 +78,7 @@
     "homeTeam": "Atletico Grau",
     "awayTeam": "UTC Cajamarca",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Atletico Grau Win",
     "outcome": "Won"
@@ -104,8 +116,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1508470,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Mamoré Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508809,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Valur Reykjavik",
-    "awayTeam": "Fram Reykjavik",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Fram Reykjavik Win",
     "outcome": "Won"
   }
 ]
