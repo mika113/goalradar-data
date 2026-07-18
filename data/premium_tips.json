@@ -1,66 +1,12 @@
 [
   {
-    "id": 1589286,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Slavia Praha",
-    "awayTeam": "Lyon",
-    "prediction": "Lyon Win",
-    "odds": "2.25"
-  },
-  {
-    "id": 1591886,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Elche",
-    "awayTeam": "Kaizer Chiefs",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
-  },
-  {
-    "id": 1591887,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Sporting Gijon",
-    "awayTeam": "Marino de Luanco",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
-    "id": 1557930,
-    "league": "Toto Cup Ligat Al (Israel)",
-    "matchTime": "20:30",
-    "homeTeam": "Beitar Jerusalem",
-    "awayTeam": "Hapoel Tel Aviv",
-    "prediction": "Hapoel Tel Aviv Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1560749,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:30",
-    "homeTeam": "Leioa",
-    "awayTeam": "Athletic Club",
-    "prediction": "Athletic Club Win",
-    "odds": "2.4"
-  },
-  {
-    "id": 1499529,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Argentino de Merlo",
-    "awayTeam": "Deportivo Armenio",
-    "prediction": "Argentino de Merlo Win",
-    "odds": "1.88"
-  },
-  {
     "id": 1499530,
     "league": "Primera B Metropolitana (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Arsenal Sarandi",
     "awayTeam": "Flandria",
-    "prediction": "Arsenal Sarandi Win",
-    "odds": "1.63"
+    "prediction": "Double Chance X2",
+    "odds": "1.27"
   },
   {
     "id": 1499531,
@@ -68,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Excursionistas",
     "awayTeam": "Argentino Quilmes",
-    "prediction": "Excursionistas Win & Over 1.5",
-    "odds": "2.17"
+    "prediction": "Excursionistas Win",
+    "odds": "1.48"
   },
   {
     "id": 1499532,
@@ -77,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Deportivo Laferrere",
     "awayTeam": "Ituzaingó",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "prediction": "Ituzaingó Win",
+    "odds": "1.98"
   },
   {
     "id": 1499533,
@@ -86,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Liniers",
     "awayTeam": "Deportivo Merlo",
-    "prediction": "Liniers Win",
-    "odds": "1.97"
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
   },
   {
     "id": 1499534,
@@ -95,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Real Pilar",
     "awayTeam": "Dock Sud",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Real Pilar Win",
+    "odds": "1.93"
   },
   {
     "id": 1499535,
@@ -104,7 +50,61 @@
     "matchTime": "21:00",
     "homeTeam": "San Martín Burzaco",
     "awayTeam": "Sportivo Italiano",
-    "prediction": "San Martín Burzaco Win & Over 1.5",
-    "odds": "2.79"
+    "prediction": "Sportivo Italiano Win",
+    "odds": "2.54"
+  },
+  {
+    "id": 1499536,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Talleres Remedios",
+    "awayTeam": "Brown DE Adrogue",
+    "prediction": "Talleres Remedios Win",
+    "odds": "1.45"
+  },
+  {
+    "id": 1499537,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "UAI Urquiza",
+    "awayTeam": "Comunicaciones",
+    "prediction": "Double Chance X2",
+    "odds": "1.33"
+  },
+  {
+    "id": 1499538,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Villa Dalmine",
+    "awayTeam": "Defensores Unidos",
+    "prediction": "Villa Dalmine Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1499995,
+    "league": "Primera C (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Canuelas",
+    "awayTeam": "Leandro N. Alem",
+    "prediction": "Double Chance X2",
+    "odds": "1.51"
+  },
+  {
+    "id": 1500002,
+    "league": "Primera C (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "JJ Urquiza",
+    "awayTeam": "Deportivo Muñiz",
+    "prediction": "JJ Urquiza Win & Over 1.5",
+    "odds": "2.84"
+  },
+  {
+    "id": 1500004,
+    "league": "Primera C (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Mercedes",
+    "awayTeam": "El Porvenir",
+    "prediction": "El Porvenir Win",
+    "odds": "2.78"
   }
 ]
