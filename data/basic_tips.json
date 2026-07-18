@@ -1,30 +1,12 @@
 [
   {
-    "id": 1508471,
-    "league": "NWSL Women (USA)",
-    "matchTime": "01:30",
-    "homeTeam": "Chicago Red Stars W",
-    "awayTeam": "Angel City W",
-    "prediction": "Angel City W Win",
-    "odds": "2.35"
-  },
-  {
-    "id": 1584333,
-    "league": "Segunda División (Uruguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Oriental",
-    "awayTeam": "Sportivo Huracan",
-    "prediction": "Sportivo Huracan Win",
-    "odds": "2.15"
-  },
-  {
     "id": 1493577,
     "league": "USL Championship (USA)",
     "matchTime": "02:00",
     "homeTeam": "Detroit City",
     "awayTeam": "Indy Eleven",
-    "prediction": "Detroit City Win",
-    "odds": "1.54"
+    "prediction": "Indy Eleven Win",
+    "odds": "2.3"
   },
   {
     "id": 1493579,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Loudoun United",
     "awayTeam": "Tampa Bay Rowdies",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "Loudoun United Win",
+    "odds": "1.48"
   },
   {
     "id": 1493584,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Sporting JAX",
     "awayTeam": "Brooklyn",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1493900,
@@ -50,7 +32,25 @@
     "matchTime": "02:00",
     "homeTeam": "Charlotte Independence",
     "awayTeam": "Chattanooga Red Wolves",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.95"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
+  },
+  {
+    "id": 1493903,
+    "league": "USL League One (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "NY Cosmos",
+    "awayTeam": "Corpus Christi",
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
+  },
+  {
+    "id": 1493905,
+    "league": "USL League One (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Richmond Kickers",
+    "awayTeam": "Spokane Velocity",
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   }
 ]
