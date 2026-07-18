@@ -6,10 +6,22 @@
     "homeTeam": "Leioa",
     "awayTeam": "Athletic Club",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Athletic Club Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1557930,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Beitar Jerusalem",
+    "awayTeam": "Hapoel Tel Aviv",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1591886,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1584332,
@@ -53,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Rapid Vienna",
     "awayTeam": "Hamburger SV",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Rapid Vienna Win",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560747,
@@ -126,9 +138,9 @@
     "homeTeam": "Uni Minsk",
     "awayTeam": "Baranovichi",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Baranovichi Win",
     "outcome": "Won"
   }
 ]
