@@ -9,6 +9,42 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1493902,
+    "league": "USL League One (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Fort Wayne",
+    "awayTeam": "Greenville Triumph",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493582,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Rhode Island",
+    "awayTeam": "Hartford Athletic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1493576,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Charleston Battery",
+    "awayTeam": "Sacramento Republic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -84,11 +120,11 @@
     "outcome": "Won"
   },
   {
-    "id": 1493903,
+    "id": 1493905,
     "league": "USL League One (USA)",
     "matchDate": "FT",
-    "homeTeam": "NY Cosmos",
-    "awayTeam": "Corpus Christi",
+    "homeTeam": "Richmond Kickers",
+    "awayTeam": "Spokane Velocity",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -96,47 +132,11 @@
     "outcome": "Won"
   },
   {
-    "id": 1493900,
+    "id": 1493903,
     "league": "USL League One (USA)",
     "matchDate": "FT",
-    "homeTeam": "Charlotte Independence",
-    "awayTeam": "Chattanooga Red Wolves",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Charlotte Independence Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493584,
-    "league": "USL Championship (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Sporting JAX",
-    "awayTeam": "Brooklyn",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Brooklyn Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1493579,
-    "league": "USL Championship (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Loudoun United",
-    "awayTeam": "Tampa Bay Rowdies",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Tampa Bay Rowdies Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493577,
-    "league": "USL Championship (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Detroit City",
-    "awayTeam": "Indy Eleven",
+    "homeTeam": "NY Cosmos",
+    "awayTeam": "Corpus Christi",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
