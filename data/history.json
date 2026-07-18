@@ -1,15 +1,111 @@
 [
   {
-    "id": 1583387,
-    "league": "Friendlies Clubs (World)",
+    "id": 1589961,
+    "league": "Botola Pro (Morocco)",
     "matchDate": "FT",
-    "homeTeam": "Nice",
-    "awayTeam": "Nimes",
+    "homeTeam": "Amal Tiznit",
+    "awayTeam": "Olympique Dcheïra",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1584894,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Le Mans",
+    "awayTeam": "La Roche VF",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "La Roche VF Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583387,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Nice",
+    "awayTeam": "Nimes",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Nice Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567686,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kladno",
+    "awayTeam": "Hapoel Rishon LeZion",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Hapoel Rishon LeZion Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1560745,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Harelbeke",
+    "awayTeam": "Kortrijk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560739,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Dynamo",
+    "awayTeam": "CSKA Moscow",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Dynamo Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560737,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC BW Linz",
+    "awayTeam": "Eintracht Braunschweig",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560686,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Servette FC",
+    "awayTeam": "Saint Etienne",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560658,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Dukla Banská Bystrica",
+    "awayTeam": "Pohronie",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1560657,
@@ -24,15 +120,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1557973,
+    "league": "1. SNL (Slovenia)",
+    "matchDate": "FT",
+    "homeTeam": "Radomlje",
+    "awayTeam": "Brinje-Grosuplje",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1551051,
     "league": "First League (Bulgaria)",
     "matchDate": "FT",
     "homeTeam": "Septemvri Sofia",
     "awayTeam": "Arda Kardzhali",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Arda Kardzhali Win",
     "outcome": "Won"
   }
 ]
