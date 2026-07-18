@@ -1,102 +1,12 @@
 [
   {
-    "id": 1517312,
-    "league": "Canadian Premier League (Canada)",
-    "matchTime": "22:00",
-    "homeTeam": "Cavalry FC",
-    "awayTeam": "HFX Wanderers FC",
-    "prediction": "Cavalry FC Win",
-    "odds": "1.85"
-  },
-  {
-    "id": 1519410,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "22:00",
-    "homeTeam": "Deportivo Cuenca",
-    "awayTeam": "Universidad Catolica",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
-  },
-  {
-    "id": 1520773,
-    "league": "Serie B (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Criciuma",
-    "awayTeam": "Vila Nova",
-    "prediction": "Criciuma Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1520777,
-    "league": "Serie B (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Ponte Preta",
-    "awayTeam": "Goias",
-    "prediction": "Ponte Preta Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1520779,
-    "league": "Serie B (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Sport Recife",
-    "awayTeam": "Operario-PR",
-    "prediction": "Sport Recife Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1538391,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "22:00",
-    "homeTeam": "Always Ready",
-    "awayTeam": "Universitario de Vinto",
-    "prediction": "Always Ready Win",
-    "odds": "1.95"
-  },
-  {
-    "id": 1546071,
-    "league": "Copa Paulista (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Comercial",
-    "awayTeam": "Noroeste",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
-  },
-  {
-    "id": 1576798,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "22:00",
-    "homeTeam": "Penarol",
-    "awayTeam": "Boston River",
-    "prediction": "Penarol Win",
-    "odds": "1.33"
-  },
-  {
-    "id": 1589348,
-    "league": "Serie D (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Cianorte",
-    "awayTeam": "ASA",
-    "prediction": "Cianorte Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1589349,
-    "league": "Serie D (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Sao Jose",
-    "awayTeam": "Treze",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
-  },
-  {
     "id": 1589352,
     "league": "Serie D (Brazil)",
     "matchTime": "22:00",
     "homeTeam": "Nacional AM",
     "awayTeam": "Iguatu",
-    "prediction": "Iguatu Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   },
   {
     "id": 1589408,
@@ -104,7 +14,97 @@
     "matchTime": "22:00",
     "homeTeam": "Villa Nova",
     "awayTeam": "Valeriodoce",
+    "prediction": "Valeriodoce Win",
+    "odds": "3.0"
+  },
+  {
+    "id": 1595188,
+    "league": "Maranhense - 2 (Brazil)",
+    "matchTime": "22:00",
+    "homeTeam": "Pinheiro",
+    "awayTeam": "Lago Verde",
+    "prediction": "Pinheiro Win",
+    "odds": "1.31"
+  },
+  {
+    "id": 1508809,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Valur Reykjavik",
+    "awayTeam": "Fram Reykjavik",
+    "prediction": "Fram Reykjavik Win",
+    "odds": "2.0"
+  },
+  {
+    "id": 1589409,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchTime": "22:15",
+    "homeTeam": "Mamoré",
+    "awayTeam": "Uberaba",
     "prediction": "Both Teams To Score",
-    "odds": "2.02"
+    "odds": "1.83"
+  },
+  {
+    "id": 1493901,
+    "league": "USL League One (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Naples",
+    "awayTeam": "Tormenta",
+    "prediction": "Naples Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1508470,
+    "league": "NWSL Women (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Bay FC W",
+    "awayTeam": "North Carolina Courage W",
+    "prediction": "North Carolina Courage W Win",
+    "odds": "2.62"
+  },
+  {
+    "id": 1534066,
+    "league": "Northern Super League (Canada)",
+    "matchTime": "23:00",
+    "homeTeam": "AFC Toronto W",
+    "awayTeam": "Vancouver Rise W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.27"
+  },
+  {
+    "id": 1542007,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Nação",
+    "awayTeam": "Caravaggio",
+    "prediction": "Nação Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1589354,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Uberlandia",
+    "awayTeam": "Portuguesa",
+    "prediction": "Uberlandia Win",
+    "odds": "1.59"
+  },
+  {
+    "id": 1559519,
+    "league": "Segunda División (Peru)",
+    "matchTime": "23:15",
+    "homeTeam": "Sport Huancayo 2",
+    "awayTeam": "Comerciantes",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
+  },
+  {
+    "id": 1526573,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Gualaceo SC",
+    "awayTeam": "22 de Julio",
+    "prediction": "Gualaceo SC Win",
+    "odds": "1.48"
   }
 ]
