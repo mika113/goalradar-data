@@ -1,30 +1,12 @@
 [
   {
-    "id": 1493577,
-    "league": "USL Championship (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Detroit City",
-    "awayTeam": "Indy Eleven",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
-  },
-  {
-    "id": 1493579,
-    "league": "USL Championship (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Loudoun United",
-    "awayTeam": "Tampa Bay Rowdies",
-    "prediction": "Tampa Bay Rowdies Win",
-    "odds": "3.37"
-  },
-  {
     "id": 1493584,
     "league": "USL Championship (USA)",
     "matchTime": "02:00",
     "homeTeam": "Sporting JAX",
     "awayTeam": "Brooklyn",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1493900,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Charlotte Independence",
     "awayTeam": "Chattanooga Red Wolves",
-    "prediction": "Charlotte Independence Win",
-    "odds": "1.97"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1493903,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "NY Cosmos",
     "awayTeam": "Corpus Christi",
-    "prediction": "Corpus Christi Win",
-    "odds": "2.68"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
   },
   {
     "id": 1493905,
@@ -50,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Richmond Kickers",
     "awayTeam": "Spokane Velocity",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
+    "prediction": "Richmond Kickers Win",
+    "odds": "1.57"
   },
   {
     "id": 1493906,
@@ -59,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Union Omaha",
     "awayTeam": "Westchester SC",
-    "prediction": "Double Chance X2",
-    "odds": "1.34"
+    "prediction": "Union Omaha Win",
+    "odds": "1.85"
   },
   {
     "id": 1513226,
@@ -68,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Chattanooga",
     "awayTeam": "Orlando City II",
-    "prediction": "Double Chance X2",
-    "odds": "1.26"
+    "prediction": "Chattanooga Win",
+    "odds": "1.58"
   },
   {
     "id": 1513228,
@@ -78,7 +60,7 @@
     "homeTeam": "Houston Dynamo FC II",
     "awayTeam": "Colorado Rapids II",
     "prediction": "Houston Dynamo FC II Win",
-    "odds": "1.95"
+    "odds": "1.71"
   },
   {
     "id": 1513229,
@@ -86,8 +68,8 @@
     "matchTime": "02:00",
     "homeTeam": "St. Louis City II",
     "awayTeam": "Portland Timbers II",
-    "prediction": "St. Louis City II Win",
-    "odds": "1.37"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.29"
   },
   {
     "id": 1550899,
@@ -95,8 +77,8 @@
     "matchTime": "02:00",
     "homeTeam": "U.N.A.M. - Pumas",
     "awayTeam": "CF Pachuca",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "U.N.A.M. - Pumas Win",
+    "odds": "1.88"
   },
   {
     "id": 1567687,
@@ -105,6 +87,24 @@
     "homeTeam": "Millonarios",
     "awayTeam": "Colo Colo",
     "prediction": "Millonarios Win",
-    "odds": "1.5"
+    "odds": "1.95"
+  },
+  {
+    "id": 1493576,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Charleston Battery",
+    "awayTeam": "Sacramento Republic",
+    "prediction": "Sacramento Republic Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1493582,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Rhode Island",
+    "awayTeam": "Hartford Athletic",
+    "prediction": "Rhode Island Win",
+    "odds": "1.79"
   }
 ]
