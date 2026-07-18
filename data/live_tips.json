@@ -1,66 +1,12 @@
 [
   {
-    "id": 1532597,
-    "league": "NNSW League 1 (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "Lake Macquarie",
-    "awayTeam": "Singleton Strikers",
-    "prediction": "Singleton Strikers Win",
-    "odds": "2.84"
-  },
-  {
-    "id": 1533050,
-    "league": "Tasmania Southern Championship (Australia)",
-    "matchTime": "07:00",
-    "homeTeam": "South Hobart II",
-    "awayTeam": "University of Tasmania",
-    "prediction": "South Hobart II Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1523788,
-    "league": "Northern NSW NPL (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Lambton Jaffas",
-    "awayTeam": "Maitland",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
-  },
-  {
-    "id": 1529274,
-    "league": "Tasmania NPL (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Devonport City",
-    "awayTeam": "South Hobart",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.25"
-  },
-  {
-    "id": 1529275,
-    "league": "Tasmania NPL (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Riverside",
-    "awayTeam": "Clarence Zebras",
-    "prediction": "Clarence Zebras Win",
-    "odds": "2.99"
-  },
-  {
-    "id": 1533051,
-    "league": "Tasmania Southern Championship (Australia)",
-    "matchTime": "07:30",
-    "homeTeam": "Hobart Utd.",
-    "awayTeam": "South East Utd. U21",
-    "prediction": "Hobart Utd. Win",
-    "odds": "1.99"
-  },
-  {
     "id": 1533052,
     "league": "Tasmania Southern Championship (Australia)",
     "matchTime": "07:30",
     "homeTeam": "New Town",
     "awayTeam": "Glenorchy Knights U21",
     "prediction": "Glenorchy Knights U21 Win",
-    "odds": "2.01"
+    "odds": "1.6"
   },
   {
     "id": 1533053,
@@ -68,8 +14,8 @@
     "matchTime": "07:30",
     "homeTeam": "Hobart City",
     "awayTeam": "Clarence Zebras II",
-    "prediction": "Clarence Zebras II Win",
-    "odds": "2.8"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
   },
   {
     "id": 1533126,
@@ -77,8 +23,8 @@
     "matchTime": "07:30",
     "homeTeam": "Burnie Utd.",
     "awayTeam": "Devonport U21",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Devonport U21 Win",
+    "odds": "1.64"
   },
   {
     "id": 1533127,
@@ -87,6 +33,60 @@
     "homeTeam": "Somerset",
     "awayTeam": "Launceston United U21",
     "prediction": "Somerset Win",
-    "odds": "1.39"
+    "odds": "1.96"
+  },
+  {
+    "id": 1517598,
+    "league": "New South Wales NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Western Sydney Wanderers U23",
+    "awayTeam": "APIA Leichhardt Tigers",
+    "prediction": "APIA Leichhardt Tigers Win",
+    "odds": "2.31"
+  },
+  {
+    "id": 1521983,
+    "league": "Victoria NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Avondale",
+    "awayTeam": "St. Albans Saints",
+    "prediction": "Avondale Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1522212,
+    "league": "Victoria NPL 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Langwarrin",
+    "awayTeam": "Brunswick Juventus FC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
+  },
+  {
+    "id": 1522213,
+    "league": "Victoria NPL 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "North Sunshine Eagles",
+    "awayTeam": "Eltham Redbacks FC",
+    "prediction": "North Sunshine Eagles Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1524078,
+    "league": "Queensland NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Gold Coast United",
+    "awayTeam": "Lions",
+    "prediction": "Lions Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1527104,
+    "league": "South Australia NPL",
+    "matchTime": "08:00",
+    "homeTeam": "Adelaide City",
+    "awayTeam": "Croydon Kings",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
   }
 ]
