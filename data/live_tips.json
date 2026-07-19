@@ -1,84 +1,12 @@
 [
   {
-    "id": 1556385,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "18:00",
-    "homeTeam": "Transinvest 2",
-    "awayTeam": "Neptūną Klaipėda",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
-    "id": 1517219,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "KPV-j",
-    "awayTeam": "Rops",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
-  },
-  {
-    "id": 1565183,
-    "league": "Liga I (Romania)",
-    "matchTime": "18:30",
-    "homeTeam": "Corvinul Hunedoara",
-    "awayTeam": "Csikszereda",
-    "prediction": "Csikszereda Win",
-    "odds": "3.48"
-  },
-  {
-    "id": 1547593,
-    "league": "A Lyga (Lithuania)",
-    "matchTime": "18:45",
-    "homeTeam": "Suduva Marijampole",
-    "awayTeam": "Hegelmann Litauen",
-    "prediction": "Suduva Marijampole Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1495738,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "Mariehamn",
-    "awayTeam": "Lahti",
-    "prediction": "Double Chance X2",
-    "odds": "1.49"
-  },
-  {
-    "id": 1515888,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "Super Nova",
-    "awayTeam": "Grobiņa",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
-  },
-  {
-    "id": 1529574,
-    "league": "1. Liga (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "Tukums II",
-    "awayTeam": "Rīgas FS II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.2"
-  },
-  {
-    "id": 1559524,
-    "league": "Segunda División (Peru)",
-    "matchTime": "19:00",
-    "homeTeam": "Molinos El Pirata",
-    "awayTeam": "U. San Martin",
-    "prediction": "Molinos El Pirata Win",
-    "odds": "1.79"
-  },
-  {
     "id": 1567689,
     "league": "Friendlies Clubs (World)",
     "matchTime": "19:00",
     "homeTeam": "Velden",
     "awayTeam": "Wolfsberger AC",
-    "prediction": "Wolfsberger AC Win",
-    "odds": "3.07"
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   },
   {
     "id": 1551052,
@@ -86,7 +14,79 @@
     "matchTime": "19:15",
     "homeTeam": "Slavia Sofia",
     "awayTeam": "CSKA Sofia",
+    "prediction": "CSKA Sofia Win",
+    "odds": "2.56"
+  },
+  {
+    "id": 1577449,
+    "league": "First League (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "Rotor Volgograd",
+    "awayTeam": "Ska-khabarovsk",
+    "prediction": "Ska-khabarovsk Win",
+    "odds": "2.11"
+  },
+  {
+    "id": 1494214,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Kalmar FF",
+    "awayTeam": "Malmo FF",
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
+  },
+  {
+    "id": 1494216,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Orgryte IS",
+    "awayTeam": "Djurgardens IF",
+    "prediction": "Orgryte IS Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1497627,
+    "league": "Superettan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Norrby IF",
+    "awayTeam": "GIF Sundsvall",
+    "prediction": "Norrby IF Win & Over 1.5",
+    "odds": "2.78"
+  },
+  {
+    "id": 1549983,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "20:00",
+    "homeTeam": "Buenos Aires City",
+    "awayTeam": "Everton La Plata",
     "prediction": "Double Chance X2",
-    "odds": "1.72"
+    "odds": "1.25"
+  },
+  {
+    "id": 1549981,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Barrancas UMET",
+    "awayTeam": "Ezeiza",
+    "prediction": "Barrancas UMET Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1498649,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Acassuso",
+    "awayTeam": "San Telmo",
+    "prediction": "Acassuso Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1498654,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Chacarita Juniors",
+    "awayTeam": "Club Atlético Güemes",
+    "prediction": "Club Atlético Güemes Win",
+    "odds": "1.7"
   }
 ]
