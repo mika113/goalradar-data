@@ -1,30 +1,12 @@
 [
   {
-    "id": 1508474,
-    "league": "NWSL Women (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Boston Legacy W",
-    "awayTeam": "Washington Spirit W",
-    "prediction": "Washington Spirit W Win",
-    "odds": "2.88"
-  },
-  {
-    "id": 1511610,
-    "league": "Primera B (Chile)",
-    "matchTime": "02:00",
-    "homeTeam": "Deportes Santa Cruz",
-    "awayTeam": "San Marcos de Arica",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
-  },
-  {
     "id": 1511616,
     "league": "Primera B (Chile)",
     "matchTime": "02:00",
     "homeTeam": "San Luis",
     "awayTeam": "Union Espanola",
-    "prediction": "San Luis Win",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1584337,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Colón",
     "awayTeam": "Paysandu",
-    "prediction": "Double Chance X2",
-    "odds": "1.23"
+    "prediction": "Paysandu Win",
+    "odds": "3.35"
   },
   {
     "id": 1595447,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Asheville City",
     "awayTeam": "Appalachian",
-    "prediction": "Asheville City Win & Over 1.5",
-    "odds": "1.81"
+    "prediction": "Asheville City Win",
+    "odds": "1.82"
   },
   {
     "id": 1595448,
@@ -50,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Flint City Bucks",
     "awayTeam": "Steel City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "Steel City Win",
+    "odds": "1.72"
   },
   {
     "id": 1595449,
@@ -59,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Vermont Green",
     "awayTeam": "Ocean City Nor'easters",
-    "prediction": "Vermont Green Win & Over 1.5",
-    "odds": "2.7"
+    "prediction": "Vermont Green Win",
+    "odds": "1.33"
   },
   {
     "id": 1595450,
@@ -68,7 +50,25 @@
     "matchTime": "02:30",
     "homeTeam": "San Francisco City",
     "awayTeam": "Ventura County Fusion",
-    "prediction": "San Francisco City Win",
-    "odds": "1.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.85"
+  },
+  {
+    "id": 1513233,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Sporting KC II",
+    "awayTeam": "Minnesota United II",
+    "prediction": "Sporting KC II Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1549411,
+    "league": "Primera División (Peru)",
+    "matchTime": "03:00",
+    "homeTeam": "Alianza Lima",
+    "awayTeam": "Sport Huancayo",
+    "prediction": "Alianza Lima Win",
+    "odds": "1.68"
   }
 ]
