@@ -1,14 +1,98 @@
 [
   {
-    "id": 1539853,
-    "league": "Catarinense U20 (Brazil)",
+    "id": 1565427,
+    "league": "Second League A - Division A Gold (Russia)",
     "matchDate": "FT",
-    "homeTeam": "Criciuma U20",
-    "awayTeam": "Chapecoense U20",
+    "homeTeam": "FK Sokol Saratov",
+    "awayTeam": "Kaluga",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1562948,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sturm Graz II",
+    "awayTeam": "Al-Hilal Saudi FC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sturm Graz II Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1494213,
+    "league": "Allsvenskan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Hammarby FF",
+    "awayTeam": "Degerfors IF",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1494212,
+    "league": "Allsvenskan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Halmstad",
+    "awayTeam": "BK Hacken",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1494210,
+    "league": "Allsvenskan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "IF Elfsborg",
+    "awayTeam": "Sirius",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589353,
+    "league": "Serie D (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Luiz",
+    "awayTeam": "CSA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583826,
+    "league": "Second League A - Division A Gold (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Rodina Moskva II",
+    "awayTeam": "Alaniya Vladikavkaz",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Alaniya Vladikavkaz Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583394,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ennepetal",
+    "awayTeam": "Westfalia Rhynern",
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "FT",
+    "prediction": "Westfalia Rhynern Win",
     "outcome": "Won"
   }
 ]
