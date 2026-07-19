@@ -1,39 +1,12 @@
 [
   {
-    "id": 1493583,
-    "league": "USL Championship (USA)",
-    "matchTime": "04:00",
-    "homeTeam": "San Antonio",
-    "awayTeam": "Las Vegas Lights",
-    "prediction": "San Antonio Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1559523,
-    "league": "Segunda División (Peru)",
-    "matchTime": "04:00",
-    "homeTeam": "Carlos A. Mannucci",
-    "awayTeam": "Deportivo Llacuabamba",
-    "prediction": "Carlos A. Mannucci Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1586084,
-    "league": "Primera Division (Nicaragua)",
-    "matchTime": "04:00",
-    "homeTeam": "Matagalpa",
-    "awayTeam": "H&H Export",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
-  },
-  {
     "id": 1595446,
     "league": "USL League Two (USA)",
     "matchTime": "04:00",
     "homeTeam": "Laredo Heat",
     "awayTeam": "GFI",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
+    "prediction": "Double Chance X2",
+    "odds": "1.64"
   },
   {
     "id": 1550901,
@@ -41,8 +14,8 @@
     "matchTime": "04:05",
     "homeTeam": "Monterrey",
     "awayTeam": "Santos Laguna",
-    "prediction": "Double Chance X2",
-    "odds": "1.22"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1550900,
@@ -50,7 +23,7 @@
     "matchTime": "04:07",
     "homeTeam": "Guadalajara Chivas",
     "awayTeam": "Toluca",
-    "prediction": "Guadalajara Chivas Win",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.72"
   },
   {
@@ -59,8 +32,8 @@
     "matchTime": "05:00",
     "homeTeam": "The Town",
     "awayTeam": "North Texas",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "The Town Win",
+    "odds": "1.9"
   },
   {
     "id": 1513230,
@@ -68,7 +41,34 @@
     "matchTime": "05:00",
     "homeTeam": "Ventura County",
     "awayTeam": "Los Angeles FC II",
-    "prediction": "Ventura County Win",
-    "odds": "1.53"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.9"
+  },
+  {
+    "id": 1493580,
+    "league": "USL Championship (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Phoenix Rising",
+    "awayTeam": "Monterey Bay",
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
+  },
+  {
+    "id": 1523790,
+    "league": "Northern NSW NPL (Australia)",
+    "matchTime": "06:00",
+    "homeTeam": "Hamilton Olympic",
+    "awayTeam": "Belmont Swansea",
+    "prediction": "Belmont Swansea Win",
+    "odds": "2.46"
+  },
+  {
+    "id": 1532599,
+    "league": "NNSW League 1 (Australia)",
+    "matchTime": "06:00",
+    "homeTeam": "South Cardiff",
+    "awayTeam": "Wallsend Red Devils",
+    "prediction": "Double Chance X2",
+    "odds": "1.7"
   }
 ]
