@@ -30,9 +30,9 @@
     "homeTeam": "Managua",
     "awayTeam": "Rancho Santana",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Managua Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,7 +54,7 @@
     "homeTeam": "Cusco",
     "awayTeam": "Alianza Atletico",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Cusco Win",
     "outcome": "Won"
@@ -80,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Fort Wayne Win",
-    "outcome": "Won"
+    "prediction": "Greenville Triumph Win",
+    "outcome": "Lost"
   },
   {
     "id": 1493582,
@@ -102,9 +102,9 @@
     "homeTeam": "Charleston Battery",
     "awayTeam": "Sacramento Republic",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sacramento Republic Win",
     "outcome": "Won"
   },
   {
@@ -126,7 +126,7 @@
     "homeTeam": "U.N.A.M. - Pumas",
     "awayTeam": "CF Pachuca",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "CF Pachuca Win",
     "outcome": "Won"
@@ -138,9 +138,9 @@
     "homeTeam": "St. Louis City II",
     "awayTeam": "Portland Timbers II",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "St. Louis City II Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
