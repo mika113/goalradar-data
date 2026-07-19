@@ -1,75 +1,12 @@
 [
   {
-    "id": 1538393,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "03:30",
-    "homeTeam": "Blooming",
-    "awayTeam": "Real Tomayapo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
-  },
-  {
-    "id": 1513232,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Real Monarchs",
-    "awayTeam": "Tacoma Defiance",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1595451,
-    "league": "USL League Two (USA)",
-    "matchTime": "04:30",
-    "homeTeam": "Ballard",
-    "awayTeam": "Colorado Storm",
-    "prediction": "Ballard Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1595182,
-    "league": "Calcutta Premier Division (India)",
-    "matchTime": "12:30",
-    "homeTeam": "Kalighat Club",
-    "awayTeam": "United",
-    "prediction": "United Win",
-    "odds": "3.34"
-  },
-  {
-    "id": 1595183,
-    "league": "Calcutta Premier Division (India)",
-    "matchTime": "12:30",
-    "homeTeam": "Measurers",
-    "awayTeam": "Peerless",
-    "prediction": "Measurers Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1595184,
-    "league": "Calcutta Premier Division (India)",
-    "matchTime": "12:30",
-    "homeTeam": "Mohammedan",
-    "awayTeam": "Police",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
-  },
-  {
-    "id": 1595185,
-    "league": "Calcutta Premier Division (India)",
-    "matchTime": "12:30",
-    "homeTeam": "NA Suruchi Sangha",
-    "awayTeam": "Calcutta Police",
-    "prediction": "Calcutta Police Win",
-    "odds": "2.7"
-  },
-  {
     "id": 1548887,
     "league": "Friendlies Clubs (World)",
     "matchTime": "15:00",
     "homeTeam": "Cambridge United",
     "awayTeam": "Braintree",
-    "prediction": "Braintree Win",
-    "odds": "3.02"
+    "prediction": "Cambridge United Win",
+    "odds": "1.98"
   },
   {
     "id": 1521647,
@@ -77,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Luunja",
     "awayTeam": "Tallinna Kalev II",
-    "prediction": "Luunja Win",
-    "odds": "1.34"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1495737,
@@ -86,7 +23,70 @@
     "matchTime": "18:00",
     "homeTeam": "Turku PS",
     "awayTeam": "Ilves",
-    "prediction": "Ilves Win",
-    "odds": "2.22"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.95"
+  },
+  {
+    "id": 1515885,
+    "league": "Virsliga (Latvia)",
+    "matchTime": "18:00",
+    "homeTeam": "FS Jelgava",
+    "awayTeam": "Rīgas FS",
+    "prediction": "FS Jelgava Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1556385,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "18:00",
+    "homeTeam": "Transinvest 2",
+    "awayTeam": "Neptūną Klaipėda",
+    "prediction": "Transinvest 2 Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1517219,
+    "league": "Ykkönen (Finland)",
+    "matchTime": "18:30",
+    "homeTeam": "KPV-j",
+    "awayTeam": "Rops",
+    "prediction": "KPV-j Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 1565183,
+    "league": "Liga I (Romania)",
+    "matchTime": "18:30",
+    "homeTeam": "Corvinul Hunedoara",
+    "awayTeam": "Csikszereda",
+    "prediction": "Corvinul Hunedoara Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1547593,
+    "league": "A Lyga (Lithuania)",
+    "matchTime": "18:45",
+    "homeTeam": "Suduva Marijampole",
+    "awayTeam": "Hegelmann Litauen",
+    "prediction": "Suduva Marijampole Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1495738,
+    "league": "Veikkausliiga (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "Mariehamn",
+    "awayTeam": "Lahti",
+    "prediction": "Mariehamn Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1515888,
+    "league": "Virsliga (Latvia)",
+    "matchTime": "19:00",
+    "homeTeam": "Super Nova",
+    "awayTeam": "Grobiņa",
+    "prediction": "Grobiņa Win",
+    "odds": "2.8"
   }
 ]
