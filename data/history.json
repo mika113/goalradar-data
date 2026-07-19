@@ -6,10 +6,22 @@
     "homeTeam": "Aurora",
     "awayTeam": "Oriente Petrolero",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Oriente Petrolero Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493578,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "FC Tulsa",
+    "awayTeam": "El Paso Locomotive",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1586083,
@@ -32,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Libertad Win",
-    "outcome": "Lost"
+    "prediction": "Barcelona SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1549413,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "St. Louis City II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513228,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Houston Dynamo FC II",
-    "awayTeam": "Colorado Rapids II",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Houston Dynamo FC II Win",
     "outcome": "Won"
   }
 ]
