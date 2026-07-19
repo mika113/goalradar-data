@@ -1,11 +1,71 @@
 [
   {
+    "id": 1582680,
+    "league": "Baiano - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Fluminense De Feira",
+    "awayTeam": "Feira FC",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Fluminense De Feira Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1559521,
+    "league": "Segunda División (Peru)",
+    "matchDate": "FT",
+    "homeTeam": "Bentín Tacna Heroica",
+    "awayTeam": "Minas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1542008,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Juventus SC",
+    "awayTeam": "Fluminense-SC",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Fluminense-SC Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1542006,
+    "league": "Catarinense - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Guarani de Palhoça",
+    "awayTeam": "Blumenau",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Blumenau Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589390,
+    "league": "Carioca C (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Cardoso Moreira",
+    "awayTeam": "Campos AA",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Campos AA Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1589389,
     "league": "Carioca C (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Búzios",
     "awayTeam": "Barra Mansa",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Búzios Win",
@@ -17,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Algeria W",
     "awayTeam": "Zambia W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1585136,
@@ -29,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Petrocub",
     "awayTeam": "Sheriff Tiraspol",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sheriff Tiraspol Win",
     "outcome": "Won"
@@ -41,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Vojvodina",
     "awayTeam": "OFK Beograd",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vojvodina Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Radnik Surdulica",
     "awayTeam": "Mladost Lucani",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -78,33 +138,9 @@
     "homeTeam": "Tecnico Universitario",
     "awayTeam": "Aucas",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565188,
-    "league": "Liga I (Romania)",
-    "matchDate": "FT",
-    "homeTeam": "Petrolul Ploiesti",
-    "awayTeam": "Dinamo Bucuresti",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Petrolul Ploiesti Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551048,
-    "league": "First League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Botev Vratsa",
-    "awayTeam": "Cherno More Varna",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Cherno More Varna Win",
+    "prediction": "Aucas Win",
     "outcome": "Won"
   }
 ]
