@@ -1,30 +1,12 @@
 [
   {
-    "id": 1495737,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "18:00",
-    "homeTeam": "Turku PS",
-    "awayTeam": "Ilves",
-    "prediction": "Ilves Win",
-    "odds": "2.18"
-  },
-  {
-    "id": 1515885,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "18:00",
-    "homeTeam": "FS Jelgava",
-    "awayTeam": "Rīgas FS",
-    "prediction": "FS Jelgava Win",
-    "odds": "1.78"
-  },
-  {
     "id": 1556385,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "18:00",
     "homeTeam": "Transinvest 2",
     "awayTeam": "Neptūną Klaipėda",
-    "prediction": "Transinvest 2 Win",
-    "odds": "1.82"
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   },
   {
     "id": 1517219,
@@ -32,8 +14,8 @@
     "matchTime": "18:30",
     "homeTeam": "KPV-j",
     "awayTeam": "Rops",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
   },
   {
     "id": 1565183,
@@ -41,8 +23,8 @@
     "matchTime": "18:30",
     "homeTeam": "Corvinul Hunedoara",
     "awayTeam": "Csikszereda",
-    "prediction": "Corvinul Hunedoara Win",
-    "odds": "1.52"
+    "prediction": "Csikszereda Win",
+    "odds": "3.48"
   },
   {
     "id": 1547593,
@@ -50,8 +32,8 @@
     "matchTime": "18:45",
     "homeTeam": "Suduva Marijampole",
     "awayTeam": "Hegelmann Litauen",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Suduva Marijampole Win",
+    "odds": "1.38"
   },
   {
     "id": 1495738,
@@ -59,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Mariehamn",
     "awayTeam": "Lahti",
-    "prediction": "Lahti Win",
-    "odds": "2.1"
+    "prediction": "Double Chance X2",
+    "odds": "1.49"
   },
   {
     "id": 1515888,
@@ -68,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Super Nova",
     "awayTeam": "Grobiņa",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   },
   {
     "id": 1529574,
@@ -77,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "Tukums II",
     "awayTeam": "Rīgas FS II",
-    "prediction": "Tukums II Win",
-    "odds": "1.9"
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   },
   {
     "id": 1559524,
@@ -86,7 +68,25 @@
     "matchTime": "19:00",
     "homeTeam": "Molinos El Pirata",
     "awayTeam": "U. San Martin",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Molinos El Pirata Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1567689,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Velden",
+    "awayTeam": "Wolfsberger AC",
+    "prediction": "Wolfsberger AC Win",
+    "odds": "3.07"
+  },
+  {
+    "id": 1551052,
+    "league": "First League (Bulgaria)",
+    "matchTime": "19:15",
+    "homeTeam": "Slavia Sofia",
+    "awayTeam": "CSKA Sofia",
+    "prediction": "Double Chance X2",
+    "odds": "1.72"
   }
 ]
