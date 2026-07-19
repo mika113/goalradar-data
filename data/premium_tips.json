@@ -1,39 +1,12 @@
 [
   {
-    "id": 1493580,
-    "league": "USL Championship (USA)",
-    "matchTime": "05:30",
-    "homeTeam": "Phoenix Rising",
-    "awayTeam": "Monterey Bay",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
-  },
-  {
-    "id": 1523790,
-    "league": "Northern NSW NPL (Australia)",
-    "matchTime": "06:00",
-    "homeTeam": "Hamilton Olympic",
-    "awayTeam": "Belmont Swansea",
-    "prediction": "Hamilton Olympic Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1532599,
-    "league": "NNSW League 1 (Australia)",
-    "matchTime": "06:00",
-    "homeTeam": "South Cardiff",
-    "awayTeam": "Wallsend Red Devils",
-    "prediction": "South Cardiff Win",
-    "odds": "1.46"
-  },
-  {
     "id": 1549338,
     "league": "Npl Nsw U20 (Australia)",
     "matchTime": "06:00",
     "homeTeam": "Blacktown City U20",
     "awayTeam": "St. George City U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1549339,
@@ -41,8 +14,8 @@
     "matchTime": "06:00",
     "homeTeam": "Marconi S. U20",
     "awayTeam": "Sydney Utd U20",
-    "prediction": "Marconi S. U20 Win",
-    "odds": "1.78"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.72"
   },
   {
     "id": 1550902,
@@ -51,7 +24,7 @@
     "homeTeam": "Club Queretaro",
     "awayTeam": "Club America",
     "prediction": "Club Queretaro Win",
-    "odds": "1.75"
+    "odds": "1.44"
   },
   {
     "id": 1522147,
@@ -60,7 +33,7 @@
     "homeTeam": "Western United II",
     "awayTeam": "Bulleen Lions",
     "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "odds": "1.22"
   },
   {
     "id": 1524227,
@@ -68,8 +41,8 @@
     "matchTime": "07:30",
     "homeTeam": "Robina City",
     "awayTeam": "Redlands United",
-    "prediction": "Redlands United Win",
-    "odds": "2.81"
+    "prediction": "Robina City Win & Over 1.5",
+    "odds": "2.6"
   },
   {
     "id": 1529277,
@@ -77,8 +50,8 @@
     "matchTime": "07:30",
     "homeTeam": "Ulverstone",
     "awayTeam": "Glenorchy Knights",
-    "prediction": "Ulverstone Win & Over 1.5",
-    "odds": "2.81"
+    "prediction": "Glenorchy Knights Win",
+    "odds": "2.17"
   },
   {
     "id": 1529278,
@@ -86,8 +59,8 @@
     "matchTime": "07:30",
     "homeTeam": "South East Utd.",
     "awayTeam": "Launceston United",
-    "prediction": "Both Teams To Score",
-    "odds": "1.72"
+    "prediction": "South East Utd. Win",
+    "odds": "1.59"
   },
   {
     "id": 1517601,
@@ -95,8 +68,8 @@
     "matchTime": "08:00",
     "homeTeam": "Marconi Stallions",
     "awayTeam": "Sydney United",
-    "prediction": "Marconi Stallions Win",
-    "odds": "1.36"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1517602,
@@ -105,6 +78,33 @@
     "homeTeam": "Blacktown City",
     "awayTeam": "St George City FA",
     "prediction": "Blacktown City Win",
-    "odds": "1.46"
+    "odds": "1.6"
+  },
+  {
+    "id": 1517820,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Central Coast II",
+    "awayTeam": "Northern Tigers",
+    "prediction": "Central Coast II Win",
+    "odds": "1.94"
+  },
+  {
+    "id": 1523791,
+    "league": "Northern NSW NPL (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "Charlestown City Blues",
+    "awayTeam": "Edgeworth Eagles",
+    "prediction": "Charlestown City Blues Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1532600,
+    "league": "NNSW League 1 (Australia)",
+    "matchTime": "08:00",
+    "homeTeam": "New Lambton",
+    "awayTeam": "Toronto Awaba Stags",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.02"
   }
 ]
