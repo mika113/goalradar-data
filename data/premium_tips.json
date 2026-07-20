@@ -1,48 +1,12 @@
 [
   {
-    "id": 1547593,
-    "league": "A Lyga (Lithuania)",
-    "matchTime": "18:45",
-    "homeTeam": "Suduva Marijampole",
-    "awayTeam": "Hegelmann Litauen",
-    "prediction": "Suduva Marijampole Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1495738,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "19:00",
-    "homeTeam": "Mariehamn",
-    "awayTeam": "Lahti",
-    "prediction": "Mariehamn Win",
-    "odds": "1.71"
-  },
-  {
-    "id": 1515888,
-    "league": "Virsliga (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "Super Nova",
-    "awayTeam": "Grobiņa",
-    "prediction": "Super Nova Win",
-    "odds": "1.78"
-  },
-  {
-    "id": 1529574,
-    "league": "1. Liga (Latvia)",
-    "matchTime": "19:00",
-    "homeTeam": "Tukums II",
-    "awayTeam": "Rīgas FS II",
-    "prediction": "Rīgas FS II Win",
-    "odds": "3.3"
-  },
-  {
     "id": 1559524,
     "league": "Segunda División (Peru)",
     "matchTime": "19:00",
     "homeTeam": "Molinos El Pirata",
     "awayTeam": "U. San Martin",
-    "prediction": "U. San Martin Win",
-    "odds": "1.98"
+    "prediction": "Molinos El Pirata Win",
+    "odds": "1.94"
   },
   {
     "id": 1567689,
@@ -50,8 +14,17 @@
     "matchTime": "19:00",
     "homeTeam": "Velden",
     "awayTeam": "Wolfsberger AC",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Velden Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1598488,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Grafičar",
+    "awayTeam": "Hatta SC",
+    "prediction": "Grafičar Win",
+    "odds": "1.34"
   },
   {
     "id": 1551052,
@@ -59,8 +32,8 @@
     "matchTime": "19:15",
     "homeTeam": "Slavia Sofia",
     "awayTeam": "CSKA Sofia",
-    "prediction": "CSKA Sofia Win",
-    "odds": "1.8"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1577449,
@@ -68,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Rotor Volgograd",
     "awayTeam": "Ska-khabarovsk",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Ska-khabarovsk Win",
+    "odds": "2.18"
   },
   {
     "id": 1494214,
@@ -77,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Kalmar FF",
     "awayTeam": "Malmo FF",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1494216,
@@ -86,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Orgryte IS",
     "awayTeam": "Djurgardens IF",
-    "prediction": "Orgryte IS Win",
-    "odds": "1.34"
+    "prediction": "Djurgardens IF Win",
+    "odds": "3.11"
   },
   {
     "id": 1497627,
@@ -95,8 +68,8 @@
     "matchTime": "20:00",
     "homeTeam": "Norrby IF",
     "awayTeam": "GIF Sundsvall",
-    "prediction": "Norrby IF Win",
-    "odds": "1.45"
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
   },
   {
     "id": 1549983,
@@ -104,7 +77,34 @@
     "matchTime": "20:00",
     "homeTeam": "Buenos Aires City",
     "awayTeam": "Everton La Plata",
-    "prediction": "Buenos Aires City Win",
-    "odds": "1.85"
+    "prediction": "Everton La Plata Win",
+    "odds": "2.63"
+  },
+  {
+    "id": 1549981,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Barrancas UMET",
+    "awayTeam": "Ezeiza",
+    "prediction": "Barrancas UMET Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1498649,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Acassuso",
+    "awayTeam": "San Telmo",
+    "prediction": "Acassuso Win & Over 1.5",
+    "odds": "1.93"
+  },
+  {
+    "id": 1498654,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Chacarita Juniors",
+    "awayTeam": "Club Atlético Güemes",
+    "prediction": "Club Atlético Güemes Win",
+    "odds": "3.07"
   }
 ]
