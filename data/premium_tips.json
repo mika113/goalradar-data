@@ -1,66 +1,12 @@
 [
   {
-    "id": 1586076,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Deportivo Santani",
-    "awayTeam": "Fernando De La Mora",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.99"
-  },
-  {
-    "id": 1498657,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Colegiales",
-    "awayTeam": "Midland",
-    "prediction": "Colegiales Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1498663,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Patronato",
-    "awayTeam": "Atlanta",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
-  },
-  {
-    "id": 1498664,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Quilmes",
-    "awayTeam": "Gimnasia Jujuy",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
-    "id": 1538394,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "02:00",
-    "homeTeam": "Nacional Potosí",
-    "awayTeam": "Real Oruro",
-    "prediction": "Double Chance 1X",
-    "odds": "1.6"
-  },
-  {
-    "id": 1576802,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "02:00",
-    "homeTeam": "Defensor Sporting",
-    "awayTeam": "Liverpool Montevideo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.89"
-  },
-  {
     "id": 1498655,
     "league": "Primera Nacional (Argentina)",
     "matchTime": "03:00",
     "homeTeam": "Chaco For Ever",
     "awayTeam": "San Miguel",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
+    "prediction": "Chaco For Ever Win & Over 1.5",
+    "odds": "1.96"
   },
   {
     "id": 1498653,
@@ -69,7 +15,7 @@
     "homeTeam": "Central Norte",
     "awayTeam": "Deportivo Moron",
     "prediction": "Central Norte Win",
-    "odds": "1.31"
+    "odds": "1.35"
   },
   {
     "id": 1591889,
@@ -77,8 +23,8 @@
     "matchTime": "07:00",
     "homeTeam": "FC Tokyo",
     "awayTeam": "Nagoya Grampus",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
+    "prediction": "FC Tokyo Win & Over 1.5",
+    "odds": "2.35"
   },
   {
     "id": 1567357,
@@ -86,8 +32,8 @@
     "matchTime": "10:00",
     "homeTeam": "Henan Jianye",
     "awayTeam": "Dalian Zhixing",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Both Teams To Score",
+    "odds": "1.75"
   },
   {
     "id": 1567358,
@@ -95,8 +41,8 @@
     "matchTime": "10:00",
     "homeTeam": "Shanghai Shenhua",
     "awayTeam": "Qingdao Jonoon",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
   },
   {
     "id": 1567359,
@@ -105,6 +51,60 @@
     "homeTeam": "Yunnan Yukun",
     "awayTeam": "Chengdu Better City",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "odds": "2.14"
+  },
+  {
+    "id": 1567360,
+    "league": "FA Cup (China)",
+    "matchTime": "10:00",
+    "homeTeam": "Dalian Kewei",
+    "awayTeam": "Beijing Guoan",
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1567361,
+    "league": "FA Cup (China)",
+    "matchTime": "10:00",
+    "homeTeam": "Rizhao Yuqi",
+    "awayTeam": "Shaanxi Union",
+    "prediction": "Rizhao Yuqi Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1567362,
+    "league": "FA Cup (China)",
+    "matchTime": "10:00",
+    "homeTeam": "SHANGHAI SIPG",
+    "awayTeam": "Sichuan Jiuniu",
+    "prediction": "Sichuan Jiuniu Win",
+    "odds": "2.57"
+  },
+  {
+    "id": 1567363,
+    "league": "FA Cup (China)",
+    "matchTime": "10:00",
+    "homeTeam": "Wuhan Three Towns",
+    "awayTeam": "Shandong Luneng",
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
+  },
+  {
+    "id": 1560864,
+    "league": "Australia Cup",
+    "matchTime": "12:30",
+    "homeTeam": "Preston Lions",
+    "awayTeam": "Newcastle Jets",
+    "prediction": "Preston Lions Win & Over 1.5",
+    "odds": "2.16"
+  },
+  {
+    "id": 1560865,
+    "league": "Australia Cup",
+    "matchTime": "12:30",
+    "homeTeam": "Lions",
+    "awayTeam": "Perth Glory",
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
   }
 ]
