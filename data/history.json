@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1589376,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Simba Bhora",
     "awayTeam": "MWOS",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "MWOS Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Scotland Mabvuku",
     "awayTeam": "Bulawayo Chiefs",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bulawayo Chiefs Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1589373,
@@ -78,7 +78,7 @@
     "homeTeam": "Dunkerque",
     "awayTeam": "Samsunspor",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Dunkerque Win",
     "outcome": "Won"
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Rizhao Yuqi",
     "awayTeam": "Shaanxi Union",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rizhao Yuqi Win",
     "outcome": "Won"
   },
   {
@@ -102,45 +102,9 @@
     "homeTeam": "Glentoran BU W",
     "awayTeam": "Riga W",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Riga W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567700,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Santa Clara",
-    "awayTeam": "Moreirense",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Santa Clara Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507009,
-    "league": "K League 1 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "FC Seoul",
-    "awayTeam": "Pohang Steelers",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "FC Seoul Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507008,
-    "league": "K League 1 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Gwangju FC",
-    "awayTeam": "Gimcheon Sangmu FC",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
