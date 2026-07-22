@@ -1,14 +1,86 @@
 [
   {
+    "id": 1576840,
+    "league": "Reserve League (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Central Córdoba SdE Res.",
+    "awayTeam": "Platense Res.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1593472,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Santos U20",
+    "awayTeam": "Vasco da Gama U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1591933,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Egnatia Rrogozhinë",
+    "awayTeam": "Celje",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1589171,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Boavista SC",
+    "awayTeam": "CEAC / Araruama",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1556524,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Železničar Pančevo",
+    "awayTeam": "SC Braga",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519420,
+    "league": "Liga Pro (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Macara",
+    "awayTeam": "Deportivo Cuenca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Macara Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1584934,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Rangers",
     "awayTeam": "Saint Etienne",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Rangers Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -18,10 +90,10 @@
     "homeTeam": "Eastleigh",
     "awayTeam": "Valenciennes",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Valenciennes Win",
+    "outcome": "Won"
   },
   {
     "id": 1560794,
@@ -30,7 +102,7 @@
     "homeTeam": "Stevenage",
     "awayTeam": "West Ham",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "West Ham Win",
     "outcome": "Won"
@@ -42,9 +114,9 @@
     "homeTeam": "Peterborough Sports",
     "awayTeam": "Peterborough",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Peterborough Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Queen of the South",
     "awayTeam": "Aberdeen",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,70 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Tenerife",
     "awayTeam": "Getafe",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560792,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Burton Albion",
-    "awayTeam": "Birmingham",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Birmingham Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1556521,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Spartak Trnava",
-    "awayTeam": "CSKA 1948",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548900,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Southend",
-    "awayTeam": "Northampton",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Northampton Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548891,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Maidenhead",
-    "awayTeam": "Wolves",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548016,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Recreativo Huelva",
-    "awayTeam": "Real Betis",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
