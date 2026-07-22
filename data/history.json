@@ -1,5 +1,17 @@
 [
   {
+    "id": 1526582,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Cumbayá",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1576840,
     "league": "Reserve League (Argentina)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1593472,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Santos U20",
     "awayTeam": "Vasco da Gama U20",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Santos U20 Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Egnatia Rrogozhinë",
     "awayTeam": "Celje",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Boavista SC",
     "awayTeam": "CEAC / Araruama",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Boavista SC Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "Železničar Pančevo",
     "awayTeam": "SC Braga",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SC Braga Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Macara",
     "awayTeam": "Deportivo Cuenca",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Macara Win",
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Rangers",
     "awayTeam": "Saint Etienne",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Rangers Win",
     "outcome": "Won"
   },
   {
@@ -90,10 +102,10 @@
     "homeTeam": "Eastleigh",
     "awayTeam": "Valenciennes",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Valenciennes Win",
-    "outcome": "Won"
+    "prediction": "Eastleigh Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560794,
@@ -102,7 +114,7 @@
     "homeTeam": "Stevenage",
     "awayTeam": "West Ham",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "West Ham Win",
     "outcome": "Won"
@@ -126,21 +138,9 @@
     "homeTeam": "Queen of the South",
     "awayTeam": "Aberdeen",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1567707,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Tenerife",
-    "awayTeam": "Getafe",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Aberdeen Win",
     "outcome": "Won"
   }
 ]
