@@ -1,30 +1,12 @@
 [
   {
-    "id": 1520783,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Ceara",
-    "awayTeam": "CRB",
-    "prediction": "CRB Win",
-    "odds": "3.1"
-  },
-  {
-    "id": 1520788,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Operario-PR",
-    "awayTeam": "Ponte Preta",
-    "prediction": "Operario-PR Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1589172,
     "league": "Copa Rio (Brazil)",
     "matchTime": "01:30",
     "homeTeam": "Sampaio Corrêa RJ",
     "awayTeam": "Resende",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.99"
+    "prediction": "Sampaio Corrêa RJ Win",
+    "odds": "1.55"
   },
   {
     "id": 1493586,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Lexington",
     "awayTeam": "Oakland Roots",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
   },
   {
     "id": 1493907,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Portland Hearts of Pine",
     "awayTeam": "Union Omaha",
-    "prediction": "Union Omaha Win",
-    "odds": "2.72"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1493909,
@@ -51,7 +33,7 @@
     "homeTeam": "Westchester SC",
     "awayTeam": "NY Cosmos",
     "prediction": "Westchester SC Win",
-    "odds": "1.58"
+    "odds": "1.48"
   },
   {
     "id": 1542009,
@@ -59,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Hercílio Luz",
     "awayTeam": "Caravaggio",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
+    "prediction": "Caravaggio Win",
+    "odds": "2.9"
   },
   {
     "id": 1490331,
@@ -69,7 +51,7 @@
     "homeTeam": "Inter Miami",
     "awayTeam": "Chicago Fire",
     "prediction": "Inter Miami Win",
-    "odds": "1.36"
+    "odds": "1.39"
   },
   {
     "id": 1490332,
@@ -78,7 +60,7 @@
     "homeTeam": "FC Cincinnati",
     "awayTeam": "Vancouver Whitecaps",
     "prediction": "FC Cincinnati Win & Over 1.5",
-    "odds": "2.44"
+    "odds": "2.11"
   },
   {
     "id": 1490333,
@@ -86,8 +68,8 @@
     "matchTime": "02:30",
     "homeTeam": "Columbus Crew",
     "awayTeam": "New York City FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1490334,
@@ -96,7 +78,7 @@
     "homeTeam": "Philadelphia Union",
     "awayTeam": "New York Red Bulls",
     "prediction": "Philadelphia Union Win",
-    "odds": "1.84"
+    "odds": "1.49"
   },
   {
     "id": 1490335,
@@ -104,7 +86,25 @@
     "matchTime": "02:30",
     "homeTeam": "New England Revolution",
     "awayTeam": "Toronto FC",
-    "prediction": "Toronto FC Win",
-    "odds": "3.48"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
+  },
+  {
+    "id": 1520785,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "Goias",
+    "awayTeam": "Sport Recife",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
+  },
+  {
+    "id": 1519421,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "03:00",
+    "homeTeam": "Manta FC",
+    "awayTeam": "LDU de Quito",
+    "prediction": "LDU de Quito Win",
+    "odds": "1.73"
   }
 ]
