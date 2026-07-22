@@ -1,39 +1,12 @@
 [
   {
-    "id": 1583403,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Avellino",
-    "awayTeam": "Scafatese",
-    "prediction": "Avellino Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1583712,
-    "league": "Cup (Estonia)",
-    "matchTime": "18:00",
-    "homeTeam": "JK Tabasalu",
-    "awayTeam": "Tamper",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
-  },
-  {
-    "id": 1598500,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "18:00",
-    "homeTeam": "TSC Backa Topola",
-    "awayTeam": "Al-Faisaly FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
     "id": 1598502,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:00",
     "homeTeam": "Jablonec II",
     "awayTeam": "Příbram II",
-    "prediction": "Příbram II Win",
-    "odds": "2.12"
+    "prediction": "Jablonec II Win & Over 1.5",
+    "odds": "2.57"
   },
   {
     "id": 1598503,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "União Lamas",
     "awayTeam": "Os Marialvas",
-    "prediction": "Os Marialvas Win",
-    "odds": "3.05"
+    "prediction": "União Lamas Win",
+    "odds": "1.74"
   },
   {
     "id": 1593106,
@@ -51,7 +24,7 @@
     "homeTeam": "Mes Rafsanjan",
     "awayTeam": "Sanat Naft",
     "prediction": "Mes Rafsanjan Win",
-    "odds": "1.41"
+    "odds": "1.44"
   },
   {
     "id": 1541752,
@@ -59,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "Jaro 2",
     "awayTeam": "GBK",
-    "prediction": "Both Teams To Score",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1548897,
@@ -68,8 +41,8 @@
     "matchTime": "18:30",
     "homeTeam": "Guingamp",
     "awayTeam": "Concarneau",
-    "prediction": "Guingamp Win",
-    "odds": "1.96"
+    "prediction": "Concarneau Win",
+    "odds": "1.64"
   },
   {
     "id": 1558473,
@@ -78,7 +51,7 @@
     "homeTeam": "PAOK W",
     "awayTeam": "Hapoel Jerusalem W",
     "prediction": "PAOK W Win & Over 1.5",
-    "odds": "2.87"
+    "odds": "2.29"
   },
   {
     "id": 1560776,
@@ -86,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Feignies-Aulnoye",
     "awayTeam": "Seraing United",
-    "prediction": "Seraing United Win",
-    "odds": "3.14"
+    "prediction": "Both Teams To Score",
+    "odds": "2.03"
   },
   {
     "id": 1560781,
@@ -95,8 +68,8 @@
     "matchTime": "18:30",
     "homeTeam": "Metz",
     "awayTeam": "Sochaux",
-    "prediction": "Sochaux Win",
-    "odds": "3.47"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1560782,
@@ -104,7 +77,34 @@
     "matchTime": "18:30",
     "homeTeam": "Torino",
     "awayTeam": "Alcione",
-    "prediction": "Torino Win",
-    "odds": "1.8"
+    "prediction": "Alcione Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1562955,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Werder Bremen",
+    "awayTeam": "Fagiano Okayama",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
+  },
+  {
+    "id": 1567699,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "KSZO 1929",
+    "awayTeam": "Bochnia",
+    "prediction": "KSZO 1929 Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1567703,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "18:30",
+    "homeTeam": "Nantes",
+    "awayTeam": "La Roche VF",
+    "prediction": "La Roche VF Win",
+    "odds": "3.11"
   }
 ]
