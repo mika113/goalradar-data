@@ -1,30 +1,12 @@
 [
   {
-    "id": 1534802,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "16:00",
-    "homeTeam": "Jaiyq",
-    "awayTeam": "Khan Tengri",
-    "prediction": "Jaiyq Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1534803,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "16:00",
-    "homeTeam": "Kaspij Aktau 2",
-    "awayTeam": "Ekibastuz",
-    "prediction": "Kaspij Aktau 2 Win",
-    "odds": "1.35"
-  },
-  {
     "id": 1583413,
     "league": "Friendlies Clubs (World)",
     "matchTime": "16:00",
     "homeTeam": "Al Diriyah",
     "awayTeam": "FA 2000",
-    "prediction": "FA 2000 Win",
-    "odds": "2.69"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1589378,
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Agama",
     "awayTeam": "Hardrock",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Hardrock Win",
+    "odds": "2.02"
   },
   {
     "id": 1589379,
@@ -42,7 +24,7 @@
     "homeTeam": "CAPS United",
     "awayTeam": "Hunters",
     "prediction": "CAPS United Win",
-    "odds": "1.3"
+    "odds": "1.72"
   },
   {
     "id": 1589380,
@@ -50,8 +32,17 @@
     "matchTime": "16:00",
     "homeTeam": "Triangle United",
     "awayTeam": "Ngezi Platinum",
+    "prediction": "Triangle United Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1601059,
+    "league": "CONCACAF Caribbean Club Shield (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Dublanc",
+    "awayTeam": "St. John's",
     "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "odds": "1.81"
   },
   {
     "id": 1531063,
@@ -59,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "Gazalkent",
     "awayTeam": "Metalourg",
-    "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
   },
   {
     "id": 1591944,
@@ -69,7 +60,7 @@
     "homeTeam": "Malisheva",
     "awayTeam": "Hibernian",
     "prediction": "Malisheva Win & Over 1.5",
-    "odds": "2.21"
+    "odds": "2.64"
   },
   {
     "id": 1513236,
@@ -78,7 +69,7 @@
     "homeTeam": "New England II",
     "awayTeam": "New York City II",
     "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "odds": "2.09"
   },
   {
     "id": 1516069,
@@ -86,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "Navbahor",
     "awayTeam": "Qizilqum",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1516072,
@@ -95,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "Surkhon",
     "awayTeam": "Dinamo Samarqand",
-    "prediction": "Double Chance X2",
-    "odds": "1.52"
+    "prediction": "Surkhon Win",
+    "odds": "1.53"
   },
   {
     "id": 1548017,
@@ -104,7 +95,16 @@
     "matchTime": "18:00",
     "homeTeam": "Sampdoria",
     "awayTeam": "Cagliari",
-    "prediction": "Sampdoria Win",
-    "odds": "1.75"
+    "prediction": "Cagliari Win",
+    "odds": "2.44"
+  },
+  {
+    "id": 1553600,
+    "league": "Cup (Estonia)",
+    "matchTime": "18:00",
+    "homeTeam": "Viimsi",
+    "awayTeam": "Nomme Utd U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   }
 ]
