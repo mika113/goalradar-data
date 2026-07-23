@@ -1,48 +1,12 @@
 [
   {
-    "id": 1492294,
-    "league": "Serie A (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Coritiba",
-    "awayTeam": "Palmeiras",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
-  },
-  {
-    "id": 1492292,
-    "league": "Serie A (Brazil)",
-    "matchTime": "03:30",
-    "homeTeam": "Chapecoense-sc",
-    "awayTeam": "Flamengo",
-    "prediction": "Flamengo Win",
-    "odds": "3.43"
-  },
-  {
-    "id": 1492296,
-    "league": "Serie A (Brazil)",
-    "matchTime": "03:30",
-    "homeTeam": "Internacional",
-    "awayTeam": "Cruzeiro",
-    "prediction": "Cruzeiro Win",
-    "odds": "2.89"
-  },
-  {
-    "id": 1492298,
-    "league": "Serie A (Brazil)",
-    "matchTime": "03:30",
-    "homeTeam": "Sao Paulo",
-    "awayTeam": "Atletico Paranaense",
-    "prediction": "Sao Paulo Win",
-    "odds": "1.46"
-  },
-  {
     "id": 1598631,
     "league": "Premier League (Bhutan)",
-    "matchTime": "12:00",
+    "matchTime": "13:00",
     "homeTeam": "Tensung",
     "awayTeam": "Paro",
     "prediction": "Tensung Win",
-    "odds": "1.89"
+    "odds": "1.49"
   },
   {
     "id": 1599167,
@@ -50,7 +14,43 @@
     "matchTime": "17:30",
     "homeTeam": "Toktogul",
     "awayTeam": "Alay",
-    "prediction": "Both Teams To Score",
-    "odds": "1.61"
+    "prediction": "Toktogul Win & Over 1.5",
+    "odds": "2.75"
+  },
+  {
+    "id": 1593521,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Qarabag",
+    "awayTeam": "CSKA Sofia",
+    "prediction": "Qarabag Win & Over 1.5",
+    "odds": "2.96"
+  },
+  {
+    "id": 1556544,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Hammarby FF",
+    "awayTeam": "Anderlecht",
+    "prediction": "Hammarby FF Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1556546,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Tromso",
+    "awayTeam": "Hradec Králové",
+    "prediction": "Hradec Králové Win",
+    "odds": "2.03"
+  },
+  {
+    "id": 1593519,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Dynamo Kyiv",
+    "awayTeam": "PAOK",
+    "prediction": "Dynamo Kyiv Win",
+    "odds": "1.58"
   }
 ]
