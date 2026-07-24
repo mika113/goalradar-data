@@ -1,84 +1,12 @@
 [
   {
-    "id": 1545378,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "02:00",
-    "homeTeam": "Aurora",
-    "awayTeam": "ABB",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1549570,
-    "league": "Primera B (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Tigres FC",
-    "awayTeam": "Leones FC",
-    "prediction": "Tigres FC Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1549690,
-    "league": "Primera A (Colombia)",
-    "matchTime": "02:10",
-    "homeTeam": "Llaneros",
-    "awayTeam": "Deportivo Pereira",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.59"
-  },
-  {
-    "id": 1598795,
-    "league": "USL League Two (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Flint City Bucks",
-    "awayTeam": "Peoria",
-    "prediction": "Peoria Win",
-    "odds": "2.28"
-  },
-  {
-    "id": 1530484,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "02:35",
-    "homeTeam": "Sportivo Belgrano",
-    "awayTeam": "Atletico Escobar",
-    "prediction": "Atletico Escobar Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1493587,
-    "league": "USL Championship (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Birmingham Legion",
-    "awayTeam": "New Mexico United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.01"
-  },
-  {
-    "id": 1508475,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Houston Dash W",
-    "awayTeam": "Bay FC W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
-    "id": 1508476,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Orlando Pride W",
-    "awayTeam": "Chicago Red Stars W",
-    "prediction": "Orlando Pride W Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1526580,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchTime": "03:00",
     "homeTeam": "LDU Portoviejo",
     "awayTeam": "Santo Domingo",
-    "prediction": "LDU Portoviejo Win",
-    "odds": "1.35"
+    "prediction": "Santo Domingo Win",
+    "odds": "2.29"
   },
   {
     "id": 1559589,
@@ -86,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Antigua GFC",
     "awayTeam": "Marquense",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Antigua GFC Win",
+    "odds": "1.74"
   },
   {
     "id": 1586085,
@@ -95,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Walter Ferretti",
     "awayTeam": "Diriangén",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Walter Ferretti Win",
+    "odds": "1.83"
   },
   {
     "id": 1493009,
@@ -104,7 +32,79 @@
     "matchTime": "03:15",
     "homeTeam": "Huracan",
     "awayTeam": "Banfield",
-    "prediction": "Huracan Win",
-    "odds": "1.82"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
+  },
+  {
+    "id": 1493012,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "03:15",
+    "homeTeam": "Platense",
+    "awayTeam": "Union Santa Fe",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1505468,
+    "league": "Primera División (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Colo Colo",
+    "awayTeam": "Deportes Limache",
+    "prediction": "Colo Colo Win",
+    "odds": "1.43"
+  },
+  {
+    "id": 1511619,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Deportes Iquique",
+    "awayTeam": "Deportes Temuco",
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1522411,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "03:30",
+    "homeTeam": "Cruzeiro W",
+    "awayTeam": "São Paulo W",
+    "prediction": "Double Chance X2",
+    "odds": "1.65"
+  },
+  {
+    "id": 1581370,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Tepatitlán",
+    "awayTeam": "Durango",
+    "prediction": "Durango Win",
+    "odds": "2.23"
+  },
+  {
+    "id": 1581371,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Mineros de Zacatecas",
+    "awayTeam": "Correcaminos Uat",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
+  },
+  {
+    "id": 1586086,
+    "league": "Primera Division (Nicaragua)",
+    "matchTime": "04:00",
+    "homeTeam": "Real Estelí",
+    "awayTeam": "Matagalpa",
+    "prediction": "Real Estelí Win & Over 1.5",
+    "odds": "1.83"
+  },
+  {
+    "id": 1549686,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:15",
+    "homeTeam": "Deportivo Cali",
+    "awayTeam": "Jaguares",
+    "prediction": "Deportivo Cali Win",
+    "odds": "1.89"
   }
 ]
