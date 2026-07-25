@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "UWA Nedlands",
     "awayTeam": "Curtin University",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "UWA Nedlands Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1527240,
@@ -77,6 +77,30 @@
     "matchDate": "FT",
     "homeTeam": "Dandenong Thunder",
     "awayTeam": "Altona Magic",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1517906,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Inter Lions",
+    "awayTeam": "Prospect United",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Prospect United Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1517824,
+    "league": "New South Wales NPL 2 (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Bankstown City Lions",
+    "awayTeam": "Canterbury Bankstown",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -104,7 +128,7 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
