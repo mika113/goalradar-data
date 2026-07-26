@@ -12,6 +12,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1595196,
+    "league": "Super Liga (Moldova)",
+    "matchDate": "FT",
+    "homeTeam": "Sheriff Tiraspol",
+    "awayTeam": "Milsami Orhei",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1595195,
+    "league": "Super Liga (Moldova)",
+    "matchDate": "FT",
+    "homeTeam": "Sireți",
+    "awayTeam": "Petrocub",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1571794,
     "league": "NB II (Hungary)",
     "matchDate": "FT",
@@ -21,7 +45,55 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1571792,
+    "league": "NB II (Hungary)",
+    "matchDate": "FT",
+    "homeTeam": "Gyirmot SE",
+    "awayTeam": "Csakvar",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Csakvar Win",
     "outcome": "Won"
+  },
+  {
+    "id": 1567386,
+    "league": "David Kipiani Cup (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Varketili",
+    "awayTeam": "Rustavi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1553815,
+    "league": "Super Liga (Serbia)",
+    "matchDate": "FT",
+    "homeTeam": "FK Crvena Zvezda",
+    "awayTeam": "Vojvodina",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551515,
+    "league": "Super Liga (Slovakia)",
+    "matchDate": "FT",
+    "homeTeam": "Dukla Banská Bystrica",
+    "awayTeam": "Slovan Bratislava",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
   },
   {
     "id": 1551425,
@@ -29,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Shkendija",
     "awayTeam": "Skopje",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Shkendija Win",
     "outcome": "Won"
   },
   {
@@ -69,66 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511621,
-    "league": "Primera B (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Rangers de Talca",
-    "awayTeam": "Deportes Copiapo",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511620,
-    "league": "Primera B (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "D. Puerto Montt",
-    "awayTeam": "Antofagasta",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Antofagasta Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1601083,
-    "league": "CECAFA Club Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rayon Sports",
-    "awayTeam": "KVZ",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1598550,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Napoli",
-    "awayTeam": "Carrarese",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Napoli Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1594081,
-    "league": "NB III - Northwest (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Szombathelyi Haladas",
-    "awayTeam": "SC Sopron",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "SC Sopron Win",
     "outcome": "Won"
   }
 ]
