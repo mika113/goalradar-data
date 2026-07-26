@@ -1,192 +1,12 @@
 [
   {
-    "id": 1601067,
-    "league": "Premier League (Bhutan)",
-    "matchTime": "12:00",
-    "homeTeam": "Tsirang",
-    "awayTeam": "Transport United",
-    "prediction": "Tsirang Win",
-    "odds": "1.34"
-  },
-  {
-    "id": 1559727,
-    "league": "FNL (Czech-Republic)",
-    "matchTime": "11:15",
-    "homeTeam": "Slavia Praha II",
-    "awayTeam": "Příbram",
-    "prediction": "Slavia Praha II Win & Over 1.5",
-    "odds": "2.33"
-  },
-  {
-    "id": 1598545,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "11:15",
-    "homeTeam": "Motorlet Praha",
-    "awayTeam": "Neratovice-Byškovice",
-    "prediction": "Motorlet Praha Win",
-    "odds": "1.4"
-  },
-  {
-    "id": 1532839,
-    "league": "League Two (China)",
-    "matchTime": "11:30",
-    "homeTeam": "Shanghai Port II",
-    "awayTeam": "Tai'an Tiankuang",
-    "prediction": "Tai'an Tiankuang Win",
-    "odds": "2.28"
-  },
-  {
-    "id": 1561075,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "11:30",
-    "homeTeam": "Slovan Bratislava II",
-    "awayTeam": "Zlaté Moravce",
-    "prediction": "Slovan Bratislava II Win & Over 1.5",
-    "odds": "2.4"
-  },
-  {
-    "id": 1561076,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "11:30",
-    "homeTeam": "Žilina II",
-    "awayTeam": "Petržalka",
-    "prediction": "Žilina II Win",
-    "odds": "1.98"
-  },
-  {
-    "id": 1582734,
-    "league": "Cup (Czech-Republic)",
-    "matchTime": "11:30",
-    "homeTeam": "Ždírec nad Doubravou",
-    "awayTeam": "Kuřim",
-    "prediction": "Ždírec nad Doubravou Win",
-    "odds": "1.45"
-  },
-  {
-    "id": 1602955,
-    "league": "Piala Presiden (Indonesia)",
-    "matchTime": "11:30",
-    "homeTeam": "PSMS Medan",
-    "awayTeam": "Port FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.86"
-  },
-  {
-    "id": 1566283,
-    "league": "Oberliga - Hamburg (Germany)",
-    "matchTime": "11:45",
-    "homeTeam": "HEBC",
-    "awayTeam": "Niendorfer TSV",
-    "prediction": "Niendorfer TSV Win",
-    "odds": "2.09"
-  },
-  {
-    "id": 1520529,
-    "league": "K3 League (South-Korea)",
-    "matchTime": "12:00",
-    "homeTeam": "Yangpyeong",
-    "awayTeam": "Busan Transportation",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
-  },
-  {
-    "id": 1536858,
-    "league": "Second League - Group 4 (Russia)",
-    "matchTime": "12:00",
-    "homeTeam": "Pobeda Nizhniy Novgorod",
-    "awayTeam": "Ural II",
-    "prediction": "Pobeda Nizhniy Novgorod Win",
-    "odds": "1.59"
-  },
-  {
-    "id": 1566284,
-    "league": "Oberliga - Hamburg (Germany)",
-    "matchTime": "12:00",
-    "homeTeam": "Sasel",
-    "awayTeam": "Buchholz",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
-  },
-  {
-    "id": 1567743,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "12:00",
-    "homeTeam": "Borussia Dortmund II",
-    "awayTeam": "Jong Utrecht",
-    "prediction": "Borussia Dortmund II Win",
-    "odds": "1.5"
-  },
-  {
-    "id": 1577458,
-    "league": "First League (Russia)",
-    "matchTime": "12:00",
-    "homeTeam": "Enisey",
-    "awayTeam": "Veles",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
-  },
-  {
-    "id": 1581851,
-    "league": "Persha Liga (Ukraine)",
-    "matchTime": "12:00",
-    "homeTeam": "Kolos Kovalivka II",
-    "awayTeam": "Prykarpattia",
-    "prediction": "Kolos Kovalivka II Win",
-    "odds": "1.95"
-  },
-  {
-    "id": 1593838,
-    "league": "NB III - Northeast (Hungary)",
-    "matchTime": "12:00",
-    "homeTeam": "Kisvárda II",
-    "awayTeam": "Mátészalka",
-    "prediction": "Mátészalka Win",
-    "odds": "2.24"
-  },
-  {
-    "id": 1594080,
-    "league": "NB III - Northwest (Hungary)",
-    "matchTime": "12:00",
-    "homeTeam": "Gyori ETO II",
-    "awayTeam": "Tatabánya",
-    "prediction": "Tatabánya Win",
-    "odds": "3.41"
-  },
-  {
-    "id": 1594318,
-    "league": "NB III - Southeast (Hungary)",
-    "matchTime": "12:00",
-    "homeTeam": "Honvéd II",
-    "awayTeam": "Bekescsaba 1912",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1594322,
-    "league": "NB III - Southeast (Hungary)",
-    "matchTime": "12:00",
-    "homeTeam": "Újpest II",
-    "awayTeam": "BKV Előre",
-    "prediction": "Újpest II Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1594558,
-    "league": "NB III - Southwest (Hungary)",
-    "matchTime": "12:00",
-    "homeTeam": "MTK Budapest II",
-    "awayTeam": "Budafoki LC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
-  },
-  {
     "id": 1582093,
     "league": "Kvindeliga (Denmark)",
     "matchTime": "12:30",
     "homeTeam": "Nordsjælland W",
     "awayTeam": "Odense Q W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
   },
   {
     "id": 1496285,
@@ -194,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Rana",
     "awayTeam": "Kjelsås",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "prediction": "Rana Win",
+    "odds": "1.42"
   },
   {
     "id": 1497196,
@@ -203,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "Skjetten",
     "awayTeam": "Bossekop",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "Skjetten Win",
+    "odds": "1.86"
   },
   {
     "id": 1520530,
@@ -213,7 +33,7 @@
     "homeTeam": "Changwon City",
     "awayTeam": "Jeonbuk Motors II",
     "prediction": "Changwon City Win",
-    "odds": "1.7"
+    "odds": "1.62"
   },
   {
     "id": 1520531,
@@ -221,8 +41,8 @@
     "matchTime": "13:00",
     "homeTeam": "Chuncheon",
     "awayTeam": "Ulsan Citizen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1528662,
@@ -230,8 +50,8 @@
     "matchTime": "13:00",
     "homeTeam": "Yanbian Longding",
     "awayTeam": "Meizhou Kejia",
-    "prediction": "Yanbian Longding Win & Over 1.5",
-    "odds": "2.64"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1534370,
@@ -239,8 +59,8 @@
     "matchTime": "13:00",
     "homeTeam": "Bumprom",
     "awayTeam": "Molodechno-DYuSSh 4",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "prediction": "Bumprom Win",
+    "odds": "1.45"
   },
   {
     "id": 1536411,
@@ -248,8 +68,8 @@
     "matchTime": "13:00",
     "homeTeam": "Kosmos Dolgoprudny",
     "awayTeam": "Luki-Energiya",
-    "prediction": "Kosmos Dolgoprudny Win",
-    "odds": "1.81"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 1536854,
@@ -257,8 +77,8 @@
     "matchTime": "13:00",
     "homeTeam": "Akron II",
     "awayTeam": "Chelyabinsk II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
+    "prediction": "Akron II Win",
+    "odds": "1.37"
   },
   {
     "id": 1536855,
@@ -266,8 +86,8 @@
     "matchTime": "13:00",
     "homeTeam": "Dinamo Barnaul",
     "awayTeam": "Khimik Dzerzhinsk",
-    "prediction": "Dinamo Barnaul Win",
-    "odds": "1.4"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   },
   {
     "id": 1569820,
@@ -275,8 +95,8 @@
     "matchTime": "13:00",
     "homeTeam": "Haman",
     "awayTeam": "Sejong SA",
-    "prediction": "Haman Win & Over 1.5",
-    "odds": "1.86"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.29"
   },
   {
     "id": 1569821,
@@ -285,7 +105,7 @@
     "homeTeam": "Pyeongtaek Citizen",
     "awayTeam": "Jinju Citizen",
     "prediction": "Pyeongtaek Citizen Win",
-    "odds": "1.39"
+    "odds": "1.57"
   },
   {
     "id": 1507012,
@@ -293,8 +113,8 @@
     "matchTime": "13:30",
     "homeTeam": "FC Anyang",
     "awayTeam": "Gangwon FC",
-    "prediction": "Gangwon FC Win",
-    "odds": "3.42"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1507013,
@@ -302,8 +122,8 @@
     "matchTime": "13:30",
     "homeTeam": "Gwangju FC",
     "awayTeam": "Jeju United FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
   },
   {
     "id": 1507014,
@@ -311,8 +131,8 @@
     "matchTime": "13:30",
     "homeTeam": "Incheon United",
     "awayTeam": "Bucheon FC 1995",
-    "prediction": "Incheon United Win & Over 1.5",
-    "odds": "2.1"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1507015,
@@ -320,8 +140,8 @@
     "matchTime": "13:30",
     "homeTeam": "FC Seoul",
     "awayTeam": "Ulsan Hyundai FC",
-    "prediction": "FC Seoul Win",
-    "odds": "1.95"
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
   },
   {
     "id": 1510393,
@@ -329,8 +149,8 @@
     "matchTime": "13:30",
     "homeTeam": "Gimpo Citizen",
     "awayTeam": "Yongin City",
-    "prediction": "Gimpo Citizen Win",
-    "odds": "1.38"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1510394,
@@ -338,8 +158,8 @@
     "matchTime": "13:30",
     "homeTeam": "Paju Citizen",
     "awayTeam": "Ansan Greeners",
-    "prediction": "Paju Citizen Win",
-    "odds": "1.64"
+    "prediction": "Ansan Greeners Win",
+    "odds": "2.09"
   },
   {
     "id": 1496104,
@@ -347,8 +167,8 @@
     "matchTime": "14:00",
     "homeTeam": "Kvik Halden",
     "awayTeam": "Træff",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Træff Win",
+    "odds": "2.77"
   },
   {
     "id": 1497639,
@@ -356,8 +176,8 @@
     "matchTime": "14:00",
     "homeTeam": "GIF Sundsvall",
     "awayTeam": "Falkenbergs FF",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1523215,
@@ -365,8 +185,8 @@
     "matchTime": "14:00",
     "homeTeam": "Yunnan Yukun",
     "awayTeam": "Sichuan Jiuniu",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
+    "prediction": "Sichuan Jiuniu Win",
+    "odds": "1.69"
   },
   {
     "id": 1528663,
@@ -375,7 +195,7 @@
     "homeTeam": "Dalian Huayi",
     "awayTeam": "Suzhou Dongwu",
     "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "odds": "2.18"
   },
   {
     "id": 1536639,
@@ -384,7 +204,7 @@
     "homeTeam": "Arsenal Tula II",
     "awayTeam": "Ryazan",
     "prediction": "Arsenal Tula II Win",
-    "odds": "1.9"
+    "odds": "1.36"
   },
   {
     "id": 1565430,
@@ -392,8 +212,8 @@
     "matchTime": "14:00",
     "homeTeam": "Kaluga",
     "awayTeam": "Novosibirsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.08"
   },
   {
     "id": 1566285,
@@ -401,8 +221,8 @@
     "matchTime": "14:00",
     "homeTeam": "Pinneberg",
     "awayTeam": "Harksheide",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
   },
   {
     "id": 1567739,
@@ -410,8 +230,8 @@
     "matchTime": "14:00",
     "homeTeam": "VfR Aalen",
     "awayTeam": "FC Saarbrücken",
-    "prediction": "VfR Aalen Win",
-    "odds": "1.68"
+    "prediction": "FC Saarbrücken Win",
+    "odds": "2.2"
   },
   {
     "id": 1567740,
@@ -419,8 +239,8 @@
     "matchTime": "14:00",
     "homeTeam": "De Graafschap",
     "awayTeam": "Al-Jazira",
-    "prediction": "Al-Jazira Win",
-    "odds": "2.75"
+    "prediction": "De Graafschap Win & Over 1.5",
+    "odds": "2.42"
   },
   {
     "id": 1567746,
@@ -428,8 +248,8 @@
     "matchTime": "14:00",
     "homeTeam": "Guimaraes",
     "awayTeam": "Nottingham Forest",
-    "prediction": "Guimaraes Win & Over 1.5",
-    "odds": "1.81"
+    "prediction": "Guimaraes Win",
+    "odds": "1.38"
   },
   {
     "id": 1581855,
@@ -437,8 +257,8 @@
     "matchTime": "14:00",
     "homeTeam": "Probiy Horodenka",
     "awayTeam": "Inhulets",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Probiy Horodenka Win",
+    "odds": "1.3"
   },
   {
     "id": 1598800,
@@ -446,8 +266,8 @@
     "matchTime": "14:00",
     "homeTeam": "Dinamo Minsk",
     "awayTeam": "ML Vitebsk",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Dinamo Minsk Win",
+    "odds": "1.79"
   },
   {
     "id": 1528664,
@@ -455,8 +275,8 @@
     "matchTime": "14:30",
     "homeTeam": "Guangxi Hengchen",
     "awayTeam": "Heilongjiang Lava Spring",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
+    "prediction": "Guangxi Hengchen Win",
+    "odds": "1.46"
   },
   {
     "id": 1532841,
@@ -464,8 +284,8 @@
     "matchTime": "14:30",
     "homeTeam": "Guangdong Mingtu",
     "awayTeam": "Chengdu Rongcheng II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "prediction": "Guangdong Mingtu Win & Over 1.5",
+    "odds": "2.17"
   },
   {
     "id": 1532842,
@@ -473,8 +293,8 @@
     "matchTime": "14:30",
     "homeTeam": "Hubei Chufeng Heli",
     "awayTeam": "Wuhan Three Towns II",
-    "prediction": "Hubei Chufeng Heli Win",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1523216,
@@ -483,7 +303,7 @@
     "homeTeam": "Chengdu Better City",
     "awayTeam": "Beijing Guoan",
     "prediction": "Chengdu Better City Win",
-    "odds": "1.68"
+    "odds": "1.49"
   },
   {
     "id": 1523217,
@@ -491,8 +311,8 @@
     "matchTime": "14:35",
     "homeTeam": "Shandong Luneng",
     "awayTeam": "Henan Jianye",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Shandong Luneng Win",
+    "odds": "1.97"
   },
   {
     "id": 1494217,
@@ -501,7 +321,7 @@
     "homeTeam": "IF Brommapojkarna",
     "awayTeam": "Hammarby FF",
     "prediction": "Hammarby FF Win",
-    "odds": "1.65"
+    "odds": "3.21"
   },
   {
     "id": 1494223,
@@ -509,8 +329,8 @@
     "matchTime": "15:00",
     "homeTeam": "Sirius",
     "awayTeam": "IFK Goteborg",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Sirius Win",
+    "odds": "1.66"
   },
   {
     "id": 1495742,
@@ -518,8 +338,8 @@
     "matchTime": "15:00",
     "homeTeam": "Ilves",
     "awayTeam": "Lahti",
-    "prediction": "Lahti Win",
-    "odds": "2.77"
+    "prediction": "Ilves Win",
+    "odds": "1.96"
   },
   {
     "id": 1495743,
@@ -527,8 +347,8 @@
     "matchTime": "15:00",
     "homeTeam": "Inter Turku",
     "awayTeam": "Gnistan",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
+    "prediction": "Gnistan Win",
+    "odds": "3.27"
   },
   {
     "id": 1496287,
@@ -536,8 +356,8 @@
     "matchTime": "15:00",
     "homeTeam": "Trygg/Lade",
     "awayTeam": "Eidsvold",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.21"
+    "prediction": "Trygg/Lade Win",
+    "odds": "1.37"
   },
   {
     "id": 1496831,
@@ -545,8 +365,8 @@
     "matchTime": "15:00",
     "homeTeam": "Os",
     "awayTeam": "Varegg",
-    "prediction": "Varegg Win",
-    "odds": "2.49"
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   },
   {
     "id": 1497009,
@@ -554,8 +374,8 @@
     "matchTime": "15:00",
     "homeTeam": "Åkra",
     "awayTeam": "Brodd",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
   },
   {
     "id": 1515889,
@@ -563,8 +383,8 @@
     "matchTime": "15:00",
     "homeTeam": "Super Nova",
     "awayTeam": "Riga",
-    "prediction": "Super Nova Win",
-    "odds": "1.66"
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
   },
   {
     "id": 1523218,
@@ -573,7 +393,7 @@
     "homeTeam": "Hangzhou Greentown",
     "awayTeam": "Dalian Zhixing",
     "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "odds": "1.45"
   },
   {
     "id": 1536856,
@@ -581,8 +401,8 @@
     "matchTime": "15:00",
     "homeTeam": "Nosta",
     "awayTeam": "Izhevsk",
-    "prediction": "Nosta Win & Over 1.5",
-    "odds": "2.7"
+    "prediction": "Izhevsk Win",
+    "odds": "2.68"
   },
   {
     "id": 1546729,
@@ -590,8 +410,8 @@
     "matchTime": "15:00",
     "homeTeam": "Bonner SC",
     "awayTeam": "KFC Uerdingen 05",
-    "prediction": "Bonner SC Win",
-    "odds": "1.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
   },
   {
     "id": 1548029,
@@ -599,8 +419,8 @@
     "matchTime": "15:00",
     "homeTeam": "Feyenoord",
     "awayTeam": "Rayo Vallecano",
-    "prediction": "Rayo Vallecano Win",
-    "odds": "2.96"
+    "prediction": "Feyenoord Win",
+    "odds": "1.73"
   },
   {
     "id": 1548976,
@@ -608,8 +428,8 @@
     "matchTime": "15:00",
     "homeTeam": "Sonderjyske",
     "awayTeam": "FC Midtjylland",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
+    "prediction": "Sonderjyske Win",
+    "odds": "1.42"
   },
   {
     "id": 1551298,
@@ -617,8 +437,8 @@
     "matchTime": "15:00",
     "homeTeam": "Hobro",
     "awayTeam": "Aarhus Fremad",
-    "prediction": "Hobro Win",
-    "odds": "1.42"
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
   },
   {
     "id": 1555350,
@@ -626,8 +446,8 @@
     "matchTime": "15:00",
     "homeTeam": "BSC Young Boys",
     "awayTeam": "FC Sion",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "BSC Young Boys Win",
+    "odds": "1.48"
   },
   {
     "id": 1556394,
@@ -635,8 +455,8 @@
     "matchTime": "15:00",
     "homeTeam": "BFA",
     "awayTeam": "Be1 NFA",
-    "prediction": "BFA Win",
-    "odds": "1.87"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1556625,
@@ -644,8 +464,8 @@
     "matchTime": "15:00",
     "homeTeam": "Saku Sporting",
     "awayTeam": "Legion",
-    "prediction": "Saku Sporting Win",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1567010,
@@ -653,8 +473,8 @@
     "matchTime": "15:00",
     "homeTeam": "Schwabmünchen",
     "awayTeam": "1860 München II",
-    "prediction": "1860 München II Win",
-    "odds": "1.65"
+    "prediction": "Schwabmünchen Win",
+    "odds": "1.37"
   },
   {
     "id": 1567741,
@@ -662,8 +482,8 @@
     "matchTime": "15:00",
     "homeTeam": "Ajax",
     "awayTeam": "Burnley",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
   },
   {
     "id": 1567744,
@@ -672,7 +492,7 @@
     "homeTeam": "Hanau 93",
     "awayTeam": "Bayern Alzenau",
     "prediction": "Hanau 93 Win",
-    "odds": "1.32"
+    "odds": "1.56"
   },
   {
     "id": 1567745,
@@ -680,8 +500,8 @@
     "matchTime": "15:00",
     "homeTeam": "Eintracht Norderstedt",
     "awayTeam": "St. Pauli II",
-    "prediction": "St. Pauli II Win",
-    "odds": "2.22"
+    "prediction": "Eintracht Norderstedt Win",
+    "odds": "1.66"
   },
   {
     "id": 1567747,
@@ -689,8 +509,8 @@
     "matchTime": "15:00",
     "homeTeam": "SG Wattenscheid 09",
     "awayTeam": "Germania Ratingen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "SG Wattenscheid 09 Win & Over 1.5",
+    "odds": "1.95"
   },
   {
     "id": 1583461,
@@ -698,8 +518,8 @@
     "matchTime": "15:00",
     "homeTeam": "Ostia Mare",
     "awayTeam": "Benevento",
-    "prediction": "Benevento Win",
-    "odds": "2.92"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1584983,
@@ -707,8 +527,8 @@
     "matchTime": "15:00",
     "homeTeam": "FC Viktoria Köln",
     "awayTeam": "SV Sandhausen",
-    "prediction": "SV Sandhausen Win",
-    "odds": "2.47"
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
   },
   {
     "id": 1586794,
@@ -716,7 +536,187 @@
     "matchTime": "15:00",
     "homeTeam": "BSG Chemie Leipzig",
     "awayTeam": "SV Babelsberg 03",
-    "prediction": "BSG Chemie Leipzig Win",
-    "odds": "1.48"
+    "prediction": "SV Babelsberg 03 Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1586795,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "15:00",
+    "homeTeam": "Greifswalder FC",
+    "awayTeam": "Hallescher FC",
+    "prediction": "Hallescher FC Win",
+    "odds": "2.78"
+  },
+  {
+    "id": 1586796,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "15:00",
+    "homeTeam": "FC Carl Zeiss Jena",
+    "awayTeam": "FSV Zwickau",
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
+  },
+  {
+    "id": 1591908,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Verl",
+    "awayTeam": "Bremer SV",
+    "prediction": "Verl Win",
+    "odds": "1.68"
+  },
+  {
+    "id": 1592163,
+    "league": "Primeira Divisão (Macao)",
+    "matchTime": "15:00",
+    "homeTeam": "Chiba",
+    "awayTeam": "CPK",
+    "prediction": "Chiba Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1598546,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Göztepe",
+    "awayTeam": "Rudes",
+    "prediction": "Göztepe Win & Over 1.5",
+    "odds": "2.95"
+  },
+  {
+    "id": 1494710,
+    "league": "Eliteserien (Norway)",
+    "matchTime": "15:30",
+    "homeTeam": "Brann",
+    "awayTeam": "Valerenga",
+    "prediction": "Double Chance X2",
+    "odds": "1.64"
+  },
+  {
+    "id": 1496103,
+    "league": "2. Division - Group 1 (Norway)",
+    "matchTime": "15:30",
+    "homeTeam": "jerv",
+    "awayTeam": "Lysekloster",
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
+  },
+  {
+    "id": 1538657,
+    "league": "Super League (Malawi)",
+    "matchTime": "15:30",
+    "homeTeam": "Karonga United",
+    "awayTeam": "Creck",
+    "prediction": "Creck Win",
+    "odds": "2.12"
+  },
+  {
+    "id": 1538658,
+    "league": "Super League (Malawi)",
+    "matchTime": "15:30",
+    "homeTeam": "Mitundu Baptist",
+    "awayTeam": "Silver Strikers",
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1538660,
+    "league": "Super League (Malawi)",
+    "matchTime": "15:30",
+    "homeTeam": "Kamuzu Barracks",
+    "awayTeam": "MAFCO",
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
+  },
+  {
+    "id": 1538661,
+    "league": "Super League (Malawi)",
+    "matchTime": "15:30",
+    "homeTeam": "Be Forward Wanderers",
+    "awayTeam": "Masters FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
+  },
+  {
+    "id": 1558157,
+    "league": "I Liga (Poland)",
+    "matchTime": "15:30",
+    "homeTeam": "Nieciecza",
+    "awayTeam": "Ruch Chorzów",
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
+  },
+  {
+    "id": 1559725,
+    "league": "FNL (Czech-Republic)",
+    "matchTime": "15:30",
+    "homeTeam": "Baník Ostrava II",
+    "awayTeam": "Vlašim",
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
+  },
+  {
+    "id": 1567379,
+    "league": "David Kipiani Cup (Georgia)",
+    "matchTime": "15:30",
+    "homeTeam": "Guria",
+    "awayTeam": "Dinamo Tbilisi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1567382,
+    "league": "David Kipiani Cup (Georgia)",
+    "matchTime": "15:30",
+    "homeTeam": "Merani Martvili",
+    "awayTeam": "Odishi 1919",
+    "prediction": "Merani Martvili Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1567384,
+    "league": "David Kipiani Cup (Georgia)",
+    "matchTime": "15:30",
+    "homeTeam": "WIT Georgia",
+    "awayTeam": "Samgurali",
+    "prediction": "WIT Georgia Win",
+    "odds": "1.68"
+  },
+  {
+    "id": 1598548,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:30",
+    "homeTeam": "Jeunesse Canach",
+    "awayTeam": "Etzella Ettelbruck",
+    "prediction": "Jeunesse Canach Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1602956,
+    "league": "Piala Presiden (Indonesia)",
+    "matchTime": "15:30",
+    "homeTeam": "Persebaya Surabaya",
+    "awayTeam": "Persija",
+    "prediction": "Persebaya Surabaya Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1553106,
+    "league": "Ekstraklasa (Poland)",
+    "matchTime": "15:45",
+    "homeTeam": "Raków Częstochowa",
+    "awayTeam": "Wisla Plock",
+    "prediction": "Wisla Plock Win",
+    "odds": "2.04"
+  },
+  {
+    "id": 1496829,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchTime": "16:00",
+    "homeTeam": "Fyllingsdalen",
+    "awayTeam": "Åsane II",
+    "prediction": "Fyllingsdalen Win",
+    "odds": "1.83"
   }
 ]
