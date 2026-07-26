@@ -1,14 +1,62 @@
 [
   {
+    "id": 1520531,
+    "league": "K3 League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Chuncheon",
+    "awayTeam": "Ulsan Citizen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1520530,
+    "league": "K3 League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Changwon City",
+    "awayTeam": "Jeonbuk Motors II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603291,
+    "league": "Calcutta Premier Division (India)",
+    "matchDate": "FT",
+    "homeTeam": "Wari",
+    "awayTeam": "Calcutta Police",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Wari Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1582093,
+    "league": "Kvindeliga (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Nordsjælland W",
+    "awayTeam": "Odense Q W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1594558,
     "league": "NB III - Southwest (Hungary)",
     "matchDate": "FT",
     "homeTeam": "MTK Budapest II",
     "awayTeam": "Budafoki LC",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "MTK Budapest II Win",
     "outcome": "Won"
   },
   {
@@ -17,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Újpest II",
     "awayTeam": "BKV Előre",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "BKV Előre Win",
+    "outcome": "Lost"
   },
   {
     "id": 1594318,
@@ -45,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1593838,
@@ -53,94 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Kisvárda II",
     "awayTeam": "Mátészalka",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1581851,
-    "league": "Persha Liga (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Kolos Kovalivka II",
-    "awayTeam": "Prykarpattia",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577458,
-    "league": "First League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Enisey",
-    "awayTeam": "Veles",
     "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Enisey Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1536858,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Pobeda Nizhniy Novgorod",
-    "awayTeam": "Ural II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520529,
-    "league": "K3 League (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Yangpyeong",
-    "awayTeam": "Busan Transportation",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Busan Transportation Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1602955,
-    "league": "Piala Presiden (Indonesia)",
-    "matchDate": "FT",
-    "homeTeam": "PSMS Medan",
-    "awayTeam": "Port FC",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Port FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582734,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Ždírec nad Doubravou",
-    "awayTeam": "Kuřim",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561076,
-    "league": "2. liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Žilina II",
-    "awayTeam": "Petržalka",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
