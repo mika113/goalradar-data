@@ -1,39 +1,12 @@
 [
   {
-    "id": 1532839,
-    "league": "League Two (China)",
-    "matchTime": "11:30",
-    "homeTeam": "Shanghai Port II",
-    "awayTeam": "Tai'an Tiankuang",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
-  },
-  {
-    "id": 1561075,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "11:30",
-    "homeTeam": "Slovan Bratislava II",
-    "awayTeam": "Zlaté Moravce",
-    "prediction": "Slovan Bratislava II Win",
-    "odds": "1.44"
-  },
-  {
-    "id": 1561076,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "11:30",
-    "homeTeam": "Žilina II",
-    "awayTeam": "Petržalka",
-    "prediction": "Žilina II Win",
-    "odds": "1.45"
-  },
-  {
     "id": 1582734,
     "league": "Cup (Czech-Republic)",
     "matchTime": "11:30",
     "homeTeam": "Ždírec nad Doubravou",
     "awayTeam": "Kuřim",
     "prediction": "Kuřim Win",
-    "odds": "2.33"
+    "odds": "3.23"
   },
   {
     "id": 1602955,
@@ -42,7 +15,7 @@
     "homeTeam": "PSMS Medan",
     "awayTeam": "Port FC",
     "prediction": "Port FC Win",
-    "odds": "1.81"
+    "odds": "3.25"
   },
   {
     "id": 1566283,
@@ -50,8 +23,8 @@
     "matchTime": "11:45",
     "homeTeam": "HEBC",
     "awayTeam": "Niendorfer TSV",
-    "prediction": "Niendorfer TSV Win",
-    "odds": "2.82"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1520529,
@@ -59,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Yangpyeong",
     "awayTeam": "Busan Transportation",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Busan Transportation Win",
+    "odds": "2.09"
   },
   {
     "id": 1536858,
@@ -68,7 +41,34 @@
     "matchTime": "12:00",
     "homeTeam": "Pobeda Nizhniy Novgorod",
     "awayTeam": "Ural II",
-    "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "prediction": "Pobeda Nizhniy Novgorod Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1566284,
+    "league": "Oberliga - Hamburg (Germany)",
+    "matchTime": "12:00",
+    "homeTeam": "Sasel",
+    "awayTeam": "Buchholz",
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
+  },
+  {
+    "id": 1567743,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Borussia Dortmund II",
+    "awayTeam": "Jong Utrecht",
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
+  },
+  {
+    "id": 1577458,
+    "league": "First League (Russia)",
+    "matchTime": "12:00",
+    "homeTeam": "Enisey",
+    "awayTeam": "Veles",
+    "prediction": "Enisey Win",
+    "odds": "1.97"
   }
 ]
