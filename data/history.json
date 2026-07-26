@@ -1,5 +1,41 @@
 [
   {
+    "id": 1598803,
+    "league": "Coppa (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Slavia Mozyr",
+    "awayTeam": "Dinamo Brest",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1571794,
+    "league": "NB II (Hungary)",
+    "matchDate": "FT",
+    "homeTeam": "Soroksar",
+    "awayTeam": "Mezokovesd-zsory",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551425,
+    "league": "First League (Macedonia)",
+    "matchDate": "FT",
+    "homeTeam": "Shkendija",
+    "awayTeam": "Skopje",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1584986,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -17,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Rubin",
     "awayTeam": "FC Krasnodar",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rubin Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1511621,
@@ -54,9 +90,9 @@
     "homeTeam": "D. Puerto Montt",
     "awayTeam": "Antofagasta",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Antofagasta Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1598550,
@@ -77,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Napoli",
     "awayTeam": "Carrarese",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Napoli Win",
@@ -93,54 +129,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "SC Sopron Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584987,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Bursaspor",
-    "awayTeam": "Shakhtar Donetsk",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560902,
-    "league": "Cup (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Wiener SC",
-    "awayTeam": "Austria Vienna",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Austria Vienna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560885,
-    "league": "Cup (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Leithaprodersdorf",
-    "awayTeam": "Admira Wacker",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Admira Wacker Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1560201,
-    "league": "NB I (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Debreceni VSC",
-    "awayTeam": "Puskas Academy",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Puskas Academy Win",
     "outcome": "Won"
   }
 ]
