@@ -1,21 +1,12 @@
 [
   {
-    "id": 1560203,
-    "league": "NB I (Hungary)",
-    "matchTime": "20:30",
-    "homeTeam": "MTK Budapest",
-    "awayTeam": "Zalaegerszegi TE",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
-  },
-  {
     "id": 1500012,
     "league": "Primera C (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Fénix",
     "awayTeam": "Yupanqui",
-    "prediction": "Fénix Win",
-    "odds": "1.87"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1500016,
@@ -23,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Sacachispas",
     "awayTeam": "Leandro N. Alem",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
   },
   {
     "id": 1500017,
@@ -32,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "El Porvenir",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Sportivo Barracas Win & Over 1.5",
+    "odds": "2.79"
   },
   {
     "id": 1508818,
@@ -41,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Breidablik",
     "awayTeam": "IBV Vestmannaeyjar",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1539866,
@@ -50,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Barra SC U20",
     "awayTeam": "Joinville U20",
-    "prediction": "Barra SC U20 Win & Over 1.5",
-    "odds": "1.82"
+    "prediction": "Barra SC U20 Win",
+    "odds": "1.74"
   },
   {
     "id": 1576831,
@@ -59,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "Banfield Res.",
     "awayTeam": "Vélez Sársfield Res.",
-    "prediction": "Banfield Res. Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1583467,
@@ -68,7 +59,16 @@
     "matchTime": "21:00",
     "homeTeam": "Galatasaray",
     "awayTeam": "Venezia",
-    "prediction": "Galatasaray Win",
-    "odds": "1.31"
+    "prediction": "Venezia Win",
+    "odds": "2.45"
+  },
+  {
+    "id": 1599155,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "21:00",
+    "homeTeam": "Benjamín Aceval",
+    "awayTeam": "Guairena FC",
+    "prediction": "Benjamín Aceval Win",
+    "odds": "1.86"
   }
 ]
