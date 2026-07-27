@@ -6,7 +6,7 @@
     "homeTeam": "Paro",
     "awayTeam": "Thimphu",
     "prediction": "Thimphu Win",
-    "odds": "2.28"
+    "odds": "2.44"
   },
   {
     "id": 1601383,
@@ -14,8 +14,8 @@
     "matchTime": "17:30",
     "homeTeam": "Al Nejmeh",
     "awayTeam": "Al Ahed",
-    "prediction": "Al Nejmeh Win",
-    "odds": "1.67"
+    "prediction": "Al Nejmeh Win & Over 1.5",
+    "odds": "2.57"
   },
   {
     "id": 1589423,
@@ -23,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "KuPS",
     "awayTeam": "Sabah FA",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1589424,
@@ -32,17 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Lincoln Red Imps FC",
     "awayTeam": "Mjallby AIF",
-    "prediction": "Lincoln Red Imps FC Win",
-    "odds": "1.56"
-  },
-  {
-    "id": 1497638,
-    "league": "Superettan (Sweden)",
-    "matchTime": "20:05",
-    "homeTeam": "Osters IF",
-    "awayTeam": "Varbergs BoIS FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.62"
+    "prediction": "Both Teams To Score",
+    "odds": "1.76"
   },
   {
     "id": 1547598,
@@ -50,7 +41,16 @@
     "matchTime": "20:30",
     "homeTeam": "FK Trakai",
     "awayTeam": "Šiauliai",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.89"
+  },
+  {
+    "id": 1560203,
+    "league": "NB I (Hungary)",
+    "matchTime": "20:30",
+    "homeTeam": "MTK Budapest",
+    "awayTeam": "Zalaegerszegi TE",
+    "prediction": "MTK Budapest Win & Over 1.5",
+    "odds": "2.73"
   }
 ]
