@@ -1,21 +1,12 @@
 [
   {
-    "id": 1496467,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "20:00",
-    "homeTeam": "IF Ready",
-    "awayTeam": "Frigg",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.57"
-  },
-  {
     "id": 1496469,
     "league": "3. Division - Girone 1 (Norway)",
     "matchTime": "20:00",
     "homeTeam": "Union Carl Berner",
     "awayTeam": "Asker",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Union Carl Berner Win",
+    "odds": "1.61"
   },
   {
     "id": 1497010,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Haugesund II",
     "awayTeam": "Varhaug",
-    "prediction": "Haugesund II Win & Over 1.5",
-    "odds": "2.83"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1497194,
@@ -33,7 +24,7 @@
     "homeTeam": "Kongsvinger II",
     "awayTeam": "Skedsmo",
     "prediction": "Kongsvinger II Win",
-    "odds": "1.51"
+    "odds": "1.82"
   },
   {
     "id": 1497376,
@@ -41,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Lyn II",
     "awayTeam": "Oppsal",
-    "prediction": "Oppsal Win",
-    "odds": "2.12"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1497378,
@@ -50,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Sarpsborg 08 II",
     "awayTeam": "Ørn Horten",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Sarpsborg 08 II Win",
+    "odds": "1.95"
   },
   {
     "id": 1497637,
@@ -59,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Orebro SK",
     "awayTeam": "Oddevold",
-    "prediction": "Orebro SK Win & Over 1.5",
-    "odds": "2.21"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.88"
   },
   {
     "id": 1545627,
@@ -69,7 +60,7 @@
     "homeTeam": "IFK Skövde",
     "awayTeam": "Jonkopings Sodra",
     "prediction": "Double Chance X2",
-    "odds": "1.57"
+    "odds": "1.58"
   },
   {
     "id": 1548977,
@@ -77,8 +68,8 @@
     "matchTime": "20:00",
     "homeTeam": "Randers FC",
     "awayTeam": "Silkeborg",
-    "prediction": "Randers FC Win",
-    "odds": "1.64"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
   },
   {
     "id": 1553109,
@@ -86,7 +77,16 @@
     "matchTime": "20:00",
     "homeTeam": "Zaglebie Lubin",
     "awayTeam": "Piast Gliwice",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Piast Gliwice Win",
+    "odds": "3.08"
+  },
+  {
+    "id": 1558150,
+    "league": "I Liga (Poland)",
+    "matchTime": "20:00",
+    "homeTeam": "Miedz Legnica",
+    "awayTeam": "Podbeskidzie",
+    "prediction": "Miedz Legnica Win & Over 1.5",
+    "odds": "2.12"
   }
 ]
