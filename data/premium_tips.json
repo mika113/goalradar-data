@@ -1,30 +1,12 @@
 [
   {
-    "id": 1505474,
-    "league": "Primera División (Chile)",
-    "matchTime": "02:00",
-    "homeTeam": "Union La Calera",
-    "awayTeam": "Everton de Vina",
-    "prediction": "Everton de Vina Win",
-    "odds": "3.05"
-  },
-  {
-    "id": 1511624,
-    "league": "Primera B (Chile)",
-    "matchTime": "02:00",
-    "homeTeam": "Union Espanola",
-    "awayTeam": "Recoleta",
-    "prediction": "Recoleta Win",
-    "odds": "1.71"
-  },
-  {
     "id": 1526899,
     "league": "Serie C (Brazil)",
     "matchTime": "02:00",
     "homeTeam": "Floresta",
     "awayTeam": "Maringá",
     "prediction": "Maringá Win",
-    "odds": "3.43"
+    "odds": "1.81"
   },
   {
     "id": 1526900,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Guarani Campinas",
     "awayTeam": "Inter De Limeira",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Guarani Campinas Win",
+    "odds": "1.54"
   },
   {
     "id": 1544723,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Antigua and Barbuda U20",
     "awayTeam": "Guatemala U20",
-    "prediction": "Antigua and Barbuda U20 Win",
-    "odds": "1.64"
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   },
   {
     "id": 1599156,
@@ -51,7 +33,7 @@
     "homeTeam": "12 de Junio VH",
     "awayTeam": "3 de Noviembre",
     "prediction": "12 de Junio VH Win",
-    "odds": "1.53"
+    "odds": "1.33"
   },
   {
     "id": 1519427,
@@ -59,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "Deportivo Cuenca",
     "awayTeam": "Emelec",
-    "prediction": "Deportivo Cuenca Win",
-    "odds": "1.97"
+    "prediction": "Emelec Win",
+    "odds": "3.33"
   },
   {
     "id": 1549563,
@@ -69,7 +51,7 @@
     "homeTeam": "Depor FC",
     "awayTeam": "Ind. Yumbo",
     "prediction": "Depor FC Win",
-    "odds": "1.72"
+    "odds": "1.33"
   },
   {
     "id": 1583722,
@@ -78,7 +60,7 @@
     "homeTeam": "Tauro FC",
     "awayTeam": "Sporting San Miguelito",
     "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "odds": "1.71"
   },
   {
     "id": 1544724,
@@ -86,8 +68,8 @@
     "matchTime": "05:00",
     "homeTeam": "Costa Rica U20",
     "awayTeam": "Mexico U20",
-    "prediction": "Costa Rica U20 Win",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.23"
   },
   {
     "id": 1586089,
@@ -95,8 +77,8 @@
     "matchTime": "05:00",
     "homeTeam": "UNAN Managua",
     "awayTeam": "Rancho Santana",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "prediction": "UNAN Managua Win",
+    "odds": "1.64"
   },
   {
     "id": 1598551,
@@ -104,7 +86,25 @@
     "matchTime": "11:00",
     "homeTeam": "Sanfrecce Hiroshima",
     "awayTeam": "Verspah Oita",
-    "prediction": "Double Chance X2",
-    "odds": "1.77"
+    "prediction": "Sanfrecce Hiroshima Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1602957,
+    "league": "Piala Presiden (Indonesia)",
+    "matchTime": "11:30",
+    "homeTeam": "Tampines Rovers",
+    "awayTeam": "Arema FC",
+    "prediction": "Arema FC Win",
+    "odds": "3.03"
+  },
+  {
+    "id": 1603948,
+    "league": "Calcutta Premier Division (India)",
+    "matchTime": "12:30",
+    "homeTeam": "BSS Sporting",
+    "awayTeam": "Railway",
+    "prediction": "BSS Sporting Win",
+    "odds": "1.33"
   }
 ]
