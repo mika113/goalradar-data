@@ -1,14 +1,110 @@
 [
   {
+    "id": 1601084,
+    "league": "CECAFA Club Cup (World)",
+    "matchDate": "FT",
+    "homeTeam": "Al-Haras Al-Jumhuri",
+    "awayTeam": "APR",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1559964,
+    "league": "Czech Liga (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Artis",
+    "awayTeam": "Mlada Boleslav",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Mlada Boleslav Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1559724,
+    "league": "FNL (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Opava",
+    "awayTeam": "Karviná",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551058,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Dunav Ruse",
+    "awayTeam": "Ludogorets",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1529581,
     "league": "1. Liga (Latvia)",
     "matchDate": "FT",
     "homeTeam": "Metta / LU",
     "awayTeam": "Tukums II",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Tukums II Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1519568,
+    "league": "Esiliiga A (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Nõmme United II",
+    "awayTeam": "Viimsi",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1515893,
+    "league": "Virsliga (Latvia)",
+    "matchDate": "FT",
+    "homeTeam": "Grobiņa",
+    "awayTeam": "Ogre United",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1497014,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Odd II",
+    "awayTeam": "Våg",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Odd II Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1496833,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Vard",
+    "awayTeam": "Sogndal II",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Vard Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Volda",
     "awayTeam": "Ranheim II",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Volda Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +126,9 @@
     "homeTeam": "Hegelmann Litauen",
     "awayTeam": "FK Zalgiris Vilnius",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Hegelmann Litauen Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -45,102 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "CFR 1907 Cluj Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561074,
-    "league": "2. liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Šamorín",
-    "awayTeam": "Malženice",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529580,
-    "league": "1. Liga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Valmiera / BSS",
-    "awayTeam": "Riga FC II",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Valmiera / BSS Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1516079,
-    "league": "Super League (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Olmaliq",
-    "awayTeam": "Mash'al",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1516076,
-    "league": "Super League (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Lokomotiv",
-    "awayTeam": "Sogdiana",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1516073,
-    "league": "Super League (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Andijan",
-    "awayTeam": "Buxoro",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1515891,
-    "league": "Virsliga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Tukums",
-    "awayTeam": "Rīgas FS",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Rīgas FS Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496830,
-    "league": "3. Division - Girone 3 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Gneist",
-    "awayTeam": "Brann II",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Brann II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548091,
-    "league": "ASEAN Championship (World)",
-    "matchDate": "FT",
-    "homeTeam": "Indonesia",
-    "awayTeam": "Cambodia",
-    "homeScore": 5,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Indonesia Win",
     "outcome": "Won"
   }
 ]
