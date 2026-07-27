@@ -1,21 +1,12 @@
 [
   {
-    "id": 1576832,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Talleres Córdoba Res.",
-    "awayTeam": "River Plate Res.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1520791,
     "league": "Serie B (Brazil)",
     "matchTime": "01:30",
     "homeTeam": "Atletico Goianiense",
     "awayTeam": "Operario-PR",
-    "prediction": "Atletico Goianiense Win & Over 1.5",
-    "odds": "2.64"
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   },
   {
     "id": 1520792,
@@ -23,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "CRB",
     "awayTeam": "Vila Nova",
-    "prediction": "CRB Win & Over 1.5",
-    "odds": "2.18"
+    "prediction": "CRB Win",
+    "odds": "1.47"
   },
   {
     "id": 1520799,
@@ -33,7 +24,7 @@
     "homeTeam": "Sport Recife",
     "awayTeam": "Cuiaba",
     "prediction": "Sport Recife Win",
-    "odds": "1.63"
+    "odds": "1.58"
   },
   {
     "id": 1546078,
@@ -41,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Grêmio Prudente",
     "awayTeam": "Bandeirante SP",
-    "prediction": "Bandeirante SP Win",
-    "odds": "2.26"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1498669,
@@ -50,8 +41,8 @@
     "matchTime": "02:00",
     "homeTeam": "Atlanta",
     "awayTeam": "Almagro",
-    "prediction": "Atlanta Win",
-    "odds": "1.82"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   },
   {
     "id": 1505474,
@@ -59,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Union La Calera",
     "awayTeam": "Everton de Vina",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.69"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1511624,
@@ -69,7 +60,7 @@
     "homeTeam": "Union Espanola",
     "awayTeam": "Recoleta",
     "prediction": "Union Espanola Win",
-    "odds": "1.36"
+    "odds": "1.89"
   },
   {
     "id": 1526899,
@@ -77,8 +68,8 @@
     "matchTime": "02:00",
     "homeTeam": "Floresta",
     "awayTeam": "Maringá",
-    "prediction": "Floresta Win",
-    "odds": "1.35"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1526900,
@@ -87,6 +78,15 @@
     "homeTeam": "Guarani Campinas",
     "awayTeam": "Inter De Limeira",
     "prediction": "Guarani Campinas Win",
-    "odds": "1.71"
+    "odds": "1.78"
+  },
+  {
+    "id": 1544723,
+    "league": "CONCACAF U20 (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Antigua and Barbuda U20",
+    "awayTeam": "Guatemala U20",
+    "prediction": "Antigua and Barbuda U20 Win",
+    "odds": "1.67"
   }
 ]
