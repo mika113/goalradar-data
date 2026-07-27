@@ -12,6 +12,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1525744,
+    "league": "Liga Femenina (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "La Equidad W",
+    "awayTeam": "Fortaleza W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1519429,
+    "league": "Liga Pro (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Mushuc Runa SC",
+    "awayTeam": "Libertad",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1565196,
     "league": "Liga I (Romania)",
     "matchDate": "FT",
@@ -21,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1551057,
@@ -77,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Barra SC U20",
     "awayTeam": "Joinville U20",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Barra SC U20 Win",
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Fénix Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560203,
-    "league": "NB I (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "MTK Budapest",
-    "awayTeam": "Zalaegerszegi TE",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "MTK Budapest Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1497638,
-    "league": "Superettan (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Osters IF",
-    "awayTeam": "Varbergs BoIS FC",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Osters IF Win",
     "outcome": "Won"
   }
 ]
