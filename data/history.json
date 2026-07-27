@@ -1,5 +1,17 @@
 [
   {
+    "id": 1560203,
+    "league": "NB I (Hungary)",
+    "matchDate": "FT",
+    "homeTeam": "MTK Budapest",
+    "awayTeam": "Zalaegerszegi TE",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Zalaegerszegi TE Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1497638,
     "league": "Superettan (Sweden)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1577451,
@@ -18,9 +30,9 @@
     "homeTeam": "KAMAZ",
     "awayTeam": "Rotor Volgograd",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rotor Volgograd Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +42,9 @@
     "homeTeam": "Miedz Legnica",
     "awayTeam": "Podbeskidzie",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Podbeskidzie Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "Randers FC",
     "awayTeam": "Silkeborg",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Randers FC Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "IFK Skövde",
     "awayTeam": "Jonkopings Sodra",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "IFK Skövde Win",
+    "outcome": "Won"
   },
   {
     "id": 1497637,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Sarpsborg 08 II",
     "awayTeam": "Ørn Horten",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -105,42 +117,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Oppsal Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1497194,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Kongsvinger II",
-    "awayTeam": "Skedsmo",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kongsvinger II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1497010,
-    "league": "3. Division - Girone 4 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Haugesund II",
-    "awayTeam": "Varhaug",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1496469,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Union Carl Berner",
-    "awayTeam": "Asker",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
