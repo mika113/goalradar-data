@@ -1,39 +1,12 @@
 [
   {
-    "id": 1556396,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "19:00",
-    "homeTeam": "Žalgiris II",
-    "awayTeam": "Minija",
-    "prediction": "Minija Win",
-    "odds": "2.88"
-  },
-  {
-    "id": 1559563,
-    "league": "Cup (Russia)",
-    "matchTime": "19:00",
-    "homeTeam": "Kristall MEZ",
-    "awayTeam": "Salyut-Belgorod",
-    "prediction": "Kristall MEZ Win",
-    "odds": "1.71"
-  },
-  {
-    "id": 1567755,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "UNFP",
-    "awayTeam": "RED Star FC 93",
-    "prediction": "UNFP Win",
-    "odds": "1.6"
-  },
-  {
     "id": 1582090,
     "league": "Kvindeliga (Denmark)",
     "matchTime": "19:00",
     "homeTeam": "FC Copenhagen W",
     "awayTeam": "Køge W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "FC Copenhagen W Win",
+    "odds": "1.72"
   },
   {
     "id": 1591909,
@@ -42,7 +15,7 @@
     "homeTeam": "Rizespor",
     "awayTeam": "Hull City",
     "prediction": "Rizespor Win",
-    "odds": "1.6"
+    "odds": "1.42"
   },
   {
     "id": 1598552,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Rouen",
     "awayTeam": "Al Wakrah",
-    "prediction": "Al Wakrah Win",
-    "odds": "1.66"
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
   },
   {
     "id": 1601076,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Jamus",
     "awayTeam": "Simba",
-    "prediction": "Jamus Win",
-    "odds": "1.95"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1604646,
@@ -68,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Baník Prievidza",
     "awayTeam": "Fomat Martin",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Baník Prievidza Win",
+    "odds": "1.84"
   },
   {
     "id": 1604647,
@@ -77,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Las Palmas",
     "awayTeam": "União de Leiria",
-    "prediction": "Las Palmas Win",
-    "odds": "1.41"
+    "prediction": "União de Leiria Win",
+    "odds": "2.82"
   },
   {
     "id": 1604648,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "Mladost Ždralovi",
     "awayTeam": "Inter Zapresic",
-    "prediction": "Double Chance X2",
-    "odds": "1.22"
+    "prediction": "Inter Zapresic Win",
+    "odds": "3.45"
+  },
+  {
+    "id": 1604649,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "OFK Beograd",
+    "awayTeam": "Gaziantep FK",
+    "prediction": "OFK Beograd Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1604650,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Petřín Plzeň",
+    "awayTeam": "Jiskra Domažlice",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
+  },
+  {
+    "id": 1604651,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Leganes",
+    "prediction": "Real Madrid Win",
+    "odds": "1.62"
   }
 ]
