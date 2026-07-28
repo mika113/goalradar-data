@@ -1,12 +1,39 @@
 [
   {
+    "id": 1584988,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Quick Boys",
+    "awayTeam": "Jong AZ",
+    "prediction": "Quick Boys Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1591910,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "South Park",
+    "awayTeam": "Kingstonian",
+    "prediction": "South Park Win",
+    "odds": "1.57"
+  },
+  {
+    "id": 1598552,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "15:00",
+    "homeTeam": "Rouen",
+    "awayTeam": "Al Wakrah",
+    "prediction": "Rouen Win",
+    "odds": "1.41"
+  },
+  {
     "id": 1602958,
     "league": "Piala Presiden (Indonesia)",
     "matchTime": "15:30",
     "homeTeam": "DPMM FC Brunei",
     "awayTeam": "Persib Bandung",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "prediction": "DPMM FC Brunei Win",
+    "odds": "1.71"
   },
   {
     "id": 1548092,
@@ -14,8 +41,8 @@
     "matchTime": "16:00",
     "homeTeam": "Malaysia",
     "awayTeam": "Laos",
-    "prediction": "Malaysia Win & Over 1.5",
-    "odds": "1.97"
+    "prediction": "Malaysia Win",
+    "odds": "1.31"
   },
   {
     "id": 1601075,
@@ -23,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Mogadishu City",
     "awayTeam": "Singida Black Stars",
-    "prediction": "Singida Black Stars Win",
-    "odds": "3.49"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.72"
   },
   {
     "id": 1559559,
@@ -33,7 +60,16 @@
     "homeTeam": "Anzhi",
     "awayTeam": "Izberbash",
     "prediction": "Anzhi Win & Over 1.5",
-    "odds": "2.62"
+    "odds": "2.41"
+  },
+  {
+    "id": 1604643,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:00",
+    "homeTeam": "MC Oran",
+    "awayTeam": "Muaither SC",
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1516077,
@@ -41,8 +77,8 @@
     "matchTime": "18:00",
     "homeTeam": "Nasaf",
     "awayTeam": "Qizilqum",
-    "prediction": "Qizilqum Win",
-    "odds": "2.32"
+    "prediction": "Nasaf Win",
+    "odds": "1.51"
   },
   {
     "id": 1516078,
@@ -50,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "Neftchi",
     "awayTeam": "Navbahor",
-    "prediction": "Neftchi Win",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.56"
   },
   {
     "id": 1516080,
@@ -60,7 +96,7 @@
     "homeTeam": "Xorazm",
     "awayTeam": "Surkhon",
     "prediction": "Xorazm Win",
-    "odds": "1.85"
+    "odds": "1.61"
   },
   {
     "id": 1548031,
@@ -68,43 +104,7 @@
     "matchTime": "18:00",
     "homeTeam": "Cagliari",
     "awayTeam": "Modena",
-    "prediction": "Cagliari Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1556395,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "18:00",
-    "homeTeam": "Dainava",
-    "awayTeam": "Transinvest 2",
-    "prediction": "Transinvest 2 Win",
-    "odds": "2.64"
-  },
-  {
-    "id": 1571485,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "18:30",
-    "homeTeam": "Dobrudzha",
-    "awayTeam": "Pirin Blagoevgrad",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
-  },
-  {
-    "id": 1571489,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "18:30",
-    "homeTeam": "Rilski Sportist",
-    "awayTeam": "Ludogorets II",
-    "prediction": "Rilski Sportist Win",
-    "odds": "1.87"
-  },
-  {
-    "id": 1571491,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "18:30",
-    "homeTeam": "Vihren",
-    "awayTeam": "CSKA Sofia II",
-    "prediction": "Vihren Win",
-    "odds": "1.94"
+    "prediction": "Cagliari Win & Over 1.5",
+    "odds": "2.54"
   }
 ]
