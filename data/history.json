@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Inter Willemstad",
     "awayTeam": "Delfines Del Este",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Delfines Del Este Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "Resistencia",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Resistencia Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Eastbourne Borough Win",
-    "outcome": "Lost"
+    "prediction": "Tonbridge Angels Win",
+    "outcome": "Won"
   },
   {
     "id": 1604672,
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Bishop's Stortford Win",
-    "outcome": "Lost"
+    "prediction": "St Ives Town Win",
+    "outcome": "Won"
   }
 ]
