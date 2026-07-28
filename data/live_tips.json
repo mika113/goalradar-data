@@ -1,30 +1,12 @@
 [
   {
-    "id": 1601076,
-    "league": "CECAFA Club Cup (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Jamus",
-    "awayTeam": "Simba",
-    "prediction": "Jamus Win",
-    "odds": "1.3"
-  },
-  {
-    "id": 1604646,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Baník Prievidza",
-    "awayTeam": "Fomat Martin",
-    "prediction": "Baník Prievidza Win",
-    "odds": "1.98"
-  },
-  {
     "id": 1604647,
     "league": "Friendlies Clubs (World)",
     "matchTime": "19:00",
     "homeTeam": "Las Palmas",
     "awayTeam": "União de Leiria",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Las Palmas Win",
+    "odds": "1.67"
   },
   {
     "id": 1604648,
@@ -32,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Mladost Ždralovi",
     "awayTeam": "Inter Zapresic",
-    "prediction": "Mladost Ždralovi Win",
-    "odds": "1.61"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1604649,
@@ -42,7 +24,7 @@
     "homeTeam": "OFK Beograd",
     "awayTeam": "Gaziantep FK",
     "prediction": "Gaziantep FK Win",
-    "odds": "1.82"
+    "odds": "1.91"
   },
   {
     "id": 1604650,
@@ -50,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Petřín Plzeň",
     "awayTeam": "Jiskra Domažlice",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Jiskra Domažlice Win",
+    "odds": "1.96"
   },
   {
     "id": 1604651,
@@ -59,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Real Madrid",
     "awayTeam": "Leganes",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.16"
+    "prediction": "Leganes Win",
+    "odds": "2.61"
   },
   {
     "id": 1582179,
@@ -69,7 +51,7 @@
     "homeTeam": "FC Tallinn",
     "awayTeam": "Tallinna FC Zapoos",
     "prediction": "FC Tallinn Win",
-    "odds": "1.74"
+    "odds": "1.77"
   },
   {
     "id": 1557935,
@@ -77,8 +59,8 @@
     "matchTime": "19:45",
     "homeTeam": "Hapoel Haifa",
     "awayTeam": "Ironi Tiberias",
-    "prediction": "Ironi Tiberias Win",
-    "odds": "2.4"
+    "prediction": "Hapoel Haifa Win & Over 1.5",
+    "odds": "1.83"
   },
   {
     "id": 1497633,
@@ -87,6 +69,24 @@
     "homeTeam": "Helsingborg",
     "awayTeam": "United Nordic",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.94"
+    "odds": "1.79"
+  },
+  {
+    "id": 1497634,
+    "league": "Superettan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Landskrona BoIS",
+    "awayTeam": "IFK Norrkoping",
+    "prediction": "IFK Norrkoping Win",
+    "odds": "3.12"
+  },
+  {
+    "id": 1557937,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchTime": "20:00",
+    "homeTeam": "Ironi Kiryat Shmona",
+    "awayTeam": "Maccabi Haifa",
+    "prediction": "Ironi Kiryat Shmona Win",
+    "odds": "1.3"
   }
 ]
