@@ -1,14 +1,62 @@
 [
   {
+    "id": 1557938,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Maccabi Petah Tikva",
+    "awayTeam": "Maccabi Netanya",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546737,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kickers Offenbach",
+    "awayTeam": "VfB Stuttgart",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "VfB Stuttgart Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1604688,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Orijent 1919",
+    "awayTeam": "Grobničan Čavle",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583481,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Girona",
+    "awayTeam": "Castellón",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Girona Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1604687,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Krka",
     "awayTeam": "Segesta Sisak",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Segesta Sisak Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +66,9 @@
     "homeTeam": "Tusker",
     "awayTeam": "Rayon Sports",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rayon Sports Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "1899 Hoffenheim",
     "awayTeam": "Holstein Kiel",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Holstein Kiel Win",
-    "outcome": "Lost"
+    "prediction": "1899 Hoffenheim Win",
+    "outcome": "Won"
   },
   {
     "id": 1591939,
@@ -57,90 +105,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Sokol Zápy Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584999,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Valladolid",
-    "awayTeam": "CD Coria",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584997,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "AEK Athens FC",
-    "awayTeam": "Samsunspor",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583480,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sokol Brozany",
-    "awayTeam": "Ústí nad Labem II",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sokol Brozany Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583475,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Saint Etienne",
-    "awayTeam": "Lausanne",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582725,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Stará Říše",
-    "awayTeam": "Havlíčkův Brod",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604686,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Vllaznia Shkodër",
-    "awayTeam": "Laci",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604685,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Gubbio",
-    "awayTeam": "Sporting Trestina",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Gubbio Win",
     "outcome": "Won"
   }
 ]
