@@ -1,21 +1,12 @@
 [
   {
-    "id": 1556508,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Lech Poznan",
-    "awayTeam": "Aarhus",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
-  },
-  {
     "id": 1589422,
     "league": "UEFA Champions League (World)",
     "matchTime": "20:30",
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "Vikingur Reykjavik",
     "prediction": "Hapoel Beer Sheva Win",
-    "odds": "1.49"
+    "odds": "1.99"
   },
   {
     "id": 1591940,
@@ -24,7 +15,7 @@
     "homeTeam": "Universitatea Craiova",
     "awayTeam": "Levski Sofia",
     "prediction": "Universitatea Craiova Win",
-    "odds": "1.51"
+    "odds": "1.96"
   },
   {
     "id": 1556506,
@@ -32,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Gornik Zabrze",
     "awayTeam": "Fenerbahçe",
-    "prediction": "Fenerbahçe Win",
-    "odds": "1.61"
+    "prediction": "Gornik Zabrze Win & Over 1.5",
+    "odds": "1.88"
   },
   {
     "id": 1589421,
@@ -42,7 +33,7 @@
     "homeTeam": "FK Crvena Zvezda",
     "awayTeam": "Larne",
     "prediction": "Larne Win",
-    "odds": "3.18"
+    "odds": "3.2"
   },
   {
     "id": 1589426,
@@ -50,7 +41,16 @@
     "matchTime": "21:15",
     "homeTeam": "Slovan Bratislava",
     "awayTeam": "Saburtalo",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Slovan Bratislava Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1492310,
+    "league": "Serie A (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Atletico-MG",
+    "awayTeam": "RB Bragantino",
+    "prediction": "Atletico-MG Win & Over 1.5",
+    "odds": "2.79"
   }
 ]
