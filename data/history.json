@@ -1,5 +1,17 @@
 [
   {
+    "id": 1604687,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Krka",
+    "awayTeam": "Segesta Sisak",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1601077,
     "league": "CECAFA Club Cup (World)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1598561,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "1899 Hoffenheim",
     "awayTeam": "Holstein Kiel",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "1899 Hoffenheim Win",
     "outcome": "Won"
   },
   {
@@ -48,6 +60,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1584999,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Valladolid",
+    "awayTeam": "CD Coria",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1584997,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Sokol Brozany",
     "awayTeam": "Ústí nad Labem II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sokol Brozany Win",
     "outcome": "Won"
   },
   {
@@ -81,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1582725,
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Gubbio",
     "awayTeam": "Sporting Trestina",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604684,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Grosseto",
-    "awayTeam": "San Donato Tavarnelle",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Grosseto Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604683,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dolomiti Bellunesi",
-    "awayTeam": "Virtus Verona",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Virtus Verona Win",
+    "prediction": "Gubbio Win",
     "outcome": "Won"
   }
 ]
