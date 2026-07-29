@@ -1,21 +1,12 @@
 [
   {
-    "id": 1492310,
-    "league": "Serie A (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Atletico-MG",
-    "awayTeam": "RB Bragantino",
-    "prediction": "Double Chance X2",
-    "odds": "1.72"
-  },
-  {
     "id": 1492311,
     "league": "Serie A (Brazil)",
     "matchTime": "23:00",
     "homeTeam": "Botafogo",
     "awayTeam": "Gremio",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Botafogo Win",
+    "odds": "1.48"
   },
   {
     "id": 1492312,
@@ -24,7 +15,7 @@
     "homeTeam": "Chapecoense-sc",
     "awayTeam": "Vasco DA Gama",
     "prediction": "Chapecoense-sc Win",
-    "odds": "1.79"
+    "odds": "1.97"
   },
   {
     "id": 1492318,
@@ -32,43 +23,52 @@
     "matchTime": "23:00",
     "homeTeam": "Sao Paulo",
     "awayTeam": "Santos",
+    "prediction": "Santos Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1492316,
+    "league": "Serie A (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Internacional",
+    "awayTeam": "Flamengo",
+    "prediction": "Flamengo Win",
+    "odds": "2.7"
+  },
+  {
+    "id": 1492317,
+    "league": "Serie A (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Mirassol",
+    "awayTeam": "Remo",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.05"
+    "odds": "1.87"
   },
   {
-    "id": 1583481,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Girona",
-    "awayTeam": "Castellón",
-    "prediction": "Castellón Win",
-    "odds": "1.61"
+    "id": 1493019,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "20:30",
+    "homeTeam": "Barracas Central",
+    "awayTeam": "Aldosivi",
+    "prediction": "Barracas Central Win",
+    "odds": "1.73"
   },
   {
-    "id": 1583482,
+    "id": 1583485,
     "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Lokeren-Temse",
-    "awayTeam": "Patro Eisden",
-    "prediction": "Lokeren-Temse Win",
-    "odds": "1.46"
+    "matchTime": "20:30",
+    "homeTeam": "Deportivo La Coruna",
+    "awayTeam": "Lugo",
+    "prediction": "Deportivo La Coruna Win & Over 1.5",
+    "odds": "1.88"
   },
   {
-    "id": 1604688,
+    "id": 1583486,
     "league": "Friendlies Clubs (World)",
-    "matchTime": "19:30",
-    "homeTeam": "Orijent 1919",
-    "awayTeam": "Grobničan Čavle",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
-  },
-  {
-    "id": 1546737,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:45",
-    "homeTeam": "Kickers Offenbach",
-    "awayTeam": "VfB Stuttgart",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.9"
+    "matchTime": "20:30",
+    "homeTeam": "Wulfrath",
+    "awayTeam": "Hilden",
+    "prediction": "Hilden Win",
+    "odds": "2.81"
   }
 ]
