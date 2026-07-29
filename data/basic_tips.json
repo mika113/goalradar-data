@@ -1,21 +1,12 @@
 [
   {
-    "id": 1591939,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Kauno Žalgiris",
-    "awayTeam": "KI Klaksvik",
-    "prediction": "Kauno Žalgiris Win",
-    "odds": "1.61"
-  },
-  {
     "id": 1556508,
     "league": "UEFA Champions League (World)",
     "matchTime": "20:00",
     "homeTeam": "Lech Poznan",
     "awayTeam": "Aarhus",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
+    "prediction": "Lech Poznan Win",
+    "odds": "1.81"
   },
   {
     "id": 1589422,
@@ -23,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "Vikingur Reykjavik",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.28"
+    "prediction": "Hapoel Beer Sheva Win",
+    "odds": "1.61"
   },
   {
     "id": 1591940,
@@ -32,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Universitatea Craiova",
     "awayTeam": "Levski Sofia",
-    "prediction": "Universitatea Craiova Win",
-    "odds": "1.88"
+    "prediction": "Double Chance X2",
+    "odds": "1.36"
   },
   {
     "id": 1556506,
@@ -41,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Gornik Zabrze",
     "awayTeam": "Fenerbahçe",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "prediction": "Gornik Zabrze Win",
+    "odds": "1.71"
   },
   {
     "id": 1589421,
@@ -50,7 +41,16 @@
     "matchTime": "21:00",
     "homeTeam": "FK Crvena Zvezda",
     "awayTeam": "Larne",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
+  },
+  {
+    "id": 1589426,
+    "league": "UEFA Champions League (World)",
+    "matchTime": "21:15",
+    "homeTeam": "Slovan Bratislava",
+    "awayTeam": "Saburtalo",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   }
 ]
