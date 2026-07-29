@@ -1,14 +1,74 @@
 [
   {
+    "id": 1549405,
+    "league": "Copa Ecuador",
+    "matchDate": "FT",
+    "homeTeam": "Gualaceo SC",
+    "awayTeam": "Macara",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1514247,
+    "league": "1. Deild (Iceland)",
+    "matchDate": "FT",
+    "homeTeam": "Throttur Reykjavik",
+    "awayTeam": "Afturelding",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603298,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Urena SC",
+    "awayTeam": "Puerto Cabello II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603297,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Atletico el Vigia FC",
+    "awayTeam": "Deportivo Lara",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603296,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Club Atletico Barinas",
+    "awayTeam": "Real Frontera",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Club Atletico Barinas Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1543444,
     "league": "2. Deild (Iceland)",
     "matchDate": "FT",
     "homeTeam": "Thróttur Vogar",
     "awayTeam": "Hvíti riddarinn",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Thróttur Vogar Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -18,9 +78,9 @@
     "homeTeam": "Kári",
     "awayTeam": "Kormákur / Hvöt",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kormákur / Hvöt Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Haukar",
     "awayTeam": "KFG",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Haukar Win",
     "outcome": "Won"
@@ -66,81 +126,9 @@
     "homeTeam": "Villanovense",
     "awayTeam": "Cacereño",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1584993,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Leça",
-    "awayTeam": "Lusitânia Lourosa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583493,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Ipswich",
-    "awayTeam": "Osasuna",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Osasuna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550614,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Burnley",
-    "awayTeam": "Espanyol",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604677,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico Madrid",
-    "awayTeam": "Getafe",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Atletico Madrid Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593514,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Rapid Vienna",
-    "awayTeam": "FC Santa Coloma",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Rapid Vienna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583492,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Watford",
-    "awayTeam": "Fiorentina",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Fiorentina Win",
+    "prediction": "Cacereño Win",
     "outcome": "Won"
   }
 ]
