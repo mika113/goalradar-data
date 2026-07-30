@@ -1,14 +1,26 @@
 [
   {
+    "id": 1584366,
+    "league": "Copa Ecuador",
+    "matchDate": "FT",
+    "homeTeam": "LDU de Quito",
+    "awayTeam": "Leones del Norte",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1593503,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
     "homeTeam": "Dinamo Tirana",
     "awayTeam": "Aluminij",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dinamo Tirana Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +42,9 @@
     "homeTeam": "Sutjeska",
     "awayTeam": "ML Vitebsk",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "ML Vitebsk Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Hibernian",
     "awayTeam": "Malisheva",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Malisheva Win",
-    "outcome": "Lost"
+    "prediction": "Hibernian Win",
+    "outcome": "Won"
   },
   {
     "id": 1584342,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1556548,
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "SC Braga",
     "awayTeam": "Železničar Pančevo",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SC Braga Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +102,9 @@
     "homeTeam": "Koper",
     "awayTeam": "NSI Runavik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NSI Runavik Win",
     "outcome": "Won"
   },
   {
@@ -102,7 +114,7 @@
     "homeTeam": "Coleraine FC",
     "awayTeam": "HJK Helsinki",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "HJK Helsinki Win",
     "outcome": "Won"
@@ -113,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Ferencvarosi TC",
     "awayTeam": "Twente",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ferencvarosi TC Win",
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "GKS Katowice",
     "awayTeam": "Žilina",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593501,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "CFR 1907 Cluj",
-    "awayTeam": "Alashkert",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "CFR 1907 Cluj Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
