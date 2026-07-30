@@ -1,57 +1,12 @@
 [
   {
-    "id": 1591950,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Sutjeska",
-    "awayTeam": "ML Vitebsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
-    "id": 1593473,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Palmeiras U20",
-    "awayTeam": "RB Bragantino U20",
-    "prediction": "Palmeiras U20 Win",
-    "odds": "1.33"
-  },
-  {
-    "id": 1593503,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Dinamo Tirana",
-    "awayTeam": "Aluminij",
-    "prediction": "Dinamo Tirana Win",
-    "odds": "1.36"
-  },
-  {
-    "id": 1584366,
-    "league": "Copa Ecuador",
-    "matchTime": "23:00",
-    "homeTeam": "LDU de Quito",
-    "awayTeam": "Leones del Norte",
-    "prediction": "LDU de Quito Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1600207,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Morocco W",
-    "awayTeam": "Algeria W",
-    "prediction": "Algeria W Win",
-    "odds": "2.29"
-  },
-  {
     "id": 1606340,
     "league": "CAC Games (World)",
     "matchTime": "23:00",
     "homeTeam": "Panama U21",
     "awayTeam": "Colombia U21",
-    "prediction": "Panama U21 Win",
-    "odds": "1.51"
+    "prediction": "Colombia U21 Win",
+    "odds": "1.79"
   },
   {
     "id": 1606341,
@@ -59,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Mexico U20",
     "awayTeam": "Venezuela U21",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Mexico U20 Win",
+    "odds": "1.99"
   },
   {
     "id": 1526584,
@@ -68,7 +23,52 @@
     "matchTime": "23:30",
     "homeTeam": "Atletico FC",
     "awayTeam": "LDU Portoviejo",
-    "prediction": "Atletico FC Win",
-    "odds": "1.68"
+    "prediction": "LDU Portoviejo Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1526585,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Cumbayá",
+    "awayTeam": "Deportivo Cuenca Juniors",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1545515,
+    "league": "Copa Colombia",
+    "matchTime": "23:30",
+    "homeTeam": "Envigado",
+    "awayTeam": "Once Caldas",
+    "prediction": "Once Caldas Win",
+    "odds": "2.15"
+  },
+  {
+    "id": 1606976,
+    "league": "COTIF Tournament (World)",
+    "matchTime": "23:30",
+    "homeTeam": "Mauritania U20",
+    "awayTeam": "Morocco U20",
+    "prediction": "Mauritania U20 Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1584343,
+    "league": "Division Profesional - Clausura (Paraguay)",
+    "matchTime": "00:30",
+    "homeTeam": "Libertad Asuncion",
+    "awayTeam": "Deportivo Recoleta",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1593474,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "00:30",
+    "homeTeam": "Vasco da Gama U20",
+    "awayTeam": "Santos U20",
+    "prediction": "Vasco da Gama U20 Win",
+    "odds": "1.83"
   }
 ]
