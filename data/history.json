@@ -1,14 +1,38 @@
 [
   {
+    "id": 1606341,
+    "league": "CAC Games (World)",
+    "matchDate": "FT",
+    "homeTeam": "Mexico U20",
+    "awayTeam": "Venezuela U21",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1606340,
+    "league": "CAC Games (World)",
+    "matchDate": "FT",
+    "homeTeam": "Panama U21",
+    "awayTeam": "Colombia U21",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1584366,
     "league": "Copa Ecuador",
     "matchDate": "FT",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Leones del Norte",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "LDU de Quito Win",
     "outcome": "Won"
   },
   {
@@ -116,31 +140,7 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "HJK Helsinki Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593525,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Ferencvarosi TC",
-    "awayTeam": "Twente",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Ferencvarosi TC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593505,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "GKS Katowice",
-    "awayTeam": "Žilina",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Coleraine FC Win",
+    "outcome": "Lost"
   }
 ]
