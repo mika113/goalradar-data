@@ -1,48 +1,12 @@
 [
   {
-    "id": 1547784,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Gremio",
-    "awayTeam": "Bolívar",
-    "prediction": "Gremio Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1586090,
-    "league": "Primera Division (Nicaragua)",
-    "matchTime": "01:00",
-    "homeTeam": "Jalapa",
-    "awayTeam": "Real Estelí",
-    "prediction": "Jalapa Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1606342,
-    "league": "CAC Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Cuba U21",
-    "awayTeam": "Costa Rica U21",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1606343,
-    "league": "CAC Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Guatemala U21",
-    "awayTeam": "Dominican Republic U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.11"
-  },
-  {
     "id": 1589334,
     "league": "Premier League - Summer Series (England)",
     "matchTime": "02:30",
     "homeTeam": "Sunderland",
     "awayTeam": "Leeds",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1600549,
@@ -50,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Isidro Metapán",
     "awayTeam": "FAS",
-    "prediction": "Isidro Metapán Win",
-    "odds": "1.81"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1493021,
@@ -59,8 +23,8 @@
     "matchTime": "03:15",
     "homeTeam": "Central Cordoba de Santiago",
     "awayTeam": "Atletico Tucuman",
-    "prediction": "Central Cordoba de Santiago Win",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "2.19"
   },
   {
     "id": 1493024,
@@ -68,8 +32,8 @@
     "matchTime": "03:15",
     "homeTeam": "Independiente",
     "awayTeam": "Newells Old Boys",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Independiente Win",
+    "odds": "1.88"
   },
   {
     "id": 1547782,
@@ -77,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "Caracas FC",
     "awayTeam": "Santa Fe",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.04"
+    "prediction": "Santa Fe Win",
+    "odds": "3.38"
   },
   {
     "id": 1547785,
@@ -86,8 +50,8 @@
     "matchTime": "03:30",
     "homeTeam": "O'Higgins",
     "awayTeam": "Boca Juniors",
-    "prediction": "O'Higgins Win",
-    "odds": "1.83"
+    "prediction": "Boca Juniors Win",
+    "odds": "2.52"
   },
   {
     "id": 1544730,
@@ -95,8 +59,8 @@
     "matchTime": "04:00",
     "homeTeam": "Mexico U20",
     "awayTeam": "Guatemala U20",
-    "prediction": "Mexico U20 Win",
-    "odds": "1.81"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
   },
   {
     "id": 1548342,
@@ -104,7 +68,43 @@
     "matchTime": "04:00",
     "homeTeam": "CS Herediano",
     "awayTeam": "CD Marathon",
-    "prediction": "CD Marathon Win",
-    "odds": "3.0"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.14"
+  },
+  {
+    "id": 1549695,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:00",
+    "homeTeam": "Bucaramanga",
+    "awayTeam": "Llaneros",
+    "prediction": "Bucaramanga Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1581374,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Alebrijes de Oaxaca",
+    "awayTeam": "Dorados",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1600550,
+    "league": "Primera Division (El-Salvador)",
+    "matchTime": "05:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Águila",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1548343,
+    "league": "CONCACAF Central American Cup (World)",
+    "matchTime": "06:00",
+    "homeTeam": "Municipal",
+    "awayTeam": "CS Cartagines",
+    "prediction": "CS Cartagines Win",
+    "odds": "2.16"
   }
 ]
