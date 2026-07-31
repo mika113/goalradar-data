@@ -1,84 +1,12 @@
 [
   {
-    "id": 1546088,
-    "league": "Copa Paulista (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Comercial",
-    "awayTeam": "União São João",
-    "prediction": "União São João Win",
-    "odds": "2.78"
-  },
-  {
-    "id": 1549578,
-    "league": "Primera B (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Union Magdalena",
-    "awayTeam": "Orsomarso",
-    "prediction": "Orsomarso Win",
-    "odds": "3.37"
-  },
-  {
-    "id": 1607550,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Colombia W",
-    "awayTeam": "Mexico W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
-  },
-  {
-    "id": 1607551,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Dominican Republic W",
-    "awayTeam": "Costa Rica W",
-    "prediction": "Dominican Republic W Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1490361,
-    "league": "Major League Soccer (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Toronto FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
-  },
-  {
-    "id": 1505482,
-    "league": "Primera División (Chile)",
-    "matchTime": "03:00",
-    "homeTeam": "Universidad de Concepcion",
-    "awayTeam": "A. Italiano",
-    "prediction": "A. Italiano Win",
-    "odds": "2.03"
-  },
-  {
-    "id": 1508486,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "North Carolina Courage W",
-    "awayTeam": "Orlando Pride W",
-    "prediction": "Orlando Pride W Win",
-    "odds": "2.87"
-  },
-  {
-    "id": 1513255,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "03:00",
-    "homeTeam": "Minnesota United II",
-    "awayTeam": "Portland Timbers II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
     "id": 1513256,
     "league": "MLS Next Pro (USA)",
     "matchTime": "03:00",
     "homeTeam": "Sporting KC II",
     "awayTeam": "Houston Dynamo FC II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Houston Dynamo FC II Win",
+    "odds": "2.5"
   },
   {
     "id": 1519436,
@@ -86,7 +14,79 @@
     "matchTime": "03:00",
     "homeTeam": "Libertad",
     "awayTeam": "Orense SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "prediction": "Libertad Win",
+    "odds": "1.66"
+  },
+  {
+    "id": 1586091,
+    "league": "Primera Division (Nicaragua)",
+    "matchTime": "03:00",
+    "homeTeam": "Diriangén",
+    "awayTeam": "UNAN Managua",
+    "prediction": "Double Chance X2",
+    "odds": "1.77"
+  },
+  {
+    "id": 1511632,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "San Marcos de Arica",
+    "awayTeam": "Deportes Iquique",
+    "prediction": "San Marcos de Arica Win & Over 1.5",
+    "odds": "1.99"
+  },
+  {
+    "id": 1493611,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Indy Eleven",
+    "prediction": "San Antonio Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1549698,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:00",
+    "homeTeam": "Fortaleza FC",
+    "awayTeam": "Deportivo Pereira",
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
+  },
+  {
+    "id": 1550912,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Puebla",
+    "awayTeam": "Guadalajara Chivas",
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
+  },
+  {
+    "id": 1581376,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Correcaminos Uat",
+    "awayTeam": "Tepatitlán",
+    "prediction": "Both Teams To Score",
+    "odds": "1.95"
+  },
+  {
+    "id": 1581377,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Mineros de Zacatecas",
+    "awayTeam": "Tlaxcala",
+    "prediction": "Mineros de Zacatecas Win",
+    "odds": "1.55"
+  },
+  {
+    "id": 1592932,
+    "league": "Liga Nacional (Honduras)",
+    "matchTime": "04:00",
+    "homeTeam": "Platense FC",
+    "awayTeam": "Real Espana",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   }
 ]
