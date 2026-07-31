@@ -1,84 +1,12 @@
 [
   {
-    "id": 1499553,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Excursionistas",
-    "awayTeam": "Deportivo Armenio",
-    "prediction": "Excursionistas Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1513252,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Inter Miami II",
-    "awayTeam": "Chattanooga",
-    "prediction": "Inter Miami II Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1513253,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "Toronto II",
-    "awayTeam": "Columbus Crew II",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
-  },
-  {
-    "id": 1545388,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "02:00",
-    "homeTeam": "Real Tomayapo",
-    "awayTeam": "ABB",
-    "prediction": "Real Tomayapo Win",
-    "odds": "1.72"
-  },
-  {
-    "id": 1546088,
-    "league": "Copa Paulista (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Comercial",
-    "awayTeam": "União São João",
-    "prediction": "União São João Win",
-    "odds": "3.33"
-  },
-  {
-    "id": 1549578,
-    "league": "Primera B (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Union Magdalena",
-    "awayTeam": "Orsomarso",
-    "prediction": "Double Chance X2",
-    "odds": "1.61"
-  },
-  {
-    "id": 1607550,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Colombia W",
-    "awayTeam": "Mexico W",
-    "prediction": "Colombia W Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1607551,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Dominican Republic W",
-    "awayTeam": "Costa Rica W",
-    "prediction": "Dominican Republic W Win",
-    "odds": "1.99"
-  },
-  {
     "id": 1490361,
     "league": "Major League Soccer (USA)",
     "matchTime": "02:30",
     "homeTeam": "New York City FC",
     "awayTeam": "Toronto FC",
     "prediction": "New York City FC Win",
-    "odds": "1.46"
+    "odds": "1.3"
   },
   {
     "id": 1505482,
@@ -87,7 +15,7 @@
     "homeTeam": "Universidad de Concepcion",
     "awayTeam": "A. Italiano",
     "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "odds": "1.26"
   },
   {
     "id": 1508486,
@@ -95,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "North Carolina Courage W",
     "awayTeam": "Orlando Pride W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.9"
+    "prediction": "Orlando Pride W Win",
+    "odds": "2.82"
   },
   {
     "id": 1513255,
@@ -104,7 +32,79 @@
     "matchTime": "03:00",
     "homeTeam": "Minnesota United II",
     "awayTeam": "Portland Timbers II",
-    "prediction": "Minnesota United II Win",
-    "odds": "1.9"
+    "prediction": "Double Chance 1X",
+    "odds": "1.36"
+  },
+  {
+    "id": 1513256,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Sporting KC II",
+    "awayTeam": "Houston Dynamo FC II",
+    "prediction": "Houston Dynamo FC II Win",
+    "odds": "2.9"
+  },
+  {
+    "id": 1519436,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "03:00",
+    "homeTeam": "Libertad",
+    "awayTeam": "Orense SC",
+    "prediction": "Orense SC Win",
+    "odds": "3.01"
+  },
+  {
+    "id": 1586091,
+    "league": "Primera Division (Nicaragua)",
+    "matchTime": "03:00",
+    "homeTeam": "Diriangén",
+    "awayTeam": "UNAN Managua",
+    "prediction": "Diriangén Win & Over 1.5",
+    "odds": "1.87"
+  },
+  {
+    "id": 1511632,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "San Marcos de Arica",
+    "awayTeam": "Deportes Iquique",
+    "prediction": "San Marcos de Arica Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1493611,
+    "league": "USL Championship (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Indy Eleven",
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
+  },
+  {
+    "id": 1549698,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:00",
+    "homeTeam": "Fortaleza FC",
+    "awayTeam": "Deportivo Pereira",
+    "prediction": "Fortaleza FC Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1550912,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Puebla",
+    "awayTeam": "Guadalajara Chivas",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.82"
+  },
+  {
+    "id": 1581376,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Correcaminos Uat",
+    "awayTeam": "Tepatitlán",
+    "prediction": "Correcaminos Uat Win",
+    "odds": "1.62"
   }
 ]
