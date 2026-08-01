@@ -1,93 +1,12 @@
 [
   {
-    "id": 1549433,
-    "league": "Primera División (Peru)",
-    "matchTime": "23:30",
-    "homeTeam": "Atletico Grau",
-    "awayTeam": "Sport Boys",
-    "prediction": "Atletico Grau Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1595453,
-    "league": "Segunda División (Chile)",
-    "matchTime": "23:30",
-    "homeTeam": "Trasandino",
-    "awayTeam": "General Velásquez",
-    "prediction": "Trasandino Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1493033,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "00:00",
-    "homeTeam": "Belgrano Cordoba",
-    "awayTeam": "Argentinos JRS",
-    "prediction": "Belgrano Cordoba Win & Over 1.5",
-    "odds": "2.56"
-  },
-  {
-    "id": 1493036,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "00:00",
-    "homeTeam": "Estudiantes L.P.",
-    "awayTeam": "Defensa Y Justicia",
-    "prediction": "Estudiantes L.P. Win & Over 1.5",
-    "odds": "2.46"
-  },
-  {
-    "id": 1522472,
-    "league": "Brasileiro Women (Brazil)",
-    "matchTime": "00:00",
-    "homeTeam": "Mixto W",
-    "awayTeam": "Atlético Mineiro W",
-    "prediction": "Double Chance X2",
-    "odds": "1.72"
-  },
-  {
-    "id": 1546091,
-    "league": "Copa Paulista (Brazil)",
-    "matchTime": "00:00",
-    "homeTeam": "XV de Piracicaba",
-    "awayTeam": "Noroeste",
-    "prediction": "Noroeste Win",
-    "odds": "2.54"
-  },
-  {
-    "id": 1549572,
-    "league": "Primera B (Colombia)",
-    "matchTime": "00:00",
-    "homeTeam": "Popayan",
-    "awayTeam": "Tigres FC",
-    "prediction": "Tigres FC Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1559597,
-    "league": "Liga Nacional (Guatemala)",
-    "matchTime": "00:00",
-    "homeTeam": "Mixco",
-    "awayTeam": "Suchitepéquez",
-    "prediction": "Mixco Win",
-    "odds": "1.53"
-  },
-  {
-    "id": 1586093,
-    "league": "Primera Division (Nicaragua)",
-    "matchTime": "00:00",
-    "homeTeam": "San Marcos",
-    "awayTeam": "Managua",
-    "prediction": "San Marcos Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1600552,
     "league": "Primera Division (El-Salvador)",
     "matchTime": "00:00",
     "homeTeam": "Fuerte San Francisco",
     "awayTeam": "Inter",
     "prediction": "Fuerte San Francisco Win",
-    "odds": "1.78"
+    "odds": "1.66"
   },
   {
     "id": 1607655,
@@ -95,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "Monagas SC",
     "awayTeam": "Deportivo La Guaira",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "prediction": "Monagas SC Win",
+    "odds": "1.97"
   },
   {
     "id": 1607656,
@@ -104,7 +23,88 @@
     "matchTime": "00:00",
     "homeTeam": "Trujillanos FC",
     "awayTeam": "UCV",
-    "prediction": "Trujillanos FC Win & Over 1.5",
-    "odds": "2.05"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1549693,
+    "league": "Primera A (Colombia)",
+    "matchTime": "00:05",
+    "homeTeam": "Alianza Valledupar",
+    "awayTeam": "Deportes Tolima",
+    "prediction": "Alianza Valledupar Win",
+    "odds": "1.85"
+  },
+  {
+    "id": 1545387,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "00:15",
+    "homeTeam": "San Antonio Bulo Bulo",
+    "awayTeam": "Blooming",
+    "prediction": "San Antonio Bulo Bulo Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1505480,
+    "league": "Primera División (Chile)",
+    "matchTime": "00:30",
+    "homeTeam": "Palestino",
+    "awayTeam": "Coquimbo Unido",
+    "prediction": "Palestino Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1511627,
+    "league": "Primera B (Chile)",
+    "matchTime": "00:30",
+    "homeTeam": "Curico Unido",
+    "awayTeam": "Cobreloa",
+    "prediction": "Curico Unido Win",
+    "odds": "1.43"
+  },
+  {
+    "id": 1519439,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "00:30",
+    "homeTeam": "Universidad Catolica",
+    "awayTeam": "Tecnico Universitario",
+    "prediction": "Tecnico Universitario Win",
+    "odds": "2.22"
+  },
+  {
+    "id": 1581847,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchTime": "00:30",
+    "homeTeam": "Penarol",
+    "awayTeam": "Cerro Largo",
+    "prediction": "Cerro Largo Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1584345,
+    "league": "Division Profesional - Clausura (Paraguay)",
+    "matchTime": "00:30",
+    "homeTeam": "Cerro Porteno",
+    "awayTeam": "Sportivo Luqueno",
+    "prediction": "Cerro Porteno Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1592933,
+    "league": "Liga Nacional (Honduras)",
+    "matchTime": "00:30",
+    "homeTeam": "Génesis",
+    "awayTeam": "Atlético Choloma",
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
+  },
+  {
+    "id": 1581372,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "00:45",
+    "homeTeam": "Cruz Azul Hidalgo",
+    "awayTeam": "Venados FC",
+    "prediction": "Venados FC Win",
+    "odds": "2.88"
   }
 ]
