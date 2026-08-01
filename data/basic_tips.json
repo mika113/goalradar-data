@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525927,
-    "league": "Premier League (Belarus)",
-    "matchTime": "20:00",
-    "homeTeam": "Arsenal",
-    "awayTeam": "FC Minsk",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
-  },
-  {
     "id": 1561896,
     "league": "Bundesliga (Austria)",
     "matchTime": "20:30",
     "homeTeam": "Red Bull Salzburg",
     "awayTeam": "TSV Hartberg",
-    "prediction": "TSV Hartberg Win",
-    "odds": "2.94"
+    "prediction": "Double Chance X2",
+    "odds": "1.24"
   },
   {
     "id": 1561341,
@@ -24,33 +15,42 @@
     "homeTeam": "Baltika",
     "awayTeam": "Dynamo",
     "prediction": "Baltika Win",
-    "odds": "1.54"
+    "odds": "1.49"
   },
   {
-    "id": 1548944,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Eendracht Aalst",
-    "awayTeam": "Sporting Hasselt",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
+    "id": 1498698,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Nueva Chicago",
+    "awayTeam": "San Martin Tucuman",
+    "prediction": "San Martin Tucuman Win",
+    "odds": "3.27"
   },
   {
-    "id": 1554099,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "20:00",
-    "homeTeam": "Javor",
-    "awayTeam": "Teleoptik",
-    "prediction": "Javor Win",
-    "odds": "1.78"
+    "id": 1549979,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "20:30",
+    "homeTeam": "Provincial",
+    "awayTeam": "Deportivo Metalurgico",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
-    "id": 1561082,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "20:00",
-    "homeTeam": "Zlaté Moravce",
-    "awayTeam": "Baník Lehota p.Vtáčnikom",
-    "prediction": "Zlaté Moravce Win",
-    "odds": "1.96"
+    "id": 1557939,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchTime": "20:30",
+    "homeTeam": "Bnei Sakhnin",
+    "awayTeam": "Hapoel Haifa",
+    "prediction": "Hapoel Haifa Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1557941,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchTime": "20:30",
+    "homeTeam": "Ironi Tiberias",
+    "awayTeam": "Ironi Kiryat Shmona",
+    "prediction": "Ironi Tiberias Win",
+    "odds": "1.95"
   }
 ]
