@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554103,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "18:30",
-    "homeTeam": "Semendrija 1924",
-    "awayTeam": "Borac Cacak",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
-  },
-  {
     "id": 1560209,
     "league": "NB I (Hungary)",
     "matchTime": "18:30",
     "homeTeam": "Budapest Honved",
     "awayTeam": "MTK Budapest",
     "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "odds": "1.22"
   },
   {
     "id": 1565203,
@@ -23,8 +14,8 @@
     "matchTime": "18:30",
     "homeTeam": "FC Voluntari",
     "awayTeam": "Uta Arad",
-    "prediction": "Uta Arad Win",
-    "odds": "2.91"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1567018,
@@ -32,8 +23,8 @@
     "matchTime": "18:30",
     "homeTeam": "Kirchanschöring",
     "awayTeam": "1880 Wasserburg",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.87"
+    "prediction": "1880 Wasserburg Win",
+    "odds": "2.39"
   },
   {
     "id": 1568111,
@@ -41,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "Jarosław",
     "awayTeam": "Sokół Kolb.",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
+    "prediction": "Jarosław Win & Over 1.5",
+    "odds": "2.17"
   },
   {
     "id": 1568114,
@@ -50,8 +41,8 @@
     "matchTime": "18:30",
     "homeTeam": "Naprzód",
     "awayTeam": "Korona Kielce II",
-    "prediction": "Korona Kielce II Win",
-    "odds": "2.48"
+    "prediction": "Naprzód Win",
+    "odds": "1.39"
   },
   {
     "id": 1569035,
@@ -59,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "Olimpia Zambrów",
     "awayTeam": "Ząbkovia Ząbki",
-    "prediction": "Ząbkovia Ząbki Win",
-    "odds": "2.95"
+    "prediction": "Olimpia Zambrów Win",
+    "odds": "1.43"
   },
   {
     "id": 1571801,
@@ -68,7 +59,16 @@
     "matchTime": "18:30",
     "homeTeam": "Kazincbarcikai",
     "awayTeam": "Fehérvár FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.84"
+    "prediction": "Kazincbarcikai Win & Over 1.5",
+    "odds": "1.91"
+  },
+  {
+    "id": 1571802,
+    "league": "NB II (Hungary)",
+    "matchTime": "18:30",
+    "homeTeam": "Kecskeméti TE",
+    "awayTeam": "Tiszakecske FC",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   }
 ]
