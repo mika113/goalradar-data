@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Porto",
     "awayTeam": "Torreense",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Porto Win",
     "outcome": "Won"
   },
   {
@@ -105,42 +105,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1519438,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Manta FC",
-    "awayTeam": "Mushuc Runa SC",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Mushuc Runa SC Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1511625,
-    "league": "Primera B (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Antofagasta",
-    "awayTeam": "Union San Felipe",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Antofagasta Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1505477,
-    "league": "Primera División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Everton de Vina",
-    "awayTeam": "Colo Colo",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Everton de Vina Win",
-    "outcome": "Lost"
   }
 ]
