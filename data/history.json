@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1604749,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Rentistas Win",
-    "outcome": "Lost"
+    "prediction": "La Luz Win",
+    "outcome": "Won"
   },
   {
     "id": 1589439,
@@ -113,6 +113,18 @@
     "matchDate": "FT",
     "homeTeam": "Empoli",
     "awayTeam": "Spezia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Spezia Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1589314,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Caldas",
+    "awayTeam": "Academica",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583587,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Wolves",
-    "awayTeam": "Racing Santander",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
