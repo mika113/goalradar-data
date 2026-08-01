@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525928,
-    "league": "Premier League (Belarus)",
-    "matchTime": "16:10",
-    "homeTeam": "Baranovichi",
-    "awayTeam": "FC Isloch Minsk R.",
-    "prediction": "Double Chance X2",
-    "odds": "1.59"
-  },
-  {
     "id": 1561342,
     "league": "Premier League (Russia)",
     "matchTime": "16:15",
     "homeTeam": "CSKA Moscow",
     "awayTeam": "Krylia Sovetov",
-    "prediction": "CSKA Moscow Win",
-    "odds": "2.0"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.17"
   },
   {
     "id": 1575888,
@@ -23,8 +14,8 @@
     "matchTime": "16:30",
     "homeTeam": "Cardiff MET",
     "awayTeam": "Holywell",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
+    "prediction": "Cardiff MET Win",
+    "odds": "1.73"
   },
   {
     "id": 1575889,
@@ -33,7 +24,7 @@
     "homeTeam": "Haverfordwest County AFC",
     "awayTeam": "Airbus UK",
     "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "odds": "1.23"
   },
   {
     "id": 1528047,
@@ -42,7 +33,7 @@
     "homeTeam": "Kyzyl-Zhar",
     "awayTeam": "Aktobe",
     "prediction": "Kyzyl-Zhar Win",
-    "odds": "1.57"
+    "odds": "1.37"
   },
   {
     "id": 1548932,
@@ -51,6 +42,15 @@
     "homeTeam": "Liverpool U21",
     "awayTeam": "Cardiff City U21",
     "prediction": "Liverpool U21 Win",
-    "odds": "1.87"
+    "odds": "1.95"
+  },
+  {
+    "id": 1558158,
+    "league": "I Liga (Poland)",
+    "matchTime": "16:30",
+    "homeTeam": "Arka Gdynia",
+    "awayTeam": "Stal Rzeszów",
+    "prediction": "Arka Gdynia Win",
+    "odds": "1.51"
   }
 ]
