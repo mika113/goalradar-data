@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Bandeirante SP",
     "awayTeam": "Marília",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Marília Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1517319,
+    "league": "Canadian Premier League (Canada)",
+    "matchDate": "FT",
+    "homeTeam": "Vancouver FC",
+    "awayTeam": "Atlético Ottawa",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1584345,
@@ -80,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Tecnico Universitario Win",
-    "outcome": "Lost"
+    "prediction": "Universidad Catolica Win",
+    "outcome": "Won"
   },
   {
     "id": 1511627,
@@ -116,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "San Antonio Bulo Bulo Win",
-    "outcome": "Won"
+    "prediction": "Blooming Win",
+    "outcome": "Lost"
   },
   {
     "id": 1549693,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607656,
-    "league": "Primera División (Venezuela)",
-    "matchDate": "FT",
-    "homeTeam": "Trujillanos FC",
-    "awayTeam": "UCV",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Trujillanos FC Win",
     "outcome": "Won"
   }
 ]
