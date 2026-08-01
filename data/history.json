@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1581860,
+    "league": "Persha Liga (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Metal Kharkiv",
+    "awayTeam": "Probiy Horodenka",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1568726,
     "league": "III Liga - Group 2 (Poland)",
     "matchDate": "FT",
@@ -53,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Wisła Kraków II",
     "awayTeam": "Star Starachowice",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Wisła Kraków II Win",
+    "outcome": "Won"
   },
   {
     "id": 1565439,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548096,
@@ -117,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1533756,
@@ -126,21 +138,9 @@
     "homeTeam": "Seoul W",
     "awayTeam": "Changnyeong W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1533755,
-    "league": "WK-League (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Gyeongju W",
-    "awayTeam": "Boeun Sangmu W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Changnyeong W Win",
     "outcome": "Won"
   }
 ]
