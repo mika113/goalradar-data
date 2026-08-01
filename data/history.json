@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1606427,
@@ -18,9 +18,9 @@
     "homeTeam": "Atletico Escobar",
     "awayTeam": "Boca Unidos",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Boca Unidos Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1585028,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Paredes",
     "awayTeam": "Lusitânia Lourosa",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Paredes Win",
     "outcome": "Won"
   },
   {
@@ -93,54 +93,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Universitatea Craiova Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555355,
-    "league": "Super League (Switzerland)",
-    "matchDate": "FT",
-    "homeTeam": "FC Thun",
-    "awayTeam": "BSC Young Boys",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "BSC Young Boys Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553822,
-    "league": "Super Liga (Serbia)",
-    "matchDate": "FT",
-    "homeTeam": "Cukaricki",
-    "awayTeam": "Radnicki 1923",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Cukaricki Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551523,
-    "league": "Super Liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "FK Košice",
-    "awayTeam": "AS Trencin",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FK Košice Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498700,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "San Martin S.J.",
-    "awayTeam": "Atletico DE Rafaela",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
