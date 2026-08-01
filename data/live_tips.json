@@ -1,21 +1,12 @@
 [
   {
-    "id": 1494719,
-    "league": "Eliteserien (Norway)",
-    "matchTime": "17:00",
-    "homeTeam": "Fredrikstad",
-    "awayTeam": "Sandefjord",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
-  },
-  {
     "id": 1495514,
     "league": "Damallsvenskan (Sweden)",
     "matchTime": "17:00",
     "homeTeam": "Uppsala W",
     "awayTeam": "Norrköping W",
     "prediction": "Uppsala W Win",
-    "odds": "1.7"
+    "odds": "1.65"
   },
   {
     "id": 1496106,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Lysekloster",
     "awayTeam": "Bjarg",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.97"
+    "prediction": "Both Teams To Score",
+    "odds": "2.16"
   },
   {
     "id": 1501435,
@@ -32,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Umeå W",
     "awayTeam": "Göteborg W",
-    "prediction": "Göteborg W Win",
-    "odds": "3.49"
+    "prediction": "Umeå W Win",
+    "odds": "1.98"
   },
   {
     "id": 1504485,
@@ -41,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Hässleholms IF",
     "awayTeam": "Atvidabergs FF",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.57"
+    "prediction": "Hässleholms IF Win",
+    "odds": "1.88"
   },
   {
     "id": 1504486,
@@ -51,7 +42,7 @@
     "homeTeam": "Laholm",
     "awayTeam": "Trollhättan",
     "prediction": "Laholm Win",
-    "odds": "1.88"
+    "odds": "1.78"
   },
   {
     "id": 1504487,
@@ -60,7 +51,7 @@
     "homeTeam": "Olympic",
     "awayTeam": "Skövde AIK",
     "prediction": "Skövde AIK Win",
-    "odds": "2.85"
+    "odds": "3.19"
   },
   {
     "id": 1505204,
@@ -68,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "FBK Karlstad",
     "awayTeam": "Assyriska FF",
-    "prediction": "Both Teams To Score",
-    "odds": "1.76"
+    "prediction": "FBK Karlstad Win",
+    "odds": "1.84"
   },
   {
     "id": 1505206,
@@ -77,8 +68,8 @@
     "matchTime": "17:00",
     "homeTeam": "Järfälla",
     "awayTeam": "Stockholm Internazionale",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
+    "prediction": "Järfälla Win & Over 1.5",
+    "odds": "1.92"
   },
   {
     "id": 1505209,
@@ -86,7 +77,16 @@
     "matchTime": "17:00",
     "homeTeam": "Stocksund",
     "awayTeam": "Karlberg",
-    "prediction": "Karlberg Win",
-    "odds": "2.06"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.77"
+  },
+  {
+    "id": 1506638,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchTime": "17:00",
+    "homeTeam": "Suduroy",
+    "awayTeam": "B36 II",
+    "prediction": "Both Teams To Score",
+    "odds": "2.05"
   }
 ]
