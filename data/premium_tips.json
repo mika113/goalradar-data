@@ -1,30 +1,12 @@
 [
   {
-    "id": 1581373,
-    "league": "Liga de Expansión MX (Mexico)",
-    "matchTime": "02:00",
-    "homeTeam": "Tapatío",
-    "awayTeam": "CDS Tampico Madero",
-    "prediction": "Tapatío Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1586092,
-    "league": "Primera Division (Nicaragua)",
-    "matchTime": "02:00",
-    "homeTeam": "Rancho Santana",
-    "awayTeam": "H&H Export",
-    "prediction": "H&H Export Win",
-    "odds": "1.94"
-  },
-  {
     "id": 1600553,
     "league": "Primera Division (El-Salvador)",
     "matchTime": "02:00",
     "homeTeam": "Municipal Limeño",
     "awayTeam": "Platense",
     "prediction": "Municipal Limeño Win",
-    "odds": "1.62"
+    "odds": "1.64"
   },
   {
     "id": 1603301,
@@ -32,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Juárez W",
     "awayTeam": "Pachuca W",
-    "prediction": "Pachuca W Win",
-    "odds": "3.21"
+    "prediction": "Juárez W Win",
+    "odds": "1.59"
   },
   {
     "id": 1606346,
@@ -41,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Colombia U21",
     "awayTeam": "Cuba U21",
-    "prediction": "Cuba U21 Win",
-    "odds": "2.27"
+    "prediction": "Colombia U21 Win",
+    "odds": "1.97"
   },
   {
     "id": 1606347,
@@ -51,7 +33,7 @@
     "homeTeam": "Dominican Republic U21",
     "awayTeam": "Mexico U21",
     "prediction": "Dominican Republic U21 Win",
-    "odds": "1.69"
+    "odds": "1.77"
   },
   {
     "id": 1549699,
@@ -59,8 +41,8 @@
     "matchTime": "02:10",
     "homeTeam": "Independiente Medellin",
     "awayTeam": "Deportivo Cali",
-    "prediction": "Deportivo Cali Win",
-    "odds": "2.88"
+    "prediction": "Both Teams To Score",
+    "odds": "1.76"
   },
   {
     "id": 1583724,
@@ -68,8 +50,8 @@
     "matchTime": "02:15",
     "homeTeam": "Sporting San Miguelito",
     "awayTeam": "Plaza Amador",
-    "prediction": "Plaza Amador Win",
-    "odds": "3.49"
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   },
   {
     "id": 1490362,
@@ -77,8 +59,8 @@
     "matchTime": "02:30",
     "homeTeam": "Inter Miami",
     "awayTeam": "Columbus Crew",
-    "prediction": "Both Teams To Score",
-    "odds": "2.06"
+    "prediction": "Columbus Crew Win",
+    "odds": "1.99"
   },
   {
     "id": 1490363,
@@ -86,8 +68,8 @@
     "matchTime": "02:30",
     "homeTeam": "Vancouver Whitecaps",
     "awayTeam": "Los Angeles FC",
-    "prediction": "Vancouver Whitecaps Win",
-    "odds": "1.62"
+    "prediction": "Los Angeles FC Win",
+    "odds": "2.54"
   },
   {
     "id": 1490364,
@@ -95,8 +77,8 @@
     "matchTime": "02:30",
     "homeTeam": "Philadelphia Union",
     "awayTeam": "Atlanta United FC",
-    "prediction": "Atlanta United FC Win",
-    "odds": "2.11"
+    "prediction": "Philadelphia Union Win",
+    "odds": "1.36"
   },
   {
     "id": 1490365,
@@ -104,7 +86,25 @@
     "matchTime": "02:30",
     "homeTeam": "New York Red Bulls",
     "awayTeam": "Orlando City SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Double Chance X2",
+    "odds": "1.78"
+  },
+  {
+    "id": 1490366,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "FC Cincinnati",
+    "awayTeam": "San Jose Earthquakes",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
+  },
+  {
+    "id": 1490367,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "DC United",
+    "awayTeam": "Nashville SC",
+    "prediction": "Double Chance X2",
+    "odds": "1.74"
   }
 ]
