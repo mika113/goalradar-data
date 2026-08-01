@@ -1,21 +1,12 @@
 [
   {
-    "id": 1525933,
-    "league": "Premier League (Belarus)",
-    "matchTime": "18:10",
-    "homeTeam": "FC Gomel",
-    "awayTeam": "FC Vitebsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
-  },
-  {
     "id": 1561343,
     "league": "Premier League (Russia)",
     "matchTime": "18:30",
     "homeTeam": "Dinamo Makhachkala",
     "awayTeam": "Lokomotiv",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "Dinamo Makhachkala Win",
+    "odds": "1.96"
   },
   {
     "id": 1581487,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Gandzasar",
     "awayTeam": "Ararat-Armenia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Double Chance 1X",
+    "odds": "1.37"
   },
   {
     "id": 1516082,
@@ -32,8 +23,8 @@
     "matchTime": "18:30",
     "homeTeam": "Buxoro",
     "awayTeam": "Lokomotiv",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.63"
+    "prediction": "Buxoro Win",
+    "odds": "1.79"
   },
   {
     "id": 1553117,
@@ -41,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "Wieczysta Kraków",
     "awayTeam": "Lech Poznan",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Wieczysta Kraków Win",
+    "odds": "1.32"
   },
   {
     "id": 1554103,
@@ -50,7 +41,16 @@
     "matchTime": "18:30",
     "homeTeam": "Semendrija 1924",
     "awayTeam": "Borac Cacak",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "Borac Cacak Win",
+    "odds": "2.41"
+  },
+  {
+    "id": 1560209,
+    "league": "NB I (Hungary)",
+    "matchTime": "18:30",
+    "homeTeam": "Budapest Honved",
+    "awayTeam": "MTK Budapest",
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
   }
 ]
