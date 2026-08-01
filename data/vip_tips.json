@@ -1,21 +1,12 @@
 [
   {
-    "id": 1490366,
-    "league": "Major League Soccer (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "FC Cincinnati",
-    "awayTeam": "San Jose Earthquakes",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
-  },
-  {
     "id": 1490367,
     "league": "Major League Soccer (USA)",
     "matchTime": "02:30",
     "homeTeam": "DC United",
     "awayTeam": "Nashville SC",
-    "prediction": "Nashville SC Win",
-    "odds": "1.85"
+    "prediction": "DC United Win",
+    "odds": "1.71"
   },
   {
     "id": 1490368,
@@ -23,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "CF Montreal",
     "awayTeam": "New England Revolution",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.02"
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
   },
   {
     "id": 1493043,
@@ -32,8 +23,8 @@
     "matchTime": "02:30",
     "homeTeam": "Racing Club",
     "awayTeam": "Tigre",
-    "prediction": "Racing Club Win",
-    "odds": "1.85"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   },
   {
     "id": 1493602,
@@ -41,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "Charleston Battery",
     "awayTeam": "Brooklyn",
-    "prediction": "Charleston Battery Win",
-    "odds": "1.62"
+    "prediction": "Brooklyn Win",
+    "odds": "2.09"
   },
   {
     "id": 1493924,
@@ -50,8 +41,8 @@
     "matchTime": "02:30",
     "homeTeam": "Fort Wayne",
     "awayTeam": "Union Omaha",
-    "prediction": "Fort Wayne Win",
-    "odds": "1.6"
+    "prediction": "Double Chance X2",
+    "odds": "1.79"
   },
   {
     "id": 1493928,
@@ -60,7 +51,7 @@
     "homeTeam": "Sarasota Paradise",
     "awayTeam": "Naples",
     "prediction": "Sarasota Paradise Win",
-    "odds": "1.86"
+    "odds": "1.6"
   },
   {
     "id": 1593673,
@@ -69,6 +60,15 @@
     "homeTeam": "Plaza Colonia",
     "awayTeam": "Miramar",
     "prediction": "Plaza Colonia Win",
-    "odds": "1.97"
+    "odds": "1.59"
+  },
+  {
+    "id": 1603426,
+    "league": "USL League Two (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Flint City Bucks",
+    "awayTeam": "Vermont Green",
+    "prediction": "Flint City Bucks Win",
+    "odds": "1.92"
   }
 ]
