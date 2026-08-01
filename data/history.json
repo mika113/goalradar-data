@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Cheongju",
     "awayTeam": "Suwon Bluewings",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cheongju Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Cheonan City",
     "awayTeam": "Yongin City",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Yongin City Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1604736,
