@@ -1,14 +1,86 @@
 [
   {
+    "id": 1601386,
+    "league": "Premier League (Lebanon)",
+    "matchDate": "FT",
+    "homeTeam": "Al Nejmeh",
+    "awayTeam": "Al Ansar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1561604,
+    "league": "II Liga - East (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Sandecja Nowy Sącz",
+    "awayTeam": "Chojniczanka Chojnice",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1561339,
+    "league": "Premier League (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Akhmat",
+    "awayTeam": "Spartak Moscow",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Akhmat Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558160,
+    "league": "I Liga (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Pogoń Grod. Mazowiecki",
+    "awayTeam": "Puszcza Niepołomice",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493035,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Riestra",
+    "awayTeam": "Barracas Central",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493032,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Aldosivi",
+    "awayTeam": "Gimnasia L.P.",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1494718,
     "league": "Eliteserien (Norway)",
     "matchDate": "FT",
     "homeTeam": "Brann",
     "awayTeam": "Rosenborg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Brann Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Petrocub",
     "awayTeam": "Politehnica UTM",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Petrocub Win",
     "outcome": "Won"
   },
   {
@@ -42,7 +114,7 @@
     "homeTeam": "Dacia-Buiucani",
     "awayTeam": "Zimbru",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Zimbru Win",
     "outcome": "Won"
@@ -53,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "CSF Bălți",
     "awayTeam": "Sheriff Tiraspol",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sheriff Tiraspol Win",
     "outcome": "Won"
@@ -69,78 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Pyunik Yerevan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1571497,
-    "league": "Second League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Hebar 1918",
-    "awayTeam": "Vihren",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1571494,
-    "league": "Second League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Dobrudzha",
-    "awayTeam": "Sportist Svoge",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561899,
-    "league": "Bundesliga (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Rapid Vienna",
-    "awayTeam": "SCR Altach",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rapid Vienna Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1557942,
-    "league": "Toto Cup Ligat Al (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Maccabi Netanya",
-    "awayTeam": "Hapoel Ramat Gan",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1554102,
-    "league": "Prva Liga (Serbia)",
-    "matchDate": "FT",
-    "homeTeam": "Napredak",
-    "awayTeam": "Grafičar",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551522,
-    "league": "Super Liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Komárno",
-    "awayTeam": "Spartak Trnava",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
