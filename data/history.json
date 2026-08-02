@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1510401,
@@ -46,101 +46,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1507021,
-    "league": "K League 1 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Ulsan Hyundai FC",
-    "awayTeam": "FC Anyang",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507020,
-    "league": "K League 1 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Jeju United FC",
-    "awayTeam": "Incheon United",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Jeju United FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507019,
-    "league": "K League 1 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Daejeon Citizen",
-    "awayTeam": "Gwangju FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581864,
-    "league": "Persha Liga (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Viktoriya Mykolaivka",
-    "awayTeam": "Kolos Kovalivka II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583832,
-    "league": "Second League A - Division A Gold (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Novosibirsk",
-    "awayTeam": "Rodina Moskva II",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Rodina Moskva II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1569034,
-    "league": "III Liga - Group 1 (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Widzew II",
-    "awayTeam": "Troszyn",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Widzew II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565434,
-    "league": "Premier League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Chornomorets",
-    "awayTeam": "Polessya",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523225,
-    "league": "Super League (China)",
-    "matchDate": "FT",
-    "homeTeam": "Qingdao Youth Island",
-    "awayTeam": "Qingdao Jonoon",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Qingdao Jonoon Win",
-    "outcome": "Lost"
   }
 ]
