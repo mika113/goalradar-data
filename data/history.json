@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1592968,
@@ -21,42 +21,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1567865,
-    "league": "2. Liga (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "WSPG Wels",
-    "awayTeam": "Austria Salzburg",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Austria Salzburg Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561084,
-    "league": "2. liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Petržalka",
-    "awayTeam": "MFK Bytča",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Petržalka Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561083,
-    "league": "2. liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Malženice",
-    "awayTeam": "Slovan Bratislava II",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Malženice Win",
     "outcome": "Won"
   }
 ]
