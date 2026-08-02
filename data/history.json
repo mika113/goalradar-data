@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1602419,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "SOL DE America",
     "awayTeam": "Independiente F.b.c.",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SOL DE America Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1595483,
@@ -126,9 +126,9 @@
     "homeTeam": "First Vienna W",
     "awayTeam": "SK Rapid W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SK Rapid W Win",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "FC Orenburg",
     "awayTeam": "Zenit",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zenit Win",
     "outcome": "Won"
   }
 ]
