@@ -1,5 +1,17 @@
 [
   {
+    "id": 1603433,
+    "league": "David Kipiani Cup (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Gori",
+    "awayTeam": "Dila",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1547600,
     "league": "A Lyga (Lithuania)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1607275,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1600304,
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Siwelele",
     "awayTeam": "TS Galaxy",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Siwelele Win",
     "outcome": "Won"
   },
   {
@@ -53,94 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Karcag SE",
     "awayTeam": "Soroksar",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1571798,
-    "league": "NB II (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Csakvar",
-    "awayTeam": "Nagykanizsai ULE",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565199,
-    "league": "Liga I (Romania)",
-    "matchDate": "FT",
-    "homeTeam": "Corvinul Hunedoara",
-    "awayTeam": "Sepsi OSK Sfantu Gheorghe",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560208,
-    "league": "NB I (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Gyori ETO FC",
-    "awayTeam": "Nyiregyhaza",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560207,
-    "league": "NB I (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Ferencvarosi TC",
-    "awayTeam": "Vasas",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1559969,
-    "league": "Czech Liga (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Bohemians 1905",
-    "awayTeam": "Hradec Králové",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1556632,
-    "league": "Premiership (Scotland)",
-    "matchDate": "FT",
-    "homeTeam": "Hibernian",
-    "awayTeam": "Motherwell",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1553116,
-    "league": "Ekstraklasa (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Slask Wroclaw",
-    "awayTeam": "Raków Częstochowa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
