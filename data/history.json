@@ -1,5 +1,77 @@
 [
   {
+    "id": 1585030,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Waalwijk",
+    "awayTeam": "Kifisia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Waalwijk Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583831,
+    "league": "Second League A - Division A Gold (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Mashuk-KMV",
+    "awayTeam": "FK Sokol Saratov",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1580454,
+    "league": "FAW Championship (Wales)",
+    "matchDate": "FT",
+    "homeTeam": "Gresford Athletic",
+    "awayTeam": "Newtown AFC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1575891,
+    "league": "Premier League (Wales)",
+    "matchDate": "FT",
+    "homeTeam": "Penybont",
+    "awayTeam": "The New Saints",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1575890,
+    "league": "Premier League (Wales)",
+    "matchDate": "FT",
+    "homeTeam": "GAP Connah S Quay FC",
+    "awayTeam": "Caernarfon Town",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560211,
+    "league": "NB I (Hungary)",
+    "matchDate": "FT",
+    "homeTeam": "Ujpest",
+    "awayTeam": "Debreceni VSC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Debreceni VSC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1604145,
     "league": "Premier Soccer League (Zimbabwe)",
     "matchDate": "FT",
@@ -9,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1602419,
@@ -18,9 +90,9 @@
     "homeTeam": "CSA Steaua Bucureşti",
     "awayTeam": "Slatina",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Slatina Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +102,9 @@
     "homeTeam": "Richards Bay",
     "awayTeam": "Polokwane City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Polokwane City Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "SOL DE America Win",
-    "outcome": "Won"
+    "prediction": "Independiente F.b.c. Win",
+    "outcome": "Lost"
   },
   {
     "id": 1599163,
@@ -66,81 +138,9 @@
     "homeTeam": "Itaquá Athletico Clube",
     "awayTeam": "America SP",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1595483,
-    "league": "Paulista Série B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Independente SP",
-    "awayTeam": "Flamengo SP",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583828,
-    "league": "Second League A - Division A Gold (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Alaniya Vladikavkaz",
-    "awayTeam": "Volgar Astrakhan",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583607,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Feyenoord",
-    "awayTeam": "Atalanta",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577466,
-    "league": "First League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Volga Ulyanovsk",
-    "awayTeam": "Chelyabinsk",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1574589,
-    "league": "Frauenliga (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "First Vienna W",
-    "awayTeam": "SK Rapid W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "First Vienna W Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1561345,
-    "league": "Premier League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "FC Orenburg",
-    "awayTeam": "Zenit",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Zenit Win",
+    "prediction": "America SP Win",
     "outcome": "Won"
   }
 ]
