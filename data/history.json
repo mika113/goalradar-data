@@ -36,11 +36,35 @@
     "outcome": "Won"
   },
   {
+    "id": 1508489,
+    "league": "NWSL Women (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Houston Dash W",
+    "awayTeam": "NJ/NY Gotham FC W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1493925,
     "league": "USL League One (USA)",
     "matchDate": "FT",
     "homeTeam": "Forward Madison",
     "awayTeam": "Westchester SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1493612,
+    "league": "USL Championship (USA)",
+    "matchDate": "FT",
+    "homeTeam": "Tampa Bay Rowdies",
+    "awayTeam": "Louisville City",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -92,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Charleston Battery Win",
-    "outcome": "Won"
+    "prediction": "Brooklyn Win",
+    "outcome": "Lost"
   },
   {
     "id": 1493043,
@@ -114,33 +138,9 @@
     "homeTeam": "CF Montreal",
     "awayTeam": "New England Revolution",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1490367,
-    "league": "Major League Soccer (USA)",
-    "matchDate": "FT",
-    "homeTeam": "DC United",
-    "awayTeam": "Nashville SC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1490365,
-    "league": "Major League Soccer (USA)",
-    "matchDate": "FT",
-    "homeTeam": "New York Red Bulls",
-    "awayTeam": "Orlando City SC",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "New York Red Bulls Win",
+    "prediction": "New England Revolution Win",
     "outcome": "Won"
   }
 ]
