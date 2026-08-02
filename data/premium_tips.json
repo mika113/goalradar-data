@@ -1,66 +1,12 @@
 [
   {
-    "id": 1589335,
-    "league": "Premier League - Summer Series (England)",
-    "matchTime": "23:00",
-    "homeTeam": "Liverpool",
-    "awayTeam": "Leeds",
-    "prediction": "Liverpool Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1600213,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Mali W",
-    "awayTeam": "Cape Verde W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
-  },
-  {
-    "id": 1601390,
-    "league": "Liga de Ascenso (Costa-Rica)",
-    "matchTime": "23:00",
-    "homeTeam": "CS Uruguay",
-    "awayTeam": "AD Carmelita",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
-  },
-  {
-    "id": 1606264,
-    "league": "Goiano - 2 (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Rio Verde",
-    "awayTeam": "Grêmio Anápolis",
-    "prediction": "Rio Verde Win & Over 1.5",
-    "odds": "2.46"
-  },
-  {
-    "id": 1607552,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Jamaica W",
-    "awayTeam": "Mexico W",
-    "prediction": "Jamaica W Win",
-    "odds": "1.39"
-  },
-  {
-    "id": 1607553,
-    "league": "Central American and Caribbean Games (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Puerto Rico W",
-    "awayTeam": "Colombia W",
-    "prediction": "Colombia W Win",
-    "odds": "3.43"
-  },
-  {
     "id": 1609867,
     "league": "CONCACAF Caribbean Club Shield (World)",
     "matchTime": "23:00",
     "homeTeam": "Mount Pleasant Academy",
     "awayTeam": "Delfines Del Este",
-    "prediction": "Double Chance X2",
-    "odds": "1.67"
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
   },
   {
     "id": 1584354,
@@ -68,8 +14,8 @@
     "matchTime": "23:15",
     "homeTeam": "Alianza Lima W",
     "awayTeam": "Defensores W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Alianza Lima W Win",
+    "odds": "1.85"
   },
   {
     "id": 1519437,
@@ -77,8 +23,8 @@
     "matchTime": "23:30",
     "homeTeam": "Macara",
     "awayTeam": "Guayaquil City FC",
-    "prediction": "Macara Win",
-    "odds": "1.69"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1549435,
@@ -87,7 +33,7 @@
     "homeTeam": "UCV Moquegua",
     "awayTeam": "FBC Melgar",
     "prediction": "UCV Moquegua Win & Over 1.5",
-    "odds": "2.61"
+    "odds": "2.05"
   },
   {
     "id": 1582186,
@@ -95,8 +41,8 @@
     "matchTime": "23:30",
     "homeTeam": "Estudiantil CNI",
     "awayTeam": "Deportivo Binacional",
-    "prediction": "Estudiantil CNI Win & Over 1.5",
-    "odds": "2.93"
+    "prediction": "Deportivo Binacional Win",
+    "odds": "2.69"
   },
   {
     "id": 1549700,
@@ -104,7 +50,61 @@
     "matchTime": "23:45",
     "homeTeam": "Jaguares",
     "awayTeam": "Atletico Nacional",
-    "prediction": "Jaguares Win",
-    "odds": "1.88"
+    "prediction": "Atletico Nacional Win",
+    "odds": "3.31"
+  },
+  {
+    "id": 1513264,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "00:00",
+    "homeTeam": "New York RB II",
+    "awayTeam": "New England II",
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
+  },
+  {
+    "id": 1522421,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "00:00",
+    "homeTeam": "Ferroviaria W",
+    "awayTeam": "Bahia W",
+    "prediction": "Ferroviaria W Win & Over 1.5",
+    "odds": "2.02"
+  },
+  {
+    "id": 1546847,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchTime": "00:00",
+    "homeTeam": "Mirassol",
+    "awayTeam": "Gremio",
+    "prediction": "Gremio Win",
+    "odds": "2.02"
+  },
+  {
+    "id": 1549576,
+    "league": "Primera B (Colombia)",
+    "matchTime": "00:00",
+    "homeTeam": "Real Soacha",
+    "awayTeam": "Real Cartagena",
+    "prediction": "Double Chance 1X",
+    "odds": "1.24"
+  },
+  {
+    "id": 1556583,
+    "league": "Paranaense - 3 (Brazil)",
+    "matchTime": "00:00",
+    "homeTeam": "City London",
+    "awayTeam": "Portuguesa Londrinense",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1559599,
+    "league": "Liga Nacional (Guatemala)",
+    "matchTime": "00:00",
+    "homeTeam": "Marquense",
+    "awayTeam": "Municipal",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.63"
   }
 ]
