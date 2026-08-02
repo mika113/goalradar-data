@@ -1,30 +1,12 @@
 [
   {
-    "id": 1523225,
-    "league": "Super League (China)",
-    "matchTime": "13:00",
-    "homeTeam": "Qingdao Youth Island",
-    "awayTeam": "Qingdao Jonoon",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.28"
-  },
-  {
-    "id": 1569034,
-    "league": "III Liga - Group 1 (Poland)",
-    "matchTime": "13:00",
-    "homeTeam": "Widzew II",
-    "awayTeam": "Troszyn",
-    "prediction": "Widzew II Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1582187,
     "league": "DFB Junioren Pokal (Germany)",
     "matchTime": "13:00",
     "homeTeam": "Altona U19",
     "awayTeam": "Paderborn U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1582196,
@@ -33,7 +15,7 @@
     "homeTeam": "Dynamo Dresden U19",
     "awayTeam": "Hannover 96 U19",
     "prediction": "Dynamo Dresden U19 Win",
-    "odds": "1.41"
+    "odds": "1.69"
   },
   {
     "id": 1582201,
@@ -41,8 +23,8 @@
     "matchTime": "13:00",
     "homeTeam": "Hildesheim U19",
     "awayTeam": "Bayer Leverkusen U19",
-    "prediction": "Bayer Leverkusen U19 Win",
-    "odds": "3.28"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
   },
   {
     "id": 1582206,
@@ -50,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Nürnberg U19",
     "awayTeam": "Hamburger SV U19",
-    "prediction": "Nürnberg U19 Win & Over 1.5",
-    "odds": "2.94"
+    "prediction": "Nürnberg U19 Win",
+    "odds": "1.66"
   },
   {
     "id": 1582213,
@@ -59,8 +41,8 @@
     "matchTime": "13:00",
     "homeTeam": "Koblenz U19",
     "awayTeam": "Werder Bremen U19",
-    "prediction": "Both Teams To Score",
-    "odds": "1.62"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.67"
   },
   {
     "id": 1583832,
@@ -69,6 +51,24 @@
     "homeTeam": "Novosibirsk",
     "awayTeam": "Rodina Moskva II",
     "prediction": "Novosibirsk Win",
-    "odds": "1.9"
+    "odds": "1.35"
+  },
+  {
+    "id": 1592964,
+    "league": "Druha Liga (Ukraine)",
+    "matchTime": "13:00",
+    "homeTeam": "Dinaz Vyshhorod",
+    "awayTeam": "Dnister Zalishchyky",
+    "prediction": "Dinaz Vyshhorod Win & Over 1.5",
+    "odds": "2.08"
+  },
+  {
+    "id": 1507019,
+    "league": "K League 1 (South-Korea)",
+    "matchTime": "13:30",
+    "homeTeam": "Daejeon Citizen",
+    "awayTeam": "Gwangju FC",
+    "prediction": "Gwangju FC Win",
+    "odds": "2.76"
   }
 ]
