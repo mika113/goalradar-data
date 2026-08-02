@@ -1,23 +1,5 @@
 [
   {
-    "id": 1528670,
-    "league": "League One (China)",
-    "matchTime": "14:00",
-    "homeTeam": "Shenzhen Juniors",
-    "awayTeam": "Wuxi Wugou",
-    "prediction": "Shenzhen Juniors Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1528671,
-    "league": "League One (China)",
-    "matchTime": "14:00",
-    "homeTeam": "Suzhou Dongwu",
-    "awayTeam": "Meizhou Kejia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.8"
-  },
-  {
     "id": 1532850,
     "league": "League Two (China)",
     "matchTime": "14:00",
@@ -32,8 +14,8 @@
     "matchTime": "14:00",
     "homeTeam": "Shandong Taishan II",
     "awayTeam": "Dalian Kewei",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
+    "prediction": "Shandong Taishan II Win",
+    "odds": "1.75"
   },
   {
     "id": 1536415,
@@ -42,7 +24,7 @@
     "homeTeam": "Zvezda St. Petersburg",
     "awayTeam": "Yenisey II",
     "prediction": "Zvezda St. Petersburg Win",
-    "odds": "1.69"
+    "odds": "1.67"
   },
   {
     "id": 1536862,
@@ -50,8 +32,8 @@
     "matchTime": "14:00",
     "homeTeam": "KDV",
     "awayTeam": "Orenburg II",
-    "prediction": "KDV Win",
-    "odds": "1.78"
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
   },
   {
     "id": 1548048,
@@ -59,8 +41,8 @@
     "matchTime": "14:00",
     "homeTeam": "Hansa Rostock",
     "awayTeam": "Neustrelitz",
-    "prediction": "Hansa Rostock Win",
-    "odds": "1.33"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   },
   {
     "id": 1581861,
@@ -68,8 +50,8 @@
     "matchTime": "14:00",
     "homeTeam": "Prykarpattia",
     "awayTeam": "Lokomotiv Kyiv",
-    "prediction": "Prykarpattia Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "2.07"
   },
   {
     "id": 1582193,
@@ -77,8 +59,8 @@
     "matchTime": "14:00",
     "homeTeam": "Bonner SC U19",
     "awayTeam": "St. Pauli U19",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "St. Pauli U19 Win",
+    "odds": "1.94"
   },
   {
     "id": 1582216,
@@ -86,7 +68,25 @@
     "matchTime": "14:00",
     "homeTeam": "Warnemunde U19",
     "awayTeam": "Fortuna Düsseldorf U19",
-    "prediction": "Warnemunde U19 Win & Over 1.5",
-    "odds": "2.65"
+    "prediction": "Fortuna Düsseldorf U19 Win",
+    "odds": "3.33"
+  },
+  {
+    "id": 1583598,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "14:00",
+    "homeTeam": "FC Lok Stendal",
+    "awayTeam": "Anker Wismar",
+    "prediction": "Both Teams To Score",
+    "odds": "1.69"
+  },
+  {
+    "id": 1583830,
+    "league": "Second League A - Division A Gold (Russia)",
+    "matchTime": "14:00",
+    "homeTeam": "Dinamo Kirov",
+    "awayTeam": "Kaluga",
+    "prediction": "Kaluga Win",
+    "odds": "2.26"
   }
 ]
