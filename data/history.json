@@ -1,5 +1,17 @@
 [
   {
+    "id": 1582094,
+    "league": "Kvindeliga (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "AGF W",
+    "awayTeam": "KoldingQ W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1592968,
     "league": "Druha Liga (Ukraine)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567865,
@@ -18,9 +30,9 @@
     "homeTeam": "WSPG Wels",
     "awayTeam": "Austria Salzburg",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Austria Salzburg Win",
     "outcome": "Won"
   },
   {
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Petržalka",
     "awayTeam": "MFK Bytča",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Petržalka Win",
@@ -41,34 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Malženice",
     "awayTeam": "Slovan Bratislava II",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577877,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Uničov",
-    "awayTeam": "Karviná II",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Karviná II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577871,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Havířov",
-    "awayTeam": "Zlín II",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Zlín II Win",
+    "prediction": "Malženice Win",
     "outcome": "Won"
   }
 ]
