@@ -1,93 +1,12 @@
 [
   {
-    "id": 1606431,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "17:30",
-    "homeTeam": "Fundacion Amigos",
-    "awayTeam": "Circulo Deportivo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
-  },
-  {
-    "id": 1494716,
-    "league": "Eliteserien (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Aalesund",
-    "awayTeam": "Tromso",
-    "prediction": "Aalesund Win",
-    "odds": "1.5"
-  },
-  {
-    "id": 1494720,
-    "league": "Eliteserien (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "KFUM Oslo",
-    "awayTeam": "Kristiansund BK",
-    "prediction": "KFUM Oslo Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1494721,
-    "league": "Eliteserien (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Molde",
-    "awayTeam": "Sarpsborg 08 FF",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.03"
-  },
-  {
-    "id": 1495896,
-    "league": "1. Division (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Egersund",
-    "awayTeam": "Sandnes ULF",
-    "prediction": "Egersund Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1495897,
-    "league": "1. Division (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "hodd",
-    "awayTeam": "Moss",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
-  },
-  {
-    "id": 1495898,
-    "league": "1. Division (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Kongsvinger",
-    "awayTeam": "Strommen",
-    "prediction": "Kongsvinger Win",
-    "odds": "1.32"
-  },
-  {
-    "id": 1495899,
-    "league": "1. Division (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "Lyn",
-    "awayTeam": "Sogndal",
-    "prediction": "Lyn Win",
-    "odds": "1.98"
-  },
-  {
-    "id": 1495900,
-    "league": "1. Division (Norway)",
-    "matchTime": "18:00",
-    "homeTeam": "ODD Ballklubb",
-    "awayTeam": "Asane",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
     "id": 1495902,
     "league": "1. Division (Norway)",
     "matchTime": "18:00",
     "homeTeam": "Raufoss",
     "awayTeam": "Stabaek",
-    "prediction": "Raufoss Win",
-    "odds": "1.66"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
   },
   {
     "id": 1496470,
@@ -96,7 +15,7 @@
     "homeTeam": "Asker",
     "awayTeam": "IF Ready",
     "prediction": "Asker Win",
-    "odds": "1.73"
+    "odds": "1.37"
   },
   {
     "id": 1497203,
@@ -104,7 +23,88 @@
     "matchTime": "18:00",
     "homeTeam": "Strømsgodset II",
     "awayTeam": "Tromsø II",
-    "prediction": "Strømsgodset II Win",
-    "odds": "1.77"
+    "prediction": "Tromsø II Win",
+    "odds": "2.06"
+  },
+  {
+    "id": 1515896,
+    "league": "Virsliga (Latvia)",
+    "matchTime": "18:00",
+    "homeTeam": "Riga",
+    "awayTeam": "Grobiņa",
+    "prediction": "Double Chance X2",
+    "odds": "1.56"
+  },
+  {
+    "id": 1516085,
+    "league": "Super League (Uzbekistan)",
+    "matchTime": "18:00",
+    "homeTeam": "Mash'al",
+    "awayTeam": "Sogdiana",
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
+  },
+  {
+    "id": 1527717,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchTime": "18:00",
+    "homeTeam": "Khosilot Farkhor",
+    "awayTeam": "Istaravshan",
+    "prediction": "Khosilot Farkhor Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1536420,
+    "league": "Second League - Group 2 (Russia)",
+    "matchTime": "18:00",
+    "homeTeam": "Torpedo Vladimir",
+    "awayTeam": "Baltika II",
+    "prediction": "Baltika II Win",
+    "odds": "3.18"
+  },
+  {
+    "id": 1536863,
+    "league": "Second League - Group 4 (Russia)",
+    "matchTime": "18:00",
+    "homeTeam": "Khimik Dzerzhinsk",
+    "awayTeam": "Nosta",
+    "prediction": "Khimik Dzerzhinsk Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1541654,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchTime": "18:00",
+    "homeTeam": "Reipas",
+    "awayTeam": "PPJ",
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
+  },
+  {
+    "id": 1551521,
+    "league": "Super Liga (Slovakia)",
+    "matchTime": "18:00",
+    "homeTeam": "Dunajska Streda",
+    "awayTeam": "Dukla Banská Bystrica",
+    "prediction": "Dukla Banská Bystrica Win",
+    "odds": "3.45"
+  },
+  {
+    "id": 1551524,
+    "league": "Super Liga (Slovakia)",
+    "matchTime": "18:00",
+    "homeTeam": "Zemplín Michalovce",
+    "awayTeam": "Žilina",
+    "prediction": "Zemplín Michalovce Win & Over 1.5",
+    "odds": "2.82"
+  },
+  {
+    "id": 1558166,
+    "league": "I Liga (Poland)",
+    "matchTime": "18:00",
+    "homeTeam": "Stal Mielec",
+    "awayTeam": "Podbeskidzie",
+    "prediction": "Stal Mielec Win",
+    "odds": "1.71"
   }
 ]
