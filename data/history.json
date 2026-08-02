@@ -8,8 +8,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Club Atletico Barinas Win",
-    "outcome": "Lost"
+    "prediction": "Puerto Cabello II Win",
+    "outcome": "Won"
   },
   {
     "id": 1609863,
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1609858,
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1606434,
@@ -81,66 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Mamoré Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606362,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "San Martin Formosa",
-    "awayTeam": "Sol de América",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "San Martin Formosa Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606355,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "9 de Julio Rafaela",
-    "awayTeam": "Douglas Haig",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606263,
-    "league": "Goiano - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Morrinhos",
-    "awayTeam": "Mineiros",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Morrinhos Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606262,
-    "league": "Goiano - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Goianésia",
-    "awayTeam": "Tupy FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1605316,
-    "league": "Mineiro - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Villa Nova",
-    "awayTeam": "Aymorés",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
