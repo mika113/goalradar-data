@@ -6,9 +6,9 @@
     "homeTeam": "Toluca U21",
     "awayTeam": "Necaxa U21",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Necaxa U21 Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1582741,
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1582736,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Racing Montevideo",
     "awayTeam": "Boston River",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Racing Montevideo Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1577878,
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Lauterach Win",
-    "outcome": "Lost"
+    "prediction": "Röthis Win",
+    "outcome": "Won"
   }
 ]
