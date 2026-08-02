@@ -1,93 +1,12 @@
 [
   {
-    "id": 1508490,
-    "league": "NWSL Women (USA)",
-    "matchTime": "03:45",
-    "homeTeam": "Bay FC W",
-    "awayTeam": "Seattle Reign FC W",
-    "prediction": "Seattle Reign FC W Win",
-    "odds": "2.0"
-  },
-  {
-    "id": 1517317,
-    "league": "Canadian Premier League (Canada)",
-    "matchTime": "04:00",
-    "homeTeam": "Cavalry FC",
-    "awayTeam": "York United",
-    "prediction": "York United Win",
-    "odds": "2.32"
-  },
-  {
-    "id": 1544734,
-    "league": "CONCACAF U20 (World)",
-    "matchTime": "04:00",
-    "homeTeam": "Honduras U20",
-    "awayTeam": "Panama U20",
-    "prediction": "Honduras U20 Win & Over 1.5",
-    "odds": "2.96"
-  },
-  {
-    "id": 1550917,
-    "league": "Liga MX (Mexico)",
-    "matchTime": "04:00",
-    "homeTeam": "Leon",
-    "awayTeam": "CF Pachuca",
-    "prediction": "Leon Win",
-    "odds": "1.9"
-  },
-  {
-    "id": 1581375,
-    "league": "Liga de Expansión MX (Mexico)",
-    "matchTime": "04:00",
-    "homeTeam": "Cancún",
-    "awayTeam": "Leones Negros UDG",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
-  },
-  {
-    "id": 1581471,
-    "league": "Liga de Expansión MX (Mexico)",
-    "matchTime": "04:00",
-    "homeTeam": "Piratas",
-    "awayTeam": "Monarcas",
-    "prediction": "Double Chance X2",
-    "odds": "1.54"
-  },
-  {
-    "id": 1550916,
-    "league": "Liga MX (Mexico)",
-    "matchTime": "04:05",
-    "homeTeam": "Atlas",
-    "awayTeam": "Monterrey",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
-  },
-  {
-    "id": 1603302,
-    "league": "Liga MX Femenil (Mexico)",
-    "matchTime": "04:06",
-    "homeTeam": "Tigres UANL W",
-    "awayTeam": "Puebla W",
-    "prediction": "Puebla W Win",
-    "odds": "3.13"
-  },
-  {
-    "id": 1549701,
-    "league": "Primera A (Colombia)",
-    "matchTime": "04:15",
-    "homeTeam": "Junior",
-    "awayTeam": "Millonarios",
-    "prediction": "Millonarios Win",
-    "odds": "3.1"
-  },
-  {
     "id": 1490373,
     "league": "Major League Soccer (USA)",
     "matchTime": "04:30",
     "homeTeam": "Colorado Rapids",
     "awayTeam": "Austin",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.95"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1493607,
@@ -95,8 +14,8 @@
     "matchTime": "04:30",
     "homeTeam": "New Mexico United",
     "awayTeam": "Colorado Springs",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "prediction": "Both Teams To Score",
+    "odds": "1.64"
   },
   {
     "id": 1493921,
@@ -105,6 +24,87 @@
     "homeTeam": "Boise",
     "awayTeam": "Corpus Christi",
     "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "odds": "1.82"
+  },
+  {
+    "id": 1549429,
+    "league": "Primera División (Peru)",
+    "matchTime": "04:30",
+    "homeTeam": "Alianza Lima",
+    "awayTeam": "Alianza Atletico",
+    "prediction": "Double Chance X2",
+    "odds": "1.33"
+  },
+  {
+    "id": 1583725,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:30",
+    "homeTeam": "Tauro FC",
+    "awayTeam": "UMECIT",
+    "prediction": "UMECIT Win",
+    "odds": "2.92"
+  },
+  {
+    "id": 1493608,
+    "league": "USL Championship (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Oakland Roots",
+    "awayTeam": "Pittsburgh Riverhounds",
+    "prediction": "Oakland Roots Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1493609,
+    "league": "USL Championship (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Orange County SC",
+    "awayTeam": "El Paso Locomotive",
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
+  },
+  {
+    "id": 1513261,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "05:00",
+    "homeTeam": "Tacoma Defiance",
+    "awayTeam": "Vancouver Whitecaps II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
+  },
+  {
+    "id": 1559598,
+    "league": "Liga Nacional (Guatemala)",
+    "matchTime": "05:00",
+    "homeTeam": "Guastatoya",
+    "awayTeam": "Malacateco",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
+  },
+  {
+    "id": 1598807,
+    "league": "Primera División (Costa-Rica)",
+    "matchTime": "05:00",
+    "homeTeam": "LD Alajuelense",
+    "awayTeam": "Escorpiones Belén",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.68"
+  },
+  {
+    "id": 1490374,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Los Angeles Galaxy",
+    "awayTeam": "FC Dallas",
+    "prediction": "FC Dallas Win",
+    "odds": "2.28"
+  },
+  {
+    "id": 1493603,
+    "league": "USL Championship (USA)",
+    "matchTime": "05:30",
+    "homeTeam": "Las Vegas Lights",
+    "awayTeam": "Phoenix Rising",
+    "prediction": "Las Vegas Lights Win",
+    "odds": "1.99"
   }
 ]
