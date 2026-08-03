@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Costa Rica U21",
     "awayTeam": "Colombia U21",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Costa Rica U21 Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1599165,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sarmiento Junin Win",
-    "outcome": "Won"
+    "prediction": "Independ. Rivadavia Win",
+    "outcome": "Lost"
   },
   {
     "id": 1609866,
@@ -68,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1584348,
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Club Sp. San Lorenzo Win",
-    "outcome": "Lost"
+    "prediction": "Sportivo Trinidense Win",
+    "outcome": "Won"
   },
   {
     "id": 1553827,
@@ -113,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Defensores de Vilelas",
     "awayTeam": "Sarmiento Resistencia",
-    "homeScore": 3,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Defensores de Vilelas Win",
     "outcome": "Won"
