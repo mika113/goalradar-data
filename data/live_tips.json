@@ -1,21 +1,12 @@
 [
   {
-    "id": 1516083,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "18:30",
-    "homeTeam": "Dinamo Samarqand",
-    "awayTeam": "Neftchi",
-    "prediction": "Double Chance X2",
-    "odds": "1.72"
-  },
-  {
     "id": 1529588,
     "league": "1. Liga (Latvia)",
     "matchTime": "18:30",
     "homeTeam": "Tukums II",
     "awayTeam": "JDFS Alberts",
-    "prediction": "JDFS Alberts Win",
-    "odds": "2.43"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.25"
   },
   {
     "id": 1560212,
@@ -24,7 +15,7 @@
     "homeTeam": "Zalaegerszegi TE",
     "awayTeam": "Paks",
     "prediction": "Zalaegerszegi TE Win",
-    "odds": "1.46"
+    "odds": "1.84"
   },
   {
     "id": 1565205,
@@ -33,7 +24,7 @@
     "homeTeam": "Universitatea Cluj",
     "awayTeam": "FC Botosani",
     "prediction": "Universitatea Cluj Win",
-    "odds": "1.51"
+    "odds": "1.36"
   },
   {
     "id": 1547602,
@@ -41,8 +32,8 @@
     "matchTime": "18:45",
     "homeTeam": "Šiauliai",
     "awayTeam": "Banga",
-    "prediction": "Šiauliai Win",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
   },
   {
     "id": 1571495,
@@ -50,8 +41,8 @@
     "matchTime": "18:45",
     "homeTeam": "Etar Veliko Tarnovo",
     "awayTeam": "Yantra 2019",
-    "prediction": "Etar Veliko Tarnovo Win",
-    "odds": "1.31"
+    "prediction": "Double Chance X2",
+    "odds": "1.41"
   },
   {
     "id": 1492945,
@@ -59,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Cork City",
     "awayTeam": "Athlone Town",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Cork City Win",
+    "odds": "1.69"
   },
   {
     "id": 1492946,
@@ -69,7 +60,7 @@
     "homeTeam": "Kerry",
     "awayTeam": "Cobh Ramblers",
     "prediction": "Kerry Win",
-    "odds": "1.7"
+    "odds": "1.42"
   },
   {
     "id": 1492947,
@@ -77,8 +68,8 @@
     "matchTime": "19:00",
     "homeTeam": "Longford Town",
     "awayTeam": "Finn Harps",
-    "prediction": "Double Chance X2",
-    "odds": "1.23"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.56"
   },
   {
     "id": 1492948,
@@ -86,7 +77,16 @@
     "matchTime": "19:00",
     "homeTeam": "UCD",
     "awayTeam": "Treaty United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.67"
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
+  },
+  {
+    "id": 1492949,
+    "league": "First Division (Ireland)",
+    "matchTime": "19:00",
+    "homeTeam": "Wexford",
+    "awayTeam": "Bray Wanderers",
+    "prediction": "Wexford Win",
+    "odds": "1.37"
   }
 ]
