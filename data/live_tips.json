@@ -1,39 +1,12 @@
 [
   {
-    "id": 1492946,
-    "league": "First Division (Ireland)",
-    "matchTime": "19:00",
-    "homeTeam": "Kerry",
-    "awayTeam": "Cobh Ramblers",
-    "prediction": "Cobh Ramblers Win",
-    "odds": "2.76"
-  },
-  {
-    "id": 1492947,
-    "league": "First Division (Ireland)",
-    "matchTime": "19:00",
-    "homeTeam": "Longford Town",
-    "awayTeam": "Finn Harps",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
-  },
-  {
-    "id": 1492948,
-    "league": "First Division (Ireland)",
-    "matchTime": "19:00",
-    "homeTeam": "UCD",
-    "awayTeam": "Treaty United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
-  },
-  {
     "id": 1492949,
     "league": "First Division (Ireland)",
     "matchTime": "19:00",
     "homeTeam": "Wexford",
     "awayTeam": "Bray Wanderers",
-    "prediction": "Double Chance X2",
-    "odds": "1.33"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.19"
   },
   {
     "id": 1495750,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "SJK",
     "awayTeam": "HJK Helsinki",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "SJK Win",
+    "odds": "1.36"
   },
   {
     "id": 1496655,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Nardo",
     "awayTeam": "Molde II",
-    "prediction": "Molde II Win",
-    "odds": "2.7"
+    "prediction": "Nardo Win",
+    "odds": "1.54"
   },
   {
     "id": 1496658,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Strindheim",
     "awayTeam": "Aalesund II",
-    "prediction": "Strindheim Win",
-    "odds": "1.31"
+    "prediction": "Aalesund II Win",
+    "odds": "2.96"
   },
   {
     "id": 1496837,
@@ -69,7 +42,7 @@
     "homeTeam": "Djerv",
     "awayTeam": "Åsane II",
     "prediction": "Djerv Win",
-    "odds": "1.48"
+    "odds": "1.64"
   },
   {
     "id": 1496839,
@@ -77,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Sogndal II",
     "awayTeam": "Førde",
-    "prediction": "Double Chance X2",
-    "odds": "1.79"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   },
   {
     "id": 1497016,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "Brodd",
     "awayTeam": "Stabæk II",
-    "prediction": "Brodd Win",
-    "odds": "1.64"
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
+  },
+  {
+    "id": 1497022,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Vindbjart",
+    "awayTeam": "Odd II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
+  },
+  {
+    "id": 1497380,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Brumunddal",
+    "awayTeam": "Lyn II",
+    "prediction": "Brumunddal Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1497383,
+    "league": "3. Division - Girone 6 (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Oppsal",
+    "awayTeam": "Sarpsborg 08 II",
+    "prediction": "Oppsal Win",
+    "odds": "2.0"
   }
 ]
