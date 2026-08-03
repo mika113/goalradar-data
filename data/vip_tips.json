@@ -1,30 +1,12 @@
 [
   {
-    "id": 1522158,
-    "league": "Victoria NPL 2 (Australia)",
-    "matchTime": "13:15",
-    "homeTeam": "Melbourne Victory II",
-    "awayTeam": "Melbourne Srbija",
-    "prediction": "Melbourne Srbija Win",
-    "odds": "3.02"
-  },
-  {
-    "id": 1567783,
-    "league": "ASEAN Championship (World)",
-    "matchTime": "13:30",
-    "homeTeam": "Cambodia",
-    "awayTeam": "Timor-Leste",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
     "id": 1589977,
     "league": "First League (Armenia)",
     "matchTime": "15:30",
     "homeTeam": "Shirak II",
     "awayTeam": "Sardarapat 2",
     "prediction": "Shirak II Win",
-    "odds": "1.31"
+    "odds": "1.6"
   },
   {
     "id": 1549997,
@@ -33,7 +15,7 @@
     "homeTeam": "Barrancas UMET",
     "awayTeam": "Las Mandarinas",
     "prediction": "Barrancas UMET Win",
-    "odds": "1.54"
+    "odds": "1.74"
   },
   {
     "id": 1589971,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "BKMA II",
     "awayTeam": "Lernayin Artsakh",
-    "prediction": "Lernayin Artsakh Win",
-    "odds": "1.99"
+    "prediction": "BKMA II Win",
+    "odds": "1.62"
   },
   {
     "id": 1589975,
@@ -50,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Olympia Yerevan",
     "awayTeam": "Banants II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.95"
+    "prediction": "Olympia Yerevan Win",
+    "odds": "1.47"
   },
   {
     "id": 1548097,
@@ -59,8 +41,8 @@
     "matchTime": "16:30",
     "homeTeam": "Indonesia",
     "awayTeam": "Vietnam",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.24"
+    "prediction": "Vietnam Win",
+    "odds": "2.36"
   },
   {
     "id": 1497201,
@@ -68,7 +50,25 @@
     "matchTime": "17:00",
     "homeTeam": "Lillestrøm II",
     "awayTeam": "Kongsvinger II",
-    "prediction": "Kongsvinger II Win",
-    "odds": "2.85"
+    "prediction": "Both Teams To Score",
+    "odds": "1.95"
+  },
+  {
+    "id": 1514248,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "17:00",
+    "homeTeam": "Vestri",
+    "awayTeam": "Grotta",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1577465,
+    "league": "First League (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "FC UFA",
+    "awayTeam": "KAMAZ",
+    "prediction": "KAMAZ Win",
+    "odds": "1.89"
   }
 ]
