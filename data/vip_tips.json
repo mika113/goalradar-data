@@ -1,39 +1,12 @@
 [
   {
-    "id": 1600215,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Senegal W",
-    "awayTeam": "Morocco W",
-    "prediction": "Double Chance X2",
-    "odds": "1.56"
-  },
-  {
-    "id": 1606348,
-    "league": "CAC Games (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Costa Rica U21",
-    "awayTeam": "Colombia U21",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
-  },
-  {
-    "id": 1606350,
-    "league": "CAC Games (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Panama U21",
-    "awayTeam": "Cuba U21",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
     "id": 1549573,
     "league": "Primera B (Colombia)",
     "matchTime": "23:30",
     "homeTeam": "Ind. Yumbo",
     "awayTeam": "Envigado",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
   },
   {
     "id": 1525752,
@@ -41,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "Junior W",
     "awayTeam": "Atlético Bucaramanga W",
-    "prediction": "Junior W Win",
-    "odds": "1.91"
+    "prediction": "Double Chance X2",
+    "odds": "1.23"
   },
   {
     "id": 1522418,
@@ -50,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Flamengo W",
     "awayTeam": "Corinthians W",
-    "prediction": "Flamengo W Win & Over 1.5",
-    "odds": "2.99"
+    "prediction": "Flamengo W Win",
+    "odds": "1.5"
   },
   {
     "id": 1584349,
@@ -59,8 +32,8 @@
     "matchTime": "00:30",
     "homeTeam": "Deportivo Recoleta",
     "awayTeam": "Nacional Asuncion",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "prediction": "Deportivo Recoleta Win & Over 1.5",
+    "odds": "1.98"
   },
   {
     "id": 1603307,
@@ -68,7 +41,34 @@
     "matchTime": "00:45",
     "homeTeam": "Atlante W",
     "awayTeam": "Necaxa W",
-    "prediction": "Necaxa W Win",
-    "odds": "2.19"
+    "prediction": "Atlante W Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1493042,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "01:00",
+    "homeTeam": "Platense",
+    "awayTeam": "Talleres Cordoba",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1493046,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "01:00",
+    "homeTeam": "Velez Sarsfield",
+    "awayTeam": "Independiente",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1581843,
+    "league": "Primera División - Apertura (Uruguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Defensor Sporting",
+    "awayTeam": "Cerro",
+    "prediction": "Defensor Sporting Win & Over 1.5",
+    "odds": "2.32"
   }
 ]
