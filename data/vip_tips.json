@@ -1,21 +1,12 @@
 [
   {
-    "id": 1603307,
-    "league": "Liga MX Femenil (Mexico)",
-    "matchTime": "00:45",
-    "homeTeam": "Atlante W",
-    "awayTeam": "Necaxa W",
-    "prediction": "Necaxa W Win",
-    "odds": "3.28"
-  },
-  {
     "id": 1493042,
     "league": "Liga Profesional Argentina",
     "matchTime": "01:00",
     "homeTeam": "Platense",
     "awayTeam": "Talleres Cordoba",
-    "prediction": "Talleres Cordoba Win",
-    "odds": "3.22"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1493046,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Velez Sarsfield",
     "awayTeam": "Independiente",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.99"
+    "prediction": "Velez Sarsfield Win",
+    "odds": "1.39"
   },
   {
     "id": 1581843,
@@ -32,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Defensor Sporting",
     "awayTeam": "Cerro",
-    "prediction": "Defensor Sporting Win & Over 1.5",
-    "odds": "1.92"
+    "prediction": "Defensor Sporting Win",
+    "odds": "1.44"
   },
   {
     "id": 1593677,
@@ -41,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Paysandu",
     "awayTeam": "Oriental",
-    "prediction": "Paysandu Win & Over 1.5",
-    "odds": "1.89"
+    "prediction": "Paysandu Win",
+    "odds": "1.57"
   },
   {
     "id": 1546089,
@@ -50,8 +41,8 @@
     "matchTime": "01:30",
     "homeTeam": "Grêmio Prudente",
     "awayTeam": "Linense",
-    "prediction": "Grêmio Prudente Win",
-    "odds": "1.34"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
   },
   {
     "id": 1549575,
@@ -59,8 +50,8 @@
     "matchTime": "01:30",
     "homeTeam": "Leones FC",
     "awayTeam": "Quindio",
-    "prediction": "Leones FC Win",
-    "odds": "1.57"
+    "prediction": "Quindio Win",
+    "odds": "2.55"
   },
   {
     "id": 1599166,
@@ -68,7 +59,16 @@
     "matchTime": "01:30",
     "homeTeam": "Paraguari AC",
     "awayTeam": "Deportivo Capiata",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Paraguari AC Win",
+    "odds": "1.8"
+  },
+  {
+    "id": 1607534,
+    "league": "Primera División (Venezuela)",
+    "matchTime": "01:30",
+    "homeTeam": "Caracas FC",
+    "awayTeam": "Estudiantes de Merida FC",
+    "prediction": "Caracas FC Win",
+    "odds": "1.84"
   }
 ]
