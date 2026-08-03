@@ -1,21 +1,12 @@
 [
   {
-    "id": 1551656,
-    "league": "Primera División (Costa-Rica)",
-    "matchTime": "05:00",
-    "homeTeam": "Perez Zeledon",
-    "awayTeam": "CS Cartagines",
-    "prediction": "Both Teams To Score",
-    "odds": "1.82"
-  },
-  {
     "id": 1559600,
     "league": "Liga Nacional (Guatemala)",
     "matchTime": "05:00",
     "homeTeam": "Xelajú",
     "awayTeam": "Aurora",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
+    "prediction": "Both Teams To Score",
+    "odds": "2.08"
   },
   {
     "id": 1558459,
@@ -23,8 +14,8 @@
     "matchTime": "10:00",
     "homeTeam": "Dinamo-BGU W",
     "awayTeam": "Servette Chênois W",
-    "prediction": "Dinamo-BGU W Win",
-    "odds": "1.39"
+    "prediction": "Dinamo-BGU W Win & Over 1.5",
+    "odds": "3.0"
   },
   {
     "id": 1595183,
@@ -32,8 +23,8 @@
     "matchTime": "12:30",
     "homeTeam": "Measurers",
     "awayTeam": "Peerless",
-    "prediction": "Measurers Win",
-    "odds": "1.86"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   },
   {
     "id": 1548099,
@@ -41,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Myanmar",
     "awayTeam": "Laos",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Myanmar Win",
+    "odds": "1.46"
   },
   {
     "id": 1542344,
@@ -51,7 +42,7 @@
     "homeTeam": "Jeju United FC",
     "awayTeam": "Bayern München",
     "prediction": "Jeju United FC Win",
-    "odds": "1.68"
+    "odds": "1.41"
   },
   {
     "id": 1583612,
@@ -59,8 +50,8 @@
     "matchTime": "15:00",
     "homeTeam": "Tenerife",
     "awayTeam": "Tamaraceite",
-    "prediction": "Tamaraceite Win",
-    "odds": "3.06"
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
   },
   {
     "id": 1585032,
@@ -68,8 +59,8 @@
     "matchTime": "15:00",
     "homeTeam": "Bournemouth",
     "awayTeam": "Genoa",
-    "prediction": "Bournemouth Win",
-    "odds": "1.74"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1604760,
@@ -77,8 +68,8 @@
     "matchTime": "15:00",
     "homeTeam": "Al-Nassr",
     "awayTeam": "Almeria",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Al-Nassr Win",
+    "odds": "1.33"
   },
   {
     "id": 1607276,
@@ -86,7 +77,16 @@
     "matchTime": "15:00",
     "homeTeam": "Karlovac 1919",
     "awayTeam": "Orijent 1919",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
+  },
+  {
+    "id": 1610530,
+    "league": "Piala Presiden (Indonesia)",
+    "matchTime": "15:00",
+    "homeTeam": "Persebaya Surabaya",
+    "awayTeam": "Arema FC",
+    "prediction": "Arema FC Win",
+    "odds": "3.3"
   }
 ]
