@@ -1,30 +1,12 @@
 [
   {
-    "id": 1530982,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "15:30",
-    "homeTeam": "FarDu",
-    "awayTeam": "Qiziriq",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.8"
-  },
-  {
-    "id": 1583613,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "15:30",
-    "homeTeam": "BG Pathum United",
-    "awayTeam": "Aston Villa",
-    "prediction": "BG Pathum United Win",
-    "odds": "1.87"
-  },
-  {
     "id": 1548098,
     "league": "ASEAN Championship (World)",
     "matchTime": "16:00",
     "homeTeam": "Philippines",
     "awayTeam": "Thailand",
     "prediction": "Philippines Win",
-    "odds": "1.87"
+    "odds": "1.65"
   },
   {
     "id": 1589970,
@@ -33,7 +15,7 @@
     "homeTeam": "Ararat II",
     "awayTeam": "Andranik",
     "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "odds": "1.36"
   },
   {
     "id": 1589973,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Hayq",
     "awayTeam": "Bentonit Ijevan",
-    "prediction": "Bentonit Ijevan Win",
-    "odds": "3.45"
+    "prediction": "Hayq Win",
+    "odds": "1.61"
   },
   {
     "id": 1589976,
@@ -50,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Pyunik II",
     "awayTeam": "Ararat-Armenia II",
-    "prediction": "Pyunik II Win",
-    "odds": "1.39"
+    "prediction": "Pyunik II Win & Over 1.5",
+    "odds": "2.98"
   },
   {
     "id": 1610532,
@@ -60,7 +42,7 @@
     "homeTeam": "GOR Mahia",
     "awayTeam": "Al Hilal Omdurman",
     "prediction": "GOR Mahia Win",
-    "odds": "1.75"
+    "odds": "1.74"
   },
   {
     "id": 1563635,
@@ -68,8 +50,8 @@
     "matchTime": "16:15",
     "homeTeam": "Akron",
     "awayTeam": "FC Rostov",
-    "prediction": "Akron Win",
-    "odds": "1.7"
+    "prediction": "FC Rostov Win",
+    "odds": "3.09"
   },
   {
     "id": 1531074,
@@ -77,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Respublika FA",
     "awayTeam": "Gazalkent",
-    "prediction": "Respublika FA Win",
-    "odds": "1.53"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
   },
   {
     "id": 1558458,
@@ -86,7 +68,25 @@
     "matchTime": "17:00",
     "homeTeam": "Breidablik W",
     "awayTeam": "Aktobe W",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.23"
+  },
+  {
+    "id": 1583614,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Lorient",
+    "awayTeam": "UNFP",
+    "prediction": "Lorient Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1589974,
+    "league": "First League (Armenia)",
+    "matchTime": "17:00",
+    "homeTeam": "Noah II",
+    "awayTeam": "Mika",
+    "prediction": "Noah II Win",
+    "odds": "1.67"
   }
 ]
