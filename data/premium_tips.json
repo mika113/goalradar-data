@@ -1,39 +1,12 @@
 [
   {
-    "id": 1493042,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Platense",
-    "awayTeam": "Talleres Cordoba",
-    "prediction": "Platense Win",
-    "odds": "1.57"
-  },
-  {
-    "id": 1493046,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Velez Sarsfield",
-    "awayTeam": "Independiente",
-    "prediction": "Double Chance X2",
-    "odds": "1.79"
-  },
-  {
-    "id": 1581843,
-    "league": "Primera División - Apertura (Uruguay)",
-    "matchTime": "01:00",
-    "homeTeam": "Defensor Sporting",
-    "awayTeam": "Cerro",
-    "prediction": "Defensor Sporting Win & Over 1.5",
-    "odds": "2.07"
-  },
-  {
     "id": 1593677,
     "league": "Segunda División (Uruguay)",
     "matchTime": "01:00",
     "homeTeam": "Paysandu",
     "awayTeam": "Oriental",
-    "prediction": "Oriental Win",
-    "odds": "2.01"
+    "prediction": "Paysandu Win & Over 1.5",
+    "odds": "2.55"
   },
   {
     "id": 1546089,
@@ -41,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "Grêmio Prudente",
     "awayTeam": "Linense",
-    "prediction": "Grêmio Prudente Win",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.89"
   },
   {
     "id": 1549575,
@@ -51,7 +24,7 @@
     "homeTeam": "Leones FC",
     "awayTeam": "Quindio",
     "prediction": "Leones FC Win",
-    "odds": "1.96"
+    "odds": "1.85"
   },
   {
     "id": 1599166,
@@ -59,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Paraguari AC",
     "awayTeam": "Deportivo Capiata",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.96"
+    "prediction": "Paraguari AC Win",
+    "odds": "1.98"
   },
   {
     "id": 1607534,
@@ -68,8 +41,8 @@
     "matchTime": "01:30",
     "homeTeam": "Caracas FC",
     "awayTeam": "Estudiantes de Merida FC",
-    "prediction": "Caracas FC Win",
-    "odds": "1.49"
+    "prediction": "Estudiantes de Merida FC Win",
+    "odds": "1.82"
   },
   {
     "id": 1606349,
@@ -77,8 +50,8 @@
     "matchTime": "02:00",
     "homeTeam": "Mexico U21",
     "awayTeam": "Guatemala U21",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "prediction": "Double Chance X2",
+    "odds": "1.47"
   },
   {
     "id": 1606351,
@@ -86,8 +59,8 @@
     "matchTime": "02:00",
     "homeTeam": "Dominican Republic U21",
     "awayTeam": "Venezuela U21",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1511628,
@@ -95,8 +68,8 @@
     "matchTime": "03:00",
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Deportes Copiapo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Deportes Copiapo Win",
+    "odds": "2.5"
   },
   {
     "id": 1519434,
@@ -104,7 +77,34 @@
     "matchTime": "03:00",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Delfin SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Delfin SC Win",
+    "odds": "2.6"
+  },
+  {
+    "id": 1546843,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchTime": "03:00",
+    "homeTeam": "Atletico Paranaense",
+    "awayTeam": "Vitoria",
+    "prediction": "Atletico Paranaense Win",
+    "odds": "1.36"
+  },
+  {
+    "id": 1493034,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "03:15",
+    "homeTeam": "Central Cordoba de Santiago",
+    "awayTeam": "San Lorenzo",
+    "prediction": "Central Cordoba de Santiago Win",
+    "odds": "1.79"
+  },
+  {
+    "id": 1493039,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "03:15",
+    "homeTeam": "Huracan",
+    "awayTeam": "Atletico Tucuman",
+    "prediction": "Huracan Win & Over 1.5",
+    "odds": "1.92"
   }
 ]
