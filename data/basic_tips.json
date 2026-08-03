@@ -5,8 +5,8 @@
     "matchTime": "12:00",
     "homeTeam": "RTC",
     "awayTeam": "Thimphu",
-    "prediction": "Thimphu Win",
-    "odds": "3.34"
+    "prediction": "RTC Win",
+    "odds": "1.33"
   },
   {
     "id": 1605370,
@@ -14,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ararat-Armenia",
     "awayTeam": "Celje",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Ararat-Armenia Win",
+    "odds": "1.93"
   },
   {
     "id": 1607168,
@@ -23,17 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Mjallby AIF",
     "awayTeam": "Slovan Bratislava",
-    "prediction": "Slovan Bratislava Win",
-    "odds": "2.91"
-  },
-  {
-    "id": 1549573,
-    "league": "Primera B (Colombia)",
-    "matchTime": "23:30",
-    "homeTeam": "Ind. Yumbo",
-    "awayTeam": "Envigado",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Mjallby AIF Win",
+    "odds": "1.51"
   },
   {
     "id": 1525752,
@@ -41,8 +32,8 @@
     "matchTime": "00:00",
     "homeTeam": "Junior W",
     "awayTeam": "Atlético Bucaramanga W",
-    "prediction": "Junior W Win",
-    "odds": "1.92"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.87"
   },
   {
     "id": 1522418,
@@ -50,7 +41,16 @@
     "matchTime": "00:30",
     "homeTeam": "Flamengo W",
     "awayTeam": "Corinthians W",
-    "prediction": "Corinthians W Win",
-    "odds": "2.42"
+    "prediction": "Flamengo W Win",
+    "odds": "1.67"
+  },
+  {
+    "id": 1584349,
+    "league": "Division Profesional - Clausura (Paraguay)",
+    "matchTime": "00:30",
+    "homeTeam": "Deportivo Recoleta",
+    "awayTeam": "Nacional Asuncion",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   }
 ]
