@@ -1,5 +1,41 @@
 [
   {
+    "id": 1608229,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchDate": "FT",
+    "homeTeam": "Neftchi",
+    "awayTeam": "Talant",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1608228,
+    "league": "Premier League (Kyrgyzstan)",
+    "matchDate": "FT",
+    "homeTeam": "Dordoi Bishkek",
+    "awayTeam": "Kara-Balta",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Dordoi Bishkek Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1516084,
+    "league": "Super League (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Kokand-1912",
+    "awayTeam": "Surkhon",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1577465,
     "league": "First League (Russia)",
     "matchDate": "FT",
@@ -18,7 +54,7 @@
     "homeTeam": "Vestri",
     "awayTeam": "Grotta",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Grotta Win",
     "outcome": "Won"
@@ -30,7 +66,7 @@
     "homeTeam": "Lillestrøm II",
     "awayTeam": "Kongsvinger II",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Kongsvinger II Win",
     "outcome": "Won"
@@ -57,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1604136,
@@ -105,42 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Inhulets Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610881,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "BSS Sporting",
-    "awayTeam": "East Bengal",
-    "homeScore": 3,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1592962,
-    "league": "Druha Liga (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Atlet",
-    "awayTeam": "Rebel",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Rebel Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1536860,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Chelyabinsk II",
-    "awayTeam": "Dinamo Barnaul",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Dinamo Barnaul Win",
     "outcome": "Won"
   }
 ]
