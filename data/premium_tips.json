@@ -1,21 +1,12 @@
 [
   {
-    "id": 1599166,
-    "league": "Division Intermedia (Paraguay)",
-    "matchTime": "01:30",
-    "homeTeam": "Paraguari AC",
-    "awayTeam": "Deportivo Capiata",
-    "prediction": "Deportivo Capiata Win",
-    "odds": "2.55"
-  },
-  {
     "id": 1607534,
     "league": "Primera División (Venezuela)",
     "matchTime": "01:30",
     "homeTeam": "Caracas FC",
     "awayTeam": "Estudiantes de Merida FC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.11"
+    "prediction": "Double Chance X2",
+    "odds": "1.37"
   },
   {
     "id": 1606349,
@@ -23,8 +14,8 @@
     "matchTime": "02:00",
     "homeTeam": "Mexico U21",
     "awayTeam": "Guatemala U21",
-    "prediction": "Mexico U21 Win",
-    "odds": "1.85"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1606351,
@@ -32,8 +23,8 @@
     "matchTime": "02:00",
     "homeTeam": "Dominican Republic U21",
     "awayTeam": "Venezuela U21",
-    "prediction": "Both Teams To Score",
-    "odds": "1.8"
+    "prediction": "Dominican Republic U21 Win",
+    "odds": "1.39"
   },
   {
     "id": 1511628,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Deportes Copiapo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.06"
+    "prediction": "Both Teams To Score",
+    "odds": "1.78"
   },
   {
     "id": 1519434,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "LDU de Quito",
     "awayTeam": "Delfin SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.13"
+    "prediction": "LDU de Quito Win",
+    "odds": "1.4"
   },
   {
     "id": 1546843,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Atletico Paranaense",
     "awayTeam": "Vitoria",
-    "prediction": "Both Teams To Score",
-    "odds": "1.69"
+    "prediction": "Vitoria Win",
+    "odds": "2.05"
   },
   {
     "id": 1493034,
@@ -69,7 +60,7 @@
     "homeTeam": "Central Cordoba de Santiago",
     "awayTeam": "San Lorenzo",
     "prediction": "Central Cordoba de Santiago Win",
-    "odds": "1.88"
+    "odds": "1.6"
   },
   {
     "id": 1493039,
@@ -77,8 +68,8 @@
     "matchTime": "03:15",
     "homeTeam": "Huracan",
     "awayTeam": "Atletico Tucuman",
-    "prediction": "Atletico Tucuman Win",
-    "odds": "1.97"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.82"
   },
   {
     "id": 1549704,
@@ -86,8 +77,8 @@
     "matchTime": "04:00",
     "homeTeam": "Bucaramanga",
     "awayTeam": "Cucuta",
-    "prediction": "Double Chance X2",
-    "odds": "1.74"
+    "prediction": "Bucaramanga Win",
+    "odds": "1.48"
   },
   {
     "id": 1583728,
@@ -95,8 +86,8 @@
     "matchTime": "04:00",
     "homeTeam": "Independiente de La Chorrera",
     "awayTeam": "Herrera",
-    "prediction": "Independiente de La Chorrera Win",
-    "odds": "1.97"
+    "prediction": "Both Teams To Score",
+    "odds": "1.91"
   },
   {
     "id": 1592937,
@@ -104,7 +95,16 @@
     "matchTime": "04:00",
     "homeTeam": "CD Marathon",
     "awayTeam": "Atletico Independiente",
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
+  },
+  {
+    "id": 1603308,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "04:06",
+    "homeTeam": "Santos Laguna W",
+    "awayTeam": "América W",
     "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "odds": "1.43"
   }
 ]
