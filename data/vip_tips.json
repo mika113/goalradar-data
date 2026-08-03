@@ -1,39 +1,12 @@
 [
   {
-    "id": 1577465,
-    "league": "First League (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "FC UFA",
-    "awayTeam": "KAMAZ",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
-  },
-  {
-    "id": 1516084,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "17:30",
-    "homeTeam": "Kokand-1912",
-    "awayTeam": "Surkhon",
-    "prediction": "Kokand-1912 Win",
-    "odds": "1.58"
-  },
-  {
-    "id": 1516087,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "18:00",
-    "homeTeam": "Olmaliq",
-    "awayTeam": "Nasaf",
-    "prediction": "Nasaf Win",
-    "odds": "3.17"
-  },
-  {
     "id": 1541753,
     "league": "Kakkonen - Lohko C (Finland)",
     "matchTime": "18:00",
     "homeTeam": "VPS II",
     "awayTeam": "Jaro 2",
     "prediction": "VPS II Win",
-    "odds": "1.94"
+    "odds": "1.7"
   },
   {
     "id": 1556404,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Transinvest 2",
     "awayTeam": "Babrungas",
-    "prediction": "Double Chance X2",
-    "odds": "1.76"
+    "prediction": "Transinvest 2 Win",
+    "odds": "1.7"
   },
   {
     "id": 1561079,
@@ -51,7 +24,7 @@
     "homeTeam": "Inter Bratislava",
     "awayTeam": "Žilina II",
     "prediction": "Inter Bratislava Win",
-    "odds": "2.0"
+    "odds": "1.64"
   },
   {
     "id": 1604757,
@@ -59,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Al Shabab",
     "awayTeam": "MC Alger",
-    "prediction": "Al Shabab Win",
-    "odds": "1.38"
+    "prediction": "Al Shabab Win & Over 1.5",
+    "odds": "2.61"
   },
   {
     "id": 1604758,
@@ -68,7 +41,34 @@
     "matchTime": "18:00",
     "homeTeam": "Al-Hilal Saudi FC",
     "awayTeam": "Al Ahli Doha",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Al Ahli Doha Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1516083,
+    "league": "Super League (Uzbekistan)",
+    "matchTime": "18:30",
+    "homeTeam": "Dinamo Samarqand",
+    "awayTeam": "Neftchi",
+    "prediction": "Dinamo Samarqand Win",
+    "odds": "1.95"
+  },
+  {
+    "id": 1529588,
+    "league": "1. Liga (Latvia)",
+    "matchTime": "18:30",
+    "homeTeam": "Tukums II",
+    "awayTeam": "JDFS Alberts",
+    "prediction": "Tukums II Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1560212,
+    "league": "NB I (Hungary)",
+    "matchTime": "18:30",
+    "homeTeam": "Zalaegerszegi TE",
+    "awayTeam": "Paks",
+    "prediction": "Paks Win",
+    "odds": "3.27"
   }
 ]
