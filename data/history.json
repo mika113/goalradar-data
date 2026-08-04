@@ -8,8 +8,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1531074,
@@ -18,7 +18,7 @@
     "homeTeam": "Respublika FA",
     "awayTeam": "Gazalkent",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Gazalkent Win",
     "outcome": "Won"
@@ -30,7 +30,7 @@
     "homeTeam": "Akron",
     "awayTeam": "FC Rostov",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "FC Rostov Win",
     "outcome": "Won"
@@ -78,9 +78,9 @@
     "homeTeam": "Philippines",
     "awayTeam": "Thailand",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Philippines Win",
     "outcome": "Lost"
   },
   {
@@ -116,8 +116,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "RTC Win",
-    "outcome": "Lost"
+    "prediction": "Thimphu Win",
+    "outcome": "Won"
   },
   {
     "id": 1548099,
