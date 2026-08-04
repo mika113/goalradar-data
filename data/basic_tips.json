@@ -1,48 +1,12 @@
 [
   {
-    "id": 1598824,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:00",
-    "homeTeam": "Olympiakos Piraeus",
-    "awayTeam": "NEC Nijmegen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
-  },
-  {
-    "id": 1598825,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:00",
-    "homeTeam": "Union St. Gilloise",
-    "awayTeam": "Bodo/Glimt",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
-  },
-  {
-    "id": 1598826,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:00",
-    "homeTeam": "Sparta Praha",
-    "awayTeam": "Lyon",
-    "prediction": "Sparta Praha Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1607164,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:00",
-    "homeTeam": "Dinamo Zagreb",
-    "awayTeam": "Kauno Žalgiris",
-    "prediction": "Kauno Žalgiris Win",
-    "odds": "2.83"
-  },
-  {
     "id": 1606352,
     "league": "UEFA Europa League (World)",
     "matchTime": "22:00",
     "homeTeam": "Shamrock Rovers",
     "awayTeam": "Egnatia Rrogozhinë",
-    "prediction": "Double Chance 1X",
-    "odds": "1.44"
+    "prediction": "Shamrock Rovers Win",
+    "odds": "1.6"
   },
   {
     "id": 1607176,
@@ -50,7 +14,43 @@
     "matchTime": "22:00",
     "homeTeam": "Larne",
     "awayTeam": "Saburtalo",
+    "prediction": "Larne Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1610811,
+    "league": "Premier League (Bhutan)",
+    "matchTime": "12:00",
+    "homeTeam": "Ugyen Academy",
+    "awayTeam": "BFF Academy U20",
+    "prediction": "Ugyen Academy Win",
+    "odds": "1.49"
+  },
+  {
+    "id": 1508822,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "21:30",
+    "homeTeam": "Thor Akureyri",
+    "awayTeam": "Breidablik",
     "prediction": "Double Chance X2",
-    "odds": "1.74"
+    "odds": "1.4"
+  },
+  {
+    "id": 1546759,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Tavistock",
+    "awayTeam": "Plymouth",
+    "prediction": "Plymouth Win",
+    "odds": "3.09"
+  },
+  {
+    "id": 1550624,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:30",
+    "homeTeam": "Rotherham",
+    "awayTeam": "Derby",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.13"
   }
 ]
