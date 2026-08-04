@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Jeju United FC",
     "awayTeam": "Bayern München",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Bayern München Win",
-    "outcome": "Won"
+    "prediction": "Jeju United FC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1610286,
@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "RTC",
     "awayTeam": "Thimphu",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Thimphu Win",
-    "outcome": "Won"
+    "prediction": "RTC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548099,
@@ -29,7 +29,7 @@
     "matchDate": "FT",
     "homeTeam": "Myanmar",
     "awayTeam": "Laos",
-    "homeScore": 4,
+    "homeScore": 7,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Myanmar Win",
@@ -45,6 +45,18 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583614,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lorient",
+    "awayTeam": "UNFP",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Lorient Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1549704,
-    "league": "Primera A (Colombia)",
-    "matchDate": "FT",
-    "homeTeam": "Bucaramanga",
-    "awayTeam": "Cucuta",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
