@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Montana",
     "awayTeam": "Nesebar",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Rodina Moskva",
     "awayTeam": "Rubin",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rodina Moskva Win",
     "outcome": "Won"
   },
   {
@@ -30,10 +30,10 @@
     "homeTeam": "Dinamo Makhachkala",
     "awayTeam": "Krylia Sovetov",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Dinamo Makhachkala Win",
+    "outcome": "Lost"
   },
   {
     "id": 1602417,
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1558458,
@@ -78,7 +78,7 @@
     "homeTeam": "Respublika FA",
     "awayTeam": "Gazalkent",
     "homeScore": 0,
-    "awayScore": 5,
+    "awayScore": 6,
     "status": "FT",
     "prediction": "Gazalkent Win",
     "outcome": "Won"
@@ -120,27 +120,27 @@
     "outcome": "Won"
   },
   {
-    "id": 1585032,
-    "league": "Friendlies Clubs (World)",
+    "id": 1589976,
+    "league": "First League (Armenia)",
     "matchDate": "FT",
-    "homeTeam": "Bournemouth",
-    "awayTeam": "Genoa",
-    "homeScore": 10,
-    "awayScore": 1,
+    "homeTeam": "Pyunik II",
+    "awayTeam": "Ararat-Armenia II",
+    "homeScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Bournemouth Win",
+    "prediction": "Pyunik II Win",
     "outcome": "Won"
   },
   {
-    "id": 1583613,
-    "league": "Friendlies Clubs (World)",
+    "id": 1589970,
+    "league": "First League (Armenia)",
     "matchDate": "FT",
-    "homeTeam": "BG Pathum United",
-    "awayTeam": "Aston Villa",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeTeam": "Ararat II",
+    "awayTeam": "Andranik",
+    "homeScore": 0,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Aston Villa Win",
+    "prediction": "Andranik Win",
     "outcome": "Won"
   }
 ]
