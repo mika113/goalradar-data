@@ -1,5 +1,17 @@
 [
   {
+    "id": 1610534,
+    "league": "CONCACAF U20 (World)",
+    "matchDate": "FT",
+    "homeTeam": "Costa Rica U20",
+    "awayTeam": "Haiti U20",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Haiti U20 Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1610954,
     "league": "Central American and Caribbean Games (World)",
     "matchDate": "FT",
@@ -41,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "ABB",
     "awayTeam": "Real Oruro",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "ABB Win",
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Ipswich",
     "awayTeam": "Le Havre",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ipswich Win",
     "outcome": "Won"
   },
   {
@@ -78,10 +90,10 @@
     "homeTeam": "Tavistock",
     "awayTeam": "Plymouth",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Tavistock Win",
-    "outcome": "Lost"
+    "prediction": "Plymouth Win",
+    "outcome": "Won"
   },
   {
     "id": 1508822,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Sparta Praha Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598825,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Union St. Gilloise",
-    "awayTeam": "Bodo/Glimt",
-    "homeScore": 3,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
