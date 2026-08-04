@@ -1,12 +1,21 @@
 [
   {
+    "id": 1558458,
+    "league": "UEFA Champions League Women (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Breidablik W",
+    "awayTeam": "Aktobe W",
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
+  },
+  {
     "id": 1589974,
     "league": "First League (Armenia)",
     "matchTime": "17:00",
     "homeTeam": "Noah II",
     "awayTeam": "Mika",
-    "prediction": "Mika Win",
-    "odds": "3.11"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   },
   {
     "id": 1531072,
@@ -14,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Kattaqurgon",
     "awayTeam": "Pakhtakor II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "Kattaqurgon Win",
+    "odds": "1.64"
   },
   {
     "id": 1548945,
@@ -24,7 +33,7 @@
     "homeTeam": "Norwich",
     "awayTeam": "Cambridge United",
     "prediction": "Norwich Win",
-    "odds": "1.37"
+    "odds": "1.58"
   },
   {
     "id": 1602417,
@@ -32,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "FC Politehnica Timisoara",
     "awayTeam": "Chindia Targoviste",
-    "prediction": "FC Politehnica Timisoara Win & Over 1.5",
-    "odds": "1.86"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.73"
   },
   {
     "id": 1563636,
@@ -41,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "Dinamo Makhachkala",
     "awayTeam": "Krylia Sovetov",
-    "prediction": "Krylia Sovetov Win",
-    "odds": "3.47"
+    "prediction": "Dinamo Makhachkala Win",
+    "odds": "1.96"
   },
   {
     "id": 1563640,
@@ -50,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Rodina Moskva",
     "awayTeam": "Rubin",
-    "prediction": "Both Teams To Score",
-    "odds": "1.62"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   },
   {
     "id": 1571499,
@@ -59,8 +68,8 @@
     "matchTime": "18:30",
     "homeTeam": "Montana",
     "awayTeam": "Nesebar",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
+    "prediction": "Montana Win",
+    "odds": "1.81"
   },
   {
     "id": 1541541,
@@ -68,8 +77,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ilves II",
     "awayTeam": "Musa",
-    "prediction": "Ilves II Win & Over 1.5",
-    "odds": "2.99"
+    "prediction": "Musa Win",
+    "odds": "3.21"
   },
   {
     "id": 1583668,
@@ -77,8 +86,8 @@
     "matchTime": "19:00",
     "homeTeam": "Aarhus Black Vipers",
     "awayTeam": "Brabrand",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1583669,
@@ -87,7 +96,7 @@
     "homeTeam": "Skjold Birkerød",
     "awayTeam": "Allerød",
     "prediction": "Skjold Birkerød Win",
-    "odds": "1.85"
+    "odds": "1.97"
   },
   {
     "id": 1583671,
@@ -95,16 +104,7 @@
     "matchTime": "19:00",
     "homeTeam": "Boldklubben FIX",
     "awayTeam": "Frederikssund",
-    "prediction": "Both Teams To Score",
-    "odds": "1.93"
-  },
-  {
-    "id": 1583673,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "Bredballe",
-    "awayTeam": "Middelfart",
-    "prediction": "Double Chance X2",
-    "odds": "1.54"
+    "prediction": "Frederikssund Win",
+    "odds": "2.52"
   }
 ]
