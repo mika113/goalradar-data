@@ -1,14 +1,26 @@
 [
   {
+    "id": 1563635,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Akron",
+    "awayTeam": "FC Rostov",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "FC Rostov Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1610532,
     "league": "CECAFA Club Cup (World)",
     "matchDate": "FT",
     "homeTeam": "GOR Mahia",
     "awayTeam": "Al Hilal Omdurman",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "GOR Mahia Win",
     "outcome": "Won"
   },
   {
@@ -22,6 +34,18 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
+  },
+  {
+    "id": 1583613,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "BG Pathum United",
+    "awayTeam": "Aston Villa",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "BG Pathum United Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548098,
@@ -41,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "FarDu",
     "awayTeam": "Qiziriq",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FarDu Win",
-    "outcome": "Won"
+    "prediction": "Qiziriq Win",
+    "outcome": "Lost"
   },
   {
     "id": 1542344,
@@ -118,29 +142,5 @@
     "status": "FT",
     "prediction": "Persib Bandung Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1558459,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dinamo-BGU W",
-    "awayTeam": "Servette Chênois W",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Servette Chênois W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1559600,
-    "league": "Liga Nacional (Guatemala)",
-    "matchDate": "FT",
-    "homeTeam": "Xelajú",
-    "awayTeam": "Aurora",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Aurora Win",
-    "outcome": "Lost"
   }
 ]
