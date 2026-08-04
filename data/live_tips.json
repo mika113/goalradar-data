@@ -1,39 +1,12 @@
 [
   {
-    "id": 1583703,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "tst Fodbold",
-    "awayTeam": "VSK Århus",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.01"
-  },
-  {
-    "id": 1583706,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "Vallensbæk",
-    "awayTeam": "FC Helsingor",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
-  },
-  {
-    "id": 1583709,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "Viby",
-    "awayTeam": "ASA Aarhus",
-    "prediction": "Viby Win",
-    "odds": "1.55"
-  },
-  {
     "id": 1583710,
     "league": "DBU Pokalen (Denmark)",
     "matchTime": "19:00",
     "homeTeam": "Vigerslev",
     "awayTeam": "Skovshoved",
-    "prediction": "Skovshoved Win",
-    "odds": "2.91"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.68"
   },
   {
     "id": 1585033,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Strasbourg",
     "awayTeam": "SV Elversberg",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "SV Elversberg Win",
+    "odds": "1.98"
   },
   {
     "id": 1607276,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Karlovac 1919",
     "awayTeam": "Orijent 1919",
-    "prediction": "Both Teams To Score",
-    "odds": "1.85"
+    "prediction": "Orijent 1919 Win",
+    "odds": "2.89"
   },
   {
     "id": 1607573,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Auda",
     "awayTeam": "Dinamo Tirana",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.74"
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   },
   {
     "id": 1583666,
@@ -68,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Aabybro",
     "awayTeam": "Thisted FC",
-    "prediction": "Both Teams To Score",
-    "odds": "2.11"
+    "prediction": "Aabybro Win",
+    "odds": "1.64"
   },
   {
     "id": 1583675,
@@ -77,8 +50,8 @@
     "matchTime": "19:30",
     "homeTeam": "Brønshøj",
     "awayTeam": "HB Koge",
-    "prediction": "HB Koge Win",
-    "odds": "2.53"
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   },
   {
     "id": 1583685,
@@ -86,7 +59,34 @@
     "matchTime": "19:30",
     "homeTeam": "Holstebro",
     "awayTeam": "Aalborg",
-    "prediction": "Holstebro Win",
-    "odds": "1.99"
+    "prediction": "Aalborg Win",
+    "odds": "1.83"
+  },
+  {
+    "id": 1583688,
+    "league": "DBU Pokalen (Denmark)",
+    "matchTime": "19:30",
+    "homeTeam": "Kolding B",
+    "awayTeam": "Næsby",
+    "prediction": "Double Chance X2",
+    "odds": "1.38"
+  },
+  {
+    "id": 1557945,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchTime": "19:45",
+    "homeTeam": "Ironi Kiryat Shmona",
+    "awayTeam": "Bnei Sakhnin",
+    "prediction": "Ironi Kiryat Shmona Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1557946,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchTime": "20:00",
+    "homeTeam": "Maccabi Haifa",
+    "awayTeam": "Ironi Tiberias",
+    "prediction": "Both Teams To Score",
+    "odds": "1.93"
   }
 ]
