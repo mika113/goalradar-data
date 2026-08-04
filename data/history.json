@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1531072,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Kattaqurgon",
+    "awayTeam": "Pakhtakor II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1558458,
     "league": "UEFA Champions League Women (World)",
     "matchDate": "FT",
@@ -32,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Gazalkent Win",
-    "outcome": "Won"
+    "prediction": "Respublika FA Win",
+    "outcome": "Lost"
   },
   {
     "id": 1563635,
@@ -44,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "FC Rostov Win",
-    "outcome": "Won"
+    "prediction": "Akron Win",
+    "outcome": "Lost"
   },
   {
     "id": 1610532,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Thimphu Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548099,
-    "league": "ASEAN Championship (World)",
-    "matchDate": "FT",
-    "homeTeam": "Myanmar",
-    "awayTeam": "Laos",
-    "homeScore": 7,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Myanmar Win",
     "outcome": "Won"
   }
 ]
