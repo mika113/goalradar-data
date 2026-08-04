@@ -1,5 +1,53 @@
 [
   {
+    "id": 1583688,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Kolding B",
+    "awayTeam": "Næsby",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583685,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Holstebro",
+    "awayTeam": "Aalborg",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583675,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Brønshøj",
+    "awayTeam": "HB Koge",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583666,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Aabybro",
+    "awayTeam": "Thisted FC",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Thisted FC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1607573,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -9,6 +57,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607276,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Karlovac 1919",
+    "awayTeam": "Orijent 1919",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Karlovac 1919 Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Ararat-Armenia",
     "awayTeam": "Celje",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -42,9 +102,9 @@
     "homeTeam": "Strasbourg",
     "awayTeam": "SV Elversberg",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "SV Elversberg Win",
     "outcome": "Won"
   },
   {
@@ -72,47 +132,11 @@
     "outcome": "Won"
   },
   {
-    "id": 1583701,
+    "id": 1583706,
     "league": "DBU Pokalen (Denmark)",
     "matchDate": "FT",
-    "homeTeam": "Sydkysten",
-    "awayTeam": "Ishøj",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583699,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "SfB-Oure",
-    "awayTeam": "FC Fredericia",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583691,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Maribo",
-    "awayTeam": "Skjold Sæby",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583679,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "GVI",
-    "awayTeam": "Avarta",
+    "homeTeam": "Vallensbæk",
+    "awayTeam": "FC Helsingor",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
