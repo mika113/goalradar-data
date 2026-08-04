@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548346,
-    "league": "CONCACAF Central American Cup (World)",
-    "matchTime": "05:00",
-    "homeTeam": "Diriangén",
-    "awayTeam": "LD Alajuelense",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.57"
-  },
-  {
     "id": 1530112,
     "league": "Leagues Cup (World)",
     "matchTime": "05:30",
     "homeTeam": "Vancouver Whitecaps",
     "awayTeam": "Atlante FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
+    "prediction": "Vancouver Whitecaps Win",
+    "odds": "1.37"
   },
   {
     "id": 1591925,
@@ -23,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "Cadiz",
     "awayTeam": "Granada CF",
-    "prediction": "Cadiz Win",
-    "odds": "1.95"
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
   },
   {
     "id": 1591926,
@@ -33,7 +24,7 @@
     "homeTeam": "Villarreal",
     "awayTeam": "Levante",
     "prediction": "Villarreal Win",
-    "odds": "1.83"
+    "odds": "1.76"
   },
   {
     "id": 1603951,
@@ -42,7 +33,7 @@
     "homeTeam": "Brann W",
     "awayTeam": "Mitrovica W",
     "prediction": "Brann W Win & Over 1.5",
-    "odds": "1.82"
+    "odds": "1.95"
   },
   {
     "id": 1558475,
@@ -50,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Austria Wien W",
     "awayTeam": "Hajduk Split W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
+    "prediction": "Austria Wien W Win & Over 1.5",
+    "odds": "2.79"
   },
   {
     "id": 1537489,
@@ -59,8 +50,8 @@
     "matchTime": "12:30",
     "homeTeam": "Queanbeyan City",
     "awayTeam": "Tuggeranong United",
-    "prediction": "Queanbeyan City Win",
-    "odds": "1.88"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
   },
   {
     "id": 1595184,
@@ -68,8 +59,8 @@
     "matchTime": "12:30",
     "homeTeam": "Mohammedan",
     "awayTeam": "Police",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Mohammedan Win",
+    "odds": "1.43"
   },
   {
     "id": 1542345,
@@ -77,8 +68,8 @@
     "matchTime": "14:00",
     "homeTeam": "AC Milan",
     "awayTeam": "Inter",
-    "prediction": "Double Chance X2",
-    "odds": "1.64"
+    "prediction": "AC Milan Win",
+    "odds": "1.32"
   },
   {
     "id": 1558464,
@@ -87,6 +78,15 @@
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
     "prediction": "SFK 2000 W Win",
-    "odds": "1.59"
+    "odds": "1.46"
+  },
+  {
+    "id": 1558467,
+    "league": "UEFA Champions League Women (World)",
+    "matchTime": "14:00",
+    "homeTeam": "Vålerenga W",
+    "awayTeam": "Malmö FF W",
+    "prediction": "Malmö FF W Win",
+    "odds": "1.79"
   }
 ]
