@@ -20,8 +20,8 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Venezuela W Win",
-    "outcome": "Won"
+    "prediction": "Colombia W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607176,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Shamrock Rovers",
     "awayTeam": "Egnatia Rrogozhinë",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Shamrock Rovers Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1546759,
@@ -90,7 +90,7 @@
     "homeTeam": "Tavistock",
     "awayTeam": "Plymouth",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Plymouth Win",
     "outcome": "Won"
@@ -128,8 +128,8 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Grimsby Borough Win",
-    "outcome": "Lost"
+    "prediction": "Grimsby Win",
+    "outcome": "Won"
   },
   {
     "id": 1598826,
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Lyon Win",
-    "outcome": "Lost"
+    "prediction": "Sparta Praha Win",
+    "outcome": "Won"
   }
 ]
