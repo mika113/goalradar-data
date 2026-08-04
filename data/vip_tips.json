@@ -1,39 +1,12 @@
 [
   {
-    "id": 1545399,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "01:00",
-    "homeTeam": "Independiente Petrolero",
-    "awayTeam": "Aurora",
-    "prediction": "Independiente Petrolero Win & Over 1.5",
-    "odds": "2.78"
-  },
-  {
-    "id": 1549106,
-    "league": "CONCACAF Caribbean Club Championship (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Portmore United",
-    "awayTeam": "Salcedo",
-    "prediction": "Salcedo Win",
-    "odds": "1.96"
-  },
-  {
-    "id": 1576858,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Boca Juniors Res.",
-    "awayTeam": "Independiente Riva. Res.",
-    "prediction": "Boca Juniors Res. Win",
-    "odds": "1.63"
-  },
-  {
     "id": 1610929,
     "league": "Primera División (Venezuela)",
     "matchTime": "01:00",
     "homeTeam": "UCV",
     "awayTeam": "Monagas SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "prediction": "Monagas SC Win",
+    "odds": "2.52"
   },
   {
     "id": 1525753,
@@ -41,8 +14,8 @@
     "matchTime": "01:20",
     "homeTeam": "Millonarios W",
     "awayTeam": "Santa Fe W",
-    "prediction": "Double Chance X2",
-    "odds": "1.64"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   },
   {
     "id": 1546856,
@@ -51,7 +24,7 @@
     "homeTeam": "Juventude",
     "awayTeam": "Atletico-MG",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.15"
+    "odds": "1.84"
   },
   {
     "id": 1610922,
@@ -59,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Deportivo Tachira FC",
     "awayTeam": "Portuguesa FC",
-    "prediction": "Deportivo Tachira FC Win & Over 1.5",
-    "odds": "2.59"
+    "prediction": "Portuguesa FC Win",
+    "odds": "2.78"
   },
   {
     "id": 1610955,
@@ -69,6 +42,33 @@
     "homeTeam": "Mexico W",
     "awayTeam": "El Salvador W",
     "prediction": "El Salvador W Win",
-    "odds": "1.65"
+    "odds": "1.77"
+  },
+  {
+    "id": 1549707,
+    "league": "Primera A (Colombia)",
+    "matchTime": "02:15",
+    "homeTeam": "Deportes Tolima",
+    "awayTeam": "Independiente Medellin",
+    "prediction": "Deportes Tolima Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1567344,
+    "league": "Copa Chile",
+    "matchTime": "02:30",
+    "homeTeam": "Nublense",
+    "awayTeam": "Rangers de Talca",
+    "prediction": "Nublense Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1567345,
+    "league": "Copa Chile",
+    "matchTime": "02:30",
+    "homeTeam": "Universidad de Concepcion",
+    "awayTeam": "Curico Unido",
+    "prediction": "Universidad de Concepcion Win & Over 1.5",
+    "odds": "1.89"
   }
 ]
