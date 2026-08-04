@@ -1,21 +1,12 @@
 [
   {
-    "id": 1610929,
-    "league": "Primera División (Venezuela)",
-    "matchTime": "01:00",
-    "homeTeam": "UCV",
-    "awayTeam": "Monagas SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
-  },
-  {
     "id": 1525753,
     "league": "Liga Femenina (Colombia)",
     "matchTime": "01:20",
     "homeTeam": "Millonarios W",
     "awayTeam": "Santa Fe W",
-    "prediction": "Millonarios W Win",
-    "odds": "1.49"
+    "prediction": "Santa Fe W Win",
+    "odds": "3.26"
   },
   {
     "id": 1546856,
@@ -23,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "Juventude",
     "awayTeam": "Atletico-MG",
-    "prediction": "Both Teams To Score",
-    "odds": "2.16"
+    "prediction": "Juventude Win",
+    "odds": "1.38"
   },
   {
     "id": 1610922,
@@ -32,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Deportivo Tachira FC",
     "awayTeam": "Portuguesa FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
   },
   {
     "id": 1610955,
@@ -41,8 +32,8 @@
     "matchTime": "02:00",
     "homeTeam": "Mexico W",
     "awayTeam": "El Salvador W",
-    "prediction": "El Salvador W Win",
-    "odds": "2.03"
+    "prediction": "Mexico W Win",
+    "odds": "1.95"
   },
   {
     "id": 1549707,
@@ -51,7 +42,7 @@
     "homeTeam": "Deportes Tolima",
     "awayTeam": "Independiente Medellin",
     "prediction": "Deportes Tolima Win",
-    "odds": "1.31"
+    "odds": "1.9"
   },
   {
     "id": 1567344,
@@ -59,8 +50,8 @@
     "matchTime": "02:30",
     "homeTeam": "Nublense",
     "awayTeam": "Rangers de Talca",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
   },
   {
     "id": 1567345,
@@ -68,7 +59,16 @@
     "matchTime": "02:30",
     "homeTeam": "Universidad de Concepcion",
     "awayTeam": "Curico Unido",
-    "prediction": "Curico Unido Win",
-    "odds": "2.38"
+    "prediction": "Universidad de Concepcion Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1530108,
+    "league": "Leagues Cup (World)",
+    "matchTime": "02:45",
+    "homeTeam": "Columbus Crew",
+    "awayTeam": "Atlas",
+    "prediction": "Columbus Crew Win",
+    "odds": "1.77"
   }
 ]
