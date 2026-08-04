@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1591923,
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1586814,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Carl Zeiss Jena",
     "awayTeam": "RSV Eintracht",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Carl Zeiss Jena Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Chemnitzer FC",
     "awayTeam": "FSV Zwickau",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Chemnitzer FC Win",
     "outcome": "Won"
   },
   {
@@ -126,9 +126,9 @@
     "homeTeam": "Lyseng",
     "awayTeam": "Vejgaard B",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lyseng Win",
     "outcome": "Lost"
   },
   {
