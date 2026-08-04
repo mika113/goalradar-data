@@ -1,14 +1,50 @@
 [
   {
+    "id": 1607167,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Levski Sofia",
+    "awayTeam": "Kairat Almaty",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607166,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Beer Sheva",
+    "awayTeam": "FK Crvena Zvezda",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583612,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Tenerife",
+    "awayTeam": "Tamaraceite",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1610533,
     "league": "CECAFA Club Cup (World)",
     "matchDate": "FT",
     "homeTeam": "Jamus",
     "awayTeam": "Rayon Sports",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rayon Sports Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1591924,
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1591923,
@@ -65,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "FC Carl Zeiss Jena",
     "awayTeam": "RSV Eintracht",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FC Carl Zeiss Jena Win",
@@ -78,9 +114,9 @@
     "homeTeam": "Hertha BSC II",
     "awayTeam": "Greifswalder FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Greifswalder FC Win",
     "outcome": "Won"
   },
   {
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "SV Babelsberg 03",
     "awayTeam": "Altglienicke",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583696,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Ringkøbing",
-    "awayTeam": "Aarhus Fremad",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583690,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Lyseng",
-    "awayTeam": "Vejgaard B",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vejgaard B Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583676,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "FA 2000",
-    "awayTeam": "Fremad Amager",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
