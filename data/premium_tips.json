@@ -1,48 +1,12 @@
 [
   {
-    "id": 1580169,
-    "league": "Oberliga - Schleswig-Holstein (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "TSB Flensburg",
-    "awayTeam": "Rotenhof",
-    "prediction": "TSB Flensburg Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1580170,
-    "league": "Oberliga - Schleswig-Holstein (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "Hohenwestedt",
-    "awayTeam": "Union Neumünster",
-    "prediction": "Hohenwestedt Win",
-    "odds": "1.32"
-  },
-  {
-    "id": 1580171,
-    "league": "Oberliga - Schleswig-Holstein (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "Kaltenkirchen",
-    "awayTeam": "SV Eichede",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.92"
-  },
-  {
-    "id": 1580172,
-    "league": "Oberliga - Schleswig-Holstein (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "VfB Lübeck",
-    "awayTeam": "Phönix L. II",
-    "prediction": "VfB Lübeck Win",
-    "odds": "1.57"
-  },
-  {
     "id": 1580173,
     "league": "Oberliga - Schleswig-Holstein (Germany)",
     "matchTime": "20:00",
     "homeTeam": "Nordmark Satrup",
     "awayTeam": "Eckernförder SV",
     "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "odds": "1.25"
   },
   {
     "id": 1580174,
@@ -50,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Oldenburger SV",
     "awayTeam": "Lübeck II",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "Oldenburger SV Win",
+    "odds": "1.77"
   },
   {
     "id": 1580175,
@@ -59,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "VfR Neumünster",
     "awayTeam": "Kilia Kiel",
-    "prediction": "Kilia Kiel Win",
-    "odds": "3.05"
+    "prediction": "VfR Neumünster Win",
+    "odds": "1.45"
   },
   {
     "id": 1582096,
@@ -68,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Fortuna Hjørring W",
     "awayTeam": "Midtjylland W",
-    "prediction": "Midtjylland W Win",
-    "odds": "1.84"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1583676,
@@ -77,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "FA 2000",
     "awayTeam": "Fremad Amager",
-    "prediction": "FA 2000 Win",
-    "odds": "1.31"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.19"
   },
   {
     "id": 1583690,
@@ -86,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "Lyseng",
     "awayTeam": "Vejgaard B",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.94"
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
   },
   {
     "id": 1583694,
@@ -96,7 +60,7 @@
     "homeTeam": "Nykobing FC",
     "awayTeam": "B 93",
     "prediction": "Nykobing FC Win",
-    "odds": "1.61"
+    "odds": "1.75"
   },
   {
     "id": 1583696,
@@ -104,7 +68,43 @@
     "matchTime": "20:00",
     "homeTeam": "Ringkøbing",
     "awayTeam": "Aarhus Fremad",
-    "prediction": "Ringkøbing Win & Over 1.5",
-    "odds": "1.91"
+    "prediction": "Ringkøbing Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1586807,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "SV Babelsberg 03",
+    "awayTeam": "Altglienicke",
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
+  },
+  {
+    "id": 1586810,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Chemnitzer FC",
+    "awayTeam": "FSV Zwickau",
+    "prediction": "Double Chance 1X",
+    "odds": "1.46"
+  },
+  {
+    "id": 1586812,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Hertha BSC II",
+    "awayTeam": "Greifswalder FC",
+    "prediction": "Hertha BSC II Win & Over 1.5",
+    "odds": "2.0"
+  },
+  {
+    "id": 1586813,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "FC Carl Zeiss Jena",
+    "awayTeam": "RSV Eintracht",
+    "prediction": "FC Carl Zeiss Jena Win",
+    "odds": "1.45"
   }
 ]
