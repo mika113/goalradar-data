@@ -1,5 +1,89 @@
 [
   {
+    "id": 1611861,
+    "league": "U19 League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "LNZ Cherkasy U19",
+    "awayTeam": "SK Metalurh U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603952,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Apollon Limassol W",
+    "awayTeam": "Czarni Sosnowiec W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547834,
+    "league": "Cup (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Śląsk Wrocław II",
+    "awayTeam": "Stal Stalowa Wola",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547830,
+    "league": "Cup (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Podbeskidzie",
+    "awayTeam": "Hutnik Kraków",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547660,
+    "league": "Cup (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Znicz Pruszków",
+    "awayTeam": "ŁKS Łódź II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546423,
+    "league": "Nasjonal U19 Champions League (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "HamKam U19",
+    "awayTeam": "Odd U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1534392,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Niva",
+    "awayTeam": "FC Slutsk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1531071,
     "league": "Pro League A (Uzbekistan)",
     "matchDate": "FT",
@@ -9,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1558477,
@@ -44,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Ajax W Win",
-    "outcome": "Won"
+    "prediction": "Brøndby W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1546428,
@@ -57,90 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Strømsgodset U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530981,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Aral",
-    "awayTeam": "Metalourg",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Metalourg Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1558479,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sporting CP W",
-    "awayTeam": "SeaSters Odesa W",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Sporting CP W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531073,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Lochin",
-    "awayTeam": "Yaypan",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1542346,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Chelsea",
-    "awayTeam": "Juventus",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Juventus Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532811,
-    "league": "League Two (China)",
-    "matchDate": "FT",
-    "homeTeam": "Hubei Chufeng Heli",
-    "awayTeam": "Jiangxi Liansheng",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Jiangxi Liansheng Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1532766,
-    "league": "League Two (China)",
-    "matchDate": "FT",
-    "homeTeam": "Rizhao Yuqi",
-    "awayTeam": "BIT",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rizhao Yuqi Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583618,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "K-League Stars",
-    "awayTeam": "Manchester City",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Manchester City Win",
     "outcome": "Won"
   }
 ]
