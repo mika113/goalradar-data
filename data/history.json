@@ -9,7 +9,31 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1558461,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Juventus W",
+    "awayTeam": "Torreense W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1545398,
+    "league": "Primera División (Bolivia)",
+    "matchDate": "FT",
+    "homeTeam": "Gualberto Villarroel SJ",
+    "awayTeam": "San Antonio Bulo Bulo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1542347,
@@ -20,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Arsenal Win",
-    "outcome": "Lost"
+    "prediction": "Real Betis Win",
+    "outcome": "Won"
   },
   {
     "id": 1607592,
@@ -30,9 +54,9 @@
     "homeTeam": "Panathinaikos",
     "awayTeam": "CSKA 1948",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Panathinaikos Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -45,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1583621,
@@ -54,7 +78,7 @@
     "homeTeam": "Cieza",
     "awayTeam": "Real Murcia",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Real Murcia Win",
     "outcome": "Won"
