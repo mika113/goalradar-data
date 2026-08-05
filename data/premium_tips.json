@@ -1,57 +1,12 @@
 [
   {
-    "id": 1558477,
-    "league": "UEFA Champions League Women (World)",
-    "matchTime": "16:30",
-    "homeTeam": "Hammarby W",
-    "awayTeam": "Apolonia Fier W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
-  },
-  {
-    "id": 1531071,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "BuxDu",
-    "awayTeam": "Shortan",
-    "prediction": "BuxDu Win",
-    "odds": "1.86"
-  },
-  {
-    "id": 1534392,
-    "league": "1. Division (Belarus)",
-    "matchTime": "17:00",
-    "homeTeam": "Niva",
-    "awayTeam": "FC Slutsk",
-    "prediction": "Niva Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1546423,
-    "league": "Nasjonal U19 Champions League (Norway)",
-    "matchTime": "17:00",
-    "homeTeam": "HamKam U19",
-    "awayTeam": "Odd U19",
-    "prediction": "HamKam U19 Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1547660,
-    "league": "Cup (Poland)",
-    "matchTime": "17:00",
-    "homeTeam": "Znicz Pruszków",
-    "awayTeam": "ŁKS Łódź II",
-    "prediction": "ŁKS Łódź II Win",
-    "odds": "2.25"
-  },
-  {
     "id": 1547830,
     "league": "Cup (Poland)",
     "matchTime": "17:00",
     "homeTeam": "Podbeskidzie",
     "awayTeam": "Hutnik Kraków",
     "prediction": "Podbeskidzie Win",
-    "odds": "1.55"
+    "odds": "1.43"
   },
   {
     "id": 1547834,
@@ -59,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Śląsk Wrocław II",
     "awayTeam": "Stal Stalowa Wola",
-    "prediction": "Stal Stalowa Wola Win",
-    "odds": "2.09"
+    "prediction": "Śląsk Wrocław II Win",
+    "odds": "1.69"
   },
   {
     "id": 1603952,
@@ -68,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Apollon Limassol W",
     "awayTeam": "Czarni Sosnowiec W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1547831,
@@ -77,8 +32,8 @@
     "matchTime": "17:30",
     "homeTeam": "Podhale Nowy Targ",
     "awayTeam": "Chojniczanka Chojnice",
-    "prediction": "Chojniczanka Chojnice Win",
-    "odds": "1.66"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.07"
   },
   {
     "id": 1603953,
@@ -86,8 +41,8 @@
     "matchTime": "17:30",
     "homeTeam": "Ferencváros W",
     "awayTeam": "PAOK W",
-    "prediction": "Double Chance X2",
-    "odds": "1.79"
+    "prediction": "PAOK W Win",
+    "odds": "2.46"
   },
   {
     "id": 1610536,
@@ -95,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "CSM Adjud",
     "awayTeam": "Târgu Secuiesc",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "prediction": "CSM Adjud Win",
+    "odds": "1.83"
   },
   {
     "id": 1610537,
@@ -104,7 +59,52 @@
     "matchTime": "17:30",
     "homeTeam": "Aerostar Bacau",
     "awayTeam": "Viitorul Onesti",
+    "prediction": "Aerostar Bacau Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1610538,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "Axiopolis",
+    "awayTeam": "Agricola Borcea",
+    "prediction": "Double Chance 1X",
+    "odds": "1.34"
+  },
+  {
+    "id": 1610539,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "Sânmartin",
+    "awayTeam": "Crişul Sântandrei",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1610540,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "Berca",
+    "awayTeam": "Baicoi",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.95"
+  },
+  {
+    "id": 1610541,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "CIL Blaj",
+    "awayTeam": "ACS Mediaş 2022",
     "prediction": "Both Teams To Score",
-    "odds": "2.0"
+    "odds": "1.82"
+  },
+  {
+    "id": 1610542,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "Bolintin Vale",
+    "awayTeam": "Progresul Spartac",
+    "prediction": "Bolintin Vale Win",
+    "odds": "1.6"
   }
 ]
