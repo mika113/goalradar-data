@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1532766,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Manchester City Win",
-    "outcome": "Won"
+    "prediction": "K-League Stars Win",
+    "outcome": "Lost"
   },
   {
     "id": 1558478,
@@ -54,10 +54,10 @@
     "homeTeam": "Metalist 1925 W",
     "awayTeam": "Fenerbahce W",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Fenerbahce W Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1558467,
@@ -78,9 +78,9 @@
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "PSV/Eindhoven W Win",
     "outcome": "Won"
   },
   {
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Ugyen Academy",
     "awayTeam": "BFF Academy U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ugyen Academy Win",
     "outcome": "Won"
   },
   {
