@@ -1,5 +1,29 @@
 [
   {
+    "id": 1605332,
+    "league": "Cup (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Rumori Calcio",
+    "awayTeam": "Tammeka",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1604764,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cultural Leonesa",
+    "awayTeam": "Real Avilés",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607163,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1607578,
@@ -18,9 +42,9 @@
     "homeTeam": "Brann",
     "awayTeam": "Apollon Limassol",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Apollon Limassol Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Køge W",
     "awayTeam": "Riga W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Riga W Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Rot-Weiß Erfurt",
     "awayTeam": "Tasmania Berlin",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Rot-Weiß Erfurt Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +90,9 @@
     "homeTeam": "BFC Preussen",
     "awayTeam": "Lokomotive Leipzig",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lokomotive Leipzig Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +102,21 @@
     "homeTeam": "Gimnástica Segoviana",
     "awayTeam": "Valladolid",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Gimnástica Segoviana Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1583700,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Slagelse B&I",
+    "awayTeam": "Sundby",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Sundby Win",
     "outcome": "Won"
   },
   {
@@ -90,7 +126,7 @@
     "homeTeam": "Schwaz",
     "awayTeam": "FC Augsburg",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 7,
     "status": "FT",
     "prediction": "FC Augsburg Win",
     "outcome": "Won"
