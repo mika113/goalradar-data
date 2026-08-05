@@ -1,11 +1,35 @@
 [
   {
+    "id": 1558477,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Hammarby W",
+    "awayTeam": "Apolonia Fier W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558460,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Gintra-Universitetas W",
+    "awayTeam": "Hearts W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1558457,
     "league": "UEFA Champions League Women (World)",
     "matchDate": "FT",
     "homeTeam": "Ajax W",
     "awayTeam": "Brøndby W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Ajax W Win",
@@ -18,10 +42,10 @@
     "homeTeam": "Tromsø U19",
     "awayTeam": "Strømsgodset U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Strømsgodset U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1530981,
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Aral",
     "awayTeam": "Metalourg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Aral Win",
     "outcome": "Won"
   },
   {
@@ -41,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Sporting CP W",
     "awayTeam": "SeaSters Odesa W",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sporting CP W Win",
@@ -78,9 +102,9 @@
     "homeTeam": "Hubei Chufeng Heli",
     "awayTeam": "Jiangxi Liansheng",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Jiangxi Liansheng Win",
     "outcome": "Won"
   },
   {
@@ -104,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "K-League Stars Win",
-    "outcome": "Lost"
+    "prediction": "Manchester City Win",
+    "outcome": "Won"
   },
   {
     "id": 1558478,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Fenerbahce W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558467,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Vålerenga W",
-    "awayTeam": "Malmö FF W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Malmö FF W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558464,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "SFK 2000 W",
-    "awayTeam": "PSV/Eindhoven W",
-    "homeScore": 2,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "PSV/Eindhoven W Win",
     "outcome": "Won"
   }
 ]
