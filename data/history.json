@@ -1,5 +1,65 @@
 [
   {
+    "id": 1607592,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Panathinaikos",
+    "awayTeam": "CSKA 1948",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603955,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Vllaznia W",
+    "awayTeam": "Spartak Myjava W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583621,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cieza",
+    "awayTeam": "Real Murcia",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Real Murcia Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558465,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Slavia Praha W",
+    "awayTeam": "Rangers W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607561,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Ferencvarosi TC",
+    "awayTeam": "Gornik Zabrze",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607278,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -30,9 +90,9 @@
     "homeTeam": "Sassuolo",
     "awayTeam": "Celta Vigo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Celta Vigo Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +102,9 @@
     "homeTeam": "Unión Santa Fe Res.",
     "awayTeam": "Argentinos Juniors Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Argentinos Juniors Res. Win",
     "outcome": "Won"
   },
   {
@@ -54,10 +114,10 @@
     "homeTeam": "Quilmes 2",
     "awayTeam": "Colón Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Quilmes 2 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1576862,
@@ -78,69 +138,9 @@
     "homeTeam": "Ferro 2",
     "awayTeam": "Deportivo Riestra Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576860,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Estudiantes Rio Cuarto 2",
-    "awayTeam": "Lanús Res.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576859,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Defensa y Justicia Res.",
-    "awayTeam": "Newell's Old Boys Res.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558480,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "OH Leuven W",
-    "awayTeam": "TSC W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508824,
-    "league": "Úrvalsdeild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Keflavik",
-    "awayTeam": "KA Akureyri",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498650,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Almagro",
-    "awayTeam": "Gimnasia Y Tiro",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Ferro 2 Win",
+    "outcome": "Lost"
   }
 ]
