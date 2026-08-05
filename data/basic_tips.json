@@ -1,21 +1,12 @@
 [
   {
-    "id": 1610811,
-    "league": "Premier League (Bhutan)",
-    "matchTime": "13:00",
-    "homeTeam": "Ugyen Academy",
-    "awayTeam": "BFF Academy U20",
-    "prediction": "Ugyen Academy Win",
-    "odds": "1.33"
-  },
-  {
     "id": 1542345,
     "league": "Friendlies Clubs (World)",
     "matchTime": "14:00",
     "homeTeam": "AC Milan",
     "awayTeam": "Inter",
     "prediction": "AC Milan Win",
-    "odds": "1.44"
+    "odds": "1.67"
   },
   {
     "id": 1558464,
@@ -24,7 +15,7 @@
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
     "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "odds": "1.41"
   },
   {
     "id": 1558467,
@@ -32,8 +23,8 @@
     "matchTime": "14:00",
     "homeTeam": "Vålerenga W",
     "awayTeam": "Malmö FF W",
-    "prediction": "Vålerenga W Win & Over 1.5",
-    "odds": "3.0"
+    "prediction": "Double Chance X2",
+    "odds": "1.49"
   },
   {
     "id": 1558478,
@@ -41,8 +32,8 @@
     "matchTime": "14:00",
     "homeTeam": "Metalist 1925 W",
     "awayTeam": "Fenerbahce W",
-    "prediction": "Metalist 1925 W Win",
-    "odds": "1.87"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.78"
   },
   {
     "id": 1583618,
@@ -51,6 +42,15 @@
     "homeTeam": "K-League Stars",
     "awayTeam": "Manchester City",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.26"
+    "odds": "1.68"
+  },
+  {
+    "id": 1532766,
+    "league": "League Two (China)",
+    "matchTime": "14:30",
+    "homeTeam": "Rizhao Yuqi",
+    "awayTeam": "BIT",
+    "prediction": "Rizhao Yuqi Win",
+    "odds": "1.99"
   }
 ]
