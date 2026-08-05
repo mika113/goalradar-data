@@ -1,21 +1,12 @@
 [
   {
-    "id": 1610911,
-    "league": "Svenska Cupen - Women (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Ulricehamns IFK W",
-    "awayTeam": "Elfsborg W",
-    "prediction": "Elfsborg W Win",
-    "odds": "2.94"
-  },
-  {
     "id": 1610912,
     "league": "Svenska Cupen - Women (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Varbergs BoIS W",
     "awayTeam": "Eskilsminne W",
-    "prediction": "Eskilsminne W Win",
-    "odds": "2.88"
+    "prediction": "Double Chance 1X",
+    "odds": "1.33"
   },
   {
     "id": 1604764,
@@ -23,8 +14,8 @@
     "matchTime": "20:30",
     "homeTeam": "Cultural Leonesa",
     "awayTeam": "Real Avilés",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
+    "prediction": "Cultural Leonesa Win",
+    "odds": "1.88"
   },
   {
     "id": 1605332,
@@ -32,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Rumori Calcio",
     "awayTeam": "Tammeka",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.79"
+    "prediction": "Double Chance X2",
+    "odds": "1.32"
   },
   {
     "id": 1547833,
@@ -41,8 +32,8 @@
     "matchTime": "20:45",
     "homeTeam": "Unia Skierniewice",
     "awayTeam": "Sokół Kleczew",
-    "prediction": "Unia Skierniewice Win",
-    "odds": "1.95"
+    "prediction": "Sokół Kleczew Win",
+    "odds": "2.68"
   },
   {
     "id": 1563638,
@@ -51,7 +42,7 @@
     "homeTeam": "FC Krasnodar",
     "awayTeam": "Akhmat",
     "prediction": "Both Teams To Score",
-    "odds": "1.83"
+    "odds": "1.98"
   },
   {
     "id": 1563642,
@@ -60,7 +51,7 @@
     "homeTeam": "Zenit",
     "awayTeam": "Baltika",
     "prediction": "Zenit Win",
-    "odds": "1.93"
+    "odds": "1.92"
   },
   {
     "id": 1609868,
@@ -69,7 +60,7 @@
     "homeTeam": "CFRJ / Maricá",
     "awayTeam": "Boavista SC",
     "prediction": "CFRJ / Maricá Win",
-    "odds": "1.88"
+    "odds": "1.59"
   },
   {
     "id": 1609869,
@@ -77,8 +68,8 @@
     "matchTime": "20:45",
     "homeTeam": "Olaria",
     "awayTeam": "Nova Iguaçu",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
+    "prediction": "Olaria Win",
+    "odds": "1.6"
   },
   {
     "id": 1609871,
@@ -86,7 +77,16 @@
     "matchTime": "20:45",
     "homeTeam": "São Gonçalo EC RJ",
     "awayTeam": "Sampaio Corrêa RJ",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.2"
+    "prediction": "Sampaio Corrêa RJ Win",
+    "odds": "2.71"
+  },
+  {
+    "id": 1498650,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Almagro",
+    "awayTeam": "Gimnasia Y Tiro",
+    "prediction": "Both Teams To Score",
+    "odds": "1.99"
   }
 ]
