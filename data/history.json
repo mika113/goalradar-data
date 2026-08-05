@@ -1,5 +1,29 @@
 [
   {
+    "id": 1558479,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Sporting CP W",
+    "awayTeam": "SeaSters Odesa W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531073,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Lochin",
+    "awayTeam": "Yaypan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1542346,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1532811,
@@ -54,10 +78,10 @@
     "homeTeam": "Metalist 1925 W",
     "awayTeam": "Fenerbahce W",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Fenerbahce W Win",
+    "outcome": "Won"
   },
   {
     "id": 1558467,
@@ -77,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
-    "homeScore": 1,
-    "awayScore": 2,
+    "homeScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "PSV/Eindhoven W Win",
     "outcome": "Won"
@@ -90,10 +114,10 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Inter",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "AC Milan Win",
+    "outcome": "Lost"
   },
   {
     "id": 1610811,
@@ -117,30 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1537489,
-    "league": "Capital Territory NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Queanbeyan City",
-    "awayTeam": "Tuggeranong United",
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Queanbeyan City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558475,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Austria Wien W",
-    "awayTeam": "Hajduk Split W",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Austria Wien W Win",
     "outcome": "Won"
   }
 ]
