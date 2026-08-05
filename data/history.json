@@ -1,5 +1,17 @@
 [
   {
+    "id": 1557943,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Petah Tikva",
+    "awayTeam": "Maccabi Netanya",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1598586,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1583702,
@@ -18,10 +30,10 @@
     "homeTeam": "Tarup-Paarup",
     "awayTeam": "Vejle",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vejle Win",
+    "outcome": "Won"
   },
   {
     "id": 1534539,
@@ -53,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Lazio",
     "awayTeam": "Ostia Mare",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Lazio Win",
-    "outcome": "Won"
+    "prediction": "Ostia Mare Win",
+    "outcome": "Lost"
   },
   {
     "id": 1583708,
@@ -102,7 +114,7 @@
     "homeTeam": "Hobro",
     "awayTeam": "Vendsyssel FF",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Vendsyssel FF Win",
     "outcome": "Won"
@@ -114,7 +126,7 @@
     "homeTeam": "Hedensted",
     "awayTeam": "Marienlyst",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Marienlyst Win",
     "outcome": "Won"
@@ -126,21 +138,9 @@
     "homeTeam": "St. Pölten W",
     "awayTeam": "Young Boys W",
     "homeScore": 3,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "St. Pölten W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558462,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "ŽNK Mura W",
-    "awayTeam": "Farul Constanţa W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
