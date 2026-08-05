@@ -1,48 +1,12 @@
 [
   {
-    "id": 1607277,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Excelsior Virton",
-    "awayTeam": "Strasbourg II",
-    "prediction": "Excelsior Virton Win",
-    "odds": "1.34"
-  },
-  {
-    "id": 1607578,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:00",
-    "homeTeam": "Brann",
-    "awayTeam": "Apollon Limassol",
-    "prediction": "Brann Win",
-    "odds": "1.94"
-  },
-  {
-    "id": 1610909,
-    "league": "Svenska Cupen - Women (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "IF Karlstad W",
-    "awayTeam": "KIF Örebro W",
-    "prediction": "IF Karlstad W Win",
-    "odds": "1.57"
-  },
-  {
-    "id": 1610910,
-    "league": "Svenska Cupen - Women (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Hu Ge W",
-    "awayTeam": "Heffnersklubbans W",
-    "prediction": "Hu Ge W Win",
-    "odds": "1.56"
-  },
-  {
     "id": 1610911,
     "league": "Svenska Cupen - Women (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Ulricehamns IFK W",
     "awayTeam": "Elfsborg W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Elfsborg W Win",
+    "odds": "2.94"
   },
   {
     "id": 1610912,
@@ -50,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Varbergs BoIS W",
     "awayTeam": "Eskilsminne W",
-    "prediction": "Varbergs BoIS W Win",
-    "odds": "1.58"
+    "prediction": "Eskilsminne W Win",
+    "odds": "2.88"
   },
   {
     "id": 1604764,
@@ -59,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Cultural Leonesa",
     "awayTeam": "Real Avilés",
-    "prediction": "Real Avilés Win",
-    "odds": "1.91"
+    "prediction": "Both Teams To Score",
+    "odds": "2.04"
   },
   {
     "id": 1605332,
@@ -68,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Rumori Calcio",
     "awayTeam": "Tammeka",
-    "prediction": "Rumori Calcio Win",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
   },
   {
     "id": 1547833,
@@ -77,8 +41,8 @@
     "matchTime": "20:45",
     "homeTeam": "Unia Skierniewice",
     "awayTeam": "Sokół Kleczew",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.08"
+    "prediction": "Unia Skierniewice Win",
+    "odds": "1.95"
   },
   {
     "id": 1563638,
@@ -87,6 +51,42 @@
     "homeTeam": "FC Krasnodar",
     "awayTeam": "Akhmat",
     "prediction": "Both Teams To Score",
-    "odds": "2.18"
+    "odds": "1.83"
+  },
+  {
+    "id": 1563642,
+    "league": "Cup (Russia)",
+    "matchTime": "20:45",
+    "homeTeam": "Zenit",
+    "awayTeam": "Baltika",
+    "prediction": "Zenit Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1609868,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "CFRJ / Maricá",
+    "awayTeam": "Boavista SC",
+    "prediction": "CFRJ / Maricá Win",
+    "odds": "1.88"
+  },
+  {
+    "id": 1609869,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "Olaria",
+    "awayTeam": "Nova Iguaçu",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.76"
+  },
+  {
+    "id": 1609871,
+    "league": "Copa Rio (Brazil)",
+    "matchTime": "20:45",
+    "homeTeam": "São Gonçalo EC RJ",
+    "awayTeam": "Sampaio Corrêa RJ",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.2"
   }
 ]
