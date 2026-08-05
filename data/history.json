@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1542347,
@@ -42,7 +42,7 @@
     "homeTeam": "Arsenal",
     "awayTeam": "Real Betis",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Real Betis Win",
     "outcome": "Won"
@@ -66,10 +66,10 @@
     "homeTeam": "Vllaznia W",
     "awayTeam": "Spartak Myjava W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Spartak Myjava W Win",
+    "outcome": "Won"
   },
   {
     "id": 1583621,
@@ -80,7 +80,7 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Real Murcia Win",
-    "outcome": "Won"
+    "prediction": "Cieza Win",
+    "outcome": "Lost"
   }
 ]
