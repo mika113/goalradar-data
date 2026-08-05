@@ -1,15 +1,27 @@
 [
   {
+    "id": 1583623,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Paris Saint Germain",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1542347,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Arsenal",
     "awayTeam": "Real Betis",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Arsenal Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607592,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Panathinaikos",
     "awayTeam": "CSKA 1948",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Panathinaikos Win",
     "outcome": "Won"
   },
   {
@@ -46,101 +58,5 @@
     "status": "FT",
     "prediction": "Real Murcia Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1558465,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Slavia Praha W",
-    "awayTeam": "Rangers W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607561,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Ferencvarosi TC",
-    "awayTeam": "Gornik Zabrze",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607278,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Cesena",
-    "awayTeam": "Vis Pesaro",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Cesena Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607165,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Fenerbahçe",
-    "awayTeam": "Sturm Graz",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Fenerbahçe Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1585037,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sassuolo",
-    "awayTeam": "Celta Vigo",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Celta Vigo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576864,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Unión Santa Fe Res.",
-    "awayTeam": "Argentinos Juniors Res.",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Argentinos Juniors Res. Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576863,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Quilmes 2",
-    "awayTeam": "Colón Res.",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Colón Res. Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576862,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Independiente Res.",
-    "awayTeam": "San Martín San Juan Res.",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "San Martín San Juan Res. Win",
-    "outcome": "Lost"
   }
 ]
