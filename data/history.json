@@ -1,12 +1,48 @@
 [
   {
+    "id": 1542346,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Juventus",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532811,
+    "league": "League Two (China)",
+    "matchDate": "FT",
+    "homeTeam": "Hubei Chufeng Heli",
+    "awayTeam": "Jiangxi Liansheng",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1532766,
+    "league": "League Two (China)",
+    "matchDate": "FT",
+    "homeTeam": "Rizhao Yuqi",
+    "awayTeam": "BIT",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583618,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "K-League Stars",
     "awayTeam": "Manchester City",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Manchester City Win",
     "outcome": "Won"
@@ -17,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Metalist 1925 W",
     "awayTeam": "Fenerbahce W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Fenerbahce W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1558467,
@@ -30,9 +66,9 @@
     "homeTeam": "Vålerenga W",
     "awayTeam": "Malmö FF W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Malmö FF W Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -89,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Queanbeyan City",
     "awayTeam": "Tuggeranong United",
-    "homeScore": 3,
-    "awayScore": 1,
+    "homeScore": 4,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Queanbeyan City Win",
     "outcome": "Won"
@@ -106,41 +142,5 @@
     "status": "FT",
     "prediction": "Austria Wien W Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1603951,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Brann W",
-    "awayTeam": "Mitrovica W",
-    "homeScore": 5,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Brann W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1591926,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Levante",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Villarreal Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1591925,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Cadiz",
-    "awayTeam": "Granada CF",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Granada CF Win",
-    "outcome": "Lost"
   }
 ]
