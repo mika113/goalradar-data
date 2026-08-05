@@ -1,30 +1,12 @@
 [
   {
-    "id": 1567347,
-    "league": "Copa Chile",
-    "matchTime": "03:30",
-    "homeTeam": "Coquimbo Unido",
-    "awayTeam": "San Marcos de Arica",
-    "prediction": "2-1",
-    "odds": "6.27"
-  },
-  {
-    "id": 1567348,
-    "league": "Copa Chile",
-    "matchTime": "03:30",
-    "homeTeam": "Deportes Iquique",
-    "awayTeam": "Deportes Limache",
-    "prediction": "3-0",
-    "odds": "7.43"
-  },
-  {
     "id": 1493613,
     "league": "USL Championship (USA)",
     "matchTime": "04:00",
     "homeTeam": "El Paso Locomotive",
     "awayTeam": "Monterey Bay",
-    "prediction": "1-0",
-    "odds": "8.23"
+    "prediction": "3-0",
+    "odds": "8.31"
   },
   {
     "id": 1549711,
@@ -32,8 +14,8 @@
     "matchTime": "04:30",
     "homeTeam": "Once Caldas",
     "awayTeam": "America de Cali",
-    "prediction": "2-0",
-    "odds": "10.67"
+    "prediction": "2-1",
+    "odds": "10.46"
   },
   {
     "id": 1508494,
@@ -41,7 +23,25 @@
     "matchTime": "05:00",
     "homeTeam": "Denver Summit W",
     "awayTeam": "North Carolina Courage W",
+    "prediction": "3-2",
+    "odds": "7.02"
+  },
+  {
+    "id": 1530118,
+    "league": "Leagues Cup (World)",
+    "matchTime": "05:00",
+    "homeTeam": "Toluca",
+    "awayTeam": "Seattle Sounders",
     "prediction": "2-1",
-    "odds": "7.25"
+    "odds": "5.04"
+  },
+  {
+    "id": 1548348,
+    "league": "CONCACAF Central American Cup (World)",
+    "matchTime": "05:00",
+    "homeTeam": "Alianza",
+    "awayTeam": "CS Herediano",
+    "prediction": "2-1",
+    "odds": "8.74"
   }
 ]
