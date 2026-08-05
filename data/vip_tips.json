@@ -1,30 +1,12 @@
 [
   {
-    "id": 1558477,
-    "league": "UEFA Champions League Women (World)",
-    "matchTime": "16:30",
-    "homeTeam": "Hammarby W",
-    "awayTeam": "Apolonia Fier W",
-    "prediction": "Hammarby W Win",
-    "odds": "1.88"
-  },
-  {
-    "id": 1531071,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "BuxDu",
-    "awayTeam": "Shortan",
-    "prediction": "Shortan Win",
-    "odds": "3.33"
-  },
-  {
     "id": 1534392,
     "league": "1. Division (Belarus)",
     "matchTime": "17:00",
     "homeTeam": "Niva",
     "awayTeam": "FC Slutsk",
-    "prediction": "FC Slutsk Win",
-    "odds": "2.55"
+    "prediction": "Niva Win",
+    "odds": "1.54"
   },
   {
     "id": 1546423,
@@ -32,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "HamKam U19",
     "awayTeam": "Odd U19",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "HamKam U19 Win & Over 1.5",
+    "odds": "2.98"
   },
   {
     "id": 1547660,
@@ -41,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Znicz Pruszków",
     "awayTeam": "ŁKS Łódź II",
-    "prediction": "Znicz Pruszków Win & Over 1.5",
-    "odds": "2.83"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1547830,
@@ -51,7 +33,7 @@
     "homeTeam": "Podbeskidzie",
     "awayTeam": "Hutnik Kraków",
     "prediction": "Podbeskidzie Win",
-    "odds": "1.82"
+    "odds": "1.95"
   },
   {
     "id": 1547834,
@@ -59,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Śląsk Wrocław II",
     "awayTeam": "Stal Stalowa Wola",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1603952,
@@ -68,7 +50,25 @@
     "matchTime": "17:00",
     "homeTeam": "Apollon Limassol W",
     "awayTeam": "Czarni Sosnowiec W",
-    "prediction": "Double Chance X2",
-    "odds": "1.72"
+    "prediction": "Czarni Sosnowiec W Win",
+    "odds": "2.21"
+  },
+  {
+    "id": 1547831,
+    "league": "Cup (Poland)",
+    "matchTime": "17:30",
+    "homeTeam": "Podhale Nowy Targ",
+    "awayTeam": "Chojniczanka Chojnice",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
+  },
+  {
+    "id": 1603953,
+    "league": "UEFA Champions League Women (World)",
+    "matchTime": "17:30",
+    "homeTeam": "Ferencváros W",
+    "awayTeam": "PAOK W",
+    "prediction": "Ferencváros W Win",
+    "odds": "1.34"
   }
 ]
