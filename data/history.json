@@ -1,5 +1,77 @@
 [
   {
+    "id": 1609871,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Gonçalo EC RJ",
+    "awayTeam": "Sampaio Corrêa RJ",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1609869,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Olaria",
+    "awayTeam": "Nova Iguaçu",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1609868,
+    "league": "Copa Rio (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "CFRJ / Maricá",
+    "awayTeam": "Boavista SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1563642,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Zenit",
+    "awayTeam": "Baltika",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Zenit Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1563638,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "FC Krasnodar",
+    "awayTeam": "Akhmat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1547833,
+    "league": "Cup (Poland)",
+    "matchDate": "FT",
+    "homeTeam": "Unia Skierniewice",
+    "awayTeam": "Sokół Kleczew",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1605332,
     "league": "Cup (Estonia)",
     "matchDate": "FT",
@@ -29,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Aarhus",
     "awayTeam": "Sabah FA",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Aarhus Win",
+    "outcome": "Won"
   },
   {
     "id": 1607578,
@@ -56,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1586811,
@@ -65,70 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Rot-Weiß Erfurt",
     "awayTeam": "Tasmania Berlin",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FC Rot-Weiß Erfurt Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586809,
-    "league": "Regionalliga - Nordost (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "BSG Chemie Leipzig",
-    "awayTeam": "Hallescher FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586808,
-    "league": "Regionalliga - Nordost (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "BFC Preussen",
-    "awayTeam": "Lokomotive Leipzig",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Lokomotive Leipzig Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1585036,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Gimnástica Segoviana",
-    "awayTeam": "Valladolid",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Gimnástica Segoviana Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1583700,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Slagelse B&I",
-    "awayTeam": "Sundby",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Sundby Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583622,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Schwaz",
-    "awayTeam": "FC Augsburg",
-    "homeScore": 0,
-    "awayScore": 7,
-    "status": "FT",
-    "prediction": "FC Augsburg Win",
     "outcome": "Won"
   }
 ]
