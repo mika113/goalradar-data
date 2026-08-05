@@ -1,30 +1,12 @@
 [
   {
-    "id": 1600219,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Malawi W",
-    "awayTeam": "Zambia W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
-  },
-  {
-    "id": 1493020,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Boca Juniors",
-    "awayTeam": "Estudiantes L.P.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.6"
-  },
-  {
     "id": 1498664,
     "league": "Primera Nacional (Argentina)",
     "matchTime": "01:00",
     "homeTeam": "Quilmes",
     "awayTeam": "Gimnasia Jujuy",
-    "prediction": "Both Teams To Score",
-    "odds": "1.64"
+    "prediction": "Quilmes Win",
+    "odds": "1.32"
   },
   {
     "id": 1545394,
@@ -32,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Nacional Potosí",
     "awayTeam": "The Strongest",
-    "prediction": "Nacional Potosí Win",
-    "odds": "1.32"
+    "prediction": "The Strongest Win",
+    "odds": "2.01"
   },
   {
     "id": 1546852,
@@ -41,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Cruzeiro",
     "awayTeam": "Chapecoense-sc",
-    "prediction": "Cruzeiro Win",
-    "odds": "1.54"
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
   },
   {
     "id": 1567346,
@@ -50,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Union San Felipe",
     "awayTeam": "Universidad de Chile",
-    "prediction": "Union San Felipe Win",
-    "odds": "1.67"
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
   },
   {
     "id": 1567349,
@@ -59,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Santiago Wanderers",
     "awayTeam": "Union La Calera",
-    "prediction": "Double Chance X2",
-    "odds": "1.42"
+    "prediction": "Union La Calera Win",
+    "odds": "3.09"
   },
   {
     "id": 1609870,
@@ -68,7 +50,25 @@
     "matchTime": "01:00",
     "homeTeam": "Portuguesa RJ",
     "awayTeam": "Madureira",
-    "prediction": "Madureira Win",
-    "odds": "2.07"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
+  },
+  {
+    "id": 1546855,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Gremio",
+    "awayTeam": "Mirassol",
+    "prediction": "Gremio Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1548261,
+    "league": "Capixaba B (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Linhares",
+    "awayTeam": "CTE Colatina",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.79"
   }
 ]
