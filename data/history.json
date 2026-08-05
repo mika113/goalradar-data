@@ -1,5 +1,41 @@
 [
   {
+    "id": 1598585,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Stade Briochin",
+    "awayTeam": "Stade Brestois 29",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Stade Briochin Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1585035,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lazio",
+    "awayTeam": "Ostia Mare",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583708,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Vatanspor",
+    "awayTeam": "Nørresundby",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1583695,
     "league": "DBU Pokalen (Denmark)",
     "matchDate": "FT",
@@ -9,7 +45,55 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1583683,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Hobro",
+    "awayTeam": "Vendsyssel FF",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Lost"
+  },
+  {
+    "id": 1583682,
+    "league": "DBU Pokalen (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Hedensted",
+    "awayTeam": "Marienlyst",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558466,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "St. Pölten W",
+    "awayTeam": "Young Boys W",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "St. Pölten W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558462,
+    "league": "UEFA Champions League Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "ŽNK Mura W",
+    "awayTeam": "Farul Constanţa W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1547832,
@@ -21,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1547828,
@@ -29,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Górnik Łęczna",
     "awayTeam": "Kalisz",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Górnik Łęczna Win",
     "outcome": "Won"
   },
   {
@@ -41,6 +125,18 @@
     "matchDate": "FT",
     "homeTeam": "Pogoń Siedlce",
     "awayTeam": "Jastrzębie",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1534393,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Uni Minsk",
+    "awayTeam": "Smorgon",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
