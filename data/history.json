@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1558464,
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "SFK 2000 W",
     "awayTeam": "PSV/Eindhoven W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1542345,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Inter",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -80,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tuggeranong United Win",
-    "outcome": "Lost"
+    "prediction": "Queanbeyan City Win",
+    "outcome": "Won"
   },
   {
     "id": 1558475,
@@ -128,19 +140,7 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Cadiz Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530112,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Vancouver Whitecaps",
-    "awayTeam": "Atlante FC",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Atlante FC Win",
-    "outcome": "Won"
+    "prediction": "Granada CF Win",
+    "outcome": "Lost"
   }
 ]
