@@ -1,66 +1,12 @@
 [
   {
-    "id": 1546915,
-    "league": "Football League - Highland League (Scotland)",
-    "matchTime": "22:00",
-    "homeTeam": "Huntly",
-    "awayTeam": "Deveronvale",
-    "prediction": "Deveronvale Win",
-    "odds": "3.18"
-  },
-  {
-    "id": 1546916,
-    "league": "Football League - Highland League (Scotland)",
-    "matchTime": "22:00",
-    "homeTeam": "Lossiemouth",
-    "awayTeam": "Rothes",
-    "prediction": "Rothes Win",
-    "odds": "2.0"
-  },
-  {
-    "id": 1546917,
-    "league": "Football League - Highland League (Scotland)",
-    "matchTime": "22:00",
-    "homeTeam": "Nairn County",
-    "awayTeam": "Forres Mechanics",
-    "prediction": "Double Chance 1X",
-    "odds": "1.34"
-  },
-  {
-    "id": 1546918,
-    "league": "Football League - Highland League (Scotland)",
-    "matchTime": "22:00",
-    "homeTeam": "Strathspey Thistle",
-    "awayTeam": "Buckie Thistle",
-    "prediction": "Buckie Thistle Win",
-    "odds": "2.72"
-  },
-  {
-    "id": 1546919,
-    "league": "Football League - Highland League (Scotland)",
-    "matchTime": "22:00",
-    "homeTeam": "Turriff United",
-    "awayTeam": "Formartine United",
-    "prediction": "Formartine United Win",
-    "odds": "2.41"
-  },
-  {
-    "id": 1558461,
-    "league": "UEFA Champions League Women (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Juventus W",
-    "awayTeam": "Torreense W",
-    "prediction": "Torreense W Win",
-    "odds": "2.13"
-  },
-  {
     "id": 1583623,
     "league": "Friendlies Clubs (World)",
     "matchTime": "22:00",
     "homeTeam": "Mallorca",
     "awayTeam": "Paris Saint Germain",
     "prediction": "Paris Saint Germain Win",
-    "odds": "1.74"
+    "odds": "3.48"
   },
   {
     "id": 1611318,
@@ -69,7 +15,7 @@
     "homeTeam": "Mexico U21",
     "awayTeam": "Panama U21",
     "prediction": "Mexico U21 Win",
-    "odds": "1.38"
+    "odds": "1.5"
   },
   {
     "id": 1508825,
@@ -78,7 +24,7 @@
     "homeTeam": "FH hafnarfjordur",
     "awayTeam": "KR Reykjavik",
     "prediction": "KR Reykjavik Win",
-    "odds": "2.47"
+    "odds": "1.71"
   },
   {
     "id": 1547792,
@@ -86,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "Universidad Catolica",
     "awayTeam": "Cuniburo",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
+    "prediction": "Universidad Catolica Win & Over 1.5",
+    "odds": "1.83"
   },
   {
     "id": 1584356,
@@ -95,8 +41,8 @@
     "matchTime": "23:00",
     "homeTeam": "UNSAAC W",
     "awayTeam": "Atl. Andahuaylas W",
-    "prediction": "Atl. Andahuaylas W Win",
-    "odds": "2.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
   },
   {
     "id": 1600218,
@@ -104,7 +50,61 @@
     "matchTime": "23:00",
     "homeTeam": "Egypt W",
     "awayTeam": "Nigeria W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
+  },
+  {
+    "id": 1600219,
+    "league": "Africa Cup of Nations - Women (World)",
+    "matchTime": "23:00",
+    "homeTeam": "Malawi W",
+    "awayTeam": "Zambia W",
+    "prediction": "Malawi W Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1493020,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "01:00",
+    "homeTeam": "Boca Juniors",
+    "awayTeam": "Estudiantes L.P.",
+    "prediction": "Boca Juniors Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1498664,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "01:00",
+    "homeTeam": "Quilmes",
+    "awayTeam": "Gimnasia Jujuy",
+    "prediction": "Quilmes Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1545394,
+    "league": "Primera División (Bolivia)",
+    "matchTime": "01:00",
+    "homeTeam": "Nacional Potosí",
+    "awayTeam": "The Strongest",
+    "prediction": "Nacional Potosí Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1546852,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Chapecoense-sc",
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
+  },
+  {
+    "id": 1567346,
+    "league": "Copa Chile",
+    "matchTime": "01:00",
+    "homeTeam": "Union San Felipe",
+    "awayTeam": "Universidad de Chile",
+    "prediction": "Union San Felipe Win",
+    "odds": "1.9"
   }
 ]
