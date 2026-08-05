@@ -1,30 +1,12 @@
 [
   {
-    "id": 1558465,
-    "league": "UEFA Champions League Women (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Slavia Praha W",
-    "awayTeam": "Rangers W",
-    "prediction": "Slavia Praha W Win",
-    "odds": "1.77"
-  },
-  {
-    "id": 1583621,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Cieza",
-    "awayTeam": "Real Murcia",
-    "prediction": "Both Teams To Score",
-    "odds": "1.63"
-  },
-  {
     "id": 1589319,
     "league": "Friendlies Clubs (World)",
     "matchTime": "21:30",
     "homeTeam": "Prato",
     "awayTeam": "Empoli",
-    "prediction": "Prato Win",
-    "odds": "1.7"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1603955,
@@ -33,7 +15,7 @@
     "homeTeam": "Vllaznia W",
     "awayTeam": "Spartak Myjava W",
     "prediction": "Vllaznia W Win",
-    "odds": "1.39"
+    "odds": "1.41"
   },
   {
     "id": 1607592,
@@ -41,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Panathinaikos",
     "awayTeam": "CSKA 1948",
-    "prediction": "Panathinaikos Win",
-    "odds": "1.83"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1583624,
@@ -50,8 +32,8 @@
     "matchTime": "21:45",
     "homeTeam": "Bromley",
     "awayTeam": "Liverpool U21",
-    "prediction": "Bromley Win",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
   },
   {
     "id": 1598587,
@@ -59,8 +41,8 @@
     "matchTime": "21:45",
     "homeTeam": "Hastings United",
     "awayTeam": "Sutton Utd",
-    "prediction": "Hastings United Win",
-    "odds": "1.61"
+    "prediction": "Sutton Utd Win",
+    "odds": "1.99"
   },
   {
     "id": 1545398,
@@ -68,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "Gualberto Villarroel SJ",
     "awayTeam": "San Antonio Bulo Bulo",
-    "prediction": "Double Chance X2",
-    "odds": "1.71"
+    "prediction": "San Antonio Bulo Bulo Win",
+    "odds": "2.45"
   },
   {
     "id": 1546911,
@@ -77,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Banks O' Dee",
     "awayTeam": "Inverurie Loco Works",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.73"
   },
   {
     "id": 1546912,
@@ -86,7 +68,25 @@
     "matchTime": "22:00",
     "homeTeam": "Brora Rangers",
     "awayTeam": "Wick Academy",
-    "prediction": "Brora Rangers Win",
-    "odds": "1.78"
+    "prediction": "Wick Academy Win",
+    "odds": "2.43"
+  },
+  {
+    "id": 1546913,
+    "league": "Football League - Highland League (Scotland)",
+    "matchTime": "22:00",
+    "homeTeam": "Clachnacuddin",
+    "awayTeam": "Invergordon",
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
+  },
+  {
+    "id": 1546914,
+    "league": "Football League - Highland League (Scotland)",
+    "matchTime": "22:00",
+    "homeTeam": "Fraserburgh",
+    "awayTeam": "Keith",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
   }
 ]
