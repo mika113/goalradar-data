@@ -1,5 +1,17 @@
 [
   {
+    "id": 1607163,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Aarhus",
+    "awayTeam": "Sabah FA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607578,
     "league": "UEFA Europa Conference League (World)",
     "matchDate": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1586808,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1585036,
@@ -78,21 +90,9 @@
     "homeTeam": "Schwaz",
     "awayTeam": "FC Augsburg",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "FC Augsburg Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558476,
-    "league": "UEFA Champions League Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "Eintracht Frankfurt W",
-    "awayTeam": "Omonia W",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Eintracht Frankfurt W Win",
     "outcome": "Won"
   }
 ]
