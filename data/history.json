@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Persib Bandung",
     "awayTeam": "Persebaya Surabaya",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1534818,
@@ -42,10 +42,10 @@
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Ekibastuz",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Ekibastuz Win",
+    "outcome": "Won"
   },
   {
     "id": 1507401,
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Merani Tbilisi",
     "awayTeam": "Didube 2014",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Merani Tbilisi Win",
+    "outcome": "Won"
   },
   {
     "id": 1507400,
@@ -66,9 +66,9 @@
     "homeTeam": "Margveti 2006",
     "awayTeam": "Varketili",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Varketili Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1507396,
@@ -125,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Yelimay Semey 2",
     "awayTeam": "Sport Academy Kairat",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Yelimay Semey 2 Win",
     "outcome": "Won"
   },
   {
@@ -137,7 +137,7 @@
     "matchDate": "FT",
     "homeTeam": "Akademiya Ontustik",
     "awayTeam": "Khan Tengri",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
     "prediction": "Akademiya Ontustik Win",
