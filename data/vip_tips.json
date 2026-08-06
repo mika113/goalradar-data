@@ -5,8 +5,8 @@
     "matchTime": "20:00",
     "homeTeam": "Lincoln Red Imps FC",
     "awayTeam": "Omonia Nicosia",
-    "prediction": "Omonia Nicosia Win",
-    "odds": "2.0"
+    "prediction": "Double Chance 1X",
+    "odds": "1.51"
   },
   {
     "id": 1607562,
@@ -14,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Hradec Králové",
     "awayTeam": "Beşiktaş",
-    "prediction": "Hradec Králové Win",
-    "odds": "1.68"
+    "prediction": "Double Chance X2",
+    "odds": "1.48"
   },
   {
     "id": 1607564,
@@ -23,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Red Bull Salzburg",
     "awayTeam": "Pafos",
-    "prediction": "Pafos Win",
-    "odds": "3.12"
+    "prediction": "Red Bull Salzburg Win",
+    "odds": "1.99"
   },
   {
     "id": 1607565,
@@ -32,8 +32,8 @@
     "matchTime": "20:45",
     "homeTeam": "PAOK",
     "awayTeam": "Anderlecht",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.1"
   },
   {
     "id": 1607179,
@@ -41,26 +41,17 @@
     "matchTime": "21:00",
     "homeTeam": "FC Thun",
     "awayTeam": "Vikingur Reykjavik",
-    "prediction": "FC Thun Win",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.97"
   },
   {
-    "id": 1516094,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Sogdiana",
-    "awayTeam": "Andijan",
-    "prediction": "Double Chance X2",
-    "odds": "1.41"
-  },
-  {
-    "id": 1583625,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Cremonese",
-    "awayTeam": "Iraklis 1908",
-    "prediction": "Iraklis 1908 Win",
-    "odds": "2.77"
+    "id": 1607560,
+    "league": "UEFA Europa League (World)",
+    "matchTime": "22:00",
+    "homeTeam": "Benfica",
+    "awayTeam": "Heart Of Midlothian",
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   },
   {
     "id": 1534386,
@@ -68,7 +59,16 @@
     "matchTime": "17:30",
     "homeTeam": "BATE II",
     "awayTeam": "Bumprom",
-    "prediction": "Bumprom Win",
-    "odds": "2.36"
+    "prediction": "BATE II Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1516093,
+    "league": "Super League (Uzbekistan)",
+    "matchTime": "18:00",
+    "homeTeam": "Pakhtakor",
+    "awayTeam": "Buxoro",
+    "prediction": "Both Teams To Score",
+    "odds": "1.92"
   }
 ]
