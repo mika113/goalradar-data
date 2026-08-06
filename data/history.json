@@ -1,14 +1,62 @@
 [
   {
+    "id": 1581379,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchDate": "FT",
+    "homeTeam": "Tlaxcala",
+    "awayTeam": "Alebrijes de Oaxaca",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1549580,
+    "league": "Primera B (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Bogota FC",
+    "awayTeam": "Leones FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526591,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "El Nacional",
+    "awayTeam": "9 de Octubre",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1549579,
+    "league": "Primera B (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Depor FC",
+    "awayTeam": "Real Santander",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Real Santander Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1526592,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
     "homeTeam": "Ind. Juniors",
     "awayTeam": "22 de Julio",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ind. Juniors Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +66,9 @@
     "homeTeam": "Atletico FC",
     "awayTeam": "Santo Domingo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Santo Domingo Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +77,8 @@
     "matchDate": "FT",
     "homeTeam": "Venezuela W",
     "awayTeam": "El Salvador W",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "El Salvador W Win",
     "outcome": "Won"
@@ -41,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Estudiantes de Merida FC",
     "awayTeam": "Zamora FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Estudiantes de Merida FC Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Talleres Córdoba Res.",
     "awayTeam": "San Lorenzo Res.",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Alianza Atletico",
     "awayTeam": "Cienciano",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Alianza Atletico Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +126,9 @@
     "homeTeam": "Rayo Zuliano",
     "awayTeam": "Anzoátegui FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Anzoátegui FC Win",
     "outcome": "Won"
   },
   {
@@ -93,54 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "IR Reykjavik Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607593,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "FK Partizan",
-    "awayTeam": "FK Tobol Kostanay",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FK Partizan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607585,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Hibernian",
-    "awayTeam": "Shkendija",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Hibernian Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607560,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Benfica",
-    "awayTeam": "Heart Of Midlothian",
-    "homeScore": 6,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Heart Of Midlothian Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1605372,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Tre Fiori",
-    "awayTeam": "Drita",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Drita Win",
     "outcome": "Won"
   }
 ]
