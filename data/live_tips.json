@@ -1,30 +1,12 @@
 [
   {
-    "id": 1516094,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Sogdiana",
-    "awayTeam": "Andijan",
-    "prediction": "Andijan Win",
-    "odds": "1.95"
-  },
-  {
-    "id": 1583625,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "17:00",
-    "homeTeam": "Cremonese",
-    "awayTeam": "Iraklis 1908",
-    "prediction": "Iraklis 1908 Win",
-    "odds": "2.97"
-  },
-  {
     "id": 1534386,
     "league": "1. Division (Belarus)",
     "matchTime": "17:30",
     "homeTeam": "BATE II",
     "awayTeam": "Bumprom",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "BATE II Win",
+    "odds": "1.37"
   },
   {
     "id": 1516093,
@@ -33,7 +15,7 @@
     "homeTeam": "Pakhtakor",
     "awayTeam": "Buxoro",
     "prediction": "Pakhtakor Win",
-    "odds": "1.85"
+    "odds": "1.84"
   },
   {
     "id": 1534388,
@@ -42,7 +24,7 @@
     "homeTeam": "Orsha",
     "awayTeam": "Gomel II",
     "prediction": "Orsha Win",
-    "odds": "1.96"
+    "odds": "1.84"
   },
   {
     "id": 1534390,
@@ -50,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Molodechno-DYuSSh 4",
     "awayTeam": "Volna",
-    "prediction": "Molodechno-DYuSSh 4 Win",
-    "odds": "1.77"
+    "prediction": "Volna Win",
+    "odds": "2.31"
   },
   {
     "id": 1584357,
@@ -59,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Yanapuma W",
     "awayTeam": "FBC Melgar W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
   },
   {
     "id": 1607587,
@@ -68,8 +50,8 @@
     "matchTime": "18:00",
     "homeTeam": "Inter Turku",
     "awayTeam": "FC Vaduz",
-    "prediction": "Inter Turku Win",
-    "odds": "1.32"
+    "prediction": "FC Vaduz Win",
+    "odds": "2.87"
   },
   {
     "id": 1534389,
@@ -77,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Slonim",
     "awayTeam": "Minsk II",
-    "prediction": "Slonim Win",
-    "odds": "1.62"
+    "prediction": "Minsk II Win",
+    "odds": "2.37"
   },
   {
     "id": 1507398,
@@ -86,7 +68,25 @@
     "matchTime": "19:00",
     "homeTeam": "Iveria Khashuri",
     "awayTeam": "Saburtalo II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Both Teams To Score",
+    "odds": "1.83"
+  },
+  {
+    "id": 1546429,
+    "league": "Nasjonal U19 Champions League (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Rosenborg U19",
+    "awayTeam": "Molde U19",
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
+  },
+  {
+    "id": 1583670,
+    "league": "DBU Pokalen (Denmark)",
+    "matchTime": "19:00",
+    "homeTeam": "Bogense",
+    "awayTeam": "Esbjerg",
+    "prediction": "Bogense Win",
+    "odds": "1.97"
   }
 ]
