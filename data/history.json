@@ -1,11 +1,23 @@
 [
   {
+    "id": 1527348,
+    "league": "South Australia State League 1",
+    "matchDate": "FT",
+    "homeTeam": "Salisbury United",
+    "awayTeam": "South Adelaide Panthers",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "South Adelaide Panthers Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1611917,
     "league": "Calcutta Premier Division (India)",
     "matchDate": "FT",
     "homeTeam": "Kalighat",
     "awayTeam": "Patha Chakra",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Kalighat Win",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Bidhannagar",
     "awayTeam": "BSS Sporting",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bidhannagar Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Persija",
     "awayTeam": "Arema FC",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Persija Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1493614,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "America de Cali Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1493613,
-    "league": "USL Championship (USA)",
-    "matchDate": "FT",
-    "homeTeam": "El Paso Locomotive",
-    "awayTeam": "Monterey Bay",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "El Paso Locomotive Win",
     "outcome": "Won"
   }
 ]
