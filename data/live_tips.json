@@ -1,21 +1,12 @@
 [
   {
-    "id": 1583693,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "Naestved",
-    "awayTeam": "Hvidovre",
-    "prediction": "Naestved Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1583704,
     "league": "DBU Pokalen (Denmark)",
     "matchTime": "19:00",
     "homeTeam": "Vaeggerlose",
     "awayTeam": "Hillerød",
-    "prediction": "Vaeggerlose Win & Over 1.5",
-    "odds": "2.76"
+    "prediction": "Vaeggerlose Win",
+    "odds": "1.73"
   },
   {
     "id": 1607586,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "HJK Helsinki",
     "awayTeam": "Motherwell",
-    "prediction": "HJK Helsinki Win",
-    "odds": "1.57"
+    "prediction": "HJK Helsinki Win & Over 1.5",
+    "odds": "2.71"
   },
   {
     "id": 1607588,
@@ -33,7 +24,7 @@
     "homeTeam": "FK Jablonec",
     "awayTeam": "Rīgas FS",
     "prediction": "Rīgas FS Win",
-    "odds": "2.37"
+    "odds": "2.94"
   },
   {
     "id": 1607590,
@@ -41,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "FC Noah",
     "awayTeam": "FC Sion",
-    "prediction": "FC Sion Win",
-    "odds": "2.0"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.94"
   },
   {
     "id": 1607591,
@@ -50,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Paide",
     "awayTeam": "Rapid Vienna",
-    "prediction": "Paide Win",
-    "odds": "1.72"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1583665,
@@ -60,7 +51,7 @@
     "homeTeam": "Aabenraa",
     "awayTeam": "SGI",
     "prediction": "SGI Win",
-    "odds": "2.16"
+    "odds": "2.07"
   },
   {
     "id": 1604766,
@@ -68,8 +59,8 @@
     "matchTime": "19:30",
     "homeTeam": "Legnago Salus",
     "awayTeam": "Mantova",
-    "prediction": "Mantova Win",
-    "odds": "2.45"
+    "prediction": "Legnago Salus Win",
+    "odds": "1.85"
   },
   {
     "id": 1607579,
@@ -77,8 +68,8 @@
     "matchTime": "19:30",
     "homeTeam": "CFR 1907 Cluj",
     "awayTeam": "Tromso",
-    "prediction": "CFR 1907 Cluj Win & Over 1.5",
-    "odds": "2.84"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.59"
   },
   {
     "id": 1497206,
@@ -86,7 +77,16 @@
     "matchTime": "20:00",
     "homeTeam": "Fløya",
     "awayTeam": "Ulfstind",
+    "prediction": "Double Chance X2",
+    "odds": "1.32"
+  },
+  {
+    "id": 1583667,
+    "league": "DBU Pokalen (Denmark)",
+    "matchTime": "20:00",
+    "homeTeam": "Aalborg KFUM",
+    "awayTeam": "Fuglebakken KFUM",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "odds": "2.16"
   }
 ]
