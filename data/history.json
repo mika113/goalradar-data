@@ -6,7 +6,7 @@
     "homeTeam": "Salisbury United",
     "awayTeam": "South Adelaide Panthers",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "South Adelaide Panthers Win",
     "outcome": "Won"
@@ -18,7 +18,7 @@
     "homeTeam": "Kalighat",
     "awayTeam": "Patha Chakra",
     "homeScore": 6,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Kalighat Win",
     "outcome": "Won"
@@ -30,10 +30,10 @@
     "homeTeam": "Bidhannagar",
     "awayTeam": "BSS Sporting",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "BSS Sporting Win",
-    "outcome": "Won"
+    "prediction": "Bidhannagar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1611279,
@@ -104,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Alianza Win",
-    "outcome": "Won"
+    "prediction": "CS Herediano Win",
+    "outcome": "Lost"
   },
   {
     "id": 1530118,
@@ -140,7 +140,7 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Once Caldas Win",
-    "outcome": "Lost"
+    "prediction": "America de Cali Win",
+    "outcome": "Won"
   }
 ]
