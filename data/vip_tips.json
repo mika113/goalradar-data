@@ -1,21 +1,12 @@
 [
   {
-    "id": 1549579,
-    "league": "Primera B (Colombia)",
-    "matchTime": "00:00",
-    "homeTeam": "Depor FC",
-    "awayTeam": "Real Santander",
-    "prediction": "Depor FC Win",
-    "odds": "1.49"
-  },
-  {
     "id": 1526591,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchTime": "00:30",
     "homeTeam": "El Nacional",
     "awayTeam": "9 de Octubre",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "El Nacional Win",
+    "odds": "1.7"
   },
   {
     "id": 1549580,
@@ -23,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "Bogota FC",
     "awayTeam": "Leones FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Leones FC Win",
+    "odds": "2.64"
   },
   {
     "id": 1493031,
@@ -41,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Club Sando",
     "awayTeam": "Broki",
-    "prediction": "Club Sando Win",
-    "odds": "1.87"
+    "prediction": "Both Teams To Score",
+    "odds": "1.63"
   },
   {
     "id": 1581379,
@@ -51,7 +42,7 @@
     "homeTeam": "Tlaxcala",
     "awayTeam": "Alebrijes de Oaxaca",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.85"
+    "odds": "1.99"
   },
   {
     "id": 1610928,
@@ -59,8 +50,8 @@
     "matchTime": "01:30",
     "homeTeam": "Puerto Cabello",
     "awayTeam": "Caracas FC",
-    "prediction": "Caracas FC Win",
-    "odds": "3.2"
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
   },
   {
     "id": 1546851,
@@ -68,7 +59,16 @@
     "matchTime": "02:00",
     "homeTeam": "Corinthians",
     "awayTeam": "Internacional",
-    "prediction": "Double Chance X2",
-    "odds": "1.49"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.63"
+  },
+  {
+    "id": 1546858,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Vitoria",
+    "awayTeam": "Atletico Paranaense",
+    "prediction": "Atletico Paranaense Win",
+    "odds": "2.02"
   }
 ]
