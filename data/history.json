@@ -1,62 +1,38 @@
 [
   {
-    "id": 1607579,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "CFR 1907 Cluj",
-    "awayTeam": "Tromso",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Tromso Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604766,
+    "id": 1604767,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Legnago Salus",
-    "awayTeam": "Mantova",
+    "homeTeam": "Malaga",
+    "awayTeam": "Al-Arabi SC",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
-    "id": 1583665,
-    "league": "DBU Pokalen (Denmark)",
+    "id": 1576869,
+    "league": "Reserve League (Argentina)",
     "matchDate": "FT",
-    "homeTeam": "Aabenraa",
-    "awayTeam": "SGI",
+    "homeTeam": "Rosario Central Res.",
+    "awayTeam": "Instituto Res.",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Rosario Central Res. Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607565,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "PAOK",
+    "awayTeam": "Anderlecht",
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "SGI Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607591,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Paide",
-    "awayTeam": "Rapid Vienna",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607590,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "FC Noah",
-    "awayTeam": "FC Sion",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "FC Noah Win",
+    "prediction": "Anderlecht Win",
     "outcome": "Won"
   }
 ]
