@@ -1,14 +1,62 @@
 [
   {
+    "id": 1545396,
+    "league": "Primera División (Bolivia)",
+    "matchDate": "FT",
+    "homeTeam": "Blooming",
+    "awayTeam": "Always Ready",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530122,
+    "league": "Leagues Cup (World)",
+    "matchDate": "FT",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Santos Laguna",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546858,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Vitoria",
+    "awayTeam": "Atletico Paranaense",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Vitoria Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546851,
+    "league": "Copa Do Brasil (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Corinthians",
+    "awayTeam": "Internacional",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Corinthians Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1610928,
     "league": "Primera División (Venezuela)",
     "matchDate": "FT",
     "homeTeam": "Puerto Cabello",
     "awayTeam": "Caracas FC",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Puerto Cabello Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +66,9 @@
     "homeTeam": "Tlaxcala",
     "awayTeam": "Alebrijes de Oaxaca",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Alebrijes de Oaxaca Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Club Sando",
     "awayTeam": "Broki",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Broki Win",
+    "outcome": "Lost"
   },
   {
     "id": 1493031,
@@ -41,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Union Santa Fe",
     "awayTeam": "Lanus",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Lanus Win",
+    "outcome": "Lost"
   },
   {
     "id": 1549580,
@@ -54,10 +102,10 @@
     "homeTeam": "Bogota FC",
     "awayTeam": "Leones FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Leones FC Win",
+    "outcome": "Won"
   },
   {
     "id": 1526591,
@@ -84,63 +132,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1526592,
+    "id": 1526594,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
-    "homeTeam": "Ind. Juniors",
-    "awayTeam": "22 de Julio",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Gualaceo SC",
     "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Ind. Juniors Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1526589,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Atletico FC",
-    "awayTeam": "Santo Domingo",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Santo Domingo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611911,
-    "league": "Central American and Caribbean Games (World)",
-    "matchDate": "FT",
-    "homeTeam": "Venezuela W",
-    "awayTeam": "El Salvador W",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "El Salvador W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610927,
-    "league": "Primera División (Venezuela)",
-    "matchDate": "FT",
-    "homeTeam": "Estudiantes de Merida FC",
-    "awayTeam": "Zamora FC",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Estudiantes de Merida FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576870,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Talleres Córdoba Res.",
-    "awayTeam": "San Lorenzo Res.",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "San Antonio Win",
     "outcome": "Won"
   }
 ]
