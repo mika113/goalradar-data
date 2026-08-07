@@ -1,10 +1,22 @@
 [
   {
-    "id": 1612414,
-    "league": "Division Intermedia (Paraguay)",
+    "id": 1520808,
+    "league": "Serie B (Brazil)",
     "matchDate": "FT",
-    "homeTeam": "12 de Junio VH",
-    "awayTeam": "Deportivo Santani",
+    "homeTeam": "Operario-PR",
+    "awayTeam": "São Bernardo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493057,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Aldosivi",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -12,15 +24,27 @@
     "outcome": "Lost"
   },
   {
+    "id": 1612414,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "12 de Junio VH",
+    "awayTeam": "Deportivo Santani",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "prediction": "Deportivo Santani Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1611271,
     "league": "Primera División (Uruguay)",
     "matchDate": "FT",
     "homeTeam": "Cerro Largo",
     "awayTeam": "Juventud",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cerro Largo Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +54,9 @@
     "homeTeam": "Tanabi SP U20",
     "awayTeam": "Palmeiras U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Palmeiras U20 Win",
     "outcome": "Won"
   },
   {
@@ -42,10 +66,22 @@
     "homeTeam": "Union Espanola",
     "awayTeam": "Antofagasta",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Antofagasta Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1499570,
+    "league": "Primera B Metropolitana (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Ituzaingó",
+    "awayTeam": "Deportivo Camioneros",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1499564,
@@ -65,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Rubio NU",
     "awayTeam": "Deportivo Recoleta",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Deportivo Recoleta Win",
     "outcome": "Won"
@@ -90,7 +126,7 @@
     "homeTeam": "Costa Rica U20",
     "awayTeam": "United States U20",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "United States U20 Win",
     "outcome": "Won"
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Union Comercio Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1549439,
-    "league": "Primera División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Comerciantes Unidos",
-    "awayTeam": "Cusco",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Comerciantes Unidos Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611914,
-    "league": "CAC Games (World)",
-    "matchDate": "FT",
-    "homeTeam": "Panama U21",
-    "awayTeam": "Colombia U21",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612413,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Independiente F.b.c.",
-    "awayTeam": "Resistencia",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
