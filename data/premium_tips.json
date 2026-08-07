@@ -1,66 +1,12 @@
 [
   {
-    "id": 1612412,
-    "league": "Ýokary Liga (Turkmenistan)",
-    "matchTime": "16:30",
-    "homeTeam": "Şagadam",
-    "awayTeam": "Nebitci",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
-  },
-  {
-    "id": 1516095,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Surkhon",
-    "awayTeam": "Navbahor",
-    "prediction": "Navbahor Win",
-    "odds": "2.99"
-  },
-  {
-    "id": 1519114,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Chertanovo U20",
-    "awayTeam": "Rubin Kazan U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.76"
-  },
-  {
-    "id": 1519115,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "CSKA Moskva U19",
-    "awayTeam": "Dynamo Makhachkala U19",
-    "prediction": "Dynamo Makhachkala U19 Win",
-    "odds": "2.11"
-  },
-  {
-    "id": 1519117,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Fakel U19",
-    "awayTeam": "Spartak Moskva U19",
-    "prediction": "Fakel U19 Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1519118,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Rostov U19",
-    "awayTeam": "Zenit U19",
-    "prediction": "Zenit U19 Win",
-    "odds": "2.99"
-  },
-  {
     "id": 1611282,
     "league": "UEFA Champions League Women (World)",
     "matchTime": "17:00",
     "homeTeam": "Servette Chênois W",
     "awayTeam": "Aktobe W",
     "prediction": "Servette Chênois W Win",
-    "odds": "1.83"
+    "odds": "1.54"
   },
   {
     "id": 1516090,
@@ -68,8 +14,8 @@
     "matchTime": "17:30",
     "homeTeam": "Lokomotiv",
     "awayTeam": "Dinamo Samarqand",
-    "prediction": "Dinamo Samarqand Win",
-    "odds": "2.22"
+    "prediction": "Lokomotiv Win",
+    "odds": "1.71"
   },
   {
     "id": 1504277,
@@ -77,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Haka",
     "awayTeam": "JIPPO",
-    "prediction": "Haka Win & Over 1.5",
-    "odds": "2.86"
+    "prediction": "JIPPO Win",
+    "odds": "3.09"
   },
   {
     "id": 1516096,
@@ -86,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Xorazm",
     "awayTeam": "Mash'al",
-    "prediction": "Xorazm Win & Over 1.5",
-    "odds": "1.99"
+    "prediction": "Xorazm Win",
+    "odds": "1.95"
   },
   {
     "id": 1519120,
@@ -95,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Rodina Moscow U19",
     "awayTeam": "Ural U20",
-    "prediction": "Rodina Moscow U19 Win",
-    "odds": "1.81"
+    "prediction": "Both Teams To Score",
+    "odds": "1.85"
   },
   {
     "id": 1534819,
@@ -104,7 +50,61 @@
     "matchTime": "18:00",
     "homeTeam": "Turan Turkistan",
     "awayTeam": "Astana II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
+  },
+  {
+    "id": 1551433,
+    "league": "First League (Macedonia)",
+    "matchTime": "18:00",
+    "homeTeam": "Shkëndija Haraçinë",
+    "awayTeam": "Sileks",
+    "prediction": "Shkëndija Haraçinë Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1559742,
+    "league": "FNL (Czech-Republic)",
+    "matchTime": "18:00",
+    "homeTeam": "Slavia Praha II",
+    "awayTeam": "Třinec",
+    "prediction": "Double Chance X2",
+    "odds": "1.75"
+  },
+  {
+    "id": 1569036,
+    "league": "III Liga - Group 1 (Poland)",
+    "matchTime": "18:00",
+    "homeTeam": "Jagiellonia II",
+    "awayTeam": "Wigry Suwałki",
+    "prediction": "Wigry Suwałki Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1569040,
+    "league": "III Liga - Group 1 (Poland)",
+    "matchTime": "18:00",
+    "homeTeam": "Olimpia Elbląg",
+    "awayTeam": "Polonia Lidzbark Warm.",
+    "prediction": "Olimpia Elbląg Win & Over 1.5",
+    "odds": "2.48"
+  },
+  {
+    "id": 1576878,
+    "league": "Liga 1 (Moldova)",
+    "matchTime": "18:00",
+    "homeTeam": "Iskra",
+    "awayTeam": "Vulturii Cutezători",
+    "prediction": "Double Chance X2",
+    "odds": "1.65"
+  },
+  {
+    "id": 1576879,
+    "league": "Liga 1 (Moldova)",
+    "matchTime": "18:00",
+    "homeTeam": "FC National Ialoveni",
+    "awayTeam": "Oguzsport",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.8"
   }
 ]
