@@ -17,11 +17,11 @@
     "matchDate": "FT",
     "homeTeam": "Boston City U20",
     "awayTeam": "Atlético Mineiro U20",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Boston City U20 Win",
+    "outcome": "Won"
   },
   {
     "id": 1548101,
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Vietnam",
     "awayTeam": "Cambodia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vietnam Win",
     "outcome": "Won"
   },
   {
@@ -53,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Jaiyq",
     "awayTeam": "Taraz",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Jaiyq Win",
+    "outcome": "Won"
   },
   {
     "id": 1542348,
@@ -65,8 +65,8 @@
     "matchDate": "FT",
     "homeTeam": "Bayern München",
     "awayTeam": "Aston Villa",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Bayern München Win",
     "outcome": "Won"
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Arys",
     "awayTeam": "Tobol 2",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Arys Win",
-    "outcome": "Won"
+    "prediction": "Tobol 2 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1523227,
@@ -89,58 +89,22 @@
     "matchDate": "FT",
     "homeTeam": "Beijing Guoan",
     "awayTeam": "Sichuan Jiuniu",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Beijing Guoan Win",
-    "outcome": "Won"
+    "prediction": "Sichuan Jiuniu Win",
+    "outcome": "Lost"
   },
   {
-    "id": 1585040,
-    "league": "Friendlies Clubs (World)",
+    "id": 1595485,
+    "league": "U19 Bundesliga (Germany)",
     "matchDate": "FT",
-    "homeTeam": "Melbourne City",
-    "awayTeam": "Palermo",
+    "homeTeam": "Dynamo Dresden U19",
+    "awayTeam": "Erzgebirge Aue U19",
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Palermo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519119,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Akademiya Konoplev U20",
-    "awayTeam": "Krasnodar U19",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Krasnodar U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510408,
-    "league": "K League 2 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Yongin City",
-    "awayTeam": "Busan I Park",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Yongin City Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510407,
-    "league": "K League 2 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Suwon Bluewings",
-    "awayTeam": "Gimhae City",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Suwon Bluewings Win",
+    "prediction": "Erzgebirge Aue U19 Win",
     "outcome": "Won"
   }
 ]
