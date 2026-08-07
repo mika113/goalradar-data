@@ -1,30 +1,12 @@
 [
   {
-    "id": 1581384,
-    "league": "Liga de Expansión MX (Mexico)",
-    "matchTime": "04:00",
-    "homeTeam": "Leones Negros UDG",
-    "awayTeam": "Correcaminos Uat",
-    "prediction": "Leones Negros UDG Win & Over 1.5",
-    "odds": "2.11"
-  },
-  {
-    "id": 1549581,
-    "league": "Primera B (Colombia)",
-    "matchTime": "04:10",
-    "homeTeam": "Real Cartagena",
-    "awayTeam": "Ind. Yumbo",
-    "prediction": "Real Cartagena Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1535054,
     "league": "Leagues Cup (World)",
     "matchTime": "05:00",
     "homeTeam": "Club America",
     "awayTeam": "San Diego",
     "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "odds": "1.21"
   },
   {
     "id": 1530123,
@@ -32,8 +14,8 @@
     "matchTime": "05:30",
     "homeTeam": "Portland Timbers",
     "awayTeam": "Puebla",
-    "prediction": "Double Chance X2",
-    "odds": "1.62"
+    "prediction": "Puebla Win",
+    "odds": "2.48"
   },
   {
     "id": 1548351,
@@ -41,8 +23,8 @@
     "matchTime": "06:00",
     "homeTeam": "CD Motagua",
     "awayTeam": "FAS",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.76"
   },
   {
     "id": 1611281,
@@ -50,8 +32,8 @@
     "matchTime": "10:00",
     "homeTeam": "Breidablik W",
     "awayTeam": "Dinamo-BGU W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Breidablik W Win",
+    "odds": "1.63"
   },
   {
     "id": 1524092,
@@ -60,7 +42,7 @@
     "homeTeam": "Lions",
     "awayTeam": "Brisbane Roar II",
     "prediction": "Lions Win",
-    "odds": "1.75"
+    "odds": "1.79"
   },
   {
     "id": 1604768,
@@ -68,8 +50,8 @@
     "matchTime": "11:30",
     "homeTeam": "Cordoba",
     "awayTeam": "Almeria",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1527123,
@@ -77,8 +59,8 @@
     "matchTime": "11:45",
     "homeTeam": "Adelaide Comets",
     "awayTeam": "MetroStars",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.29"
+    "prediction": "Both Teams To Score",
+    "odds": "2.0"
   },
   {
     "id": 1541359,
@@ -87,7 +69,7 @@
     "homeTeam": "Bayside Argonauts",
     "awayTeam": "Box Hill",
     "prediction": "Box Hill Win",
-    "odds": "2.88"
+    "odds": "2.93"
   },
   {
     "id": 1585039,
@@ -96,7 +78,7 @@
     "homeTeam": "Racing Santander",
     "awayTeam": "Sporting Gijon",
     "prediction": "Sporting Gijon Win",
-    "odds": "2.95"
+    "odds": "2.93"
   },
   {
     "id": 1611918,
@@ -104,7 +86,25 @@
     "matchTime": "12:30",
     "homeTeam": "Calcutta Customs",
     "awayTeam": "Railway",
+    "prediction": "Calcutta Customs Win",
+    "odds": "1.99"
+  },
+  {
+    "id": 1611919,
+    "league": "Calcutta Premier Division (India)",
+    "matchTime": "12:30",
+    "homeTeam": "Mohun Bagan",
+    "awayTeam": "Bhawanipore",
     "prediction": "Both Teams To Score",
-    "odds": "2.03"
+    "odds": "1.93"
+  },
+  {
+    "id": 1611920,
+    "league": "Calcutta Premier Division (India)",
+    "matchTime": "12:30",
+    "homeTeam": "United Kolkata",
+    "awayTeam": "Kidderpore",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
   }
 ]
