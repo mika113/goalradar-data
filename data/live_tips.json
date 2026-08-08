@@ -1,39 +1,12 @@
 [
   {
-    "id": 1525761,
-    "league": "Liga Femenina (Colombia)",
-    "matchTime": "23:30",
-    "homeTeam": "Llaneros W",
-    "awayTeam": "Atlético Nacional W",
-    "prediction": "Llaneros W Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1526590,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "Deportivo Cuenca Juniors",
-    "awayTeam": "Cuniburo",
-    "prediction": "Cuniburo Win",
-    "odds": "2.18"
-  },
-  {
-    "id": 1549442,
-    "league": "Primera División (Peru)",
-    "matchTime": "23:30",
-    "homeTeam": "Juan Pablo II College",
-    "awayTeam": "Atletico Grau",
-    "prediction": "Juan Pablo II College Win",
-    "odds": "1.68"
-  },
-  {
     "id": 1517323,
     "league": "Canadian Premier League (Canada)",
     "matchTime": "00:00",
     "homeTeam": "Pacific FC",
     "awayTeam": "York United",
-    "prediction": "Pacific FC Win",
-    "odds": "1.46"
+    "prediction": "Pacific FC Win & Over 1.5",
+    "odds": "1.98"
   },
   {
     "id": 1559602,
@@ -41,8 +14,8 @@
     "matchTime": "00:00",
     "homeTeam": "Aurora",
     "awayTeam": "Comunicaciones",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Comunicaciones Win",
+    "odds": "3.34"
   },
   {
     "id": 1592938,
@@ -50,8 +23,8 @@
     "matchTime": "00:00",
     "homeTeam": "Platense FC",
     "awayTeam": "CD Marathon",
-    "prediction": "Double Chance X2",
-    "odds": "1.24"
+    "prediction": "Platense FC Win",
+    "odds": "1.46"
   },
   {
     "id": 1600559,
@@ -59,8 +32,8 @@
     "matchTime": "00:00",
     "homeTeam": "Platense",
     "awayTeam": "Inca Aruba",
-    "prediction": "Platense Win",
-    "odds": "1.35"
+    "prediction": "Inca Aruba Win",
+    "odds": "2.96"
   },
   {
     "id": 1563078,
@@ -68,8 +41,8 @@
     "matchTime": "00:15",
     "homeTeam": "The Strongest",
     "awayTeam": "Independiente Petrolero",
-    "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "prediction": "The Strongest Win",
+    "odds": "1.95"
   },
   {
     "id": 1549718,
@@ -77,8 +50,8 @@
     "matchTime": "00:20",
     "homeTeam": "Fortaleza FC",
     "awayTeam": "Cucuta",
-    "prediction": "Cucuta Win",
-    "odds": "3.25"
+    "prediction": "Fortaleza FC Win & Over 1.5",
+    "odds": "2.39"
   },
   {
     "id": 1505484,
@@ -86,7 +59,34 @@
     "matchTime": "00:30",
     "homeTeam": "Coquimbo Unido",
     "awayTeam": "D. La Serena",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "Coquimbo Unido Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1511634,
+    "league": "Primera B (Chile)",
+    "matchTime": "00:30",
+    "homeTeam": "Cobreloa",
+    "awayTeam": "Deportes Iquique",
+    "prediction": "Deportes Iquique Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1519440,
+    "league": "Liga Pro (Ecuador)",
+    "matchTime": "00:30",
+    "homeTeam": "Aucas",
+    "awayTeam": "Leones del Norte",
+    "prediction": "Leones del Norte Win",
+    "odds": "2.88"
+  },
+  {
+    "id": 1520802,
+    "league": "Serie B (Brazil)",
+    "matchTime": "00:30",
+    "homeTeam": "Botafogo SP",
+    "awayTeam": "America Mineiro",
+    "prediction": "America Mineiro Win",
+    "odds": "1.9"
   }
 ]
