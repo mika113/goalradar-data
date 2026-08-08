@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1603435,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1520802,
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Aucas",
     "awayTeam": "Leones del Norte",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Aucas Win",
     "outcome": "Won"
   },
   {
@@ -89,11 +89,11 @@
     "matchDate": "FT",
     "homeTeam": "Fortaleza FC",
     "awayTeam": "Cucuta",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Cucuta Win",
+    "outcome": "Lost"
   },
   {
     "id": 1563078,
@@ -128,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1559602,
@@ -137,7 +137,7 @@
     "matchDate": "FT",
     "homeTeam": "Aurora",
     "awayTeam": "Comunicaciones",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Aurora Win",
