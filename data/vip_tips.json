@@ -1,39 +1,12 @@
 [
   {
-    "id": 1493060,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "23:00",
-    "homeTeam": "Tigre",
-    "awayTeam": "River Plate",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
-    "id": 1508496,
-    "league": "NWSL Women (USA)",
-    "matchTime": "23:00",
-    "homeTeam": "Denver Summit W",
-    "awayTeam": "Utah Royals W",
-    "prediction": "Denver Summit W Win",
-    "odds": "1.51"
-  },
-  {
-    "id": 1513268,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "23:00",
-    "homeTeam": "Portland Timbers II",
-    "awayTeam": "Los Angeles FC II",
-    "prediction": "Portland Timbers II Win",
-    "odds": "1.61"
-  },
-  {
     "id": 1526906,
     "league": "Serie C (Brazil)",
     "matchTime": "23:00",
     "homeTeam": "Botafogo PB",
     "awayTeam": "Santa Cruz",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Botafogo PB Win & Over 1.5",
+    "odds": "2.88"
   },
   {
     "id": 1526907,
@@ -41,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Figueirense",
     "awayTeam": "Ferroviária",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Figueirense Win & Over 1.5",
+    "odds": "2.61"
   },
   {
     "id": 1546098,
@@ -50,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Primavera SP",
     "awayTeam": "Juventus",
-    "prediction": "Double Chance X2",
-    "odds": "1.59"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.05"
   },
   {
     "id": 1546100,
@@ -59,8 +32,8 @@
     "matchTime": "23:00",
     "homeTeam": "União São João",
     "awayTeam": "Comercial",
-    "prediction": "Comercial Win",
-    "odds": "1.67"
+    "prediction": "União São João Win",
+    "odds": "1.47"
   },
   {
     "id": 1598603,
@@ -68,7 +41,34 @@
     "matchTime": "23:00",
     "homeTeam": "Udinese",
     "awayTeam": "Barcelona",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.93"
+    "prediction": "Udinese Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1600703,
+    "league": "Segunda División (Chile)",
+    "matchTime": "23:00",
+    "homeTeam": "Provincial Osorno",
+    "awayTeam": "Concón National",
+    "prediction": "Provincial Osorno Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1601397,
+    "league": "Liga de Ascenso (Costa-Rica)",
+    "matchTime": "23:00",
+    "homeTeam": "CS Uruguay",
+    "awayTeam": "Cariari Pococi",
+    "prediction": "Double Chance X2",
+    "odds": "1.21"
+  },
+  {
+    "id": 1603434,
+    "league": "Serie D (Brazil)",
+    "matchTime": "23:00",
+    "homeTeam": "Sao Jose",
+    "awayTeam": "Gama",
+    "prediction": "Sao Jose Win",
+    "odds": "1.74"
   }
 ]
