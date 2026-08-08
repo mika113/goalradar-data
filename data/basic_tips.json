@@ -1,21 +1,12 @@
 [
   {
-    "id": 1575448,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "22:30",
-    "homeTeam": "Estrela",
-    "awayTeam": "Sporting CP",
-    "prediction": "Estrela Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1492328,
     "league": "Serie A (Brazil)",
     "matchTime": "00:30",
     "homeTeam": "Remo",
     "awayTeam": "Atletico-MG",
     "prediction": "Remo Win",
-    "odds": "1.43"
+    "odds": "1.32"
   },
   {
     "id": 1492323,
@@ -23,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Coritiba",
     "awayTeam": "Chapecoense-sc",
-    "prediction": "Coritiba Win & Over 1.5",
-    "odds": "2.72"
+    "prediction": "Coritiba Win",
+    "odds": "1.49"
   },
   {
     "id": 1492321,
@@ -32,25 +23,34 @@
     "matchTime": "03:00",
     "homeTeam": "Botafogo",
     "awayTeam": "Fluminense",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
+    "prediction": "Both Teams To Score",
+    "odds": "2.13"
   },
   {
-    "id": 1600672,
-    "league": "Segunda División (Chile)",
-    "matchTime": "22:30",
-    "homeTeam": "Colina",
-    "awayTeam": "Deportes Rengo",
-    "prediction": "Colina Win",
-    "odds": "1.73"
+    "id": 1493060,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "23:00",
+    "homeTeam": "Tigre",
+    "awayTeam": "River Plate",
+    "prediction": "Tigre Win",
+    "odds": "1.85"
   },
   {
-    "id": 1618904,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "22:30",
-    "homeTeam": "Cadiz",
-    "awayTeam": "Las Palmas",
-    "prediction": "Las Palmas Win",
-    "odds": "3.16"
+    "id": 1508496,
+    "league": "NWSL Women (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Denver Summit W",
+    "awayTeam": "Utah Royals W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.61"
+  },
+  {
+    "id": 1513268,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Portland Timbers II",
+    "awayTeam": "Los Angeles FC II",
+    "prediction": "Los Angeles FC II Win",
+    "odds": "3.05"
   }
 ]
