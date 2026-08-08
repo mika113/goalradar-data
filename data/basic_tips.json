@@ -1,21 +1,12 @@
 [
   {
-    "id": 1492326,
-    "league": "Serie A (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Gremio",
-    "awayTeam": "Sao Paulo",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
-  },
-  {
     "id": 1575448,
     "league": "Primeira Liga (Portugal)",
     "matchTime": "22:30",
     "homeTeam": "Estrela",
     "awayTeam": "Sporting CP",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.88"
+    "prediction": "Sporting CP Win",
+    "odds": "3.15"
   },
   {
     "id": 1492328,
@@ -23,34 +14,43 @@
     "matchTime": "00:30",
     "homeTeam": "Remo",
     "awayTeam": "Atletico-MG",
-    "prediction": "Remo Win",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.27"
   },
   {
-    "id": 1498707,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "22:00",
-    "homeTeam": "Atletico DE Rafaela",
-    "awayTeam": "Chacarita Juniors",
-    "prediction": "Atletico DE Rafaela Win",
-    "odds": "1.39"
+    "id": 1492323,
+    "league": "Serie A (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "Coritiba",
+    "awayTeam": "Chapecoense-sc",
+    "prediction": "Coritiba Win",
+    "odds": "1.49"
   },
   {
-    "id": 1505486,
-    "league": "Primera División (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Huachipato",
-    "awayTeam": "Everton de Vina",
-    "prediction": "Huachipato Win",
+    "id": 1492321,
+    "league": "Serie A (Brazil)",
+    "matchTime": "03:00",
+    "homeTeam": "Botafogo",
+    "awayTeam": "Fluminense",
+    "prediction": "Botafogo Win",
+    "odds": "1.56"
+  },
+  {
+    "id": 1600672,
+    "league": "Segunda División (Chile)",
+    "matchTime": "22:30",
+    "homeTeam": "Colina",
+    "awayTeam": "Deportes Rengo",
+    "prediction": "Deportes Rengo Win",
+    "odds": "2.16"
+  },
+  {
+    "id": 1618904,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "22:30",
+    "homeTeam": "Cadiz",
+    "awayTeam": "Las Palmas",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.58"
-  },
-  {
-    "id": 1511639,
-    "league": "Primera B (Chile)",
-    "matchTime": "22:00",
-    "homeTeam": "Santiago Wanderers",
-    "awayTeam": "San Marcos de Arica",
-    "prediction": "Santiago Wanderers Win",
-    "odds": "1.98"
   }
 ]
