@@ -1,15 +1,51 @@
 [
   {
+    "id": 1618904,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Cadiz",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Cadiz Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1600672,
+    "league": "Segunda División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Colina",
+    "awayTeam": "Deportes Rengo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1575448,
+    "league": "Primeira Liga (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Estrela",
+    "awayTeam": "Sporting CP",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1612451,
     "league": "Segunda División (Uruguay)",
     "matchDate": "FT",
     "homeTeam": "Colón",
     "awayTeam": "Cerrito",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Cerrito Win",
+    "outcome": "Won"
   },
   {
     "id": 1612448,
@@ -17,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Juventus W",
     "awayTeam": "Hammarby W",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -33,6 +69,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1606444,
+    "league": "Torneo Federal A (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Tucuman Central",
+    "awayTeam": "El Linqueño",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Tucuman Central Win",
     "outcome": "Won"
   },
   {
@@ -53,18 +101,30 @@
     "matchDate": "FT",
     "homeTeam": "Grêmio Anápolis",
     "awayTeam": "Trindade",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Grêmio Anápolis Win",
     "outcome": "Won"
   },
   {
-    "id": 1598602,
+    "id": 1605318,
+    "league": "Mineiro - 2 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Democrata SL",
+    "awayTeam": "Mamoré",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Democrata SL Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1604783,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
-    "homeTeam": "Napoli",
-    "awayTeam": "Celta Vigo",
+    "homeTeam": "Livorno",
+    "awayTeam": "Empoli",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -72,75 +132,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1598593,
-    "league": "Friendlies Clubs (World)",
+    "id": 1603436,
+    "league": "Serie D (Brazil)",
     "matchDate": "FT",
-    "homeTeam": "Mallorca",
-    "awayTeam": "SV Elversberg",
+    "homeTeam": "Nacional AM",
+    "awayTeam": "ABC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1597733,
-    "league": "Liga 3 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Mafra",
-    "awayTeam": "Vitória de Sernache",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582767,
-    "league": "Premijer Liga (Bosnia)",
-    "matchDate": "FT",
-    "homeTeam": "Siroki Brijeg",
-    "awayTeam": "Sloga Doboj",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582766,
-    "league": "Premijer Liga (Bosnia)",
-    "matchDate": "FT",
-    "homeTeam": "FK Sarajevo",
-    "awayTeam": "Radnik Bijeljina",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1563077,
-    "league": "Primera División (Bolivia)",
-    "matchDate": "FT",
-    "homeTeam": "San Antonio Bulo Bulo",
-    "awayTeam": "Nacional Potosí",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1552121,
-    "league": "Eredivisie (Netherlands)",
-    "matchDate": "FT",
-    "homeTeam": "AZ Alkmaar",
-    "awayTeam": "ADO Den Haag",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "ABC Win",
     "outcome": "Won"
   }
 ]
