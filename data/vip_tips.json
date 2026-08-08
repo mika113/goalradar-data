@@ -1,48 +1,12 @@
 [
   {
-    "id": 1493050,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:15",
-    "homeTeam": "Boca Juniors",
-    "awayTeam": "Velez Sarsfield",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
-  },
-  {
-    "id": 1508497,
-    "league": "NWSL Women (USA)",
-    "matchTime": "01:30",
-    "homeTeam": "Washington Spirit W",
-    "awayTeam": "North Carolina Courage W",
-    "prediction": "North Carolina Courage W Win",
-    "odds": "2.58"
-  },
-  {
-    "id": 1526908,
-    "league": "Serie C (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Inter De Limeira",
-    "awayTeam": "Volta Redonda",
-    "prediction": "Volta Redonda Win",
-    "odds": "2.6"
-  },
-  {
-    "id": 1526910,
-    "league": "Serie C (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Ituano",
-    "awayTeam": "Barra",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
-  },
-  {
     "id": 1530131,
     "league": "Leagues Cup (World)",
     "matchTime": "01:30",
     "homeTeam": "Orlando City SC",
     "awayTeam": "Leon",
-    "prediction": "Leon Win",
-    "odds": "1.99"
+    "prediction": "Orlando City SC Win & Over 1.5",
+    "odds": "2.91"
   },
   {
     "id": 1606368,
@@ -50,8 +14,8 @@
     "matchTime": "01:30",
     "homeTeam": "Sol de América",
     "awayTeam": "Defensores de Belgrano VR",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
+    "prediction": "Sol de América Win",
+    "odds": "1.5"
   },
   {
     "id": 1592792,
@@ -59,8 +23,8 @@
     "matchTime": "01:45",
     "homeTeam": "Club Tijuana U21",
     "awayTeam": "Club Leon U21",
-    "prediction": "Club Leon U21 Win",
-    "odds": "1.76"
+    "prediction": "Club Tijuana U21 Win",
+    "odds": "1.99"
   },
   {
     "id": 1493615,
@@ -69,6 +33,42 @@
     "homeTeam": "Brooklyn",
     "awayTeam": "Birmingham Legion",
     "prediction": "Brooklyn Win",
-    "odds": "1.69"
+    "odds": "1.41"
+  },
+  {
+    "id": 1493618,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Lexington",
+    "awayTeam": "Phoenix Rising",
+    "prediction": "Lexington Win",
+    "odds": "1.7"
+  },
+  {
+    "id": 1493619,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Loudoun United",
+    "awayTeam": "Charleston Battery",
+    "prediction": "Loudoun United Win & Over 1.5",
+    "odds": "2.99"
+  },
+  {
+    "id": 1493621,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Miami FC",
+    "awayTeam": "Las Vegas Lights",
+    "prediction": "Las Vegas Lights Win",
+    "odds": "2.63"
+  },
+  {
+    "id": 1493624,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Pittsburgh Riverhounds",
+    "awayTeam": "Sacramento Republic",
+    "prediction": "Pittsburgh Riverhounds Win & Over 1.5",
+    "odds": "2.09"
   }
 ]
