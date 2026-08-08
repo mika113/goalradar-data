@@ -1,48 +1,12 @@
 [
   {
-    "id": 1600559,
-    "league": "Primera Division (El-Salvador)",
-    "matchTime": "00:00",
-    "homeTeam": "Platense",
-    "awayTeam": "Inca Aruba",
-    "prediction": "Platense Win",
-    "odds": "1.35"
-  },
-  {
-    "id": 1563078,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "00:15",
-    "homeTeam": "The Strongest",
-    "awayTeam": "Independiente Petrolero",
-    "prediction": "The Strongest Win",
-    "odds": "1.62"
-  },
-  {
-    "id": 1549718,
-    "league": "Primera A (Colombia)",
-    "matchTime": "00:20",
-    "homeTeam": "Fortaleza FC",
-    "awayTeam": "Cucuta",
-    "prediction": "Fortaleza FC Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1505484,
-    "league": "Primera División (Chile)",
-    "matchTime": "00:30",
-    "homeTeam": "Coquimbo Unido",
-    "awayTeam": "D. La Serena",
-    "prediction": "Coquimbo Unido Win",
-    "odds": "1.35"
-  },
-  {
     "id": 1511634,
     "league": "Primera B (Chile)",
     "matchTime": "00:30",
     "homeTeam": "Cobreloa",
     "awayTeam": "Deportes Iquique",
     "prediction": "Both Teams To Score",
-    "odds": "1.86"
+    "odds": "1.85"
   },
   {
     "id": 1519440,
@@ -50,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "Aucas",
     "awayTeam": "Leones del Norte",
-    "prediction": "Aucas Win",
-    "odds": "1.96"
+    "prediction": "Aucas Win & Over 1.5",
+    "odds": "2.3"
   },
   {
     "id": 1520802,
@@ -59,8 +23,8 @@
     "matchTime": "00:30",
     "homeTeam": "Botafogo SP",
     "awayTeam": "America Mineiro",
-    "prediction": "Botafogo SP Win",
-    "odds": "1.4"
+    "prediction": "America Mineiro Win",
+    "odds": "1.75"
   },
   {
     "id": 1603435,
@@ -68,7 +32,43 @@
     "matchTime": "00:30",
     "homeTeam": "Goiatuba EC",
     "awayTeam": "ASA",
-    "prediction": "Goiatuba EC Win",
-    "odds": "1.83"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.19"
+  },
+  {
+    "id": 1610932,
+    "league": "Division Profesional - Clausura (Paraguay)",
+    "matchTime": "00:30",
+    "homeTeam": "2 de Mayo",
+    "awayTeam": "Olimpia",
+    "prediction": "Double Chance 1X",
+    "odds": "1.43"
+  },
+  {
+    "id": 1611274,
+    "league": "Primera División (Uruguay)",
+    "matchTime": "00:30",
+    "homeTeam": "Atletico Torque",
+    "awayTeam": "Penarol",
+    "prediction": "Atletico Torque Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1513269,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Columbus Crew II",
+    "awayTeam": "New York RB II",
+    "prediction": "Columbus Crew II Win",
+    "odds": "1.4"
+  },
+  {
+    "id": 1546099,
+    "league": "Copa Paulista (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "São José EC",
+    "awayTeam": "Santo André",
+    "prediction": "São José EC Win",
+    "odds": "1.73"
   }
 ]
