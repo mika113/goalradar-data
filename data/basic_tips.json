@@ -1,21 +1,12 @@
 [
   {
-    "id": 1492328,
-    "league": "Serie A (Brazil)",
-    "matchTime": "00:30",
-    "homeTeam": "Remo",
-    "awayTeam": "Atletico-MG",
-    "prediction": "Atletico-MG Win",
-    "odds": "3.43"
-  },
-  {
     "id": 1492323,
     "league": "Serie A (Brazil)",
     "matchTime": "02:30",
     "homeTeam": "Coritiba",
     "awayTeam": "Chapecoense-sc",
-    "prediction": "Chapecoense-sc Win",
-    "odds": "1.83"
+    "prediction": "Coritiba Win",
+    "odds": "2.0"
   },
   {
     "id": 1492321,
@@ -23,34 +14,43 @@
     "matchTime": "03:00",
     "homeTeam": "Botafogo",
     "awayTeam": "Fluminense",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.61"
+    "prediction": "Botafogo Win",
+    "odds": "1.47"
   },
   {
-    "id": 1563078,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "00:15",
-    "homeTeam": "The Strongest",
-    "awayTeam": "Independiente Petrolero",
+    "id": 1513269,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "01:00",
+    "homeTeam": "Columbus Crew II",
+    "awayTeam": "New York RB II",
+    "prediction": "Columbus Crew II Win",
+    "odds": "1.47"
+  },
+  {
+    "id": 1546099,
+    "league": "Copa Paulista (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "São José EC",
+    "awayTeam": "Santo André",
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
+  },
+  {
+    "id": 1586096,
+    "league": "Primera Division (Nicaragua)",
+    "matchTime": "01:00",
+    "homeTeam": "Jalapa",
+    "awayTeam": "H&H Export",
+    "prediction": "Both Teams To Score",
+    "odds": "1.67"
+  },
+  {
+    "id": 1603310,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "01:00",
+    "homeTeam": "América W",
+    "awayTeam": "Cruz Azul W",
     "prediction": "Double Chance 1X",
-    "odds": "1.46"
-  },
-  {
-    "id": 1549718,
-    "league": "Primera A (Colombia)",
-    "matchTime": "00:20",
-    "homeTeam": "Fortaleza FC",
-    "awayTeam": "Cucuta",
-    "prediction": "Cucuta Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1505484,
-    "league": "Primera División (Chile)",
-    "matchTime": "00:30",
-    "homeTeam": "Coquimbo Unido",
-    "awayTeam": "D. La Serena",
-    "prediction": "Coquimbo Unido Win",
-    "odds": "1.62"
+    "odds": "1.43"
   }
 ]
