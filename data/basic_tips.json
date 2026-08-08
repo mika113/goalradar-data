@@ -1,39 +1,12 @@
 [
   {
-    "id": 1575451,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "17:30",
-    "homeTeam": "Maritimo",
-    "awayTeam": "Casa Pia",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
-  },
-  {
-    "id": 1611326,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "Abdish-Ata",
-    "awayTeam": "Kara-Balta",
-    "prediction": "Kara-Balta Win",
-    "odds": "2.36"
-  },
-  {
-    "id": 1611327,
-    "league": "Premier League (Kyrgyzstan)",
-    "matchTime": "17:30",
-    "homeTeam": "OshMU Aldier",
-    "awayTeam": "Alay",
-    "prediction": "Both Teams To Score",
-    "odds": "1.83"
-  },
-  {
     "id": 1528056,
     "league": "Premier League (Kazakhstan)",
     "matchTime": "18:00",
     "homeTeam": "Kaspiy",
     "awayTeam": "Ulytau",
-    "prediction": "Both Teams To Score",
-    "odds": "2.01"
+    "prediction": "Ulytau Win",
+    "odds": "2.06"
   },
   {
     "id": 1561351,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Lokomotiv",
     "awayTeam": "Akron",
-    "prediction": "Lokomotiv Win",
-    "odds": "1.47"
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
   },
   {
     "id": 1561901,
@@ -50,7 +23,34 @@
     "matchTime": "18:00",
     "homeTeam": "Grazer AK",
     "awayTeam": "Austria Lustenau",
-    "prediction": "Both Teams To Score",
+    "prediction": "Grazer AK Win",
     "odds": "1.75"
+  },
+  {
+    "id": 1565441,
+    "league": "Premier League (Ukraine)",
+    "matchTime": "18:00",
+    "homeTeam": "Bukovyna",
+    "awayTeam": "Obolon'-Brovar",
+    "prediction": "Obolon'-Brovar Win",
+    "odds": "3.27"
+  },
+  {
+    "id": 1581496,
+    "league": "Premier League (Armenia)",
+    "matchTime": "18:00",
+    "homeTeam": "Gandzasar",
+    "awayTeam": "Syunik",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
+  },
+  {
+    "id": 1497653,
+    "league": "Superettan (Sweden)",
+    "matchTime": "18:00",
+    "homeTeam": "IFK Norrkoping",
+    "awayTeam": "IK brage",
+    "prediction": "Both Teams To Score",
+    "odds": "2.06"
   }
 ]
