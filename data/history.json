@@ -1,14 +1,74 @@
 [
   {
+    "id": 1493055,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Independ. Rivadavia",
+    "awayTeam": "Estudiantes de Rio Cuarto",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1549585,
+    "league": "Primera B (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Quindio",
+    "awayTeam": "Internacional Palmira",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511633,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Deportes Santa Cruz",
+    "awayTeam": "D. Puerto Montt",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1505488,
+    "league": "Primera División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "U. Catolica",
+    "awayTeam": "Cobresal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1611915,
     "league": "CAC Games (World)",
     "matchDate": "FT",
     "homeTeam": "Mexico U21",
     "awayTeam": "Venezuela U21",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Venezuela U21 Win",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530126,
+    "league": "Leagues Cup (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Cincinnati",
+    "awayTeam": "U.N.A.M. - Pumas",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -24,15 +84,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1508495,
+    "league": "NWSL Women (USA)",
+    "matchDate": "FT",
+    "homeTeam": "NJ/NY Gotham FC W",
+    "awayTeam": "San Diego Wave W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1606369,
     "league": "Torneo Federal A (Argentina)",
     "matchDate": "FT",
     "homeTeam": "Sportivo Belgrano",
     "awayTeam": "9 de Julio Rafaela",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "9 de Julio Rafaela Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Real Tomayapo",
     "awayTeam": "Real Oruro",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Real Oruro Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Columbus Crew",
     "awayTeam": "CF Pachuca",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Columbus Crew Win",
@@ -69,78 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520803,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ceara",
-    "awayTeam": "Ponte Preta",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Ceara Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1517321,
-    "league": "Canadian Premier League (Canada)",
-    "matchDate": "FT",
-    "homeTeam": "Forge",
-    "awayTeam": "Vancouver FC",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vancouver FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513273,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Inter Miami II",
-    "awayTeam": "Crown Legacy",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Crown Legacy Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508498,
-    "league": "NWSL Women (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Orlando Pride W",
-    "awayTeam": "Racing Louisville W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Racing Louisville W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498717,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Midland",
-    "awayTeam": "Deportivo Maipu",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Midland Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1520808,
-    "league": "Serie B (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Operario-PR",
-    "awayTeam": "São Bernardo",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
