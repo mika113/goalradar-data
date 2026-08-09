@@ -1,39 +1,12 @@
 [
   {
-    "id": 1492324,
-    "league": "Serie A (Brazil)",
-    "matchTime": "17:00",
-    "homeTeam": "Cruzeiro",
-    "awayTeam": "Mirassol",
-    "prediction": "Cruzeiro Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1528058,
-    "league": "Premier League (Kazakhstan)",
-    "matchTime": "17:00",
-    "homeTeam": "Yelimay Semey",
-    "awayTeam": "Irtysh",
-    "prediction": "Irtysh Win",
-    "odds": "2.35"
-  },
-  {
-    "id": 1561354,
-    "league": "Premier League (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Zenit",
-    "awayTeam": "Rodina Moskva",
-    "prediction": "Rodina Moskva Win",
-    "odds": "1.93"
-  },
-  {
     "id": 1528052,
     "league": "Premier League (Kazakhstan)",
     "matchTime": "18:00",
     "homeTeam": "Atyrau",
     "awayTeam": "Aktobe",
     "prediction": "Atyrau Win",
-    "odds": "1.45"
+    "odds": "1.86"
   },
   {
     "id": 1528057,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "FK Tobol Kostanay",
     "awayTeam": "Kaisar",
-    "prediction": "Double Chance 1X",
-    "odds": "1.59"
+    "prediction": "Kaisar Win",
+    "odds": "2.22"
   },
   {
     "id": 1561903,
@@ -51,6 +24,33 @@
     "homeTeam": "Ried",
     "awayTeam": "Rapid Vienna",
     "prediction": "Ried Win",
-    "odds": "1.38"
+    "odds": "1.34"
+  },
+  {
+    "id": 1561904,
+    "league": "Bundesliga (Austria)",
+    "matchTime": "18:00",
+    "homeTeam": "Wolfsberger AC",
+    "awayTeam": "Red Bull Salzburg",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1565448,
+    "league": "Premier League (Ukraine)",
+    "matchTime": "18:00",
+    "homeTeam": "Veres Rivne",
+    "awayTeam": "Dynamo Kyiv",
+    "prediction": "Veres Rivne Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1581495,
+    "league": "Premier League (Armenia)",
+    "matchTime": "18:00",
+    "homeTeam": "Shirak",
+    "awayTeam": "FC Noah",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.08"
   }
 ]
