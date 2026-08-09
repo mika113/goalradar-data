@@ -1,5 +1,89 @@
 [
   {
+    "id": 1597731,
+    "league": "Liga 3 (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Leça",
+    "awayTeam": "São João Ver",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1582765,
+    "league": "Premijer Liga (Bosnia)",
+    "matchDate": "FT",
+    "homeTeam": "Borac Banja Luka",
+    "awayTeam": "Velež",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Borac Banja Luka Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558588,
+    "league": "Jupiler Pro League (Belgium)",
+    "matchDate": "FT",
+    "homeTeam": "Anderlecht",
+    "awayTeam": "RAAL La Louvière",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1548506,
+    "league": "HNL (Croatia)",
+    "matchDate": "FT",
+    "homeTeam": "NK Slaven Belupo",
+    "awayTeam": "NK Varazdin",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1511635,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Deportes Copiapo",
+    "awayTeam": "San Luis",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1505485,
+    "league": "Primera División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Concepción",
+    "awayTeam": "Universidad de Concepcion",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618910,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Pro Patria",
+    "awayTeam": "Imperia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Pro Patria Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1618909,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -21,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1612453,
@@ -30,9 +114,9 @@
     "homeTeam": "Miramar",
     "awayTeam": "Tacuarembo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tacuarembo Win",
     "outcome": "Won"
   },
   {
@@ -54,93 +138,9 @@
     "homeTeam": "Trofense",
     "awayTeam": "Varzim",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1595454,
-    "league": "Segunda División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Ayacucho FC",
-    "awayTeam": "Estudiantil CNI",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589450,
-    "league": "National Division (Luxembourg)",
-    "matchDate": "FT",
-    "homeTeam": "Swift Hesperange",
-    "awayTeam": "Wiltz",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589325,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Thes Sport",
-    "awayTeam": "K. Lierse S.K.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1585695,
-    "league": "1. Lig (Turkey)",
-    "matchDate": "FT",
-    "homeTeam": "Sarıyer",
-    "awayTeam": "Muğlaspor",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1585693,
-    "league": "1. Lig (Turkey)",
-    "matchDate": "FT",
-    "homeTeam": "Iğdır FK",
-    "awayTeam": "Fatih Karagümrük",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577475,
-    "league": "First League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Veles",
-    "awayTeam": "Leningradets",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551070,
-    "league": "First League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Cherno More Varna",
-    "awayTeam": "Ludogorets",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Varzim Win",
     "outcome": "Won"
   }
 ]
