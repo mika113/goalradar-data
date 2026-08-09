@@ -1,21 +1,12 @@
 [
   {
-    "id": 1561352,
-    "league": "Premier League (Russia)",
-    "matchTime": "20:30",
-    "homeTeam": "Rubin",
-    "awayTeam": "FC Orenburg",
-    "prediction": "Rubin Win",
-    "odds": "1.68"
-  },
-  {
     "id": 1492320,
     "league": "Serie A (Brazil)",
     "matchTime": "22:00",
     "homeTeam": "Bahia",
     "awayTeam": "Vasco DA Gama",
-    "prediction": "Bahia Win",
-    "odds": "1.97"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
   },
   {
     "id": 1492327,
@@ -23,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Palmeiras",
     "awayTeam": "Internacional",
-    "prediction": "Palmeiras Win",
-    "odds": "1.89"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1575446,
@@ -33,7 +24,7 @@
     "homeTeam": "Benfica",
     "awayTeam": "Academico Viseu",
     "prediction": "Benfica Win",
-    "odds": "1.33"
+    "odds": "1.95"
   },
   {
     "id": 1575450,
@@ -41,8 +32,8 @@
     "matchTime": "22:30",
     "homeTeam": "GIL Vicente",
     "awayTeam": "Rio Ave",
-    "prediction": "GIL Vicente Win",
-    "odds": "1.98"
+    "prediction": "Both Teams To Score",
+    "odds": "2.17"
   },
   {
     "id": 1575452,
@@ -50,7 +41,16 @@
     "matchTime": "22:30",
     "homeTeam": "Moreirense",
     "awayTeam": "SC Braga",
-    "prediction": "Moreirense Win",
-    "odds": "1.53"
+    "prediction": "SC Braga Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1493058,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "21:00",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Huracan",
+    "prediction": "San Lorenzo Win",
+    "odds": "1.91"
   }
 ]
