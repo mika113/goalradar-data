@@ -1,14 +1,26 @@
 [
   {
+    "id": 1612524,
+    "league": "Primera División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Zamora FC",
+    "awayTeam": "Puerto Cabello",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1612522,
     "league": "Primera División (Venezuela)",
     "matchDate": "FT",
     "homeTeam": "Anzoátegui FC",
     "awayTeam": "Portuguesa FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Anzoátegui FC Win",
+    "prediction": "Over 2.5 Goals",
     "outcome": "Lost"
   },
   {
@@ -42,9 +54,9 @@
     "homeTeam": "Club Atletico Barinas",
     "awayTeam": "Zamora FC B",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Club Atletico Barinas Win",
+    "prediction": "Zamora FC B Win",
     "outcome": "Won"
   },
   {
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Godoy Cruz",
     "awayTeam": "Chaco For Ever",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Chaco For Ever Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1612454,
-    "league": "Segunda División (Uruguay)",
-    "matchDate": "FT",
-    "homeTeam": "Oriental",
-    "awayTeam": "Atenas",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Godoy Cruz Win",
     "outcome": "Won"
   }
 ]
