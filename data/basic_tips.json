@@ -1,30 +1,12 @@
 [
   {
-    "id": 1492320,
-    "league": "Serie A (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Bahia",
-    "awayTeam": "Vasco DA Gama",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
-  },
-  {
-    "id": 1492327,
-    "league": "Serie A (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Palmeiras",
-    "awayTeam": "Internacional",
-    "prediction": "Double Chance 1X",
-    "odds": "1.58"
-  },
-  {
     "id": 1575446,
     "league": "Primeira Liga (Portugal)",
     "matchTime": "22:30",
     "homeTeam": "Benfica",
     "awayTeam": "Academico Viseu",
-    "prediction": "Academico Viseu Win",
-    "odds": "2.87"
+    "prediction": "Benfica Win",
+    "odds": "1.58"
   },
   {
     "id": 1575450,
@@ -33,7 +15,7 @@
     "homeTeam": "GIL Vicente",
     "awayTeam": "Rio Ave",
     "prediction": "GIL Vicente Win",
-    "odds": "1.79"
+    "odds": "1.66"
   },
   {
     "id": 1575452,
@@ -41,8 +23,8 @@
     "matchTime": "22:30",
     "homeTeam": "Moreirense",
     "awayTeam": "SC Braga",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Moreirense Win",
+    "odds": "1.78"
   },
   {
     "id": 1492322,
@@ -50,7 +32,25 @@
     "matchTime": "00:30",
     "homeTeam": "RB Bragantino",
     "awayTeam": "Corinthians",
-    "prediction": "Corinthians Win",
-    "odds": "2.56"
+    "prediction": "RB Bragantino Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1492329,
+    "league": "Serie A (Brazil)",
+    "matchTime": "00:30",
+    "homeTeam": "Santos",
+    "awayTeam": "Atletico Paranaense",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1492325,
+    "league": "Serie A (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Flamengo",
+    "awayTeam": "Vitoria",
+    "prediction": "Flamengo Win",
+    "odds": "1.52"
   }
 ]
