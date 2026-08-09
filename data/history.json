@@ -1,5 +1,17 @@
 [
   {
+    "id": 1589451,
+    "league": "National Division (Luxembourg)",
+    "matchDate": "FT",
+    "homeTeam": "AS Jeunesse Esch",
+    "awayTeam": "Atert Bissen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1597731,
     "league": "Liga 3 (Portugal)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1548506,
@@ -42,9 +54,9 @@
     "homeTeam": "NK Slaven Belupo",
     "awayTeam": "NK Varazdin",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NK Varazdin Win",
     "outcome": "Won"
   },
   {
@@ -54,10 +66,10 @@
     "homeTeam": "Deportes Copiapo",
     "awayTeam": "San Luis",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "San Luis Win",
+    "outcome": "Won"
   },
   {
     "id": 1505485,
@@ -69,78 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1618910,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Pro Patria",
-    "awayTeam": "Imperia",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Pro Patria Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1618909,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Pergolettese",
-    "awayTeam": "Inter U23",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1618908,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "CS Sfaxien",
-    "awayTeam": "San-Pédro",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612453,
-    "league": "Segunda División (Uruguay)",
-    "matchDate": "FT",
-    "homeTeam": "Miramar",
-    "awayTeam": "Tacuarembo",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Tacuarembo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610953,
-    "league": "8 Cup (South-Africa)",
-    "matchDate": "FT",
-    "homeTeam": "Kaizer Chiefs",
-    "awayTeam": "Golden Arrows",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1597737,
-    "league": "Liga 3 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Trofense",
-    "awayTeam": "Varzim",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Varzim Win",
     "outcome": "Won"
   }
 ]
