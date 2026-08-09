@@ -12,6 +12,54 @@
     "outcome": "Lost"
   },
   {
+    "id": 1612523,
+    "league": "Primera División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Trujillanos FC",
+    "awayTeam": "Deportivo Tachira FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1600702,
+    "league": "Segunda División (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "Colchagua",
+    "awayTeam": "Santiago City",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525759,
+    "league": "Liga Femenina (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "La Equidad W",
+    "awayTeam": "Real Santander W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1525757,
+    "league": "Liga Femenina (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Cali W",
+    "awayTeam": "Millonarios W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1612522,
     "league": "Primera División (Venezuela)",
     "matchDate": "FT",
@@ -20,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1612519,
@@ -33,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1612518,
@@ -93,54 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575450,
-    "league": "Primeira Liga (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "GIL Vicente",
-    "awayTeam": "Rio Ave",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575446,
-    "league": "Primeira Liga (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Benfica",
-    "awayTeam": "Academico Viseu",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Benfica Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530133,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Seattle Sounders",
-    "awayTeam": "Club Queretaro",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Seattle Sounders Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1498715,
-    "league": "Primera Nacional (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Godoy Cruz",
-    "awayTeam": "Chaco For Ever",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Godoy Cruz Win",
     "outcome": "Won"
   }
 ]
