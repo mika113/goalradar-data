@@ -1,66 +1,12 @@
 [
   {
-    "id": 1557948,
-    "league": "Toto Cup Ligat Al (Israel)",
-    "matchTime": "20:00",
-    "homeTeam": "Hapoel Katamon",
-    "awayTeam": "Hapoel Petah Tikva",
-    "prediction": "Hapoel Katamon Win",
-    "odds": "1.81"
-  },
-  {
-    "id": 1557949,
-    "league": "Toto Cup Ligat Al (Israel)",
-    "matchTime": "20:00",
-    "homeTeam": "Maccabi Petah Tikva",
-    "awayTeam": "Hapoel Ramat Gan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
-  },
-  {
-    "id": 1571504,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "20:00",
-    "homeTeam": "Lokomotiv G. Oryahovitsa",
-    "awayTeam": "Fratria",
-    "prediction": "Lokomotiv G. Oryahovitsa Win & Over 1.5",
-    "odds": "2.9"
-  },
-  {
-    "id": 1589451,
-    "league": "National Division (Luxembourg)",
-    "matchTime": "20:00",
-    "homeTeam": "AS Jeunesse Esch",
-    "awayTeam": "Atert Bissen",
-    "prediction": "AS Jeunesse Esch Win",
-    "odds": "1.49"
-  },
-  {
-    "id": 1595203,
-    "league": "Super Liga (Moldova)",
-    "matchTime": "20:00",
-    "homeTeam": "Sheriff Tiraspol",
-    "awayTeam": "Dacia-Buiucani",
-    "prediction": "Sheriff Tiraspol Win",
-    "odds": "1.6"
-  },
-  {
-    "id": 1595204,
-    "league": "Super Liga (Moldova)",
-    "matchTime": "20:00",
-    "homeTeam": "Zimbru",
-    "awayTeam": "Petrocub",
-    "prediction": "Zimbru Win",
-    "odds": "1.7"
-  },
-  {
     "id": 1601396,
     "league": "Liga de Ascenso (Costa-Rica)",
     "matchTime": "20:00",
     "homeTeam": "AD Carmelita",
     "awayTeam": "Santa Ana",
-    "prediction": "Santa Ana Win",
-    "odds": "3.02"
+    "prediction": "AD Carmelita Win",
+    "odds": "1.92"
   },
   {
     "id": 1601400,
@@ -68,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Santa Cruz FC",
     "awayTeam": "AD Cofutpa",
-    "prediction": "Double Chance X2",
-    "odds": "1.58"
+    "prediction": "AD Cofutpa Win",
+    "odds": "2.51"
   },
   {
     "id": 1611928,
@@ -77,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Cameroon W",
     "awayTeam": "Nigeria W",
-    "prediction": "Cameroon W Win & Over 1.5",
-    "odds": "1.88"
+    "prediction": "Cameroon W Win",
+    "odds": "1.55"
   },
   {
     "id": 1494726,
@@ -86,8 +32,8 @@
     "matchTime": "20:15",
     "homeTeam": "Kristiansund BK",
     "awayTeam": "Molde",
-    "prediction": "Molde Win",
-    "odds": "1.77"
+    "prediction": "Both Teams To Score",
+    "odds": "1.94"
   },
   {
     "id": 1558589,
@@ -95,8 +41,8 @@
     "matchTime": "20:15",
     "homeTeam": "Antwerp",
     "awayTeam": "SK Beveren",
-    "prediction": "Antwerp Win",
-    "odds": "1.52"
+    "prediction": "Both Teams To Score",
+    "odds": "1.88"
   },
   {
     "id": 1498716,
@@ -105,6 +51,60 @@
     "homeTeam": "Los Andes",
     "awayTeam": "Ferro Carril Oeste",
     "prediction": "Los Andes Win",
-    "odds": "1.96"
+    "odds": "1.97"
+  },
+  {
+    "id": 1561612,
+    "league": "II Liga - East (Poland)",
+    "matchTime": "20:30",
+    "homeTeam": "Tychy 71",
+    "awayTeam": "Olimpia Grudziądz",
+    "prediction": "Tychy 71 Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1583945,
+    "league": "3. Liga (Germany)",
+    "matchTime": "20:30",
+    "homeTeam": "Alemannia Aachen",
+    "awayTeam": "Verl",
+    "prediction": "Alemannia Aachen Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1598598,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "20:30",
+    "homeTeam": "Belasica",
+    "awayTeam": "FK Rabotnicki",
+    "prediction": "FK Rabotnicki Win",
+    "odds": "3.32"
+  },
+  {
+    "id": 1564790,
+    "league": "Coppa Italia (Italy)",
+    "matchTime": "20:45",
+    "homeTeam": "Arezzo",
+    "awayTeam": "Union Brescia",
+    "prediction": "Double Chance 1X",
+    "odds": "1.29"
+  },
+  {
+    "id": 1493058,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "21:00",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Huracan",
+    "prediction": "Huracan Win",
+    "odds": "3.29"
+  },
+  {
+    "id": 1498710,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Colegiales",
+    "awayTeam": "Patronato",
+    "prediction": "Patronato Win",
+    "odds": "3.39"
   }
 ]
