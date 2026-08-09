@@ -42,10 +42,10 @@
     "homeTeam": "FBC Melgar",
     "awayTeam": "FC Cajamarca",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "FBC Melgar Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1498714,
@@ -66,9 +66,9 @@
     "homeTeam": "Breidablik",
     "awayTeam": "Valur Reykjavik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Valur Reykjavik Win",
     "outcome": "Won"
   },
   {
@@ -82,65 +82,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1612523,
-    "league": "Primera División (Venezuela)",
-    "matchDate": "FT",
-    "homeTeam": "Trujillanos FC",
-    "awayTeam": "Deportivo Tachira FC",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Trujillanos FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1600702,
-    "league": "Segunda División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "Colchagua",
-    "awayTeam": "Santiago City",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525759,
-    "league": "Liga Femenina (Colombia)",
-    "matchDate": "FT",
-    "homeTeam": "La Equidad W",
-    "awayTeam": "Real Santander W",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "La Equidad W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525757,
-    "league": "Liga Femenina (Colombia)",
-    "matchDate": "FT",
-    "homeTeam": "Deportivo Cali W",
-    "awayTeam": "Millonarios W",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Millonarios W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513271,
-    "league": "MLS Next Pro (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Connecticut FC",
-    "awayTeam": "New England II",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Connecticut FC Win",
-    "outcome": "Lost"
   }
 ]
