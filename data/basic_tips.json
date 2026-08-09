@@ -1,39 +1,12 @@
 [
   {
-    "id": 1575446,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "22:30",
-    "homeTeam": "Benfica",
-    "awayTeam": "Academico Viseu",
-    "prediction": "Benfica Win",
-    "odds": "1.91"
-  },
-  {
-    "id": 1575450,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "22:30",
-    "homeTeam": "GIL Vicente",
-    "awayTeam": "Rio Ave",
-    "prediction": "Both Teams To Score",
-    "odds": "1.78"
-  },
-  {
-    "id": 1575452,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "22:30",
-    "homeTeam": "Moreirense",
-    "awayTeam": "SC Braga",
-    "prediction": "Both Teams To Score",
-    "odds": "1.62"
-  },
-  {
     "id": 1492322,
     "league": "Serie A (Brazil)",
     "matchTime": "00:30",
     "homeTeam": "RB Bragantino",
     "awayTeam": "Corinthians",
     "prediction": "RB Bragantino Win",
-    "odds": "1.35"
+    "odds": "1.98"
   },
   {
     "id": 1492329,
@@ -41,8 +14,8 @@
     "matchTime": "00:30",
     "homeTeam": "Santos",
     "awayTeam": "Atletico Paranaense",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1492325,
@@ -50,7 +23,34 @@
     "matchTime": "01:30",
     "homeTeam": "Flamengo",
     "awayTeam": "Vitoria",
-    "prediction": "Double Chance X2",
-    "odds": "1.54"
+    "prediction": "Flamengo Win",
+    "odds": "1.52"
+  },
+  {
+    "id": 1565447,
+    "league": "Premier League (Ukraine)",
+    "matchTime": "15:30",
+    "homeTeam": "Polessya",
+    "awayTeam": "FC Kharkiv",
+    "prediction": "Polessya Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1498718,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "23:00",
+    "homeTeam": "Quilmes",
+    "awayTeam": "Almagro",
+    "prediction": "Quilmes Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1508500,
+    "league": "NWSL Women (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Boston Legacy W",
+    "awayTeam": "Portland Thorns W",
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   }
 ]
