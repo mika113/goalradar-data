@@ -1,84 +1,12 @@
 [
   {
-    "id": 1498710,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Colegiales",
-    "awayTeam": "Patronato",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
-  },
-  {
-    "id": 1498712,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Deportivo Moron",
-    "awayTeam": "Acassuso",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1499568,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Dock Sud",
-    "awayTeam": "San Martín Burzaco",
-    "prediction": "Dock Sud Win",
-    "odds": "1.76"
-  },
-  {
-    "id": 1499571,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Deportivo Laferrere",
-    "awayTeam": "Arsenal Sarandi",
-    "prediction": "Arsenal Sarandi Win",
-    "odds": "2.75"
-  },
-  {
-    "id": 1500033,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Atletico Atlas",
-    "awayTeam": "Canuelas",
-    "prediction": "Both Teams To Score",
-    "odds": "1.88"
-  },
-  {
-    "id": 1500035,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Lujan",
-    "awayTeam": "Central Cordoba",
-    "prediction": "Lujan Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1500041,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Juventud Unida",
-    "awayTeam": "Puerto Nuevo",
-    "prediction": "Puerto Nuevo Win",
-    "odds": "2.4"
-  },
-  {
-    "id": 1500042,
-    "league": "Primera C (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Lugano",
-    "awayTeam": "Victoriano Arenas",
-    "prediction": "Lugano Win",
-    "odds": "1.41"
-  },
-  {
     "id": 1508826,
     "league": "Úrvalsdeild (Iceland)",
     "matchTime": "21:00",
     "homeTeam": "IA Akranes",
     "awayTeam": "Thor Akureyri",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "IA Akranes Win",
+    "odds": "1.44"
   },
   {
     "id": 1508828,
@@ -86,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Stjarnan",
     "awayTeam": "Keflavik",
-    "prediction": "Stjarnan Win",
-    "odds": "1.53"
+    "prediction": "Keflavik Win",
+    "odds": "1.79"
   },
   {
     "id": 1508829,
@@ -95,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Vikingur Reykjavik",
     "awayTeam": "IBV Vestmannaeyjar",
-    "prediction": "Double Chance 1X",
-    "odds": "1.24"
+    "prediction": "IBV Vestmannaeyjar Win",
+    "odds": "2.5"
   },
   {
     "id": 1522473,
@@ -104,7 +32,79 @@
     "matchTime": "21:00",
     "homeTeam": "Vitória BA W",
     "awayTeam": "Internacional RS W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
+    "prediction": "Internacional RS W Win",
+    "odds": "3.23"
+  },
+  {
+    "id": 1522474,
+    "league": "Brasileiro Women (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Juventude W",
+    "awayTeam": "Mixto W",
+    "prediction": "Mixto W Win",
+    "odds": "3.18"
+  },
+  {
+    "id": 1534076,
+    "league": "Northern Super League (Canada)",
+    "matchTime": "21:00",
+    "homeTeam": "Ottawa Rapid W",
+    "awayTeam": "AFC Toronto W",
+    "prediction": "AFC Toronto W Win",
+    "odds": "2.77"
+  },
+  {
+    "id": 1549440,
+    "league": "Primera División (Peru)",
+    "matchTime": "21:00",
+    "homeTeam": "Deportivo Garcilaso",
+    "awayTeam": "UCV Moquegua",
+    "prediction": "Deportivo Garcilaso Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1550004,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Alumni Los Hornos",
+    "awayTeam": "Barrancas UMET",
+    "prediction": "Alumni Los Hornos Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1550005,
+    "league": "Torneo Promocional Amateur (Argentina)",
+    "matchTime": "21:00",
+    "homeTeam": "Belgrano Zarate",
+    "awayTeam": "Control Orientado",
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
+  },
+  {
+    "id": 1553830,
+    "league": "Super Liga (Serbia)",
+    "matchTime": "21:00",
+    "homeTeam": "Macva",
+    "awayTeam": "IMT Novi Beograd",
+    "prediction": "Both Teams To Score",
+    "odds": "2.09"
+  },
+  {
+    "id": 1553835,
+    "league": "Super Liga (Serbia)",
+    "matchTime": "21:00",
+    "homeTeam": "Vojvodina",
+    "awayTeam": "Radnik Surdulica",
+    "prediction": "Vojvodina Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1554111,
+    "league": "Prva Liga (Serbia)",
+    "matchTime": "21:00",
+    "homeTeam": "TSC Backa Topola",
+    "awayTeam": "Javor",
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
   }
 ]
