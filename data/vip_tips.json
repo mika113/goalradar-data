@@ -1,30 +1,12 @@
 [
   {
-    "id": 1519446,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "00:30",
-    "homeTeam": "Libertad",
-    "awayTeam": "Universidad Catolica",
-    "prediction": "Libertad Win",
-    "odds": "1.33"
-  },
-  {
-    "id": 1610935,
-    "league": "Division Profesional - Clausura (Paraguay)",
-    "matchTime": "00:30",
-    "homeTeam": "Libertad Asuncion",
-    "awayTeam": "Sportivo Trinidense",
-    "prediction": "Libertad Asuncion Win",
-    "odds": "1.72"
-  },
-  {
     "id": 1493049,
     "league": "Liga Profesional Argentina",
     "matchTime": "01:00",
     "homeTeam": "Banfield",
     "awayTeam": "Belgrano Cordoba",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Banfield Win",
+    "odds": "1.96"
   },
   {
     "id": 1547421,
@@ -32,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Oeste U20",
     "awayTeam": "Botafogo SP U20",
-    "prediction": "Botafogo SP U20 Win",
-    "odds": "2.73"
+    "prediction": "Oeste U20 Win",
+    "odds": "1.84"
   },
   {
     "id": 1611278,
@@ -41,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Deportivo Maldonado",
     "awayTeam": "Racing Montevideo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Racing Montevideo Win",
+    "odds": "2.86"
   },
   {
     "id": 1612420,
@@ -50,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "General Caballero",
-    "prediction": "Double Chance 1X",
-    "odds": "1.6"
+    "prediction": "Atlético Tembetary Win",
+    "odds": "1.33"
   },
   {
     "id": 1520805,
@@ -59,8 +41,8 @@
     "matchTime": "01:30",
     "homeTeam": "Goias",
     "awayTeam": "Londrina",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.14"
+    "prediction": "Londrina Win",
+    "odds": "1.95"
   },
   {
     "id": 1546095,
@@ -68,7 +50,25 @@
     "matchTime": "01:30",
     "homeTeam": "Marília",
     "awayTeam": "Bandeirante SP",
-    "prediction": "Bandeirante SP Win",
-    "odds": "2.98"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.81"
+  },
+  {
+    "id": 1612527,
+    "league": "Primera División (Venezuela)",
+    "matchTime": "01:30",
+    "homeTeam": "Caracas FC",
+    "awayTeam": "Deportivo La Guaira",
+    "prediction": "Deportivo La Guaira Win",
+    "odds": "3.26"
+  },
+  {
+    "id": 1526905,
+    "league": "Serie C (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Anápolis",
+    "awayTeam": "Guarani Campinas",
+    "prediction": "Anápolis Win",
+    "odds": "1.86"
   }
 ]
