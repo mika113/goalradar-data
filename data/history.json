@@ -6,9 +6,9 @@
     "homeTeam": "Paysandu",
     "awayTeam": "Confiança",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Confiança Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Anápolis",
     "awayTeam": "Guarani Campinas",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Caracas FC",
     "awayTeam": "Deportivo La Guaira",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Deportivo La Guaira Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Atlético Tembetary",
     "awayTeam": "General Caballero",
-    "homeScore": 0,
-    "awayScore": 2,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "General Caballero Win",
     "outcome": "Won"
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Oeste U20",
     "awayTeam": "Botafogo SP U20",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "Banfield",
     "awayTeam": "Belgrano Cordoba",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Belgrano Cordoba Win",
     "outcome": "Won"
   },
   {
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Libertad Asuncion",
     "awayTeam": "Sportivo Trinidense",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Libertad Asuncion Win",
     "outcome": "Won"
   },
   {
@@ -114,7 +114,7 @@
     "homeTeam": "Libertad",
     "awayTeam": "Universidad Catolica",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Libertad Win",
     "outcome": "Won"
