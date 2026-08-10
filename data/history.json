@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Tacuary",
     "awayTeam": "Guairena FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tacuary Win",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1543450,
@@ -44,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vikingur Olafsiik Win",
-    "outcome": "Won"
+    "prediction": "Selfoss Win",
+    "outcome": "Lost"
   },
   {
     "id": 1508831,
@@ -54,7 +54,7 @@
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "KR Reykjavik",
     "homeScore": 2,
-    "awayScore": 4,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "KR Reykjavik Win",
     "outcome": "Won"
@@ -89,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Plymouth",
     "awayTeam": "Exeter City",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Plymouth Win",
     "outcome": "Won"
   },
   {
@@ -102,10 +102,10 @@
     "homeTeam": "Tecnico Universitario",
     "awayTeam": "Mushuc Runa SC",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Tecnico Universitario Win",
-    "outcome": "Lost"
+    "prediction": "Mushuc Runa SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1513267,
@@ -114,9 +114,9 @@
     "homeTeam": "Chicago Fire II",
     "awayTeam": "Toronto II",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Toronto II Win",
     "outcome": "Won"
   },
   {
@@ -140,7 +140,7 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
