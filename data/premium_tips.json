@@ -1,48 +1,12 @@
 [
   {
-    "id": 1571506,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "18:00",
-    "homeTeam": "Nesebar",
-    "awayTeam": "Dobrudzha",
-    "prediction": "Both Teams To Score",
-    "odds": "1.66"
-  },
-  {
-    "id": 1584364,
-    "league": "Liga Women (Peru)",
-    "matchTime": "18:00",
-    "homeTeam": "FBC Melgar W",
-    "awayTeam": "Defensores W",
-    "prediction": "FBC Melgar W Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1602971,
-    "league": "First League (Armenia)",
-    "matchTime": "18:00",
-    "homeTeam": "Banants II",
-    "awayTeam": "Noah II",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
-  },
-  {
-    "id": 1565210,
-    "league": "Liga I (Romania)",
-    "matchTime": "18:30",
-    "homeTeam": "FC Botosani",
-    "awayTeam": "Corvinul Hunedoara",
-    "prediction": "FC Botosani Win & Over 1.5",
-    "odds": "2.17"
-  },
-  {
     "id": 1618911,
     "league": "Friendlies Clubs (World)",
     "matchTime": "18:30",
     "homeTeam": "Panionios",
     "awayTeam": "Olympiakos Piraeus II",
-    "prediction": "Olympiakos Piraeus II Win",
-    "odds": "2.19"
+    "prediction": "Panionios Win",
+    "odds": "1.86"
   },
   {
     "id": 1547607,
@@ -51,7 +15,7 @@
     "homeTeam": "TransINVEST Vilnius",
     "awayTeam": "Panevėžys",
     "prediction": "TransINVEST Vilnius Win",
-    "odds": "1.86"
+    "odds": "1.62"
   },
   {
     "id": 1496842,
@@ -59,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Askøy",
     "awayTeam": "Sogndal II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.64"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1497024,
@@ -68,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Haugesund II",
     "awayTeam": "Viking II",
-    "prediction": "Haugesund II Win",
-    "odds": "1.48"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1497388,
@@ -78,7 +42,7 @@
     "homeTeam": "Drøbak / Frogn",
     "awayTeam": "Sandefjord II",
     "prediction": "Sandefjord II Win",
-    "odds": "3.41"
+    "odds": "2.86"
   },
   {
     "id": 1497390,
@@ -87,7 +51,7 @@
     "homeTeam": "Lyn II",
     "awayTeam": "Fram",
     "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "odds": "1.83"
   },
   {
     "id": 1519611,
@@ -95,8 +59,8 @@
     "matchTime": "19:00",
     "homeTeam": "Flora II",
     "awayTeam": "Nõmme Kalju II",
-    "prediction": "Flora II Win",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1521658,
@@ -105,6 +69,42 @@
     "homeTeam": "Luunja",
     "awayTeam": "Parnu JK Vaprus U21",
     "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "odds": "1.78"
+  },
+  {
+    "id": 1551069,
+    "league": "First League (Bulgaria)",
+    "matchTime": "19:00",
+    "homeTeam": "Botev Vratsa",
+    "awayTeam": "Slavia Sofia",
+    "prediction": "Botev Vratsa Win",
+    "odds": "1.46"
+  },
+  {
+    "id": 1556412,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "19:00",
+    "homeTeam": "Žalgiris II",
+    "awayTeam": "Kauno Žalgiris II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
+  },
+  {
+    "id": 1557988,
+    "league": "1. SNL (Slovenia)",
+    "matchTime": "19:00",
+    "homeTeam": "Mura",
+    "awayTeam": "Radomlje",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.09"
+  },
+  {
+    "id": 1600673,
+    "league": "Segunda División (Chile)",
+    "matchTime": "19:00",
+    "homeTeam": "Real San Joaquín",
+    "awayTeam": "Santiago Morning",
+    "prediction": "Santiago Morning Win",
+    "odds": "2.05"
   }
 ]
