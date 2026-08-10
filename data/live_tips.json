@@ -1,30 +1,12 @@
 [
   {
-    "id": 1583734,
-    "league": "Liga Panameña de Fútbol (Panama)",
-    "matchTime": "04:00",
-    "homeTeam": "Independiente de La Chorrera",
-    "awayTeam": "Deportivo Universitario",
-    "prediction": "Independiente de La Chorrera Win",
-    "odds": "1.75"
-  },
-  {
-    "id": 1601399,
-    "league": "Liga de Ascenso (Costa-Rica)",
-    "matchTime": "04:00",
-    "homeTeam": "Pitbulls Santa Barbara FC",
-    "awayTeam": "Guadalupe FC",
-    "prediction": "Guadalupe FC Win",
-    "odds": "3.22"
-  },
-  {
     "id": 1549721,
     "league": "Primera A (Colombia)",
     "matchTime": "04:05",
     "homeTeam": "Junior",
     "awayTeam": "Deportivo Pereira",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.17"
+    "prediction": "Deportivo Pereira Win",
+    "odds": "2.1"
   },
   {
     "id": 1603317,
@@ -32,8 +14,8 @@
     "matchTime": "04:06",
     "homeTeam": "León W",
     "awayTeam": "Tigres UANL W",
-    "prediction": "León W Win",
-    "odds": "1.51"
+    "prediction": "Double Chance X2",
+    "odds": "1.63"
   },
   {
     "id": 1582817,
@@ -41,8 +23,8 @@
     "matchTime": "06:00",
     "homeTeam": "Central Stallions",
     "awayTeam": "Tainan City",
-    "prediction": "Central Stallions Win",
-    "odds": "1.43"
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
   },
   {
     "id": 1553773,
@@ -50,8 +32,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ulaanbaatar",
     "awayTeam": "Hang Yuen",
-    "prediction": "Hang Yuen Win",
-    "odds": "2.94"
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
   },
   {
     "id": 1582813,
@@ -59,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Fortis",
     "awayTeam": "Muras United",
-    "prediction": "Muras United Win",
-    "odds": "2.67"
+    "prediction": "Fortis Win",
+    "odds": "1.34"
   },
   {
     "id": 1567326,
@@ -68,8 +50,8 @@
     "matchTime": "12:30",
     "homeTeam": "Adelaide United",
     "awayTeam": "Công An Nhân Dân",
-    "prediction": "Adelaide United Win & Over 1.5",
-    "odds": "1.97"
+    "prediction": "Both Teams To Score",
+    "odds": "2.11"
   },
   {
     "id": 1607633,
@@ -77,8 +59,8 @@
     "matchTime": "12:30",
     "homeTeam": "Lions",
     "awayTeam": "Melbourne City",
-    "prediction": "Double Chance X2",
-    "odds": "1.53"
+    "prediction": "Lions Win",
+    "odds": "1.59"
   },
   {
     "id": 1607635,
@@ -88,5 +70,23 @@
     "awayTeam": "Macarthur",
     "prediction": "SD Raiders Win",
     "odds": "1.81"
+  },
+  {
+    "id": 1533725,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Hwacheon KSPO W",
+    "awayTeam": "Incheon Red Angels W",
+    "prediction": "Incheon Red Angels W Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1542351,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Palermo",
+    "prediction": "Palermo Win",
+    "odds": "1.89"
   }
 ]
