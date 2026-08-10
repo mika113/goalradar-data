@@ -12,6 +12,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1565445,
+    "league": "Premier League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Karpaty",
+    "awayTeam": "LNZ Cherkasy",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1561089,
     "league": "2. liga (Slovakia)",
     "matchDate": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1534398,
@@ -92,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Gomel II Win",
-    "outcome": "Lost"
+    "prediction": "Shakhter Soligorsk Win",
+    "outcome": "Won"
   },
   {
     "id": 1531077,
@@ -117,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1497208,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Kongsvinger II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531078,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Respublika FA",
-    "awayTeam": "Aral",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
