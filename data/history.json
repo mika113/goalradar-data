@@ -1,5 +1,41 @@
 [
   {
+    "id": 1534540,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Gomel II",
+    "awayTeam": "Shakhter Soligorsk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1531077,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Metalourg",
+    "awayTeam": "Yaypan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1530986,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Olimpik-Mobiuz",
+    "awayTeam": "Shortan",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1497208,
     "league": "3. Division - Girone 5 (Norway)",
     "matchDate": "FT",
@@ -9,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1531078,
@@ -21,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1565447,
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "America de Cali Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586099,
-    "league": "Primera Division (Nicaragua)",
-    "matchDate": "FT",
-    "homeTeam": "Matagalpa",
-    "awayTeam": "Managua",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Managua Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530135,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Austin",
-    "awayTeam": "Puebla",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Austin Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1508502,
-    "league": "NWSL Women (USA)",
-    "matchDate": "FT",
-    "homeTeam": "Seattle Reign FC W",
-    "awayTeam": "Angel City W",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
