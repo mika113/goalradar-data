@@ -1,14 +1,38 @@
 [
   {
+    "id": 1531078,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1565447,
+    "league": "Premier League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Polessya",
+    "awayTeam": "FC Kharkiv",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Polessya Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1530985,
     "league": "Pro League A (Uzbekistan)",
     "matchDate": "FT",
     "homeTeam": "Lochin",
     "awayTeam": "Qiziriq",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Qiziriq Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -44,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Club Tijuana Win",
-    "outcome": "Lost"
+    "prediction": "San Diego Win",
+    "outcome": "Won"
   },
   {
     "id": 1592943,
@@ -80,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Matagalpa Win",
-    "outcome": "Lost"
+    "prediction": "Managua Win",
+    "outcome": "Won"
   },
   {
     "id": 1530135,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Austin II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551658,
-    "league": "Primera División (Costa-Rica)",
-    "matchDate": "FT",
-    "homeTeam": "CS Herediano",
-    "awayTeam": "LD Alajuelense",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "LD Alajuelense Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530139,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Nashville SC",
-    "awayTeam": "Atletico San Luis",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Nashville SC Win",
     "outcome": "Won"
   }
 ]
