@@ -1,12 +1,21 @@
 [
   {
+    "id": 1531078,
+    "league": "Pro League A (Uzbekistan)",
+    "matchTime": "16:00",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral",
+    "prediction": "Respublika FA Win",
+    "odds": "1.72"
+  },
+  {
     "id": 1602969,
     "league": "First League (Armenia)",
     "matchTime": "16:00",
     "homeTeam": "Andranik",
     "awayTeam": "Shirak II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.81"
+    "prediction": "Andranik Win & Over 1.5",
+    "odds": "2.1"
   },
   {
     "id": 1602970,
@@ -14,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Mika",
     "awayTeam": "Pyunik II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.39"
+    "prediction": "Pyunik II Win",
+    "odds": "1.94"
   },
   {
     "id": 1497208,
@@ -24,7 +33,7 @@
     "homeTeam": "Kongsvinger II",
     "awayTeam": "Strømsgodset II",
     "prediction": "Kongsvinger II Win",
-    "odds": "1.54"
+    "odds": "1.93"
   },
   {
     "id": 1530986,
@@ -32,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Olimpik-Mobiuz",
     "awayTeam": "Shortan",
-    "prediction": "Shortan Win",
-    "odds": "1.88"
+    "prediction": "Olimpik-Mobiuz Win",
+    "odds": "1.32"
   },
   {
     "id": 1531077,
@@ -41,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Metalourg",
     "awayTeam": "Yaypan",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1534540,
@@ -50,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Gomel II",
     "awayTeam": "Shakhter Soligorsk",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1534396,
@@ -59,16 +68,7 @@
     "matchTime": "17:30",
     "homeTeam": "Minsk II",
     "awayTeam": "Ostrovets FC",
-    "prediction": "Minsk II Win",
-    "odds": "1.89"
-  },
-  {
-    "id": 1534394,
-    "league": "1. Division (Belarus)",
-    "matchTime": "18:00",
-    "homeTeam": "Slonim",
-    "awayTeam": "Bumprom",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Both Teams To Score",
+    "odds": "1.94"
   }
 ]
