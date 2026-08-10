@@ -1,39 +1,12 @@
 [
   {
-    "id": 1497390,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Lyn II",
-    "awayTeam": "Fram",
-    "prediction": "Lyn II Win",
-    "odds": "1.61"
-  },
-  {
-    "id": 1519611,
-    "league": "Esiliiga A (Estonia)",
-    "matchTime": "19:00",
-    "homeTeam": "Flora II",
-    "awayTeam": "Nõmme Kalju II",
-    "prediction": "Double Chance X2",
-    "odds": "1.31"
-  },
-  {
-    "id": 1521658,
-    "league": "Esiliiga B (Estonia)",
-    "matchTime": "19:00",
-    "homeTeam": "Luunja",
-    "awayTeam": "Parnu JK Vaprus U21",
-    "prediction": "Luunja Win & Over 1.5",
-    "odds": "2.17"
-  },
-  {
     "id": 1551069,
     "league": "First League (Bulgaria)",
     "matchTime": "19:00",
     "homeTeam": "Botev Vratsa",
     "awayTeam": "Slavia Sofia",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "prediction": "Botev Vratsa Win",
+    "odds": "1.52"
   },
   {
     "id": 1556412,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Žalgiris II",
     "awayTeam": "Kauno Žalgiris II",
-    "prediction": "Žalgiris II Win",
-    "odds": "1.41"
+    "prediction": "Double Chance 1X",
+    "odds": "1.56"
   },
   {
     "id": 1557988,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Mura",
     "awayTeam": "Radomlje",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
+    "prediction": "Mura Win & Over 1.5",
+    "odds": "2.96"
   },
   {
     "id": 1600673,
@@ -60,7 +33,7 @@
     "homeTeam": "Real San Joaquín",
     "awayTeam": "Santiago Morning",
     "prediction": "Real San Joaquín Win",
-    "odds": "1.96"
+    "odds": "1.39"
   },
   {
     "id": 1496659,
@@ -68,8 +41,8 @@
     "matchTime": "19:30",
     "homeTeam": "Aalesund II",
     "awayTeam": "Herd",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "prediction": "Herd Win",
+    "odds": "3.27"
   },
   {
     "id": 1515903,
@@ -77,8 +50,8 @@
     "matchTime": "19:30",
     "homeTeam": "Rīgas FS",
     "awayTeam": "Grobiņa",
-    "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "prediction": "Grobiņa Win",
+    "odds": "3.32"
   },
   {
     "id": 1547608,
@@ -86,7 +59,34 @@
     "matchTime": "19:30",
     "homeTeam": "FK Trakai",
     "awayTeam": "FK Zalgiris Vilnius",
-    "prediction": "FK Trakai Win",
-    "odds": "1.95"
+    "prediction": "FK Zalgiris Vilnius Win",
+    "odds": "3.46"
+  },
+  {
+    "id": 1494239,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Sirius",
+    "awayTeam": "IF Brommapojkarna",
+    "prediction": "IF Brommapojkarna Win",
+    "odds": "2.93"
+  },
+  {
+    "id": 1494240,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "20:00",
+    "homeTeam": "Vasteras SK FK",
+    "awayTeam": "Djurgardens IF",
+    "prediction": "Djurgardens IF Win",
+    "odds": "2.45"
+  },
+  {
+    "id": 1495905,
+    "league": "1. Division (Norway)",
+    "matchTime": "20:00",
+    "homeTeam": "Moss",
+    "awayTeam": "ODD Ballklubb",
+    "prediction": "Moss Win",
+    "odds": "1.68"
   }
 ]
