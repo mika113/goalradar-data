@@ -1,5 +1,17 @@
 [
   {
+    "id": 1530985,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Lochin",
+    "awayTeam": "Qiziriq",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Qiziriq Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1526948,
     "league": "OFC Champions League (World)",
     "matchDate": "FT",
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Nashville SC Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1530136,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Chicago Fire",
-    "awayTeam": "Santos Laguna",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Santos Laguna Win",
-    "outcome": "Lost"
   }
 ]
