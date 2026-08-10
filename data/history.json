@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Goias",
     "awayTeam": "Londrina",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Goias Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1493049,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1610935,
@@ -104,8 +104,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Estudiantes de Merida FC Win",
-    "outcome": "Lost"
+    "prediction": "Rayo Zuliano Win",
+    "outcome": "Won"
   },
   {
     "id": 1612419,
@@ -129,18 +129,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543450,
-    "league": "2. Deild (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Vikingur Olafsiik",
-    "awayTeam": "Selfoss",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Vikingur Olafsiik Win",
     "outcome": "Won"
   }
 ]
