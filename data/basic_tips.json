@@ -1,21 +1,12 @@
 [
   {
-    "id": 1565447,
-    "league": "Premier League (Ukraine)",
-    "matchTime": "15:30",
-    "homeTeam": "Polessya",
-    "awayTeam": "FC Kharkiv",
-    "prediction": "Polessya Win & Over 1.5",
-    "odds": "2.56"
-  },
-  {
     "id": 1565445,
     "league": "Premier League (Ukraine)",
     "matchTime": "18:00",
     "homeTeam": "Karpaty",
     "awayTeam": "LNZ Cherkasy",
-    "prediction": "LNZ Cherkasy Win",
-    "odds": "2.53"
+    "prediction": "Karpaty Win",
+    "odds": "1.95"
   },
   {
     "id": 1581491,
@@ -24,7 +15,7 @@
     "homeTeam": "Alashkert",
     "awayTeam": "BKMA",
     "prediction": "BKMA Win",
-    "odds": "2.14"
+    "odds": "2.1"
   },
   {
     "id": 1561348,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Fakel",
     "awayTeam": "Akhmat",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.96"
   },
   {
     "id": 1575453,
@@ -41,16 +32,25 @@
     "matchTime": "22:15",
     "homeTeam": "Santa Clara",
     "awayTeam": "Nacional",
-    "prediction": "Santa Clara Win",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
   },
   {
-    "id": 1530985,
+    "id": 1531078,
     "league": "Pro League A (Uzbekistan)",
-    "matchTime": "15:30",
-    "homeTeam": "Lochin",
-    "awayTeam": "Qiziriq",
-    "prediction": "Lochin Win",
-    "odds": "1.45"
+    "matchTime": "16:00",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral",
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
+  },
+  {
+    "id": 1602969,
+    "league": "First League (Armenia)",
+    "matchTime": "16:00",
+    "homeTeam": "Andranik",
+    "awayTeam": "Shirak II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.95"
   }
 ]
