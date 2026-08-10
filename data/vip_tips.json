@@ -1,39 +1,12 @@
 [
   {
-    "id": 1602970,
-    "league": "First League (Armenia)",
-    "matchTime": "16:00",
-    "homeTeam": "Mika",
-    "awayTeam": "Pyunik II",
-    "prediction": "Mika Win & Over 1.5",
-    "odds": "2.83"
-  },
-  {
-    "id": 1497208,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchTime": "17:00",
-    "homeTeam": "Kongsvinger II",
-    "awayTeam": "Strømsgodset II",
-    "prediction": "Kongsvinger II Win",
-    "odds": "1.34"
-  },
-  {
-    "id": 1530986,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Olimpik-Mobiuz",
-    "awayTeam": "Shortan",
-    "prediction": "Olimpik-Mobiuz Win",
-    "odds": "1.91"
-  },
-  {
     "id": 1531077,
     "league": "Pro League A (Uzbekistan)",
     "matchTime": "17:00",
     "homeTeam": "Metalourg",
     "awayTeam": "Yaypan",
-    "prediction": "Metalourg Win & Over 1.5",
-    "odds": "1.99"
+    "prediction": "Yaypan Win",
+    "odds": "2.32"
   },
   {
     "id": 1534540,
@@ -41,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Gomel II",
     "awayTeam": "Shakhter Soligorsk",
-    "prediction": "Gomel II Win & Over 1.5",
-    "odds": "2.51"
+    "prediction": "Gomel II Win",
+    "odds": "1.83"
   },
   {
     "id": 1534396,
@@ -59,8 +32,8 @@
     "matchTime": "18:00",
     "homeTeam": "Slonim",
     "awayTeam": "Bumprom",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Bumprom Win",
+    "odds": "1.8"
   },
   {
     "id": 1534398,
@@ -69,6 +42,33 @@
     "homeTeam": "Orsha",
     "awayTeam": "Molodechno-DYuSSh 4",
     "prediction": "Orsha Win",
-    "odds": "1.6"
+    "odds": "1.99"
+  },
+  {
+    "id": 1534400,
+    "league": "1. Division (Belarus)",
+    "matchTime": "18:00",
+    "homeTeam": "Smorgon",
+    "awayTeam": "BATE II",
+    "prediction": "Smorgon Win & Over 1.5",
+    "odds": "2.5"
+  },
+  {
+    "id": 1534401,
+    "league": "1. Division (Belarus)",
+    "matchTime": "18:00",
+    "homeTeam": "Volna",
+    "awayTeam": "Uni Minsk",
+    "prediction": "Double Chance 1X",
+    "odds": "1.49"
+  },
+  {
+    "id": 1561089,
+    "league": "2. liga (Slovakia)",
+    "matchTime": "18:00",
+    "homeTeam": "Považská Bystrica",
+    "awayTeam": "Zlaté Moravce",
+    "prediction": "Považská Bystrica Win & Over 1.5",
+    "odds": "2.89"
   }
 ]
