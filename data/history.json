@@ -1,14 +1,26 @@
 [
   {
+    "id": 1534396,
+    "league": "1. Division (Belarus)",
+    "matchDate": "FT",
+    "homeTeam": "Minsk II",
+    "awayTeam": "Ostrovets FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1534540,
     "league": "1. Division (Belarus)",
     "matchDate": "FT",
     "homeTeam": "Gomel II",
     "awayTeam": "Shakhter Soligorsk",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Shakhter Soligorsk Win",
     "outcome": "Won"
   },
   {
@@ -41,11 +53,11 @@
     "matchDate": "FT",
     "homeTeam": "Kongsvinger II",
     "awayTeam": "Strømsgodset II",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Kongsvinger II Win",
+    "outcome": "Won"
   },
   {
     "id": 1531078,
@@ -65,8 +77,8 @@
     "matchDate": "FT",
     "homeTeam": "Polessya",
     "awayTeam": "FC Kharkiv",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Polessya Win",
     "outcome": "Won"
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Lochin",
     "awayTeam": "Qiziriq",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Lochin Win",
     "outcome": "Won"
   },
   {
@@ -130,17 +142,5 @@
     "status": "FT",
     "prediction": "Atletico Independiente Win",
     "outcome": "Won"
-  },
-  {
-    "id": 1549715,
-    "league": "Primera A (Colombia)",
-    "matchDate": "FT",
-    "homeTeam": "America de Cali",
-    "awayTeam": "Atletico Nacional",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Atletico Nacional Win",
-    "outcome": "Lost"
   }
 ]
