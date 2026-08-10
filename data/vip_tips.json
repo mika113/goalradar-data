@@ -1,39 +1,12 @@
 [
   {
-    "id": 1496842,
-    "league": "3. Division - Girone 3 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Askøy",
-    "awayTeam": "Sogndal II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.52"
-  },
-  {
-    "id": 1497024,
-    "league": "3. Division - Girone 4 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Haugesund II",
-    "awayTeam": "Viking II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.54"
-  },
-  {
-    "id": 1497388,
-    "league": "3. Division - Girone 6 (Norway)",
-    "matchTime": "19:00",
-    "homeTeam": "Drøbak / Frogn",
-    "awayTeam": "Sandefjord II",
-    "prediction": "Sandefjord II Win",
-    "odds": "3.15"
-  },
-  {
     "id": 1497390,
     "league": "3. Division - Girone 6 (Norway)",
     "matchTime": "19:00",
     "homeTeam": "Lyn II",
     "awayTeam": "Fram",
-    "prediction": "Fram Win",
-    "odds": "2.64"
+    "prediction": "Lyn II Win",
+    "odds": "1.5"
   },
   {
     "id": 1519611,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Flora II",
     "awayTeam": "Nõmme Kalju II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.29"
+    "prediction": "Flora II Win",
+    "odds": "1.68"
   },
   {
     "id": 1521658,
@@ -51,7 +24,7 @@
     "homeTeam": "Luunja",
     "awayTeam": "Parnu JK Vaprus U21",
     "prediction": "Luunja Win",
-    "odds": "1.98"
+    "odds": "1.51"
   },
   {
     "id": 1551069,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Botev Vratsa",
     "awayTeam": "Slavia Sofia",
-    "prediction": "Slavia Sofia Win",
-    "odds": "2.68"
+    "prediction": "Botev Vratsa Win",
+    "odds": "1.88"
   },
   {
     "id": 1556412,
@@ -69,6 +42,33 @@
     "homeTeam": "Žalgiris II",
     "awayTeam": "Kauno Žalgiris II",
     "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "odds": "1.77"
+  },
+  {
+    "id": 1557988,
+    "league": "1. SNL (Slovenia)",
+    "matchTime": "19:00",
+    "homeTeam": "Mura",
+    "awayTeam": "Radomlje",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.98"
+  },
+  {
+    "id": 1600673,
+    "league": "Segunda División (Chile)",
+    "matchTime": "19:00",
+    "homeTeam": "Real San Joaquín",
+    "awayTeam": "Santiago Morning",
+    "prediction": "Double Chance X2",
+    "odds": "1.79"
+  },
+  {
+    "id": 1496659,
+    "league": "3. Division - Girone 2 (Norway)",
+    "matchTime": "19:30",
+    "homeTeam": "Aalesund II",
+    "awayTeam": "Herd",
+    "prediction": "Herd Win",
+    "odds": "2.95"
   }
 ]
