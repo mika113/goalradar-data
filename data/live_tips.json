@@ -1,48 +1,12 @@
 [
   {
-    "id": 1526913,
-    "league": "Serie C (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Paysandu",
-    "awayTeam": "Confiança",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
-  },
-  {
-    "id": 1543977,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Gremio U17",
-    "awayTeam": "Botafogo U17",
-    "prediction": "Double Chance 1X",
-    "odds": "1.26"
-  },
-  {
-    "id": 1549591,
-    "league": "Primera B (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Leones FC",
-    "awayTeam": "Real Soacha",
-    "prediction": "Leones FC Win",
-    "odds": "1.67"
-  },
-  {
-    "id": 1549719,
-    "league": "Primera A (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Independiente Medellin",
-    "awayTeam": "Millonarios",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
-  },
-  {
     "id": 1505483,
     "league": "Primera División (Chile)",
     "matchTime": "03:00",
     "homeTeam": "A. Italiano",
     "awayTeam": "Nublense",
-    "prediction": "Nublense Win",
-    "odds": "2.73"
+    "prediction": "A. Italiano Win",
+    "odds": "1.91"
   },
   {
     "id": 1519443,
@@ -51,7 +15,7 @@
     "homeTeam": "Deportivo Cuenca",
     "awayTeam": "Manta FC",
     "prediction": "Manta FC Win",
-    "odds": "3.22"
+    "odds": "3.5"
   },
   {
     "id": 1522428,
@@ -59,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "America Mineiro W",
     "awayTeam": "Flamengo W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.12"
+    "prediction": "Flamengo W Win",
+    "odds": "1.92"
   },
   {
     "id": 1603316,
@@ -68,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Toluca W",
     "awayTeam": "Juárez W",
-    "prediction": "Toluca W Win",
-    "odds": "1.91"
+    "prediction": "Juárez W Win",
+    "odds": "1.88"
   },
   {
     "id": 1493061,
@@ -77,8 +41,8 @@
     "matchTime": "03:15",
     "homeTeam": "Union Santa Fe",
     "awayTeam": "Central Cordoba de Santiago",
-    "prediction": "Central Cordoba de Santiago Win",
-    "odds": "1.99"
+    "prediction": "Union Santa Fe Win",
+    "odds": "1.88"
   },
   {
     "id": 1527115,
@@ -87,6 +51,42 @@
     "homeTeam": "Sturt Lions",
     "awayTeam": "Adelaide Comets",
     "prediction": "Sturt Lions Win",
-    "odds": "1.69"
+    "odds": "1.51"
+  },
+  {
+    "id": 1583734,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:00",
+    "homeTeam": "Independiente de La Chorrera",
+    "awayTeam": "Deportivo Universitario",
+    "prediction": "Independiente de La Chorrera Win",
+    "odds": "1.98"
+  },
+  {
+    "id": 1601399,
+    "league": "Liga de Ascenso (Costa-Rica)",
+    "matchTime": "04:00",
+    "homeTeam": "Pitbulls Santa Barbara FC",
+    "awayTeam": "Guadalupe FC",
+    "prediction": "Pitbulls Santa Barbara FC Win",
+    "odds": "1.93"
+  },
+  {
+    "id": 1549721,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:05",
+    "homeTeam": "Junior",
+    "awayTeam": "Deportivo Pereira",
+    "prediction": "Junior Win",
+    "odds": "1.48"
+  },
+  {
+    "id": 1603317,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "04:06",
+    "homeTeam": "León W",
+    "awayTeam": "Tigres UANL W",
+    "prediction": "Tigres UANL W Win",
+    "odds": "2.48"
   }
 ]
