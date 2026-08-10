@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1543450,
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Vikingur Olafsiik",
     "awayTeam": "Selfoss",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Vikingur Olafsiik Win",
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Fram Reykjavik",
     "awayTeam": "KR Reykjavik",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "KR Reykjavik Win",
     "outcome": "Won"
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Rentistas",
     "awayTeam": "Plaza Colonia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Plaza Colonia Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1519447,
@@ -104,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Mushuc Runa SC Win",
-    "outcome": "Won"
+    "prediction": "Tecnico Universitario Win",
+    "outcome": "Lost"
   },
   {
     "id": 1513267,
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Chicago Fire II",
     "awayTeam": "Toronto II",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Toronto II Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -125,7 +125,7 @@
     "matchDate": "FT",
     "homeTeam": "Carshalton Athletic",
     "awayTeam": "Wingate & Finchley",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Carshalton Athletic Win",
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Pendikspor",
     "awayTeam": "Batman Petrolspor",
-    "homeScore": 1,
-    "awayScore": 1,
+    "homeScore": 2,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   }
 ]
