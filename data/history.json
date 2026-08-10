@@ -1,14 +1,50 @@
 [
   {
+    "id": 1547607,
+    "league": "A Lyga (Lithuania)",
+    "matchDate": "FT",
+    "homeTeam": "TransINVEST Vilnius",
+    "awayTeam": "Panevėžys",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618911,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Panionios",
+    "awayTeam": "Olympiakos Piraeus II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1565210,
+    "league": "Liga I (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "FC Botosani",
+    "awayTeam": "Corvinul Hunedoara",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1571506,
     "league": "Second League (Bulgaria)",
     "matchDate": "FT",
     "homeTeam": "Nesebar",
     "awayTeam": "Dobrudzha",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nesebar Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Považská Bystrica",
     "awayTeam": "Zlaté Moravce",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Považská Bystrica Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Smorgon",
     "awayTeam": "BATE II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "BATE II Win",
     "outcome": "Lost"
   },
   {
@@ -66,9 +102,9 @@
     "homeTeam": "Orsha",
     "awayTeam": "Molodechno-DYuSSh 4",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Molodechno-DYuSSh 4 Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Slonim",
     "awayTeam": "Bumprom",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Slonim Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +126,9 @@
     "homeTeam": "Minsk II",
     "awayTeam": "Ostrovets FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ostrovets FC Win",
     "outcome": "Won"
   },
   {
@@ -101,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Gomel II",
     "awayTeam": "Shakhter Soligorsk",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Shakhter Soligorsk Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531077,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Metalourg",
-    "awayTeam": "Yaypan",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530986,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Olimpik-Mobiuz",
-    "awayTeam": "Shortan",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1497208,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchDate": "FT",
-    "homeTeam": "Kongsvinger II",
-    "awayTeam": "Strømsgodset II",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Kongsvinger II Win",
+    "prediction": "Gomel II Win",
     "outcome": "Won"
   }
 ]
