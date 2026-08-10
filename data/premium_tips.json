@@ -1,57 +1,12 @@
 [
   {
-    "id": 1493061,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "03:15",
-    "homeTeam": "Union Santa Fe",
-    "awayTeam": "Central Cordoba de Santiago",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
-  },
-  {
-    "id": 1527115,
-    "league": "South Australia NPL",
-    "matchTime": "03:30",
-    "homeTeam": "Sturt Lions",
-    "awayTeam": "Adelaide Comets",
-    "prediction": "Sturt Lions Win",
-    "odds": "1.99"
-  },
-  {
-    "id": 1583734,
-    "league": "Liga Panameña de Fútbol (Panama)",
-    "matchTime": "04:00",
-    "homeTeam": "Independiente de La Chorrera",
-    "awayTeam": "Deportivo Universitario",
-    "prediction": "Deportivo Universitario Win",
-    "odds": "1.86"
-  },
-  {
-    "id": 1601399,
-    "league": "Liga de Ascenso (Costa-Rica)",
-    "matchTime": "04:00",
-    "homeTeam": "Pitbulls Santa Barbara FC",
-    "awayTeam": "Guadalupe FC",
-    "prediction": "Pitbulls Santa Barbara FC Win",
-    "odds": "1.37"
-  },
-  {
-    "id": 1549721,
-    "league": "Primera A (Colombia)",
-    "matchTime": "04:05",
-    "homeTeam": "Junior",
-    "awayTeam": "Deportivo Pereira",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.77"
-  },
-  {
     "id": 1603317,
     "league": "Liga MX Femenil (Mexico)",
     "matchTime": "04:06",
     "homeTeam": "León W",
     "awayTeam": "Tigres UANL W",
-    "prediction": "León W Win",
-    "odds": "1.58"
+    "prediction": "Tigres UANL W Win",
+    "odds": "2.65"
   },
   {
     "id": 1582817,
@@ -59,8 +14,8 @@
     "matchTime": "06:00",
     "homeTeam": "Central Stallions",
     "awayTeam": "Tainan City",
-    "prediction": "Central Stallions Win",
-    "odds": "1.46"
+    "prediction": "Tainan City Win",
+    "odds": "1.74"
   },
   {
     "id": 1553773,
@@ -68,8 +23,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ulaanbaatar",
     "awayTeam": "Hang Yuen",
-    "prediction": "Ulaanbaatar Win",
-    "odds": "1.5"
+    "prediction": "Ulaanbaatar Win & Over 1.5",
+    "odds": "1.81"
   },
   {
     "id": 1582813,
@@ -77,8 +32,8 @@
     "matchTime": "12:00",
     "homeTeam": "Fortis",
     "awayTeam": "Muras United",
-    "prediction": "Muras United Win",
-    "odds": "2.13"
+    "prediction": "Fortis Win",
+    "odds": "1.97"
   },
   {
     "id": 1567326,
@@ -86,8 +41,8 @@
     "matchTime": "12:30",
     "homeTeam": "Adelaide United",
     "awayTeam": "Công An Nhân Dân",
-    "prediction": "Adelaide United Win",
-    "odds": "1.49"
+    "prediction": "Công An Nhân Dân Win",
+    "odds": "2.26"
   },
   {
     "id": 1607633,
@@ -95,8 +50,8 @@
     "matchTime": "12:30",
     "homeTeam": "Lions",
     "awayTeam": "Melbourne City",
-    "prediction": "Melbourne City Win",
-    "odds": "2.02"
+    "prediction": "Lions Win",
+    "odds": "1.94"
   },
   {
     "id": 1607635,
@@ -105,6 +60,51 @@
     "homeTeam": "SD Raiders",
     "awayTeam": "Macarthur",
     "prediction": "SD Raiders Win",
+    "odds": "1.39"
+  },
+  {
+    "id": 1533725,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Hwacheon KSPO W",
+    "awayTeam": "Incheon Red Angels W",
+    "prediction": "Incheon Red Angels W Win",
+    "odds": "2.67"
+  },
+  {
+    "id": 1542351,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Juventus",
+    "awayTeam": "Palermo",
+    "prediction": "Double Chance 1X",
     "odds": "1.46"
+  },
+  {
+    "id": 1582815,
+    "league": "AFC Challenge League (World)",
+    "matchTime": "13:00",
+    "homeTeam": "Maziya",
+    "awayTeam": "Regar-TadAZ",
+    "prediction": "Regar-TadAZ Win",
+    "odds": "3.33"
+  },
+  {
+    "id": 1598634,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "13:00",
+    "homeTeam": "Sporting Braga U23",
+    "awayTeam": "Farense U23",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.16"
+  },
+  {
+    "id": 1598636,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "13:00",
+    "homeTeam": "Famalicão U23",
+    "awayTeam": "Torreense U23",
+    "prediction": "Both Teams To Score",
+    "odds": "1.93"
   }
 ]
