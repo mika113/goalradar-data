@@ -1,30 +1,12 @@
 [
   {
-    "id": 1564814,
-    "league": "Championship (Northern-Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Annagh United",
-    "awayTeam": "Rathfriland",
-    "prediction": "Annagh United Win",
-    "odds": "1.92"
-  },
-  {
-    "id": 1564815,
-    "league": "Championship (Northern-Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Ards",
-    "awayTeam": "Dundela",
-    "prediction": "Ards Win",
-    "odds": "1.85"
-  },
-  {
     "id": 1564816,
     "league": "Championship (Northern-Ireland)",
     "matchTime": "21:45",
     "homeTeam": "Institute",
     "awayTeam": "Ballinamallard United",
-    "prediction": "Institute Win & Over 1.5",
-    "odds": "2.79"
+    "prediction": "Institute Win",
+    "odds": "1.92"
   },
   {
     "id": 1564817,
@@ -33,7 +15,7 @@
     "homeTeam": "Loughgall",
     "awayTeam": "Newington Youth",
     "prediction": "Newington Youth Win",
-    "odds": "2.41"
+    "odds": "2.48"
   },
   {
     "id": 1564818,
@@ -41,8 +23,8 @@
     "matchTime": "21:45",
     "homeTeam": "Moyola Park",
     "awayTeam": "Strabane Athletic",
-    "prediction": "Strabane Athletic Win",
-    "odds": "3.43"
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
   },
   {
     "id": 1564819,
@@ -51,7 +33,7 @@
     "homeTeam": "Newry City AFC",
     "awayTeam": "Glenavon FC",
     "prediction": "Glenavon FC Win",
-    "odds": "1.97"
+    "odds": "1.83"
   },
   {
     "id": 1564820,
@@ -60,7 +42,7 @@
     "homeTeam": "Queen's University",
     "awayTeam": "H&W Welders",
     "prediction": "Over 2.5 Goals",
-    "odds": "2.01"
+    "odds": "1.59"
   },
   {
     "id": 1564821,
@@ -68,7 +50,25 @@
     "matchTime": "21:45",
     "homeTeam": "Warrenpoint Town",
     "awayTeam": "Armagh City",
-    "prediction": "Warrenpoint Town Win",
-    "odds": "1.39"
+    "prediction": "Armagh City Win",
+    "odds": "2.3"
+  },
+  {
+    "id": 1593529,
+    "league": "Challenge Cup (Scotland)",
+    "matchTime": "21:45",
+    "homeTeam": "Alloa Athletic",
+    "awayTeam": "Stranraer",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
+  },
+  {
+    "id": 1593530,
+    "league": "Challenge Cup (Scotland)",
+    "matchTime": "21:45",
+    "homeTeam": "Banks O' Dee",
+    "awayTeam": "Peterhead",
+    "prediction": "Banks O' Dee Win",
+    "odds": "1.58"
   }
 ]
