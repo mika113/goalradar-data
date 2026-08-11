@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1598828,
@@ -29,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Taunton Town",
     "awayTeam": "Malvern Town",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Malvern Town Win",
+    "outcome": "Lost"
   },
   {
     "id": 1597285,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Hanwell Town",
     "awayTeam": "Basingstoke Town",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Hanwell Town Win",
     "outcome": "Won"
   },
   {
@@ -78,10 +78,10 @@
     "homeTeam": "Evesham United",
     "awayTeam": "Frome Town",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Evesham United Win",
-    "outcome": "Lost"
+    "prediction": "Frome Town Win",
+    "outcome": "Won"
   },
   {
     "id": 1597281,
@@ -101,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Chertsey Town",
     "awayTeam": "Berkhamsted",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Chertsey Town Win",
-    "outcome": "Won"
+    "prediction": "Berkhamsted Win",
+    "outcome": "Lost"
   },
   {
     "id": 1597279,
