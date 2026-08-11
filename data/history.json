@@ -1,5 +1,17 @@
 [
   {
+    "id": 1598828,
+    "league": "UEFA Champions League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Lyon",
+    "awayTeam": "Sparta Praha",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1597286,
     "league": "Non League Premier - Southern South (England)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1597283,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1597282,
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1597280,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Stamford",
     "awayTeam": "Bury Town",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1596823,
-    "league": "Non League Premier - Southern Central (England)",
-    "matchDate": "FT",
-    "homeTeam": "Peterborough Sports",
-    "awayTeam": "Real Bedford",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
