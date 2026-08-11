@@ -1,21 +1,12 @@
 [
   {
-    "id": 1530146,
-    "league": "Leagues Cup (World)",
-    "matchTime": "04:30",
-    "homeTeam": "Real Salt Lake",
-    "awayTeam": "FC Juarez",
-    "prediction": "Real Salt Lake Win",
-    "odds": "1.32"
-  },
-  {
     "id": 1530147,
     "league": "Leagues Cup (World)",
     "matchTime": "05:00",
     "homeTeam": "Tigres UANL",
     "awayTeam": "Vancouver Whitecaps",
-    "prediction": "Tigres UANL Win",
-    "odds": "1.36"
+    "prediction": "Tigres UANL Win & Over 1.5",
+    "odds": "2.66"
   },
   {
     "id": 1548353,
@@ -23,8 +14,8 @@
     "matchTime": "05:00",
     "homeTeam": "Real Estelí",
     "awayTeam": "Alianza",
-    "prediction": "Both Teams To Score",
-    "odds": "2.08"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.84"
   },
   {
     "id": 1548354,
@@ -32,8 +23,8 @@
     "matchTime": "05:00",
     "homeTeam": "Deportivo Saprissa",
     "awayTeam": "Mixco",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Deportivo Saprissa Win",
+    "odds": "1.52"
   },
   {
     "id": 1526949,
@@ -41,8 +32,8 @@
     "matchTime": "07:00",
     "homeTeam": "Rewa",
     "awayTeam": "Tupapa Maraerenga",
-    "prediction": "Rewa Win & Over 1.5",
-    "odds": "2.12"
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
   },
   {
     "id": 1526950,
@@ -50,8 +41,8 @@
     "matchTime": "10:00",
     "homeTeam": "Toti City",
     "awayTeam": "ABM Galaxy",
-    "prediction": "ABM Galaxy Win",
-    "odds": "2.17"
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
   },
   {
     "id": 1612543,
@@ -59,8 +50,8 @@
     "matchTime": "11:00",
     "homeTeam": "Popești-Leordeni",
     "awayTeam": "CS Dinamo București",
-    "prediction": "Popești-Leordeni Win",
-    "odds": "1.57"
+    "prediction": "Both Teams To Score",
+    "odds": "2.2"
   },
   {
     "id": 1618917,
@@ -68,8 +59,8 @@
     "matchTime": "11:00",
     "homeTeam": "Alcorcon",
     "awayTeam": "Rayo Majadahonda",
-    "prediction": "Alcorcon Win",
-    "odds": "1.86"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1618918,
@@ -77,8 +68,8 @@
     "matchTime": "11:00",
     "homeTeam": "FC Cartagena",
     "awayTeam": "Orihuela",
-    "prediction": "FC Cartagena Win",
-    "odds": "1.71"
+    "prediction": "FC Cartagena Win & Over 1.5",
+    "odds": "1.92"
   },
   {
     "id": 1537509,
@@ -86,7 +77,16 @@
     "matchTime": "11:30",
     "homeTeam": "Brindabella",
     "awayTeam": "Tuggeranong United",
-    "prediction": "Brindabella Win & Over 1.5",
-    "odds": "2.54"
+    "prediction": "Brindabella Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1565117,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchTime": "11:30",
+    "homeTeam": "Zlín U19",
+    "awayTeam": "Sigma Olomouc U19",
+    "prediction": "Zlín U19 Win",
+    "odds": "1.38"
   }
 ]
