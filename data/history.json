@@ -1,5 +1,17 @@
 [
   {
+    "id": 1603317,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchDate": "FT",
+    "homeTeam": "León W",
+    "awayTeam": "Tigres UANL W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1601399,
     "league": "Liga de Ascenso (Costa-Rica)",
     "matchDate": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1522428,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Goias Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612420,
-    "league": "Division Intermedia (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Atlético Tembetary",
-    "awayTeam": "General Caballero",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "General Caballero Win",
     "outcome": "Won"
   }
 ]
