@@ -1,21 +1,12 @@
 [
   {
-    "id": 1549592,
-    "league": "Primera B (Colombia)",
-    "matchTime": "02:00",
-    "homeTeam": "Patriotas",
-    "awayTeam": "Orsomarso",
-    "prediction": "Orsomarso Win",
-    "odds": "1.92"
-  },
-  {
     "id": 1549719,
     "league": "Primera A (Colombia)",
     "matchTime": "02:00",
     "homeTeam": "Independiente Medellin",
     "awayTeam": "Millonarios",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "prediction": "Millonarios Win",
+    "odds": "2.74"
   },
   {
     "id": 1530142,
@@ -23,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "Charlotte",
     "awayTeam": "CF Pachuca",
-    "prediction": "CF Pachuca Win",
-    "odds": "2.72"
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   },
   {
     "id": 1530143,
@@ -33,7 +24,7 @@
     "homeTeam": "Columbus Crew",
     "awayTeam": "U.N.A.M. - Pumas",
     "prediction": "U.N.A.M. - Pumas Win",
-    "odds": "3.23"
+    "odds": "3.26"
   },
   {
     "id": 1493059,
@@ -41,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Talleres Cordoba",
     "awayTeam": "Lanus",
-    "prediction": "Double Chance X2",
-    "odds": "1.36"
+    "prediction": "Talleres Cordoba Win",
+    "odds": "1.82"
   },
   {
     "id": 1530144,
@@ -50,8 +41,8 @@
     "matchTime": "03:00",
     "homeTeam": "FC Cincinnati",
     "awayTeam": "Atlas",
-    "prediction": "FC Cincinnati Win & Over 1.5",
-    "odds": "2.33"
+    "prediction": "Both Teams To Score",
+    "odds": "1.74"
   },
   {
     "id": 1548352,
@@ -59,8 +50,8 @@
     "matchTime": "03:00",
     "homeTeam": "Plaza Amador",
     "awayTeam": "Xelajú",
-    "prediction": "Plaza Amador Win & Over 1.5",
-    "odds": "2.96"
+    "prediction": "Plaza Amador Win",
+    "odds": "1.52"
   },
   {
     "id": 1530145,
@@ -68,8 +59,8 @@
     "matchTime": "03:30",
     "homeTeam": "Minnesota United FC",
     "awayTeam": "Atlante FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.92"
+    "prediction": "Atlante FC Win",
+    "odds": "2.88"
   },
   {
     "id": 1547758,
@@ -77,8 +68,8 @@
     "matchTime": "03:30",
     "homeTeam": "Deportes Tolima",
     "awayTeam": "Independiente del Valle",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "Deportes Tolima Win & Over 1.5",
+    "odds": "2.04"
   },
   {
     "id": 1547759,
@@ -86,8 +77,8 @@
     "matchTime": "03:30",
     "homeTeam": "Estudiantes L.P.",
     "awayTeam": "U. Catolica",
-    "prediction": "U. Catolica Win",
-    "odds": "3.43"
+    "prediction": "Estudiantes L.P. Win",
+    "odds": "1.8"
   },
   {
     "id": 1607649,
@@ -95,8 +86,8 @@
     "matchTime": "03:30",
     "homeTeam": "Bolívar",
     "awayTeam": "Sao Paulo",
-    "prediction": "Both Teams To Score",
-    "odds": "1.97"
+    "prediction": "Bolívar Win",
+    "odds": "2.0"
   },
   {
     "id": 1549587,
@@ -104,7 +95,16 @@
     "matchTime": "03:45",
     "homeTeam": "Popayan",
     "awayTeam": "Union Magdalena",
-    "prediction": "Both Teams To Score",
-    "odds": "1.71"
+    "prediction": "Union Magdalena Win",
+    "odds": "2.18"
+  },
+  {
+    "id": 1530146,
+    "league": "Leagues Cup (World)",
+    "matchTime": "04:30",
+    "homeTeam": "Real Salt Lake",
+    "awayTeam": "FC Juarez",
+    "prediction": "Real Salt Lake Win",
+    "odds": "1.95"
   }
 ]
