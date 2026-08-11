@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1527115,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1598636,
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Juventus",
     "awayTeam": "Palermo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Juventus Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1620968,
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Lions",
     "awayTeam": "Melbourne City",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Lions Win",
@@ -114,7 +114,7 @@
     "homeTeam": "Adelaide United",
     "awayTeam": "Công An Nhân Dân",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Công An Nhân Dân Win",
     "outcome": "Won"
