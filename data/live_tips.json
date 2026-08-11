@@ -1,39 +1,12 @@
 [
   {
-    "id": 1549125,
-    "league": "Division 1 (Kuwait)",
-    "matchTime": "19:00",
-    "homeTeam": "Yarmouk",
-    "awayTeam": "Burgan",
-    "prediction": "Burgan Win",
-    "odds": "2.22"
-  },
-  {
-    "id": 1567327,
-    "league": "AFC Champions League Elite (World)",
-    "matchTime": "19:00",
-    "homeTeam": "Al-Jazira",
-    "awayTeam": "Al-Ittihad FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
-  },
-  {
-    "id": 1583678,
-    "league": "DBU Pokalen (Denmark)",
-    "matchTime": "19:00",
-    "homeTeam": "Frederiksholm Sydhavnen",
-    "awayTeam": "Tårnby FF",
-    "prediction": "Tårnby FF Win",
-    "odds": "2.69"
-  },
-  {
     "id": 1583705,
     "league": "DBU Pokalen (Denmark)",
     "matchTime": "19:00",
     "homeTeam": "Vaerlose",
     "awayTeam": "Såby",
-    "prediction": "Vaerlose Win & Over 1.5",
-    "odds": "2.33"
+    "prediction": "Såby Win",
+    "odds": "3.27"
   },
   {
     "id": 1598639,
@@ -41,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "Portimonense U23",
     "awayTeam": "Penafiel U23",
-    "prediction": "Both Teams To Score",
-    "odds": "1.8"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1605320,
@@ -50,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Poseidon",
     "awayTeam": "Kalju Nomme",
-    "prediction": "Poseidon Win & Over 1.5",
-    "odds": "2.64"
+    "prediction": "Poseidon Win",
+    "odds": "1.37"
   },
   {
     "id": 1605321,
@@ -60,7 +33,7 @@
     "homeTeam": "Trans Narva",
     "awayTeam": "Kompanii Marjamaa",
     "prediction": "Trans Narva Win & Over 1.5",
-    "odds": "2.74"
+    "odds": "2.84"
   },
   {
     "id": 1605322,
@@ -68,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Tallinna Kalev",
     "awayTeam": "Tartu Kalev",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Tallinna Kalev Win",
+    "odds": "1.69"
   },
   {
     "id": 1607647,
@@ -77,8 +50,8 @@
     "matchTime": "19:00",
     "homeTeam": "Hluboka nad Vltavou",
     "awayTeam": "Aritma Praha",
-    "prediction": "Aritma Praha Win",
-    "odds": "2.17"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
   },
   {
     "id": 1610615,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "Sokol Hostouň",
     "awayTeam": "Kladno",
-    "prediction": "Kladno Win",
-    "odds": "3.33"
+    "prediction": "Sokol Hostouň Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1610626,
+    "league": "Cup (Czech-Republic)",
+    "matchTime": "19:00",
+    "homeTeam": "Vykan",
+    "awayTeam": "Dukla Praha",
+    "prediction": "Vykan Win",
+    "odds": "1.35"
+  },
+  {
+    "id": 1610963,
+    "league": "Cup (Czech-Republic)",
+    "matchTime": "19:00",
+    "homeTeam": "Vysoké Mýto",
+    "awayTeam": "Vlašim",
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
+  },
+  {
+    "id": 1560914,
+    "league": "Cup (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "Nart Cherkessk",
+    "awayTeam": "Dinamo Stavropol",
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
   }
 ]
