@@ -1,48 +1,12 @@
 [
   {
-    "id": 1519443,
-    "league": "Liga Pro (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "Deportivo Cuenca",
-    "awayTeam": "Manta FC",
-    "prediction": "Manta FC Win",
-    "odds": "3.42"
-  },
-  {
-    "id": 1522428,
-    "league": "Brasileiro Women (Brazil)",
-    "matchTime": "03:00",
-    "homeTeam": "America Mineiro W",
-    "awayTeam": "Flamengo W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
-  },
-  {
-    "id": 1603316,
-    "league": "Liga MX Femenil (Mexico)",
-    "matchTime": "03:00",
-    "homeTeam": "Toluca W",
-    "awayTeam": "Juárez W",
-    "prediction": "Toluca W Win",
-    "odds": "1.45"
-  },
-  {
-    "id": 1493061,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "03:15",
-    "homeTeam": "Union Santa Fe",
-    "awayTeam": "Central Cordoba de Santiago",
-    "prediction": "Union Santa Fe Win",
-    "odds": "1.96"
-  },
-  {
     "id": 1527115,
     "league": "South Australia NPL",
     "matchTime": "03:30",
     "homeTeam": "Sturt Lions",
     "awayTeam": "Adelaide Comets",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Adelaide Comets Win",
+    "odds": "2.71"
   },
   {
     "id": 1583734,
@@ -50,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Independiente de La Chorrera",
     "awayTeam": "Deportivo Universitario",
-    "prediction": "Independiente de La Chorrera Win",
-    "odds": "1.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   },
   {
     "id": 1601399,
@@ -59,8 +23,8 @@
     "matchTime": "04:00",
     "homeTeam": "Pitbulls Santa Barbara FC",
     "awayTeam": "Guadalupe FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
+    "prediction": "Guadalupe FC Win",
+    "odds": "2.64"
   },
   {
     "id": 1549721,
@@ -68,7 +32,43 @@
     "matchTime": "04:05",
     "homeTeam": "Junior",
     "awayTeam": "Deportivo Pereira",
-    "prediction": "Junior Win",
-    "odds": "1.61"
+    "prediction": "Deportivo Pereira Win",
+    "odds": "1.86"
+  },
+  {
+    "id": 1603317,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "04:06",
+    "homeTeam": "León W",
+    "awayTeam": "Tigres UANL W",
+    "prediction": "León W Win",
+    "odds": "1.42"
+  },
+  {
+    "id": 1582817,
+    "league": "AFC Challenge League (World)",
+    "matchTime": "06:00",
+    "homeTeam": "Central Stallions",
+    "awayTeam": "Tainan City",
+    "prediction": "Central Stallions Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1553773,
+    "league": "AFC Challenge League (World)",
+    "matchTime": "11:00",
+    "homeTeam": "Ulaanbaatar",
+    "awayTeam": "Hang Yuen",
+    "prediction": "Hang Yuen Win",
+    "odds": "2.8"
+  },
+  {
+    "id": 1582813,
+    "league": "AFC Challenge League (World)",
+    "matchTime": "12:00",
+    "homeTeam": "Fortis",
+    "awayTeam": "Muras United",
+    "prediction": "Muras United Win",
+    "odds": "1.76"
   }
 ]
