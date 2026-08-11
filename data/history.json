@@ -6,9 +6,9 @@
     "homeTeam": "Famalicão U23",
     "awayTeam": "Torreense U23",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Torreense U23 Win",
     "outcome": "Won"
   },
   {
@@ -17,6 +17,30 @@
     "matchDate": "FT",
     "homeTeam": "Sporting Braga U23",
     "awayTeam": "Farense U23",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1542351,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Juventus",
+    "awayTeam": "Palermo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1533725,
+    "league": "WK-League (South-Korea)",
+    "matchDate": "FT",
+    "homeTeam": "Hwacheon KSPO W",
+    "awayTeam": "Incheon Red Angels W",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -56,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Melbourne City Win",
-    "outcome": "Lost"
+    "prediction": "Lions Win",
+    "outcome": "Won"
   },
   {
     "id": 1567326,
@@ -66,9 +90,9 @@
     "homeTeam": "Adelaide United",
     "awayTeam": "Công An Nhân Dân",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Công An Nhân Dân Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +101,11 @@
     "matchDate": "FT",
     "homeTeam": "Fortis",
     "awayTeam": "Muras United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Fortis Win",
+    "outcome": "Won"
   },
   {
     "id": 1553773,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Tigres UANL W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1601399,
-    "league": "Liga de Ascenso (Costa-Rica)",
-    "matchDate": "FT",
-    "homeTeam": "Pitbulls Santa Barbara FC",
-    "awayTeam": "Guadalupe FC",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583734,
-    "league": "Liga Panameña de Fútbol (Panama)",
-    "matchDate": "FT",
-    "homeTeam": "Independiente de La Chorrera",
-    "awayTeam": "Deportivo Universitario",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
