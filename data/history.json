@@ -1,15 +1,39 @@
 [
   {
+    "id": 1577745,
+    "league": "3. Division (Denmark)",
+    "matchDate": "FT",
+    "homeTeam": "Ishøj",
+    "awayTeam": "ASA Aarhus",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560914,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Nart Cherkessk",
+    "awayTeam": "Dinamo Stavropol",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1610963,
     "league": "Cup (Czech-Republic)",
     "matchDate": "FT",
     "homeTeam": "Vysoké Mýto",
     "awayTeam": "Vlašim",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Vysoké Mýto Win",
-    "outcome": "Lost"
+    "prediction": "Vlašim Win",
+    "outcome": "Won"
   },
   {
     "id": 1610626,
@@ -20,8 +44,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Vykan Win",
-    "outcome": "Lost"
+    "prediction": "Dukla Praha Win",
+    "outcome": "Won"
   },
   {
     "id": 1610615,
@@ -30,9 +54,9 @@
     "homeTeam": "Sokol Hostouň",
     "awayTeam": "Kladno",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kladno Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Tallinna Kalev",
     "awayTeam": "Tartu Kalev",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tallinna Kalev Win",
     "outcome": "Won"
   },
   {
@@ -89,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Trans Narva",
     "awayTeam": "Kompanii Marjamaa",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Trans Narva Win",
@@ -102,7 +126,7 @@
     "homeTeam": "Poseidon",
     "awayTeam": "Kalju Nomme",
     "homeScore": 0,
-    "awayScore": 4,
+    "awayScore": 8,
     "status": "FT",
     "prediction": "Kalju Nomme Win",
     "outcome": "Won"
@@ -113,30 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Bodo/Glimt",
     "awayTeam": "Union St. Gilloise",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598639,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Portimonense U23",
-    "awayTeam": "Penafiel U23",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1583705,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Vaerlose",
-    "awayTeam": "Såby",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
