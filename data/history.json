@@ -1,5 +1,53 @@
 [
   {
+    "id": 1620968,
+    "league": "Calcutta Premier Division (India)",
+    "matchDate": "FT",
+    "homeTeam": "Calcutta Customs",
+    "awayTeam": "Kalighat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607635,
+    "league": "Australia Cup",
+    "matchDate": "FT",
+    "homeTeam": "SD Raiders",
+    "awayTeam": "Macarthur",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607633,
+    "league": "Australia Cup",
+    "matchDate": "FT",
+    "homeTeam": "Lions",
+    "awayTeam": "Melbourne City",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1567326,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Adelaide United",
+    "awayTeam": "Công An Nhân Dân",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1582813,
     "league": "AFC Challenge League (World)",
     "matchDate": "FT",
@@ -17,8 +65,8 @@
     "matchDate": "FT",
     "homeTeam": "Ulaanbaatar",
     "awayTeam": "Hang Yuen",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Hang Yuen Win",
     "outcome": "Won"
@@ -32,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1603317,
@@ -44,8 +92,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Tigres UANL W Win",
-    "outcome": "Won"
+    "prediction": "León W Win",
+    "outcome": "Lost"
   },
   {
     "id": 1601399,
@@ -80,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Union Santa Fe Win",
-    "outcome": "Lost"
+    "prediction": "Central Cordoba de Santiago Win",
+    "outcome": "Won"
   },
   {
     "id": 1603316,
@@ -93,54 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Toluca W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1522428,
-    "league": "Brasileiro Women (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "America Mineiro W",
-    "awayTeam": "Flamengo W",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519443,
-    "league": "Liga Pro (Ecuador)",
-    "matchDate": "FT",
-    "homeTeam": "Deportivo Cuenca",
-    "awayTeam": "Manta FC",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Manta FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1505483,
-    "league": "Primera División (Chile)",
-    "matchDate": "FT",
-    "homeTeam": "A. Italiano",
-    "awayTeam": "Nublense",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1543977,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Gremio U17",
-    "awayTeam": "Botafogo U17",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Botafogo U17 Win",
     "outcome": "Won"
   }
 ]
