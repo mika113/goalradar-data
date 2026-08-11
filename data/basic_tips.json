@@ -1,30 +1,12 @@
 [
   {
-    "id": 1605371,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:15",
-    "homeTeam": "Celje",
-    "awayTeam": "Ararat-Armenia",
-    "prediction": "Celje Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1607173,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "21:15",
-    "homeTeam": "Slovan Bratislava",
-    "awayTeam": "Mjallby AIF",
-    "prediction": "Slovan Bratislava Win",
-    "odds": "1.82"
-  },
-  {
     "id": 1607174,
     "league": "UEFA Champions League (World)",
     "matchTime": "21:30",
     "homeTeam": "Sturm Graz",
     "awayTeam": "Fenerbahçe",
-    "prediction": "Sturm Graz Win",
-    "odds": "1.54"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.08"
   },
   {
     "id": 1598828,
@@ -32,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Lyon",
     "awayTeam": "Sparta Praha",
-    "prediction": "Lyon Win",
-    "odds": "1.33"
+    "prediction": "Both Teams To Score",
+    "odds": "2.15"
   },
   {
     "id": 1597277,
@@ -41,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Wimborne Town",
     "awayTeam": "Chichester City",
-    "prediction": "Chichester City Win",
-    "odds": "3.16"
+    "prediction": "Wimborne Town Win",
+    "odds": "1.59"
   },
   {
     "id": 1543975,
@@ -50,7 +32,25 @@
     "matchTime": "21:45",
     "homeTeam": "Flamengo RJ U17",
     "awayTeam": "Corinthians U17",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "Flamengo RJ U17 Win",
+    "odds": "1.73"
+  },
+  {
+    "id": 1564814,
+    "league": "Championship (Northern-Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Annagh United",
+    "awayTeam": "Rathfriland",
+    "prediction": "Annagh United Win",
+    "odds": "1.62"
+  },
+  {
+    "id": 1564815,
+    "league": "Championship (Northern-Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Ards",
+    "awayTeam": "Dundela",
+    "prediction": "Ards Win",
+    "odds": "1.62"
   }
 ]
