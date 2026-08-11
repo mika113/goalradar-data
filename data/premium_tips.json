@@ -1,39 +1,12 @@
 [
   {
-    "id": 1513279,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "18:00",
-    "homeTeam": "New York City II",
-    "awayTeam": "Orlando City II",
-    "prediction": "New York City II Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1567329,
-    "league": "AFC Champions League Elite (World)",
-    "matchTime": "18:00",
-    "homeTeam": "Pakhtakor",
-    "awayTeam": "Al Hussein",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
-  },
-  {
-    "id": 1571503,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "18:00",
-    "homeTeam": "CSKA Sofia II",
-    "awayTeam": "Hebar 1918",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.95"
-  },
-  {
     "id": 1605325,
     "league": "Cup (Estonia)",
     "matchTime": "18:00",
     "homeTeam": "Laagri",
     "awayTeam": "Tamper",
     "prediction": "Laagri Win",
-    "odds": "1.5"
+    "odds": "1.83"
   },
   {
     "id": 1611012,
@@ -41,8 +14,8 @@
     "matchTime": "18:00",
     "homeTeam": "Snina",
     "awayTeam": "Humenné",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Snina Win",
+    "odds": "1.78"
   },
   {
     "id": 1517240,
@@ -50,8 +23,8 @@
     "matchTime": "18:30",
     "homeTeam": "JJK",
     "awayTeam": "Tampere United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "JJK Win",
+    "odds": "1.68"
   },
   {
     "id": 1517241,
@@ -59,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "PKKU",
     "awayTeam": "Inter Turku II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "PKKU Win",
+    "odds": "1.69"
   },
   {
     "id": 1517242,
@@ -68,8 +41,8 @@
     "matchTime": "18:30",
     "homeTeam": "Rops",
     "awayTeam": "KuPS Akatemia",
-    "prediction": "KuPS Akatemia Win",
-    "odds": "1.62"
+    "prediction": "Rops Win & Over 1.5",
+    "odds": "1.98"
   },
   {
     "id": 1517243,
@@ -77,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "TPV",
     "awayTeam": "SalPa",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.93"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1560912,
@@ -86,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Kvant",
     "awayTeam": "Ryazan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Kvant Win",
+    "odds": "1.51"
   },
   {
     "id": 1603450,
@@ -95,8 +68,8 @@
     "matchTime": "18:30",
     "homeTeam": "Kuřim",
     "awayTeam": "Prostějov",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Kuřim Win",
+    "odds": "1.63"
   },
   {
     "id": 1603455,
@@ -104,7 +77,34 @@
     "matchTime": "18:30",
     "homeTeam": "Valašské Meziříčí",
     "awayTeam": "Uničov",
-    "prediction": "Uničov Win",
-    "odds": "2.52"
+    "prediction": "Valašské Meziříčí Win",
+    "odds": "1.38"
+  },
+  {
+    "id": 1549125,
+    "league": "Division 1 (Kuwait)",
+    "matchTime": "19:00",
+    "homeTeam": "Yarmouk",
+    "awayTeam": "Burgan",
+    "prediction": "Double Chance 1X",
+    "odds": "1.41"
+  },
+  {
+    "id": 1567327,
+    "league": "AFC Champions League Elite (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Al-Jazira",
+    "awayTeam": "Al-Ittihad FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.28"
+  },
+  {
+    "id": 1583678,
+    "league": "DBU Pokalen (Denmark)",
+    "matchTime": "19:00",
+    "homeTeam": "Frederiksholm Sydhavnen",
+    "awayTeam": "Tårnby FF",
+    "prediction": "Frederiksholm Sydhavnen Win",
+    "odds": "1.98"
   }
 ]
