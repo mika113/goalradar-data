@@ -1,39 +1,12 @@
 [
   {
-    "id": 1517241,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "PKKU",
-    "awayTeam": "Inter Turku II",
-    "prediction": "PKKU Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1517242,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "Rops",
-    "awayTeam": "KuPS Akatemia",
-    "prediction": "Rops Win",
-    "odds": "1.64"
-  },
-  {
-    "id": 1517243,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "18:30",
-    "homeTeam": "TPV",
-    "awayTeam": "SalPa",
-    "prediction": "TPV Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1560912,
     "league": "Cup (Russia)",
     "matchTime": "18:30",
     "homeTeam": "Kvant",
     "awayTeam": "Ryazan",
-    "prediction": "Both Teams To Score",
-    "odds": "1.79"
+    "prediction": "Double Chance X2",
+    "odds": "1.59"
   },
   {
     "id": 1603450,
@@ -42,7 +15,7 @@
     "homeTeam": "Kuřim",
     "awayTeam": "Prostějov",
     "prediction": "Kuřim Win",
-    "odds": "1.43"
+    "odds": "1.81"
   },
   {
     "id": 1603455,
@@ -51,7 +24,7 @@
     "homeTeam": "Valašské Meziříčí",
     "awayTeam": "Uničov",
     "prediction": "Valašské Meziříčí Win",
-    "odds": "1.74"
+    "odds": "1.3"
   },
   {
     "id": 1549125,
@@ -59,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Yarmouk",
     "awayTeam": "Burgan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
+    "prediction": "Burgan Win",
+    "odds": "2.72"
   },
   {
     "id": 1567327,
@@ -68,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Al-Jazira",
     "awayTeam": "Al-Ittihad FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "prediction": "Both Teams To Score",
+    "odds": "1.9"
   },
   {
     "id": 1583678,
@@ -78,7 +51,7 @@
     "homeTeam": "Frederiksholm Sydhavnen",
     "awayTeam": "Tårnby FF",
     "prediction": "Frederiksholm Sydhavnen Win",
-    "odds": "1.31"
+    "odds": "1.93"
   },
   {
     "id": 1583705,
@@ -86,7 +59,34 @@
     "matchTime": "19:00",
     "homeTeam": "Vaerlose",
     "awayTeam": "Såby",
-    "prediction": "Såby Win",
-    "odds": "2.27"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
+  },
+  {
+    "id": 1598639,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "19:00",
+    "homeTeam": "Portimonense U23",
+    "awayTeam": "Penafiel U23",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
+  },
+  {
+    "id": 1605320,
+    "league": "Cup (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Poseidon",
+    "awayTeam": "Kalju Nomme",
+    "prediction": "Poseidon Win",
+    "odds": "1.37"
+  },
+  {
+    "id": 1605321,
+    "league": "Cup (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Trans Narva",
+    "awayTeam": "Kompanii Marjamaa",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   }
 ]
