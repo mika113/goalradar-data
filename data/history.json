@@ -6,6 +6,18 @@
     "homeTeam": "Livyi Bereh U19",
     "awayTeam": "Dynamo Kyiv U19",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Dynamo Kyiv U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607191,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Broke Boys",
+    "awayTeam": "Dinamo Kirov",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -29,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Kaluga",
     "awayTeam": "Iskra Smolensk",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Kaluga Win",
+    "outcome": "Won"
   },
   {
     "id": 1560905,
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1569333,
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Irtysh Omsk",
     "awayTeam": "Saturn Ramenskoye",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Irtysh Omsk Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Veres Rivne U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611735,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Obolon' Kyiv U19",
-    "awayTeam": "Karpaty Lviv U19",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Karpaty Lviv U19 Win",
     "outcome": "Won"
   }
 ]
