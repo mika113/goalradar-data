@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Police n/Metují",
     "awayTeam": "Viktoria Žižkov",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Přepeře",
     "awayTeam": "Ústí nad Orlicí",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ústí nad Orlicí Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1610624,
+    "league": "Cup (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Turnov",
+    "awayTeam": "Baník Souš",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1610622,
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Pribram",
     "awayTeam": "Písek",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Spartak Pribram Win",
     "outcome": "Won"
   },
   {
@@ -72,6 +84,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1610618,
+    "league": "Cup (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Meteor Praha",
+    "awayTeam": "Sokol Brozany",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1610617,
     "league": "Cup (Czech-Republic)",
     "matchDate": "FT",
@@ -81,7 +105,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1610616,
+    "league": "Cup (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Klasterec n. Oh.",
+    "awayTeam": "Neratovice-Byškovice",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1610614,
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Komárov",
     "awayTeam": "Jiskra Domažlice",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610611,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Doubravka",
-    "awayTeam": "Motorlet Praha",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Motorlet Praha Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610610,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Chlumec nad Cidlinou",
-    "awayTeam": "Admira Praha",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610608,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Brandýs nad Labem",
-    "awayTeam": "Varnsdorf",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
