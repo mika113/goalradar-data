@@ -1,5 +1,29 @@
 [
   {
+    "id": 1560910,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Kaluga",
+    "awayTeam": "Iskra Smolensk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560905,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Amkar",
+    "awayTeam": "Pobeda Nizhniy Novgorod",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1569333,
     "league": "AFC Champions League Two (World)",
     "matchDate": "FT",
@@ -80,8 +104,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Lviv U19 Win",
-    "outcome": "Lost"
+    "prediction": "Veres Rivne U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1611735,
@@ -104,8 +128,8 @@
     "homeScore": 6,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kolos Kovalivka U19 Win",
-    "outcome": "Lost"
+    "prediction": "Rukh Vynnyky U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1607646,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611736,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Oleksandria U19",
-    "awayTeam": "Metalist 1925 U19",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Oleksandria U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607644,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Dinamo Barnaul",
-    "awayTeam": "Dinamo Vladivostok",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
