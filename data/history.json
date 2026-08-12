@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1612592,
@@ -30,9 +30,9 @@
     "homeTeam": "Malaga",
     "awayTeam": "Fulham",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Fulham Win",
     "outcome": "Won"
   },
   {
@@ -41,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "San Martin Formosa",
     "awayTeam": "Sportivo Belgrano",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "San Martin Formosa Win",
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Boavista SC",
     "awayTeam": "CFRJ / Maricá",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Boavista SC Win",
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Estoril U23",
     "awayTeam": "Gil Vicente U23",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Estoril U23 Win",
-    "outcome": "Lost"
+    "prediction": "Gil Vicente U23 Win",
+    "outcome": "Won"
   },
   {
     "id": 1598606,
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Napoli",
     "awayTeam": "Aris Thessalonikis",
-    "homeScore": 2,
+    "homeScore": 5,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Napoli Win",
-    "outcome": "Won"
+    "prediction": "Aris Thessalonikis Win",
+    "outcome": "Lost"
   },
   {
     "id": 1591931,
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Aston Villa",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Paris Saint Germain Win",
     "outcome": "Won"
   },
   {
@@ -114,9 +114,9 @@
     "homeTeam": "Magallanes",
     "awayTeam": "Cobreloa",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Magallanes Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -138,9 +138,9 @@
     "homeTeam": "Hamilton Academical",
     "awayTeam": "Celtic II",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Celtic II Win",
     "outcome": "Won"
   }
 ]
