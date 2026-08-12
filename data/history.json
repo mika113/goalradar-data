@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Iteno",
     "awayTeam": "Club Guarani",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Sportivo Iteno Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Malaga",
     "awayTeam": "Fulham",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Fulham Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -44,8 +44,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sportivo Belgrano Win",
-    "outcome": "Lost"
+    "prediction": "San Martin Formosa Win",
+    "outcome": "Won"
   },
   {
     "id": 1601489,
@@ -56,8 +56,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CFRJ / Maricá Win",
-    "outcome": "Lost"
+    "prediction": "Boavista SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1598635,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Estoril U23",
     "awayTeam": "Gil Vicente U23",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Gil Vicente U23 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Napoli",
     "awayTeam": "Aris Thessalonikis",
-    "homeScore": 5,
+    "homeScore": 6,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Napoli Win",
