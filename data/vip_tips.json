@@ -1,21 +1,12 @@
 [
   {
-    "id": 1581062,
-    "league": "Oberliga - Hessen (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "Rot-Weiß Walldorf",
-    "awayTeam": "Darmstadt 98 II",
-    "prediction": "Rot-Weiß Walldorf Win",
-    "odds": "1.53"
-  },
-  {
     "id": 1581063,
     "league": "Oberliga - Hessen (Germany)",
     "matchTime": "20:00",
     "homeTeam": "Vfb Marburg",
     "awayTeam": "Eintracht Stadtallendorf",
-    "prediction": "Vfb Marburg Win",
-    "odds": "1.77"
+    "prediction": "Eintracht Stadtallendorf Win",
+    "odds": "3.45"
   },
   {
     "id": 1586505,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "SSV Jeddeloh",
     "awayTeam": "St. Pauli II",
-    "prediction": "St. Pauli II Win",
-    "odds": "2.12"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
   },
   {
     "id": 1586507,
@@ -32,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Eintracht Norderstedt",
     "awayTeam": "Kickers Emden",
-    "prediction": "Eintracht Norderstedt Win",
-    "odds": "1.37"
+    "prediction": "Kickers Emden Win",
+    "odds": "1.76"
   },
   {
     "id": 1598869,
@@ -41,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Schott Mainz",
     "awayTeam": "Cosmos Koblenz",
-    "prediction": "Cosmos Koblenz Win",
-    "odds": "2.17"
+    "prediction": "Double Chance X2",
+    "odds": "1.77"
   },
   {
     "id": 1600984,
@@ -50,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Gottne",
     "awayTeam": "IFK Östersund",
-    "prediction": "IFK Östersund Win",
-    "odds": "2.47"
+    "prediction": "Gottne Win",
+    "odds": "1.58"
   },
   {
     "id": 1600985,
@@ -59,8 +50,8 @@
     "matchTime": "20:00",
     "homeTeam": "IFK Luleå",
     "awayTeam": "Boden",
-    "prediction": "Both Teams To Score",
-    "odds": "1.89"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
   },
   {
     "id": 1600986,
@@ -68,7 +59,16 @@
     "matchTime": "20:00",
     "homeTeam": "Lucksta",
     "awayTeam": "Kubikenborg",
-    "prediction": "Lucksta Win",
-    "odds": "1.83"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.74"
+  },
+  {
+    "id": 1604206,
+    "league": "Oberliga - Bremen (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Aumund-Vegesack",
+    "awayTeam": "BTS Neustadt",
+    "prediction": "BTS Neustadt Win",
+    "odds": "2.6"
   }
 ]
