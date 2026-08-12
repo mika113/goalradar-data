@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Znamya Noginsk",
     "awayTeam": "Dinamo Bryansk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Znamya Noginsk Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Veres Rivne U19 Win",
-    "outcome": "Won"
+    "prediction": "Lviv U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1611735,
@@ -92,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Karpaty Lviv U19 Win",
-    "outcome": "Won"
+    "prediction": "Obolon' Kyiv U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1611737,
@@ -114,9 +114,9 @@
     "homeTeam": "KDV",
     "awayTeam": "Novosibirsk",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Novosibirsk Win",
     "outcome": "Won"
   },
   {
@@ -141,6 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   }
 ]
