@@ -1,14 +1,26 @@
 [
   {
+    "id": 1560918,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Volna Nizhegorodskaya",
+    "awayTeam": "Tyumen",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Tyumen Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1606510,
     "league": "Cup (Russia)",
     "matchDate": "FT",
     "homeTeam": "Avangard Kursk",
     "awayTeam": "Kristall MEZ",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Pardubice U19",
     "awayTeam": "Teplice U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Pardubice U19 Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Weston Bears",
     "awayTeam": "Adamstown Rosebuds",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Weston Bears Win",
     "outcome": "Won"
   },
   {
@@ -66,10 +78,10 @@
     "homeTeam": "Kahibah",
     "awayTeam": "Maitland",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Kahibah Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607634,
@@ -102,7 +114,7 @@
     "homeTeam": "Brunswick Juventus FC",
     "awayTeam": "Preston Lions",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Preston Lions Win",
     "outcome": "Won"
@@ -114,9 +126,9 @@
     "homeTeam": "APIA Leichhardt Tigers",
     "awayTeam": "Sydney United",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "APIA Leichhardt Tigers Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Police",
     "awayTeam": "Wari",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611864,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "SK Metalurh U19",
-    "awayTeam": "Zhytomyr U19",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
