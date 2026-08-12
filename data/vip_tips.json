@@ -1,21 +1,12 @@
 [
   {
-    "id": 1619531,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "Morocco W",
-    "awayTeam": "Cameroon W",
-    "prediction": "Morocco W Win",
-    "odds": "1.97"
-  },
-  {
     "id": 1511646,
     "league": "Primera B (Chile)",
     "matchTime": "01:00",
     "homeTeam": "Recoleta",
     "awayTeam": "Rangers de Talca",
-    "prediction": "Recoleta Win",
-    "odds": "1.99"
+    "prediction": "Both Teams To Score",
+    "odds": "1.8"
   },
   {
     "id": 1547762,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Palmeiras",
     "awayTeam": "Cerro Porteno",
-    "prediction": "Palmeiras Win",
-    "odds": "1.57"
+    "prediction": "Cerro Porteno Win",
+    "odds": "2.16"
   },
   {
     "id": 1547763,
@@ -32,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Platense",
     "awayTeam": "Coquimbo Unido",
-    "prediction": "Platense Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.39"
   },
   {
     "id": 1606077,
@@ -41,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Tigre",
     "awayTeam": "Atletico Torque",
-    "prediction": "Atletico Torque Win",
-    "odds": "3.44"
+    "prediction": "Tigre Win",
+    "odds": "1.31"
   },
   {
     "id": 1606270,
@@ -50,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Grêmio Anápolis",
     "awayTeam": "Tupy FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.33"
+    "prediction": "Grêmio Anápolis Win & Over 1.5",
+    "odds": "1.83"
   },
   {
     "id": 1607197,
@@ -59,8 +50,8 @@
     "matchTime": "01:00",
     "homeTeam": "RB Bragantino",
     "awayTeam": "Atletico-MG",
-    "prediction": "RB Bragantino Win",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.57"
   },
   {
     "id": 1610884,
@@ -68,7 +59,16 @@
     "matchTime": "01:00",
     "homeTeam": "Quixadá U20",
     "awayTeam": "Fortaleza U20",
-    "prediction": "Quixadá U20 Win",
-    "odds": "1.51"
+    "prediction": "Fortaleza U20 Win",
+    "odds": "2.95"
+  },
+  {
+    "id": 1549145,
+    "league": "Copa Argentina",
+    "matchTime": "01:15",
+    "homeTeam": "Atletico Tucuman",
+    "awayTeam": "Independiente",
+    "prediction": "Independiente Win",
+    "odds": "1.63"
   }
 ]
