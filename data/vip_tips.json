@@ -1,21 +1,12 @@
 [
   {
-    "id": 1569333,
-    "league": "AFC Champions League Two (World)",
-    "matchTime": "16:30",
-    "homeTeam": "East Bengal II",
-    "awayTeam": "Al Arabi",
-    "prediction": "Al Arabi Win",
-    "odds": "2.13"
-  },
-  {
     "id": 1560905,
     "league": "Cup (Russia)",
     "matchTime": "17:00",
     "homeTeam": "Amkar",
     "awayTeam": "Pobeda Nizhniy Novgorod",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
+    "prediction": "Amkar Win",
+    "odds": "1.55"
   },
   {
     "id": 1560910,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Kaluga",
     "awayTeam": "Iskra Smolensk",
-    "prediction": "Iskra Smolensk Win",
-    "odds": "3.02"
+    "prediction": "Kaluga Win",
+    "odds": "1.5"
   },
   {
     "id": 1606509,
@@ -32,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Shumbrat",
     "awayTeam": "2Drots",
-    "prediction": "2Drots Win",
-    "odds": "2.15"
+    "prediction": "Shumbrat Win",
+    "odds": "1.65"
   },
   {
     "id": 1607191,
@@ -41,7 +32,7 @@
     "matchTime": "17:00",
     "homeTeam": "Broke Boys",
     "awayTeam": "Dinamo Kirov",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "Both Teams To Score",
     "odds": "2.05"
   },
   {
@@ -50,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Livyi Bereh U19",
     "awayTeam": "Dynamo Kyiv U19",
-    "prediction": "Dynamo Kyiv U19 Win",
-    "odds": "3.19"
+    "prediction": "Both Teams To Score",
+    "odds": "2.18"
   },
   {
     "id": 1606449,
@@ -59,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "Fundacion Amigos",
     "awayTeam": "Costa Brava",
-    "prediction": "Fundacion Amigos Win",
-    "odds": "1.89"
+    "prediction": "Both Teams To Score",
+    "odds": "2.1"
   },
   {
     "id": 1612529,
@@ -68,7 +59,16 @@
     "matchTime": "17:30",
     "homeTeam": "CSM Adjud",
     "awayTeam": "Sporting Lieşti",
-    "prediction": "Sporting Lieşti Win",
-    "odds": "3.12"
+    "prediction": "CSM Adjud Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1612530,
+    "league": "Cupa României (Romania)",
+    "matchTime": "17:30",
+    "homeTeam": "Agricola Borcea",
+    "awayTeam": "Unirea Slobozia",
+    "prediction": "Agricola Borcea Win & Over 1.5",
+    "odds": "2.91"
   }
 ]
