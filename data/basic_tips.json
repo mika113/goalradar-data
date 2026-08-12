@@ -1,21 +1,12 @@
 [
   {
-    "id": 1548051,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "19:15",
-    "homeTeam": "Newcastle",
-    "awayTeam": "Everton",
-    "prediction": "Newcastle Win",
-    "odds": "1.43"
-  },
-  {
     "id": 1560917,
     "league": "Cup (Russia)",
     "matchTime": "19:30",
     "homeTeam": "Volgar Astrakhan",
     "awayTeam": "Pobeda",
-    "prediction": "Volgar Astrakhan Win",
-    "odds": "1.34"
+    "prediction": "Pobeda Win",
+    "odds": "1.93"
   },
   {
     "id": 1581056,
@@ -23,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "FC Gießen",
     "awayTeam": "Hadamar",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.91"
+    "prediction": "Hadamar Win",
+    "odds": "2.78"
   },
   {
     "id": 1581059,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Fernwald",
     "awayTeam": "TuBa Pohlheim",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
+    "prediction": "TuBa Pohlheim Win",
+    "odds": "2.84"
   },
   {
     "id": 1586502,
@@ -41,8 +32,8 @@
     "matchTime": "19:30",
     "homeTeam": "Eimsbütteler TV",
     "awayTeam": "Schöningen",
-    "prediction": "Eimsbütteler TV Win",
-    "odds": "1.48"
+    "prediction": "Double Chance X2",
+    "odds": "1.43"
   },
   {
     "id": 1586504,
@@ -50,7 +41,16 @@
     "matchTime": "19:30",
     "homeTeam": "HSC Hannover",
     "awayTeam": "Atlas Delmenhorst",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
+  },
+  {
+    "id": 1598605,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "19:30",
+    "homeTeam": "FSV Frankfurt",
+    "awayTeam": "Eintracht Frankfurt",
+    "prediction": "FSV Frankfurt Win",
+    "odds": "1.55"
   }
 ]
