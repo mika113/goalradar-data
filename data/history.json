@@ -18,9 +18,9 @@
     "homeTeam": "Szekszárd",
     "awayTeam": "Kaposvar",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kaposvar Win",
     "outcome": "Won"
   },
   {
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Iváncsa Win",
-    "outcome": "Lost"
+    "prediction": "Budaörs Win",
+    "outcome": "Won"
   },
   {
     "id": 1594565,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1594329,
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Monori Se",
     "awayTeam": "Dabas",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Monori Se Win",
     "outcome": "Won"
   },
   {
@@ -93,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1594325,
@@ -101,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "BKV Előre",
     "awayTeam": "Gyulai Termál",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Gyulai Termál Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
