@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "Oleksandria U19",
     "awayTeam": "Metalist 1925 U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Metalist 1925 U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607644,
@@ -102,7 +102,7 @@
     "homeTeam": "Charlestown City Blues",
     "awayTeam": "Edgeworth Eagles",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Edgeworth Eagles Win",
     "outcome": "Won"
@@ -132,15 +132,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1623060,
+    "id": 1623061,
     "league": "Calcutta Premier Division (India)",
     "matchDate": "FT",
-    "homeTeam": "United",
-    "awayTeam": "Calcutta Police",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeTeam": "Measurers",
+    "awayTeam": "Rainbow",
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "United Win",
+    "prediction": "Measurers Win",
     "outcome": "Won"
   }
 ]
