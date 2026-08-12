@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560920,
@@ -54,9 +54,9 @@
     "homeTeam": "Maziya",
     "awayTeam": "Regar-TadAZ",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Regar-TadAZ Win",
     "outcome": "Won"
   },
   {
@@ -77,7 +77,7 @@
     "matchDate": "FT",
     "homeTeam": "Weston Bears",
     "awayTeam": "Adamstown Rosebuds",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Weston Bears Win",
@@ -102,7 +102,7 @@
     "homeTeam": "Kahibah",
     "awayTeam": "Maitland",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Maitland Win",
     "outcome": "Won"
@@ -128,8 +128,8 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Calcutta Police Win",
-    "outcome": "Lost"
+    "prediction": "United Win",
+    "outcome": "Won"
   },
   {
     "id": 1607632,
@@ -138,7 +138,7 @@
     "homeTeam": "Brunswick Juventus FC",
     "awayTeam": "Preston Lions",
     "homeScore": 1,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Preston Lions Win",
     "outcome": "Won"
