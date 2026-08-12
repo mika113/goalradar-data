@@ -42,10 +42,22 @@
     "homeTeam": "Brann U19",
     "awayTeam": "Vålerenga U19",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Vålerenga U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1507409,
+    "league": "Liga 3 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "WIT Georgia",
+    "awayTeam": "Margveti 2006",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1611863,
@@ -80,8 +92,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Rukh Vynnyky U19 Win",
-    "outcome": "Won"
+    "prediction": "Kolos Kovalivka U19 Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607646,
@@ -117,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560920,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Luki-Energiya Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560918,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Volna Nizhegorodskaya",
-    "awayTeam": "Tyumen",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Volna Nizhegorodskaya Win",
     "outcome": "Won"
   }
 ]
