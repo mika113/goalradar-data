@@ -1,5 +1,17 @@
 [
   {
+    "id": 1607646,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "KDV",
+    "awayTeam": "Novosibirsk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1611736,
     "league": "U19 League (Ukraine)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Metalist 1925 U19 Win",
-    "outcome": "Lost"
+    "prediction": "Oleksandria U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1607644,
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1582815,
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1623061,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "Measurers",
-    "awayTeam": "Rainbow",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Measurers Win",
     "outcome": "Won"
   }
 ]
