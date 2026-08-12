@@ -18,9 +18,9 @@
     "homeTeam": "Sportivo Iteno",
     "awayTeam": "Club Guarani",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Club Guarani Win",
     "outcome": "Won"
   },
   {
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Boavista SC",
     "awayTeam": "CFRJ / Maricá",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Boavista SC Win",
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Magallanes",
     "awayTeam": "Cobreloa",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Magallanes Win",
     "outcome": "Won"
   },
   {
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Hamilton Academical",
     "awayTeam": "Celtic II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hamilton Academical Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   }
 ]
