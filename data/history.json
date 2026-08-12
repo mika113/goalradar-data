@@ -1,14 +1,26 @@
 [
   {
+    "id": 1612592,
+    "league": "Copa Paraguay",
+    "matchDate": "FT",
+    "homeTeam": "Sportivo Iteno",
+    "awayTeam": "Club Guarani",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1618929,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Malaga",
     "awayTeam": "Fulham",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -20,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sportivo Belgrano Win",
-    "outcome": "Won"
+    "prediction": "San Martin Formosa Win",
+    "outcome": "Lost"
   },
   {
     "id": 1601489,
@@ -41,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Estoril U23",
     "awayTeam": "Gil Vicente U23",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Gil Vicente U23 Win",
     "outcome": "Won"
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Napoli",
     "awayTeam": "Aris Thessalonikis",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Aston Villa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Paris Saint Germain Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Magallanes",
     "awayTeam": "Cobreloa",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -102,9 +114,9 @@
     "homeTeam": "Gosport Borough",
     "awayTeam": "Hanworth Villa",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hanworth Villa Win",
     "outcome": "Won"
   },
   {
@@ -114,10 +126,10 @@
     "homeTeam": "Hamilton Academical",
     "awayTeam": "Celtic II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Celtic II Win",
+    "outcome": "Won"
   },
   {
     "id": 1591930,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Bayer Leverkusen",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Nottingham Forest Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606452,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Independiente De Chivilcoy",
-    "awayTeam": "Sarmiento Resistencia",
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
