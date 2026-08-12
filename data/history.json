@@ -1,5 +1,17 @@
 [
   {
+    "id": 1569333,
+    "league": "AFC Champions League Two (World)",
+    "matchDate": "FT",
+    "homeTeam": "East Bengal II",
+    "awayTeam": "Al Arabi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607194,
     "league": "Cup (Russia)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560915,
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "WIT Georgia",
     "awayTeam": "Margveti 2006",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -68,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Lviv U19 Win",
-    "outcome": "Lost"
+    "prediction": "Veres Rivne U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1611735,
@@ -89,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Rukh Vynnyky U19",
     "awayTeam": "Kolos Kovalivka U19",
-    "homeScore": 4,
+    "homeScore": 6,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Rukh Vynnyky U19 Win",
@@ -101,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "KDV",
     "awayTeam": "Novosibirsk",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Novosibirsk Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560920,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Zvezda St. Petersburg",
-    "awayTeam": "Luki-Energiya",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Luki-Energiya Win",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
