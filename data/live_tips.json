@@ -1,57 +1,12 @@
 [
   {
-    "id": 1606271,
-    "league": "Goiano - 2 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Goianésia",
-    "awayTeam": "Morrinhos",
-    "prediction": "Morrinhos Win",
-    "odds": "1.95"
-  },
-  {
-    "id": 1530148,
-    "league": "Leagues Cup (World)",
-    "matchTime": "02:30",
-    "homeTeam": "Inter Miami",
-    "awayTeam": "Leon",
-    "prediction": "Both Teams To Score",
-    "odds": "1.81"
-  },
-  {
-    "id": 1530151,
-    "league": "Leagues Cup (World)",
-    "matchTime": "02:30",
-    "homeTeam": "Orlando City SC",
-    "awayTeam": "Atletico San Luis",
-    "prediction": "Orlando City SC Win",
-    "odds": "1.38"
-  },
-  {
-    "id": 1606448,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "02:30",
-    "homeTeam": "El Linqueño",
-    "awayTeam": "Gimnasia Concepción",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
-  },
-  {
-    "id": 1606371,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "02:45",
-    "homeTeam": "9 de Julio Rafaela",
-    "awayTeam": "Gimnasia Chivilcoy",
-    "prediction": "9 de Julio Rafaela Win",
-    "odds": "1.31"
-  },
-  {
     "id": 1493940,
     "league": "USL League One (USA)",
     "matchTime": "03:00",
     "homeTeam": "Forward Madison",
     "awayTeam": "Greenville Triumph",
-    "prediction": "Forward Madison Win",
-    "odds": "1.79"
+    "prediction": "Greenville Triumph Win",
+    "odds": "2.22"
   },
   {
     "id": 1513167,
@@ -59,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Huntsville City",
     "awayTeam": "Crown Legacy",
-    "prediction": "Huntsville City Win",
-    "odds": "1.48"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.57"
   },
   {
     "id": 1526951,
@@ -68,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "Tiga Sport",
     "awayTeam": "Auckland City",
-    "prediction": "Tiga Sport Win",
-    "odds": "1.36"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.68"
   },
   {
     "id": 1530150,
@@ -77,8 +32,8 @@
     "matchTime": "03:00",
     "homeTeam": "Monterrey",
     "awayTeam": "Nashville SC",
-    "prediction": "Monterrey Win & Over 1.5",
-    "odds": "2.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.59"
   },
   {
     "id": 1606373,
@@ -86,7 +41,52 @@
     "matchTime": "03:00",
     "homeTeam": "Atenas",
     "awayTeam": "Kimberley Mar del Plata",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.77"
+  },
+  {
+    "id": 1606453,
+    "league": "Torneo Federal A (Argentina)",
+    "matchTime": "03:15",
+    "homeTeam": "San Martín Mendoza",
+    "awayTeam": "Sol de Mayo",
+    "prediction": "San Martín Mendoza Win & Over 1.5",
+    "odds": "2.88"
+  },
+  {
+    "id": 1511641,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Antofagasta",
+    "awayTeam": "Santiago Wanderers",
+    "prediction": "Santiago Wanderers Win",
+    "odds": "2.69"
+  },
+  {
+    "id": 1511648,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "San Marcos de Arica",
+    "awayTeam": "Union San Felipe",
     "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "odds": "1.59"
+  },
+  {
+    "id": 1547757,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Cruzeiro",
+    "awayTeam": "Flamengo",
+    "prediction": "Flamengo Win",
+    "odds": "3.06"
+  },
+  {
+    "id": 1589399,
+    "league": "USL League One Cup (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "San Antonio",
+    "awayTeam": "Miami FC",
+    "prediction": "Miami FC Win",
+    "odds": "2.36"
   }
 ]
