@@ -32,8 +32,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "San Martin Formosa Win",
-    "outcome": "Lost"
+    "prediction": "Sportivo Belgrano Win",
+    "outcome": "Won"
   },
   {
     "id": 1601489,
@@ -41,11 +41,11 @@
     "matchDate": "FT",
     "homeTeam": "Boavista SC",
     "awayTeam": "CFRJ / Maricá",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Boavista SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1598635,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Napoli",
     "awayTeam": "Aris Thessalonikis",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Aris Thessalonikis Win",
+    "outcome": "Lost"
   },
   {
     "id": 1591931,
@@ -78,10 +78,10 @@
     "homeTeam": "Deportivo La Coruna",
     "awayTeam": "Real Madrid",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Deportivo La Coruna Win",
+    "outcome": "Lost"
   },
   {
     "id": 1583664,
@@ -90,9 +90,9 @@
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Aston Villa",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Paris Saint Germain Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
