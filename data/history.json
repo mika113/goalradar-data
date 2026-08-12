@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Nottingham Forest",
     "awayTeam": "Bayer Leverkusen",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nottingham Forest Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Independiente De Chivilcoy",
     "awayTeam": "Sarmiento Resistencia",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sarmiento Resistencia Win",
     "outcome": "Won"
   },
   {
@@ -56,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1606375,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1606374,
@@ -117,30 +117,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1611940,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "San Martín San Juan Res.",
-    "awayTeam": "Boca Juniors Res.",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611939,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Lanús Res.",
-    "awayTeam": "Defensa y Justicia Res.",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Lanús Res. Win",
     "outcome": "Won"
   }
 ]
