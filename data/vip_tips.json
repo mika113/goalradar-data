@@ -1,57 +1,12 @@
 [
   {
-    "id": 1601489,
-    "league": "Copa Rio (Brazil)",
-    "matchTime": "22:00",
-    "homeTeam": "Boavista SC",
-    "awayTeam": "CFRJ / Maricá",
-    "prediction": "CFRJ / Maricá Win",
-    "odds": "2.25"
-  },
-  {
-    "id": 1606377,
-    "league": "Torneo Federal A (Argentina)",
-    "matchTime": "22:00",
-    "homeTeam": "San Martin Formosa",
-    "awayTeam": "Sportivo Belgrano",
-    "prediction": "San Martin Formosa Win",
-    "odds": "1.93"
-  },
-  {
-    "id": 1618929,
-    "league": "Friendlies Clubs (World)",
-    "matchTime": "22:00",
-    "homeTeam": "Malaga",
-    "awayTeam": "Fulham",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
-  },
-  {
-    "id": 1612592,
-    "league": "Copa Paraguay",
-    "matchTime": "22:30",
-    "homeTeam": "Sportivo Iteno",
-    "awayTeam": "Club Guarani",
-    "prediction": "Sportivo Iteno Win",
-    "odds": "1.74"
-  },
-  {
-    "id": 1548677,
-    "league": "Copa Ecuador",
-    "matchTime": "23:00",
-    "homeTeam": "La Unión",
-    "awayTeam": "Aucas",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
-  },
-  {
     "id": 1619531,
     "league": "Africa Cup of Nations - Women (World)",
     "matchTime": "23:00",
     "homeTeam": "Morocco W",
     "awayTeam": "Cameroon W",
-    "prediction": "Double Chance X2",
-    "odds": "1.56"
+    "prediction": "Morocco W Win & Over 1.5",
+    "odds": "2.87"
   },
   {
     "id": 1511646,
@@ -59,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Recoleta",
     "awayTeam": "Rangers de Talca",
-    "prediction": "Double Chance X2",
-    "odds": "1.21"
+    "prediction": "Recoleta Win",
+    "odds": "1.43"
   },
   {
     "id": 1547762,
@@ -68,7 +23,52 @@
     "matchTime": "01:00",
     "homeTeam": "Palmeiras",
     "awayTeam": "Cerro Porteno",
-    "prediction": "Cerro Porteno Win",
-    "odds": "2.39"
+    "prediction": "Double Chance 1X",
+    "odds": "1.53"
+  },
+  {
+    "id": 1547763,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Platense",
+    "awayTeam": "Coquimbo Unido",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
+  },
+  {
+    "id": 1606077,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Tigre",
+    "awayTeam": "Atletico Torque",
+    "prediction": "Tigre Win & Over 1.5",
+    "odds": "2.86"
+  },
+  {
+    "id": 1606270,
+    "league": "Goiano - 2 (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Grêmio Anápolis",
+    "awayTeam": "Tupy FC",
+    "prediction": "Grêmio Anápolis Win",
+    "odds": "1.96"
+  },
+  {
+    "id": 1607197,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "01:00",
+    "homeTeam": "RB Bragantino",
+    "awayTeam": "Atletico-MG",
+    "prediction": "RB Bragantino Win & Over 1.5",
+    "odds": "2.31"
+  },
+  {
+    "id": 1610884,
+    "league": "Cearense U20 (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Quixadá U20",
+    "awayTeam": "Fortaleza U20",
+    "prediction": "Fortaleza U20 Win",
+    "odds": "2.23"
   }
 ]
