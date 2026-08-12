@@ -1,5 +1,17 @@
 [
   {
+    "id": 1611736,
+    "league": "U19 League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Oleksandria U19",
+    "awayTeam": "Metalist 1925 U19",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
     "id": 1607644,
     "league": "Cup (Russia)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1560920,
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Zvezda St. Petersburg",
     "awayTeam": "Luki-Energiya",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Luki-Energiya Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +78,9 @@
     "homeTeam": "Pardubice U19",
     "awayTeam": "Teplice U19",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Teplice U19 Win",
     "outcome": "Won"
   },
   {
@@ -77,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Weston Bears",
     "awayTeam": "Adamstown Rosebuds",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Weston Bears Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "United Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607632,
-    "league": "Australia Cup",
-    "matchDate": "FT",
-    "homeTeam": "Brunswick Juventus FC",
-    "awayTeam": "Preston Lions",
-    "homeScore": 1,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Preston Lions Win",
     "outcome": "Won"
   }
 ]
