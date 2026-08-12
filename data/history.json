@@ -1,14 +1,26 @@
 [
   {
+    "id": 1618924,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Pro Patria",
+    "awayTeam": "Gozzano",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1618922,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Nea Salamis",
     "awayTeam": "Anorthosis",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nea Salamis Win",
     "outcome": "Won"
   },
   {
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1607609,
@@ -41,6 +53,18 @@
     "matchDate": "FT",
     "homeTeam": "FC Copenhagen",
     "awayTeam": "Debreceni VSC",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "FC Copenhagen Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607196,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "FC Tosno",
+    "awayTeam": "Cherepovets",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -57,6 +81,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1605328,
+    "league": "Cup (Estonia)",
+    "matchDate": "FT",
+    "homeTeam": "Kose",
+    "awayTeam": "Tartu Welco",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Lost"
   },
   {
@@ -66,10 +102,10 @@
     "homeTeam": "Phoenix",
     "awayTeam": "Vaprus",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vaprus Win",
+    "outcome": "Won"
   },
   {
     "id": 1586500,
