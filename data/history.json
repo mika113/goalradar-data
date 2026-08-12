@@ -1,5 +1,17 @@
 [
   {
+    "id": 1611737,
+    "league": "U19 League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Rukh Vynnyky U19",
+    "awayTeam": "Kolos Kovalivka U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607646,
     "league": "Cup (Russia)",
     "matchDate": "FT",
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Volna Nizhegorodskaya",
     "awayTeam": "Tyumen",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Volna Nizhegorodskaya Win",
     "outcome": "Won"
   },
   {
@@ -80,8 +92,8 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Regar-TadAZ Win",
-    "outcome": "Won"
+    "prediction": "Maziya Win",
+    "outcome": "Lost"
   },
   {
     "id": 1565171,
@@ -128,19 +140,7 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Maitland Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607634,
-    "league": "Australia Cup",
-    "matchDate": "FT",
-    "homeTeam": "North Sunshine Eagles",
-    "awayTeam": "Heidelberg United",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Kahibah Win",
+    "outcome": "Lost"
   }
 ]
