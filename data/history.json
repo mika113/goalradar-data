@@ -6,9 +6,9 @@
     "homeTeam": "La Unión",
     "awayTeam": "Aucas",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "La Unión Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -32,8 +32,8 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1606377,
@@ -56,8 +56,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "CFRJ / Maricá Win",
-    "outcome": "Lost"
+    "prediction": "Boavista SC Win",
+    "outcome": "Won"
   },
   {
     "id": 1598635,
