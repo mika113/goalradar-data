@@ -1,15 +1,39 @@
 [
   {
+    "id": 1565117,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Zlín U19",
+    "awayTeam": "Sigma Olomouc U19",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Sigma Olomouc U19 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1537509,
+    "league": "Capital Territory NPL (Australia)",
+    "matchDate": "FT",
+    "homeTeam": "Brindabella",
+    "awayTeam": "Tuggeranong United",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Brindabella Win",
+    "outcome": "Lost"
+  },
+  {
     "id": 1618918,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "FC Cartagena",
     "awayTeam": "Orihuela",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "FC Cartagena Win",
+    "outcome": "Won"
   },
   {
     "id": 1618917,
@@ -29,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Popești-Leordeni",
     "awayTeam": "CS Dinamo București",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Popești-Leordeni Win",
@@ -56,8 +80,8 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Deportivo Saprissa Win",
-    "outcome": "Won"
+    "prediction": "Mixco Win",
+    "outcome": "Lost"
   },
   {
     "id": 1548353,
@@ -118,29 +142,5 @@
     "status": "FT",
     "prediction": "Both Teams To Score",
     "outcome": "Won"
-  },
-  {
-    "id": 1530145,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Minnesota United FC",
-    "awayTeam": "Atlante FC",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Minnesota United FC Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1548352,
-    "league": "CONCACAF Central American Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Plaza Amador",
-    "awayTeam": "Xelajú",
-    "homeScore": 5,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Xelajú Win",
-    "outcome": "Lost"
   }
 ]
