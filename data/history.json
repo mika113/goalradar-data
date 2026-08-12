@@ -1,5 +1,29 @@
 [
   {
+    "id": 1611734,
+    "league": "U19 League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Livyi Bereh U19",
+    "awayTeam": "Dynamo Kyiv U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1606509,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Shumbrat",
+    "awayTeam": "2Drots",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1560910,
     "league": "Cup (Russia)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560905,
@@ -21,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1569333,
@@ -117,30 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Karpaty Lviv U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611737,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Rukh Vynnyky U19",
-    "awayTeam": "Kolos Kovalivka U19",
-    "homeScore": 6,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rukh Vynnyky U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607646,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "KDV",
-    "awayTeam": "Novosibirsk",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
