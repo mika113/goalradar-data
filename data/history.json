@@ -1,5 +1,53 @@
 [
   {
+    "id": 1607194,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Znamya Noginsk",
+    "awayTeam": "Dinamo Bryansk",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560915,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Irtysh Omsk",
+    "awayTeam": "Saturn Ramenskoye",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560906,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Angust Nazran",
+    "awayTeam": "Druzhba",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1546422,
+    "league": "Nasjonal U19 Champions League (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Brann U19",
+    "awayTeam": "Vålerenga U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1611863,
     "league": "U19 League (Ukraine)",
     "matchDate": "FT",
@@ -56,8 +104,8 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Metalist 1925 U19 Win",
-    "outcome": "Lost"
+    "prediction": "Oleksandria U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1607644,
@@ -69,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1560920,
@@ -92,55 +140,7 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Tyumen Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1606510,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Avangard Kursk",
-    "awayTeam": "Kristall MEZ",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1582815,
-    "league": "AFC Challenge League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Maziya",
-    "awayTeam": "Regar-TadAZ",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Regar-TadAZ Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565171,
-    "league": "1. Liga U19 (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Pardubice U19",
-    "awayTeam": "Teplice U19",
-    "homeScore": 3,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Teplice U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523793,
-    "league": "Northern NSW NPL (Australia)",
-    "matchDate": "FT",
-    "homeTeam": "Weston Bears",
-    "awayTeam": "Adamstown Rosebuds",
-    "homeScore": 4,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Weston Bears Win",
+    "prediction": "Volna Nizhegorodskaya Win",
     "outcome": "Won"
   }
 ]
