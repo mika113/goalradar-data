@@ -5,11 +5,11 @@
     "matchDate": "FT",
     "homeTeam": "USV Iaşi",
     "awayTeam": "Cetatea Suceava",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "USV Iaşi Win",
+    "outcome": "Won"
   },
   {
     "id": 1612549,
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Tunari",
     "awayTeam": "Ştefăneşti",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tunari Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Timişul Şag",
     "awayTeam": "CSM Reşiţa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Timişul Şag Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1612545,
@@ -69,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1612544,
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Progresul Spartac",
     "awayTeam": "Metaloglobus",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Metaloglobus Win",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1612542,
@@ -138,9 +138,9 @@
     "homeTeam": "Corona Braşov",
     "awayTeam": "Olimpic Zărneşti",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Olimpic Zărneşti Win",
     "outcome": "Won"
   }
 ]
