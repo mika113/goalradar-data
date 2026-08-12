@@ -1,5 +1,53 @@
 [
   {
+    "id": 1598605,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "FSV Frankfurt",
+    "awayTeam": "Eintracht Frankfurt",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1586504,
+    "league": "Regionalliga - Nord (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "HSC Hannover",
+    "awayTeam": "Atlas Delmenhorst",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1586502,
+    "league": "Regionalliga - Nord (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Eimsbütteler TV",
+    "awayTeam": "Schöningen",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1560917,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Volgar Astrakhan",
+    "awayTeam": "Pobeda",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1548051,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
@@ -18,10 +66,10 @@
     "homeTeam": "SSVg Velbert",
     "awayTeam": "Borussia Mönchengladbach",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Borussia Mönchengladbach Win",
+    "outcome": "Won"
   },
   {
     "id": 1618924,
@@ -29,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Pro Patria",
     "awayTeam": "Gozzano",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pro Patria Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +114,9 @@
     "homeTeam": "GKS Katowice",
     "awayTeam": "Hapoel Tel Aviv",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hapoel Tel Aviv Win",
     "outcome": "Won"
   },
   {
@@ -89,54 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "FC Tosno",
     "awayTeam": "Cherepovets",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607195,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "FK Spartak Tambov",
-    "awayTeam": "SKA Rostov",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1605328,
-    "league": "Cup (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Kose",
-    "awayTeam": "Tartu Welco",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Kose Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1605327,
-    "league": "Cup (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Phoenix",
-    "awayTeam": "Vaprus",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Vaprus Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586500,
-    "league": "Regionalliga - Nord (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Bremer SV",
-    "awayTeam": "Phönix Lübeck",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
