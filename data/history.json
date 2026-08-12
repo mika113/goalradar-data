@@ -1,5 +1,17 @@
 [
   {
+    "id": 1548677,
+    "league": "Copa Ecuador",
+    "matchDate": "FT",
+    "homeTeam": "La Unión",
+    "awayTeam": "Aucas",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1612592,
     "league": "Copa Paraguay",
     "matchDate": "FT",
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Estoril U23 Win",
-    "outcome": "Lost"
+    "prediction": "Gil Vicente U23 Win",
+    "outcome": "Won"
   },
   {
     "id": 1598606,
@@ -116,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hanworth Villa Win",
-    "outcome": "Won"
+    "prediction": "Gosport Borough Win",
+    "outcome": "Lost"
   },
   {
     "id": 1593548,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Celtic II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1591930,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Nottingham Forest",
-    "awayTeam": "Bayer Leverkusen",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
