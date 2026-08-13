@@ -1,39 +1,12 @@
 [
   {
-    "id": 1607624,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "21:15",
-    "homeTeam": "FC Sion",
-    "awayTeam": "FC Noah",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
-  },
-  {
-    "id": 1607602,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Austria Vienna",
-    "awayTeam": "Beitar Jerusalem",
-    "prediction": "Austria Vienna Win",
-    "odds": "1.8"
-  },
-  {
-    "id": 1607608,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "21:30",
-    "homeTeam": "Gent",
-    "awayTeam": "IFK Goteborg",
-    "prediction": "Gent Win",
-    "odds": "1.55"
-  },
-  {
     "id": 1607610,
     "league": "UEFA Europa Conference League (World)",
     "matchTime": "21:30",
     "homeTeam": "Gyori ETO FC",
     "awayTeam": "Riga",
     "prediction": "Both Teams To Score",
-    "odds": "1.91"
+    "odds": "2.12"
   },
   {
     "id": 1607617,
@@ -41,8 +14,8 @@
     "matchTime": "21:30",
     "homeTeam": "Motherwell",
     "awayTeam": "HJK Helsinki",
-    "prediction": "Motherwell Win & Over 1.5",
-    "odds": "1.87"
+    "prediction": "HJK Helsinki Win",
+    "odds": "2.78"
   },
   {
     "id": 1607622,
@@ -50,8 +23,8 @@
     "matchTime": "21:45",
     "homeTeam": "Shelbourne",
     "awayTeam": "Ajax",
-    "prediction": "Double Chance 1X",
-    "odds": "1.43"
+    "prediction": "Shelbourne Win",
+    "odds": "1.8"
   },
   {
     "id": 1601389,
@@ -59,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Cariari Pococi",
     "awayTeam": "Pitbulls Santa Barbara FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Pitbulls Santa Barbara FC Win",
+    "odds": "2.79"
   },
   {
     "id": 1607604,
@@ -68,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "Dinamo Tirana",
     "awayTeam": "Auda",
-    "prediction": "Auda Win",
-    "odds": "3.27"
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   },
   {
     "id": 1607611,
@@ -78,7 +51,7 @@
     "homeTeam": "HNK Hajduk Split",
     "awayTeam": "FK Zalgiris Vilnius",
     "prediction": "HNK Hajduk Split Win",
-    "odds": "1.99"
+    "odds": "1.68"
   },
   {
     "id": 1514258,
@@ -86,7 +59,34 @@
     "matchTime": "22:15",
     "homeTeam": "Fylkir",
     "awayTeam": "Afturelding",
+    "prediction": "Fylkir Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1514259,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Grotta",
+    "awayTeam": "Njardvik",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.26"
+  },
+  {
+    "id": 1514260,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "HK Kopavogur",
+    "awayTeam": "Leiknir R.",
     "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "odds": "2.08"
+  },
+  {
+    "id": 1612593,
+    "league": "Copa Paraguay",
+    "matchTime": "22:30",
+    "homeTeam": "1 de Marzo Pilar",
+    "awayTeam": "Atlético Tembetary",
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   }
 ]
