@@ -1,39 +1,12 @@
 [
   {
-    "id": 1526596,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "Cumbayá",
-    "awayTeam": "Santo Domingo",
-    "prediction": "Cumbayá Win",
-    "odds": "1.47"
-  },
-  {
-    "id": 1526597,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "El Nacional",
-    "awayTeam": "San Antonio",
-    "prediction": "Both Teams To Score",
-    "odds": "1.92"
-  },
-  {
-    "id": 1526600,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "Cuniburo",
-    "awayTeam": "LDU Portoviejo",
-    "prediction": "Cuniburo Win",
-    "odds": "1.66"
-  },
-  {
     "id": 1607640,
     "league": "Copa Colombia",
     "matchTime": "00:00",
     "homeTeam": "Internacional de Bogota",
     "awayTeam": "Real Soacha",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
+    "prediction": "Double Chance X2",
+    "odds": "1.22"
   },
   {
     "id": 1511647,
@@ -41,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "San Luis",
     "awayTeam": "Deportes Temuco",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "San Luis Win",
+    "odds": "1.87"
   },
   {
     "id": 1547761,
@@ -50,7 +23,34 @@
     "matchTime": "01:00",
     "homeTeam": "Mirassol",
     "awayTeam": "LDU de Quito",
-    "prediction": "Mirassol Win",
-    "odds": "1.75"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.77"
+  },
+  {
+    "id": 1606076,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Santos",
+    "awayTeam": "Macara",
+    "prediction": "Macara Win",
+    "odds": "3.15"
+  },
+  {
+    "id": 1607199,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Vasco DA Gama",
+    "awayTeam": "Olimpia",
+    "prediction": "Vasco DA Gama Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1530158,
+    "league": "Leagues Cup (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Philadelphia Union",
+    "awayTeam": "Santos Laguna",
+    "prediction": "Philadelphia Union Win",
+    "odds": "1.55"
   }
 ]
