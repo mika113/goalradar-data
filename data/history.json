@@ -6,7 +6,7 @@
     "homeTeam": "Spartak Nalchik",
     "awayTeam": "Alaniya Vladikavkaz",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Alaniya Vladikavkaz Win",
     "outcome": "Won"
@@ -18,7 +18,7 @@
     "homeTeam": "Astana II",
     "awayTeam": "Tobol 2",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Tobol 2 Win",
     "outcome": "Won"
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1507403,
@@ -66,10 +66,10 @@
     "homeTeam": "Saburtalo II",
     "awayTeam": "Lokomotivi Tbilisi",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Lokomotivi Tbilisi Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1534821,
@@ -77,10 +77,22 @@
     "matchDate": "FT",
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Shakhter Karagandy",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 6,
     "status": "FT",
     "prediction": "Shakhter Karagandy Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1507407,
+    "league": "Liga 3 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Irao",
+    "awayTeam": "Gardabani",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Irao Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +102,21 @@
     "homeTeam": "Merani Tbilisi",
     "awayTeam": "Guria",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 5,
     "status": "FT",
     "prediction": "Guria Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1507402,
+    "league": "Liga 3 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Didube 2014",
+    "awayTeam": "Betlemi",
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Didube 2014 Win",
     "outcome": "Won"
   },
   {
@@ -117,30 +141,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Viking U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1623064,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "Bidhannagar",
-    "awayTeam": "Mohun Bagan",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Mohun Bagan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1623063,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "BSS Sporting",
-    "awayTeam": "Kidderpore",
-    "homeScore": 5,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "BSS Sporting Win",
     "outcome": "Won"
   }
 ]
