@@ -1,39 +1,12 @@
 [
   {
-    "id": 1611287,
-    "league": "Copa Colombia",
-    "matchTime": "03:00",
-    "homeTeam": "Alianza Valledupar",
-    "awayTeam": "Once Caldas",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
-  },
-  {
-    "id": 1511642,
-    "league": "Primera B (Chile)",
-    "matchTime": "03:30",
-    "homeTeam": "Curico Unido",
-    "awayTeam": "Deportes Santa Cruz",
-    "prediction": "Deportes Santa Cruz Win",
-    "odds": "2.06"
-  },
-  {
-    "id": 1511643,
-    "league": "Primera B (Chile)",
-    "matchTime": "03:30",
-    "homeTeam": "Deportes Iquique",
-    "awayTeam": "Deportes Copiapo",
-    "prediction": "Deportes Copiapo Win",
-    "odds": "1.98"
-  },
-  {
     "id": 1530155,
     "league": "Leagues Cup (World)",
     "matchTime": "03:30",
     "homeTeam": "Club America",
     "awayTeam": "Austin",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Both Teams To Score",
+    "odds": "1.97"
   },
   {
     "id": 1547764,
@@ -41,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "Rosario Central",
     "awayTeam": "Corinthians",
-    "prediction": "Rosario Central Win",
-    "odds": "1.47"
+    "prediction": "Corinthians Win",
+    "odds": "2.07"
   },
   {
     "id": 1607198,
@@ -50,8 +23,8 @@
     "matchTime": "03:30",
     "homeTeam": "Cienciano",
     "awayTeam": "Botafogo",
-    "prediction": "Cienciano Win",
-    "odds": "1.83"
+    "prediction": "Both Teams To Score",
+    "odds": "1.71"
   },
   {
     "id": 1530156,
@@ -60,7 +33,7 @@
     "homeTeam": "Cruz Azul",
     "awayTeam": "Chicago Fire",
     "prediction": "Cruz Azul Win",
-    "odds": "1.73"
+    "odds": "1.9"
   },
   {
     "id": 1581387,
@@ -68,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Alebrijes de Oaxaca",
     "awayTeam": "Tepatitlán",
-    "prediction": "Tepatitlán Win",
-    "odds": "3.34"
+    "prediction": "Alebrijes de Oaxaca Win",
+    "odds": "1.36"
   },
   {
     "id": 1607186,
@@ -77,8 +50,8 @@
     "matchTime": "04:00",
     "homeTeam": "Independiente Medellin",
     "awayTeam": "Deportivo Pasto",
-    "prediction": "Independiente Medellin Win",
-    "odds": "1.75"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.67"
   },
   {
     "id": 1548358,
@@ -86,8 +59,8 @@
     "matchTime": "05:00",
     "homeTeam": "Antigua GFC",
     "awayTeam": "CD Marathon",
-    "prediction": "Double Chance 1X",
-    "odds": "1.23"
+    "prediction": "Antigua GFC Win",
+    "odds": "1.32"
   },
   {
     "id": 1548359,
@@ -96,7 +69,7 @@
     "homeTeam": "Firpo",
     "awayTeam": "Diriangén",
     "prediction": "Firpo Win",
-    "odds": "1.64"
+    "odds": "1.69"
   },
   {
     "id": 1530159,
@@ -105,6 +78,33 @@
     "homeTeam": "Portland Timbers",
     "awayTeam": "Club Tijuana",
     "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "odds": "1.39"
+  },
+  {
+    "id": 1549364,
+    "league": "Npl Nsw U20 (Australia)",
+    "matchTime": "10:30",
+    "homeTeam": "Sydney FC U20",
+    "awayTeam": "St. George City U20",
+    "prediction": "Sydney FC U20 Win",
+    "odds": "1.97"
+  },
+  {
+    "id": 1519126,
+    "league": "Youth Championship (Russia)",
+    "matchTime": "11:00",
+    "homeTeam": "Ural U20",
+    "awayTeam": "Rostov U19",
+    "prediction": "Ural U20 Win",
+    "odds": "1.81"
+  },
+  {
+    "id": 1599190,
+    "league": "Central Youth League (Poland)",
+    "matchTime": "11:00",
+    "homeTeam": "Arkonia U19",
+    "awayTeam": "Górnik Zabrze U19",
+    "prediction": "Górnik Zabrze U19 Win",
+    "odds": "2.94"
   }
 ]
