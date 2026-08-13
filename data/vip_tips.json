@@ -1,39 +1,12 @@
 [
   {
-    "id": 1607181,
-    "league": "UEFA Europa League (World)",
-    "matchTime": "22:45",
-    "homeTeam": "KI Klaksvik",
-    "awayTeam": "Lech Poznan",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
-  },
-  {
-    "id": 1607619,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:30",
-    "homeTeam": "NSI Runavik",
-    "awayTeam": "FC Lugano",
-    "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
-    "id": 1607629,
-    "league": "UEFA Europa Conference League (World)",
-    "matchTime": "20:30",
-    "homeTeam": "FC Vaduz",
-    "awayTeam": "Inter Turku",
-    "prediction": "Both Teams To Score",
-    "odds": "2.12"
-  },
-  {
     "id": 1511187,
     "league": "Division 2 - Södra Svealand (Sweden)",
     "matchTime": "21:00",
     "homeTeam": "Sleipner",
     "awayTeam": "Lindo FF",
-    "prediction": "Sleipner Win",
-    "odds": "1.37"
+    "prediction": "Both Teams To Score",
+    "odds": "1.84"
   },
   {
     "id": 1514255,
@@ -41,8 +14,8 @@
     "matchTime": "21:00",
     "homeTeam": "Ægir",
     "awayTeam": "Völsungur",
-    "prediction": "Ægir Win",
-    "odds": "1.56"
+    "prediction": "Double Chance X2",
+    "odds": "1.67"
   },
   {
     "id": 1514256,
@@ -50,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Grindavik",
     "awayTeam": "Throttur Reykjavik",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.64"
+    "prediction": "Throttur Reykjavik Win",
+    "odds": "2.07"
   },
   {
     "id": 1514257,
@@ -59,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Vestri",
     "awayTeam": "IR Reykjavik",
-    "prediction": "IR Reykjavik Win",
-    "odds": "2.64"
+    "prediction": "Both Teams To Score",
+    "odds": "2.02"
   },
   {
     "id": 1547429,
@@ -68,7 +41,34 @@
     "matchTime": "21:00",
     "homeTeam": "América-SP U20",
     "awayTeam": "Portuguesa Santista U20",
-    "prediction": "Double Chance X2",
-    "odds": "1.66"
+    "prediction": "América-SP U20 Win",
+    "odds": "1.54"
+  },
+  {
+    "id": 1591932,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "21:00",
+    "homeTeam": "Gimnastic",
+    "awayTeam": "Huesca",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1602973,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "21:00",
+    "homeTeam": "Al Diriyah",
+    "awayTeam": "Al-Ahli Jeddah",
+    "prediction": "Al Diriyah Win",
+    "odds": "1.92"
+  },
+  {
+    "id": 1602974,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "21:00",
+    "homeTeam": "Al Shabab",
+    "awayTeam": "Al-Qadisiyah FC",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.72"
   }
 ]
