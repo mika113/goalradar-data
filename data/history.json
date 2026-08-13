@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Spartak Nalchik",
     "awayTeam": "Alaniya Vladikavkaz",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Alaniya Vladikavkaz Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -78,7 +78,7 @@
     "homeTeam": "Surkhon",
     "awayTeam": "Sogdiana",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sogdiana Win",
     "outcome": "Won"
@@ -90,10 +90,10 @@
     "homeTeam": "Andijan",
     "awayTeam": "Neftchi",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Andijan Win",
-    "outcome": "Lost"
+    "prediction": "Neftchi Win",
+    "outcome": "Won"
   },
   {
     "id": 1507403,
@@ -102,7 +102,7 @@
     "homeTeam": "Dinamo Tbilisi II",
     "awayTeam": "Iberia 2010",
     "homeScore": 4,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Dinamo Tbilisi II Win",
     "outcome": "Won"
@@ -128,8 +128,8 @@
     "homeScore": 1,
     "awayScore": 6,
     "status": "FT",
-    "prediction": "Shakhter Karagandy Win",
-    "outcome": "Won"
+    "prediction": "Aktobe Jas Win",
+    "outcome": "Lost"
   },
   {
     "id": 1507407,
@@ -140,7 +140,7 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Gardabani Win",
-    "outcome": "Lost"
+    "prediction": "Irao Win",
+    "outcome": "Won"
   }
 ]
