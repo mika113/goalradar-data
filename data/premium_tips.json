@@ -1,21 +1,12 @@
 [
   {
-    "id": 1507403,
-    "league": "Liga 3 (Georgia)",
-    "matchTime": "17:00",
-    "homeTeam": "Dinamo Tbilisi II",
-    "awayTeam": "Iberia 2010",
-    "prediction": "Dinamo Tbilisi II Win",
-    "odds": "1.92"
-  },
-  {
     "id": 1516097,
     "league": "Super League (Uzbekistan)",
     "matchTime": "17:00",
     "homeTeam": "Andijan",
     "awayTeam": "Neftchi",
     "prediction": "Neftchi Win",
-    "odds": "2.36"
+    "odds": "1.88"
   },
   {
     "id": 1516104,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Surkhon",
     "awayTeam": "Sogdiana",
-    "prediction": "Both Teams To Score",
-    "odds": "2.15"
+    "prediction": "Sogdiana Win",
+    "odds": "2.32"
   },
   {
     "id": 1534823,
@@ -32,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Astana II",
     "awayTeam": "Tobol 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.49"
+    "prediction": "Astana II Win",
+    "odds": "1.76"
   },
   {
     "id": 1560916,
@@ -41,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Spartak Nalchik",
     "awayTeam": "Alaniya Vladikavkaz",
-    "prediction": "Both Teams To Score",
-    "odds": "2.13"
+    "prediction": "Double Chance X2",
+    "odds": "1.78"
   },
   {
     "id": 1507404,
@@ -50,8 +41,8 @@
     "matchTime": "18:00",
     "homeTeam": "Gonio",
     "awayTeam": "Iveria Khashuri",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "prediction": "Gonio Win & Over 1.5",
+    "odds": "2.11"
   },
   {
     "id": 1607627,
@@ -60,7 +51,7 @@
     "homeTeam": "FK Tobol Kostanay",
     "awayTeam": "FK Partizan",
     "prediction": "FK Partizan Win",
-    "odds": "3.28"
+    "odds": "3.06"
   },
   {
     "id": 1516098,
@@ -68,8 +59,8 @@
     "matchTime": "18:30",
     "homeTeam": "Buxoro",
     "awayTeam": "Olmaliq",
-    "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.76"
   },
   {
     "id": 1541660,
@@ -77,8 +68,8 @@
     "matchTime": "19:00",
     "homeTeam": "PPJ",
     "awayTeam": "MyPa",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.1"
+    "prediction": "PPJ Win",
+    "odds": "1.82"
   },
   {
     "id": 1607613,
@@ -86,8 +77,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ilves",
     "awayTeam": "HNK Rijeka",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Ilves Win",
+    "odds": "1.71"
   },
   {
     "id": 1607614,
@@ -95,8 +86,8 @@
     "matchTime": "19:00",
     "homeTeam": "Flora Tallinn",
     "awayTeam": "Inter Club d'Escaldes",
-    "prediction": "Flora Tallinn Win & Over 1.5",
-    "odds": "1.94"
+    "prediction": "Both Teams To Score",
+    "odds": "2.14"
   },
   {
     "id": 1607620,
@@ -104,7 +95,16 @@
     "matchTime": "19:00",
     "homeTeam": "Qarabag",
     "awayTeam": "Dynamo Kyiv",
-    "prediction": "Qarabag Win",
-    "odds": "1.49"
+    "prediction": "Both Teams To Score",
+    "odds": "1.77"
+  },
+  {
+    "id": 1602972,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "19:15",
+    "homeTeam": "Abha",
+    "awayTeam": "Al-Hazm",
+    "prediction": "Abha Win",
+    "odds": "1.68"
   }
 ]
