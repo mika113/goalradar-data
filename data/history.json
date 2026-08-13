@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1546425,
@@ -80,8 +80,8 @@
     "homeScore": 5,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Kidderpore Win",
-    "outcome": "Lost"
+    "prediction": "BSS Sporting Win",
+    "outcome": "Won"
   },
   {
     "id": 1623062,
@@ -116,31 +116,7 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Vénus Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1530153,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Seattle Sounders",
-    "awayTeam": "Guadalajara Chivas",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Guadalajara Chivas Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530149,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Los Angeles FC",
-    "awayTeam": "Club Queretaro",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Central Coast Win",
     "outcome": "Won"
   }
 ]
