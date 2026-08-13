@@ -1,21 +1,12 @@
 [
   {
-    "id": 1607181,
-    "league": "UEFA Europa League (World)",
-    "matchTime": "22:45",
-    "homeTeam": "KI Klaksvik",
-    "awayTeam": "Lech Poznan",
-    "prediction": "Lech Poznan Win",
-    "odds": "2.64"
-  },
-  {
     "id": 1547790,
     "league": "Copa Ecuador",
     "matchTime": "23:00",
     "homeTeam": "Astillero FC (Ecu)",
     "awayTeam": "Daquilema FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.75"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1611946,
@@ -23,8 +14,8 @@
     "matchTime": "23:00",
     "homeTeam": "Central Córdoba SdE Res.",
     "awayTeam": "Independiente Res.",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.82"
+    "prediction": "Independiente Res. Win",
+    "odds": "3.17"
   },
   {
     "id": 1619533,
@@ -32,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "South Africa W",
     "awayTeam": "Nigeria W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "South Africa W Win",
+    "odds": "1.93"
   },
   {
     "id": 1526596,
@@ -41,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Cumbayá",
     "awayTeam": "Santo Domingo",
-    "prediction": "Santo Domingo Win",
-    "odds": "2.11"
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
   },
   {
     "id": 1526597,
@@ -50,7 +41,16 @@
     "matchTime": "23:30",
     "homeTeam": "El Nacional",
     "awayTeam": "San Antonio",
-    "prediction": "Double Chance 1X",
-    "odds": "1.46"
+    "prediction": "El Nacional Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1526600,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchTime": "23:30",
+    "homeTeam": "Cuniburo",
+    "awayTeam": "LDU Portoviejo",
+    "prediction": "Cuniburo Win",
+    "odds": "1.39"
   }
 ]
