@@ -1,21 +1,12 @@
 [
   {
-    "id": 1530159,
-    "league": "Leagues Cup (World)",
-    "matchTime": "05:30",
-    "homeTeam": "Portland Timbers",
-    "awayTeam": "Club Tijuana",
-    "prediction": "Club Tijuana Win",
-    "odds": "2.03"
-  },
-  {
     "id": 1549364,
     "league": "Npl Nsw U20 (Australia)",
     "matchTime": "10:30",
     "homeTeam": "Sydney FC U20",
     "awayTeam": "St. George City U20",
-    "prediction": "Sydney FC U20 Win",
-    "odds": "1.59"
+    "prediction": "Double Chance 1X",
+    "odds": "1.44"
   },
   {
     "id": 1519126,
@@ -23,8 +14,8 @@
     "matchTime": "11:00",
     "homeTeam": "Ural U20",
     "awayTeam": "Rostov U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.28"
+    "prediction": "Rostov U19 Win",
+    "odds": "2.61"
   },
   {
     "id": 1599190,
@@ -32,8 +23,8 @@
     "matchTime": "11:00",
     "homeTeam": "Arkonia U19",
     "awayTeam": "Górnik Zabrze U19",
-    "prediction": "Górnik Zabrze U19 Win",
-    "odds": "2.47"
+    "prediction": "Arkonia U19 Win",
+    "odds": "1.66"
   },
   {
     "id": 1618932,
@@ -41,8 +32,8 @@
     "matchTime": "11:00",
     "homeTeam": "Intercity",
     "awayTeam": "Levante II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.41"
+    "prediction": "Intercity Win & Over 1.5",
+    "odds": "2.98"
   },
   {
     "id": 1519123,
@@ -50,8 +41,8 @@
     "matchTime": "12:00",
     "homeTeam": "Nizhny Novgorod U19",
     "awayTeam": "Akademiya Konoplev U20",
-    "prediction": "Nizhny Novgorod U19 Win",
-    "odds": "1.69"
+    "prediction": "Akademiya Konoplev U20 Win",
+    "odds": "1.98"
   },
   {
     "id": 1517625,
@@ -59,8 +50,8 @@
     "matchTime": "12:30",
     "homeTeam": "Sydney FC U23",
     "awayTeam": "St George City FA",
-    "prediction": "Sydney FC U23 Win & Over 1.5",
-    "odds": "2.13"
+    "prediction": "Sydney FC U23 Win",
+    "odds": "1.59"
   },
   {
     "id": 1524095,
@@ -68,8 +59,8 @@
     "matchTime": "12:30",
     "homeTeam": "Moreton City Excelsior",
     "awayTeam": "Lions",
-    "prediction": "Lions Win",
-    "odds": "2.85"
+    "prediction": "Moreton City Excelsior Win",
+    "odds": "1.96"
   },
   {
     "id": 1524096,
@@ -78,7 +69,7 @@
     "homeTeam": "Peninsula Power",
     "awayTeam": "Brisbane City",
     "prediction": "Peninsula Power Win",
-    "odds": "1.68"
+    "odds": "1.73"
   },
   {
     "id": 1524097,
@@ -86,7 +77,16 @@
     "matchTime": "12:30",
     "homeTeam": "Brisbane Roar II",
     "awayTeam": "Gold Coast Knights",
-    "prediction": "Gold Coast Knights Win",
-    "odds": "3.46"
+    "prediction": "Brisbane Roar II Win & Over 1.5",
+    "odds": "2.4"
+  },
+  {
+    "id": 1524098,
+    "league": "Queensland NPL (Australia)",
+    "matchTime": "12:30",
+    "homeTeam": "Olympic",
+    "awayTeam": "Rochedale Rovers",
+    "prediction": "Olympic Win",
+    "odds": "1.87"
   }
 ]
