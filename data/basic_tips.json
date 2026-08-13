@@ -1,39 +1,12 @@
 [
   {
-    "id": 1547790,
-    "league": "Copa Ecuador",
-    "matchTime": "23:00",
-    "homeTeam": "Astillero FC (Ecu)",
-    "awayTeam": "Daquilema FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1611946,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "23:00",
-    "homeTeam": "Central Córdoba SdE Res.",
-    "awayTeam": "Independiente Res.",
-    "prediction": "Independiente Res. Win",
-    "odds": "3.17"
-  },
-  {
-    "id": 1619533,
-    "league": "Africa Cup of Nations - Women (World)",
-    "matchTime": "23:00",
-    "homeTeam": "South Africa W",
-    "awayTeam": "Nigeria W",
-    "prediction": "South Africa W Win",
-    "odds": "1.93"
-  },
-  {
     "id": 1526596,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchTime": "23:30",
     "homeTeam": "Cumbayá",
     "awayTeam": "Santo Domingo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Santo Domingo Win",
+    "odds": "2.07"
   },
   {
     "id": 1526597,
@@ -42,7 +15,7 @@
     "homeTeam": "El Nacional",
     "awayTeam": "San Antonio",
     "prediction": "El Nacional Win",
-    "odds": "1.9"
+    "odds": "1.95"
   },
   {
     "id": 1526600,
@@ -50,7 +23,34 @@
     "matchTime": "23:30",
     "homeTeam": "Cuniburo",
     "awayTeam": "LDU Portoviejo",
-    "prediction": "Cuniburo Win",
-    "odds": "1.39"
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1607640,
+    "league": "Copa Colombia",
+    "matchTime": "00:00",
+    "homeTeam": "Internacional de Bogota",
+    "awayTeam": "Real Soacha",
+    "prediction": "Real Soacha Win",
+    "odds": "2.81"
+  },
+  {
+    "id": 1511647,
+    "league": "Primera B (Chile)",
+    "matchTime": "01:00",
+    "homeTeam": "San Luis",
+    "awayTeam": "Deportes Temuco",
+    "prediction": "San Luis Win",
+    "odds": "1.6"
+  },
+  {
+    "id": 1547761,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "01:00",
+    "homeTeam": "Mirassol",
+    "awayTeam": "LDU de Quito",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.69"
   }
 ]
