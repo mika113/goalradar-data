@@ -1,5 +1,17 @@
 [
   {
+    "id": 1511647,
+    "league": "Primera B (Chile)",
+    "matchDate": "FT",
+    "homeTeam": "San Luis",
+    "awayTeam": "Deportes Temuco",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1526600,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
@@ -9,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1526597,
@@ -42,7 +54,7 @@
     "homeTeam": "South Africa W",
     "awayTeam": "Nigeria W",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "South Africa W Win",
     "outcome": "Won"
@@ -128,19 +140,7 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "FK Zalgiris Vilnius Win",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1607604,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Dinamo Tirana",
-    "awayTeam": "Auda",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Dinamo Tirana Win",
+    "prediction": "HNK Hajduk Split Win",
     "outcome": "Won"
   }
 ]
