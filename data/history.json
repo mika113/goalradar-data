@@ -1,5 +1,17 @@
 [
   {
+    "id": 1560916,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Spartak Nalchik",
+    "awayTeam": "Alaniya Vladikavkaz",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1534823,
     "league": "1. Division (Kazakhstan)",
     "matchDate": "FT",
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1516097,
@@ -56,8 +68,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Saburtalo II Win",
-    "outcome": "Won"
+    "prediction": "Lokomotivi Tbilisi Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534821,
@@ -68,8 +80,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Aktobe Jas Win",
-    "outcome": "Lost"
+    "prediction": "Shakhter Karagandy Win",
+    "outcome": "Won"
   },
   {
     "id": 1507406,
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "BSS Sporting Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1623062,
-    "league": "Calcutta Premier Division (India)",
-    "matchDate": "FT",
-    "homeTeam": "George Telegraph",
-    "awayTeam": "United Kolkata",
-    "homeScore": 1,
-    "awayScore": 7,
-    "status": "FT",
-    "prediction": "United Kolkata Win",
     "outcome": "Won"
   }
 ]
