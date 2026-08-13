@@ -1,15 +1,27 @@
 [
   {
+    "id": 1507405,
+    "league": "Liga 3 (Georgia)",
+    "matchDate": "FT",
+    "homeTeam": "Saburtalo II",
+    "awayTeam": "Lokomotivi Tbilisi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1534821,
     "league": "1. Division (Kazakhstan)",
     "matchDate": "FT",
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Shakhter Karagandy",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Shakhter Karagandy Win",
+    "outcome": "Won"
   },
   {
     "id": 1507406,
@@ -18,10 +30,10 @@
     "homeTeam": "Merani Tbilisi",
     "awayTeam": "Guria",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Guria Win",
-    "outcome": "Won"
+    "prediction": "Merani Tbilisi Win",
+    "outcome": "Lost"
   },
   {
     "id": 1534824,
@@ -44,8 +56,8 @@
     "homeScore": 2,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Lyn U19 Win",
-    "outcome": "Lost"
+    "prediction": "Viking U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1623064,
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1530152,
-    "league": "Leagues Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "San Diego",
-    "awayTeam": "Puebla",
-    "homeScore": 3,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "San Diego Win",
     "outcome": "Won"
   }
 ]
