@@ -30,7 +30,7 @@
     "homeTeam": "Grotta",
     "awayTeam": "Njardvik",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Njardvik Win",
     "outcome": "Won"
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1607611,
@@ -57,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1607604,
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Dinamo Tirana",
     "awayTeam": "Auda",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dinamo Tirana Win",
@@ -113,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Motherwell",
     "awayTeam": "HJK Helsinki",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Motherwell Win",
