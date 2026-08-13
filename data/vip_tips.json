@@ -1,39 +1,12 @@
 [
   {
-    "id": 1607640,
-    "league": "Copa Colombia",
-    "matchTime": "00:00",
-    "homeTeam": "Internacional de Bogota",
-    "awayTeam": "Real Soacha",
-    "prediction": "Internacional de Bogota Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1511647,
-    "league": "Primera B (Chile)",
-    "matchTime": "01:00",
-    "homeTeam": "San Luis",
-    "awayTeam": "Deportes Temuco",
-    "prediction": "San Luis Win",
-    "odds": "1.43"
-  },
-  {
-    "id": 1547761,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Mirassol",
-    "awayTeam": "LDU de Quito",
-    "prediction": "LDU de Quito Win",
-    "odds": "2.49"
-  },
-  {
     "id": 1606076,
     "league": "CONMEBOL Sudamericana (World)",
     "matchTime": "01:00",
     "homeTeam": "Santos",
     "awayTeam": "Macara",
     "prediction": "Santos Win",
-    "odds": "1.39"
+    "odds": "1.99"
   },
   {
     "id": 1607199,
@@ -42,7 +15,7 @@
     "homeTeam": "Vasco DA Gama",
     "awayTeam": "Olimpia",
     "prediction": "Vasco DA Gama Win",
-    "odds": "1.52"
+    "odds": "1.92"
   },
   {
     "id": 1530158,
@@ -51,7 +24,7 @@
     "homeTeam": "Philadelphia Union",
     "awayTeam": "Santos Laguna",
     "prediction": "Philadelphia Union Win",
-    "odds": "1.86"
+    "odds": "1.83"
   },
   {
     "id": 1530157,
@@ -59,8 +32,8 @@
     "matchTime": "02:30",
     "homeTeam": "New York City FC",
     "awayTeam": "Necaxa",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "New York City FC Win",
+    "odds": "1.7"
   },
   {
     "id": 1548357,
@@ -69,6 +42,33 @@
     "homeTeam": "Alianza FC",
     "awayTeam": "UMECIT",
     "prediction": "Both Teams To Score",
-    "odds": "2.11"
+    "odds": "2.17"
+  },
+  {
+    "id": 1611287,
+    "league": "Copa Colombia",
+    "matchTime": "03:00",
+    "homeTeam": "Alianza Valledupar",
+    "awayTeam": "Once Caldas",
+    "prediction": "Alianza Valledupar Win",
+    "odds": "1.5"
+  },
+  {
+    "id": 1511642,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Curico Unido",
+    "awayTeam": "Deportes Santa Cruz",
+    "prediction": "Deportes Santa Cruz Win",
+    "odds": "3.06"
+  },
+  {
+    "id": 1511643,
+    "league": "Primera B (Chile)",
+    "matchTime": "03:30",
+    "homeTeam": "Deportes Iquique",
+    "awayTeam": "Deportes Copiapo",
+    "prediction": "Deportes Iquique Win & Over 1.5",
+    "odds": "2.5"
   }
 ]
