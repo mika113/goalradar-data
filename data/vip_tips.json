@@ -1,39 +1,12 @@
 [
   {
-    "id": 1606076,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Santos",
-    "awayTeam": "Macara",
-    "prediction": "Santos Win",
-    "odds": "1.75"
-  },
-  {
-    "id": 1607199,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Vasco DA Gama",
-    "awayTeam": "Olimpia",
-    "prediction": "Double Chance X2",
-    "odds": "1.51"
-  },
-  {
-    "id": 1530158,
-    "league": "Leagues Cup (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Philadelphia Union",
-    "awayTeam": "Santos Laguna",
-    "prediction": "Philadelphia Union Win",
-    "odds": "1.44"
-  },
-  {
     "id": 1530157,
     "league": "Leagues Cup (World)",
     "matchTime": "02:30",
     "homeTeam": "New York City FC",
     "awayTeam": "Necaxa",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.83"
+    "prediction": "Both Teams To Score",
+    "odds": "1.96"
   },
   {
     "id": 1548357,
@@ -41,8 +14,8 @@
     "matchTime": "03:00",
     "homeTeam": "Alianza FC",
     "awayTeam": "UMECIT",
-    "prediction": "Alianza FC Win",
-    "odds": "1.97"
+    "prediction": "Double Chance X2",
+    "odds": "1.34"
   },
   {
     "id": 1611287,
@@ -51,7 +24,7 @@
     "homeTeam": "Alianza Valledupar",
     "awayTeam": "Once Caldas",
     "prediction": "Both Teams To Score",
-    "odds": "1.98"
+    "odds": "1.84"
   },
   {
     "id": 1511642,
@@ -60,7 +33,7 @@
     "homeTeam": "Curico Unido",
     "awayTeam": "Deportes Santa Cruz",
     "prediction": "Curico Unido Win",
-    "odds": "1.62"
+    "odds": "1.57"
   },
   {
     "id": 1511643,
@@ -68,7 +41,34 @@
     "matchTime": "03:30",
     "homeTeam": "Deportes Iquique",
     "awayTeam": "Deportes Copiapo",
-    "prediction": "Deportes Iquique Win",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.31"
+  },
+  {
+    "id": 1530155,
+    "league": "Leagues Cup (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Club America",
+    "awayTeam": "Austin",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.11"
+  },
+  {
+    "id": 1547764,
+    "league": "CONMEBOL Libertadores (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Corinthians",
+    "prediction": "Corinthians Win",
+    "odds": "3.03"
+  },
+  {
+    "id": 1607198,
+    "league": "CONMEBOL Sudamericana (World)",
+    "matchTime": "03:30",
+    "homeTeam": "Cienciano",
+    "awayTeam": "Botafogo",
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   }
 ]
