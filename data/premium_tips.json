@@ -1,30 +1,12 @@
 [
   {
-    "id": 1605048,
-    "league": "First League (Armenia)",
-    "matchTime": "15:30",
-    "homeTeam": "Olympia Yerevan",
-    "awayTeam": "Sardarapat 2",
-    "prediction": "Olympia Yerevan Win",
-    "odds": "1.46"
-  },
-  {
-    "id": 1507402,
-    "league": "Liga 3 (Georgia)",
-    "matchTime": "16:00",
-    "homeTeam": "Didube 2014",
-    "awayTeam": "Betlemi",
-    "prediction": "Didube 2014 Win",
-    "odds": "1.89"
-  },
-  {
     "id": 1507406,
     "league": "Liga 3 (Georgia)",
     "matchTime": "16:00",
     "homeTeam": "Merani Tbilisi",
     "awayTeam": "Guria",
-    "prediction": "Merani Tbilisi Win",
-    "odds": "1.41"
+    "prediction": "Merani Tbilisi Win & Over 1.5",
+    "odds": "2.55"
   },
   {
     "id": 1507407,
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Irao",
     "awayTeam": "Gardabani",
-    "prediction": "Irao Win",
-    "odds": "1.89"
+    "prediction": "Gardabani Win",
+    "odds": "3.24"
   },
   {
     "id": 1534821,
@@ -41,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Aktobe Jas",
     "awayTeam": "Shakhter Karagandy",
-    "prediction": "Double Chance X2",
-    "odds": "1.46"
+    "prediction": "Shakhter Karagandy Win",
+    "odds": "2.12"
   },
   {
     "id": 1536475,
@@ -50,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Spartak Moscow 2",
     "awayTeam": "Irkutsk",
-    "prediction": "Double Chance X2",
-    "odds": "1.76"
+    "prediction": "Spartak Moscow 2 Win",
+    "odds": "1.64"
   },
   {
     "id": 1507405,
@@ -59,8 +41,8 @@
     "matchTime": "16:30",
     "homeTeam": "Saburtalo II",
     "awayTeam": "Lokomotivi Tbilisi",
-    "prediction": "Double Chance X2",
-    "odds": "1.38"
+    "prediction": "Double Chance 1X",
+    "odds": "1.58"
   },
   {
     "id": 1507403,
@@ -68,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Dinamo Tbilisi II",
     "awayTeam": "Iberia 2010",
-    "prediction": "Dinamo Tbilisi II Win",
-    "odds": "1.81"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.8"
   },
   {
     "id": 1516097,
@@ -77,8 +59,8 @@
     "matchTime": "17:00",
     "homeTeam": "Andijan",
     "awayTeam": "Neftchi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Neftchi Win",
+    "odds": "2.13"
   },
   {
     "id": 1516104,
@@ -86,8 +68,8 @@
     "matchTime": "17:00",
     "homeTeam": "Surkhon",
     "awayTeam": "Sogdiana",
-    "prediction": "Surkhon Win",
-    "odds": "1.3"
+    "prediction": "Both Teams To Score",
+    "odds": "1.98"
   },
   {
     "id": 1534823,
@@ -95,8 +77,8 @@
     "matchTime": "17:00",
     "homeTeam": "Astana II",
     "awayTeam": "Tobol 2",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
+    "prediction": "Tobol 2 Win",
+    "odds": "3.32"
   },
   {
     "id": 1560916,
@@ -105,6 +87,24 @@
     "homeTeam": "Spartak Nalchik",
     "awayTeam": "Alaniya Vladikavkaz",
     "prediction": "Spartak Nalchik Win",
-    "odds": "1.36"
+    "odds": "1.82"
+  },
+  {
+    "id": 1507404,
+    "league": "Liga 3 (Georgia)",
+    "matchTime": "18:00",
+    "homeTeam": "Gonio",
+    "awayTeam": "Iveria Khashuri",
+    "prediction": "Gonio Win",
+    "odds": "1.74"
+  },
+  {
+    "id": 1607627,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "18:00",
+    "homeTeam": "FK Tobol Kostanay",
+    "awayTeam": "FK Partizan",
+    "prediction": "FK Tobol Kostanay Win",
+    "odds": "1.98"
   }
 ]
