@@ -30,9 +30,9 @@
     "homeTeam": "Cumbayá",
     "awayTeam": "Santo Domingo",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Cumbayá Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Astillero FC (Ecu)",
     "awayTeam": "Daquilema FC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Astillero FC (Ecu) Win",
@@ -80,8 +80,8 @@
     "homeScore": 2,
     "awayScore": 3,
     "status": "FT",
-    "prediction": "Atlético Tembetary Win",
-    "outcome": "Won"
+    "prediction": "1 de Marzo Pilar Win",
+    "outcome": "Lost"
   },
   {
     "id": 1514260,
@@ -128,8 +128,8 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "HNK Hajduk Split Win",
-    "outcome": "Won"
+    "prediction": "FK Zalgiris Vilnius Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607604,
@@ -140,7 +140,7 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Auda Win",
-    "outcome": "Lost"
+    "prediction": "Dinamo Tirana Win",
+    "outcome": "Won"
   }
 ]
