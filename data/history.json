@@ -1,5 +1,41 @@
 [
   {
+    "id": 1607629,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "FC Vaduz",
+    "awayTeam": "Inter Turku",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607619,
+    "league": "UEFA Europa Conference League (World)",
+    "matchDate": "FT",
+    "homeTeam": "NSI Runavik",
+    "awayTeam": "FC Lugano",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607184,
+    "league": "UEFA Europa League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Vikingur Reykjavik",
+    "awayTeam": "FC Thun",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619532,
     "league": "Africa Cup of Nations - Women (World)",
     "matchDate": "FT",
@@ -53,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Midtjylland",
     "awayTeam": "Bohemians",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Midtjylland Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1607606,
@@ -106,41 +142,5 @@
     "status": "FT",
     "prediction": "Red Bull Salzburg Win",
     "outcome": "Lost"
-  },
-  {
-    "id": 1607569,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Gornik Zabrze",
-    "awayTeam": "Ferencvarosi TC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607567,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Beşiktaş",
-    "awayTeam": "Hradec Králové",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1607183,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Universitatea Craiova",
-    "awayTeam": "KuPS",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "KuPS Win",
-    "outcome": "Won"
   }
 ]
