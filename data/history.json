@@ -1,5 +1,41 @@
 [
   {
+    "id": 1526600,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Cuniburo",
+    "awayTeam": "LDU Portoviejo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1526597,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "El Nacional",
+    "awayTeam": "San Antonio",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1526596,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Cumbayá",
+    "awayTeam": "Santo Domingo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619533,
     "league": "Africa Cup of Nations - Women (World)",
     "matchDate": "FT",
@@ -18,10 +54,10 @@
     "homeTeam": "Central Córdoba SdE Res.",
     "awayTeam": "Independiente Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Independiente Res. Win",
+    "outcome": "Won"
   },
   {
     "id": 1547790,
@@ -53,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "HK Kopavogur",
     "awayTeam": "Leiknir R.",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "HK Kopavogur Win",
     "outcome": "Won"
   },
   {
@@ -68,8 +104,8 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
-    "prediction": "Grotta Win",
-    "outcome": "Lost"
+    "prediction": "Njardvik Win",
+    "outcome": "Won"
   },
   {
     "id": 1514258,
@@ -78,9 +114,9 @@
     "homeTeam": "Fylkir",
     "awayTeam": "Afturelding",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Afturelding Win",
     "outcome": "Won"
   },
   {
@@ -89,11 +125,11 @@
     "matchDate": "FT",
     "homeTeam": "HNK Hajduk Split",
     "awayTeam": "FK Zalgiris Vilnius",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "HNK Hajduk Split Win",
-    "outcome": "Won"
+    "prediction": "FK Zalgiris Vilnius Win",
+    "outcome": "Lost"
   },
   {
     "id": 1607604,
@@ -101,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Dinamo Tirana",
     "awayTeam": "Auda",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Dinamo Tirana Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606353,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Egnatia Rrogozhinë",
-    "awayTeam": "Shamrock Rovers",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Egnatia Rrogozhinë Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607622,
-    "league": "UEFA Europa Conference League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Shelbourne",
-    "awayTeam": "Ajax",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Ajax Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1607570,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Heart Of Midlothian",
-    "awayTeam": "Benfica",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
