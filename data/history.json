@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Feronikeli",
     "awayTeam": "Gjilani",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Feronikeli Win",
+    "prediction": "Gjilani Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1581815,
@@ -56,8 +56,8 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Al-Ittihad Kalba Win",
-    "outcome": "Won"
+    "prediction": "Al Nasr Win",
+    "outcome": "Lost"
   },
   {
     "id": 1569049,
@@ -65,11 +65,11 @@
     "matchDate": "FT",
     "homeTeam": "Lechia T. Mazowiecki",
     "awayTeam": "Łomża",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Łomża Win",
-    "outcome": "Lost"
+    "prediction": "Lechia T. Mazowiecki Win",
+    "outcome": "Won"
   },
   {
     "id": 1561360,
