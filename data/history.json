@@ -1,14 +1,26 @@
 [
   {
+    "id": 1608037,
+    "league": "Regionalliga - North (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "UFC Hallein",
+    "awayTeam": "Bad Schallerbach",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1626982,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Ibiza",
     "awayTeam": "Peña Deportiva",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ibiza Win",
     "outcome": "Won"
   },
   {
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1607917,
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1607915,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Kalsdorf",
     "awayTeam": "Allerheiligen",
-    "homeScore": 1,
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Kalsdorf Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "FSV Zwickau",
     "awayTeam": "Luckenwalde",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586830,
-    "league": "Regionalliga - Nordost (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Hertha BSC II",
-    "awayTeam": "BFC Dynamo",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Luckenwalde Win",
     "outcome": "Won"
   }
 ]
