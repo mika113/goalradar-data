@@ -1,21 +1,12 @@
 [
   {
-    "id": 1497659,
-    "league": "Superettan (Sweden)",
-    "matchTime": "20:00",
-    "homeTeam": "Landskrona BoIS",
-    "awayTeam": "Oddevold",
-    "prediction": "Landskrona BoIS Win",
-    "odds": "1.35"
-  },
-  {
     "id": 1504503,
     "league": "Ettan - Södra (Sweden)",
     "matchTime": "20:00",
     "homeTeam": "Lund",
     "awayTeam": "Hässleholms IF",
-    "prediction": "Hässleholms IF Win",
-    "odds": "2.62"
+    "prediction": "Lund Win",
+    "odds": "1.96"
   },
   {
     "id": 1505219,
@@ -23,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "AFC Eskilstuna",
     "awayTeam": "Hammarby Talang",
-    "prediction": "Hammarby Talang Win",
-    "odds": "1.61"
+    "prediction": "AFC Eskilstuna Win",
+    "odds": "1.31"
   },
   {
     "id": 1511364,
@@ -33,7 +24,7 @@
     "homeTeam": "Landvetter IS",
     "awayTeam": "Galtabacks",
     "prediction": "Landvetter IS Win",
-    "odds": "1.51"
+    "odds": "1.47"
   },
   {
     "id": 1511366,
@@ -42,7 +33,7 @@
     "homeTeam": "Böljan",
     "awayTeam": "Åstorp",
     "prediction": "Böljan Win",
-    "odds": "1.54"
+    "odds": "1.43"
   },
   {
     "id": 1511368,
@@ -50,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Kongahälla",
     "awayTeam": "Västra Frölunda",
-    "prediction": "Kongahälla Win",
-    "odds": "1.7"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.15"
   },
   {
     "id": 1548990,
@@ -60,7 +51,7 @@
     "homeTeam": "Viborg",
     "awayTeam": "Aarhus",
     "prediction": "Viborg Win",
-    "odds": "1.99"
+    "odds": "1.54"
   },
   {
     "id": 1551311,
@@ -68,8 +59,8 @@
     "matchTime": "20:00",
     "homeTeam": "Aalborg",
     "awayTeam": "FC Fredericia",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.0"
+    "prediction": "Aalborg Win & Over 1.5",
+    "odds": "2.81"
   },
   {
     "id": 1551312,
@@ -77,8 +68,8 @@
     "matchTime": "20:00",
     "homeTeam": "Kolding IF",
     "awayTeam": "Vejle",
-    "prediction": "Kolding IF Win",
-    "odds": "1.77"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
   },
   {
     "id": 1558900,
@@ -86,7 +77,16 @@
     "matchTime": "20:00",
     "homeTeam": "Rudar",
     "awayTeam": "Krka",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "prediction": "Double Chance X2",
+    "odds": "1.27"
+  },
+  {
+    "id": 1561094,
+    "league": "2. liga (Slovakia)",
+    "matchTime": "20:00",
+    "homeTeam": "Liptovský Mikuláš",
+    "awayTeam": "Lokomotíva Zvolen",
+    "prediction": "Lokomotíva Zvolen Win",
+    "odds": "1.89"
   }
 ]
