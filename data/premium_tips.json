@@ -1,21 +1,12 @@
 [
   {
-    "id": 1531080,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Gazalkent",
-    "awayTeam": "Olimpik-Mobiuz",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
-  },
-  {
     "id": 1534826,
     "league": "1. Division (Kazakhstan)",
     "matchTime": "17:00",
     "homeTeam": "Khan Tengri",
     "awayTeam": "Arys",
-    "prediction": "Khan Tengri Win",
-    "odds": "1.86"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
   },
   {
     "id": 1569049,
@@ -23,8 +14,8 @@
     "matchTime": "17:00",
     "homeTeam": "Lechia T. Mazowiecki",
     "awayTeam": "Łomża",
-    "prediction": "Both Teams To Score",
-    "odds": "2.19"
+    "prediction": "Łomża Win",
+    "odds": "2.32"
   },
   {
     "id": 1595517,
@@ -33,7 +24,7 @@
     "homeTeam": "Hannover 96 U19",
     "awayTeam": "Preußen Münster U19",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.8"
   },
   {
     "id": 1605047,
@@ -41,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Noah II",
     "awayTeam": "Bentonit Ijevan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.59"
   },
   {
     "id": 1581815,
@@ -50,8 +41,8 @@
     "matchTime": "17:10",
     "homeTeam": "Al Nasr",
     "awayTeam": "Al-Ittihad Kalba",
-    "prediction": "Al Nasr Win",
-    "odds": "1.96"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.03"
   },
   {
     "id": 1551435,
@@ -59,8 +50,8 @@
     "matchTime": "17:30",
     "homeTeam": "Aresimi",
     "awayTeam": "Bashkimi Kumanovo",
-    "prediction": "Aresimi Win",
-    "odds": "1.32"
+    "prediction": "Double Chance 1X",
+    "odds": "1.21"
   },
   {
     "id": 1606522,
@@ -68,8 +59,8 @@
     "matchTime": "17:30",
     "homeTeam": "Feronikeli",
     "awayTeam": "Gjilani",
-    "prediction": "Feronikeli Win",
-    "odds": "1.93"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
   },
   {
     "id": 1618211,
@@ -77,8 +68,8 @@
     "matchTime": "17:30",
     "homeTeam": "Tractor Sazi",
     "awayTeam": "Paykan",
-    "prediction": "Tractor Sazi Win",
-    "odds": "1.47"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   },
   {
     "id": 1495757,
@@ -87,7 +78,7 @@
     "homeTeam": "VPS",
     "awayTeam": "Turku PS",
     "prediction": "VPS Win",
-    "odds": "1.44"
+    "odds": "1.67"
   },
   {
     "id": 1516099,
@@ -95,8 +86,8 @@
     "matchTime": "18:00",
     "homeTeam": "Dinamo Samarqand",
     "awayTeam": "Xorazm",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Xorazm Win",
+    "odds": "2.43"
   },
   {
     "id": 1519125,
@@ -104,7 +95,16 @@
     "matchTime": "18:00",
     "homeTeam": "Spartak Moskva U19",
     "awayTeam": "CSKA Moskva U19",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
+    "prediction": "Spartak Moskva U19 Win",
+    "odds": "1.71"
+  },
+  {
+    "id": 1561093,
+    "league": "2. liga (Slovakia)",
+    "matchTime": "18:00",
+    "homeTeam": "Pohronie",
+    "awayTeam": "MFK Bytča",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.02"
   }
 ]
