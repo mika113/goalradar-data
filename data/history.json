@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1561360,
@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "FC Orenburg",
     "awayTeam": "Lokomotiv",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "FC Orenburg Win",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1527719,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchDate": "FT",
+    "homeTeam": "Sardor Tursunzoda",
+    "awayTeam": "Khosilot Farkhor",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1519122,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1519121,
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Navbahor",
     "awayTeam": "Bunyodkor",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Navbahor Win",
     "outcome": "Won"
   },
   {
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Itabirito U20",
     "awayTeam": "Atlético Mineiro U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1574990,
-    "league": "Carioca U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Botafogo U20",
-    "awayTeam": "Madureira U20",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
