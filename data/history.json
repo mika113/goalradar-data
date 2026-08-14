@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Pamba Jiji",
     "awayTeam": "Dodoma Jiji",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Bayswater City",
     "awayTeam": "Stirling Lions",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bayswater City Win",
     "outcome": "Won"
   },
   {
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Oakleigh Cannons",
     "awayTeam": "Green Gully",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Oakleigh Cannons Win",
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Suwon FMC W",
     "awayTeam": "Boeun Sangmu W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Suwon FMC W Win",
@@ -117,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1519223,
@@ -126,10 +126,10 @@
     "homeTeam": "Almaz Antey U19",
     "awayTeam": "Dinamo Moskva U19",
     "homeScore": 3,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Dinamo Moskva U19 Win",
-    "outcome": "Lost"
+    "prediction": "Almaz Antey U19 Win",
+    "outcome": "Won"
   },
   {
     "id": 1521999,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Dandenong City",
     "awayTeam": "Altona Magic",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dandenong City Win",
     "outcome": "Won"
   }
 ]
