@@ -1,48 +1,12 @@
 [
   {
-    "id": 1524098,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Olympic",
-    "awayTeam": "Rochedale Rovers",
-    "prediction": "Double Chance 1X",
-    "odds": "1.57"
-  },
-  {
-    "id": 1524099,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "WDSC Wolves",
-    "awayTeam": "Magic United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.38"
-  },
-  {
-    "id": 1524100,
-    "league": "Queensland NPL (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Gold Coast United",
-    "awayTeam": "Eastern Suburbs",
-    "prediction": "Gold Coast United Win",
-    "odds": "1.63"
-  },
-  {
-    "id": 1541371,
-    "league": "Victoria Premier League 2 (Australia)",
-    "matchTime": "12:30",
-    "homeTeam": "Nunawading",
-    "awayTeam": "Bayside Argonauts",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
-  },
-  {
     "id": 1541459,
     "league": "Victoria Premier League 2 (Australia)",
     "matchTime": "12:30",
     "homeTeam": "Keilor Park",
     "awayTeam": "Whittlesea United",
-    "prediction": "Whittlesea United Win",
-    "odds": "2.78"
+    "prediction": "Double Chance 1X",
+    "odds": "1.26"
   },
   {
     "id": 1623065,
@@ -50,8 +14,8 @@
     "matchTime": "12:30",
     "homeTeam": "NA Suruchi Sangha",
     "awayTeam": "Police",
-    "prediction": "Double Chance 1X",
-    "odds": "1.37"
+    "prediction": "NA Suruchi Sangha Win",
+    "odds": "1.5"
   },
   {
     "id": 1623066,
@@ -59,8 +23,8 @@
     "matchTime": "12:30",
     "homeTeam": "Coal India",
     "awayTeam": "Wari",
-    "prediction": "Coal India Win",
-    "odds": "1.69"
+    "prediction": "Double Chance X2",
+    "odds": "1.49"
   },
   {
     "id": 1623067,
@@ -68,8 +32,8 @@
     "matchTime": "12:30",
     "homeTeam": "Peerless",
     "awayTeam": "Aryan",
-    "prediction": "Peerless Win",
-    "odds": "1.46"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.73"
   },
   {
     "id": 1623068,
@@ -77,8 +41,8 @@
     "matchTime": "12:30",
     "homeTeam": "Bhawanipore",
     "awayTeam": "East Bengal",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.25"
+    "prediction": "Double Chance 1X",
+    "odds": "1.52"
   },
   {
     "id": 1521999,
@@ -87,7 +51,7 @@
     "homeTeam": "Dandenong City",
     "awayTeam": "Altona Magic",
     "prediction": "Dandenong City Win",
-    "odds": "1.78"
+    "odds": "1.48"
   },
   {
     "id": 1541372,
@@ -95,8 +59,8 @@
     "matchTime": "12:45",
     "homeTeam": "Eastern Lions",
     "awayTeam": "Essendon Royals SC",
-    "prediction": "Essendon Royals SC Win",
-    "odds": "1.94"
+    "prediction": "Eastern Lions Win & Over 1.5",
+    "odds": "2.45"
   },
   {
     "id": 1519223,
@@ -105,6 +69,42 @@
     "homeTeam": "Almaz Antey U19",
     "awayTeam": "Dinamo Moskva U19",
     "prediction": "Dinamo Moskva U19 Win",
-    "odds": "1.97"
+    "odds": "2.32"
+  },
+  {
+    "id": 1533761,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Seoul W",
+    "awayTeam": "Gyeongju W",
+    "prediction": "Gyeongju W Win",
+    "odds": "3.02"
+  },
+  {
+    "id": 1533762,
+    "league": "WK-League (South-Korea)",
+    "matchTime": "13:00",
+    "homeTeam": "Suwon FMC W",
+    "awayTeam": "Boeun Sangmu W",
+    "prediction": "Suwon FMC W Win",
+    "odds": "1.65"
+  },
+  {
+    "id": 1556021,
+    "league": "J1 League (Japan)",
+    "matchTime": "13:00",
+    "homeTeam": "Tokyo Verdy",
+    "awayTeam": "Kashiwa Reysol",
+    "prediction": "Kashiwa Reysol Win",
+    "odds": "1.91"
+  },
+  {
+    "id": 1581873,
+    "league": "Persha Liga (Ukraine)",
+    "matchTime": "13:00",
+    "homeTeam": "Ahrobiznes Volochysk",
+    "awayTeam": "Lokomotiv Kyiv",
+    "prediction": "Ahrobiznes Volochysk Win",
+    "odds": "1.54"
   }
 ]
