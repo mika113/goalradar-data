@@ -1,39 +1,12 @@
 [
   {
-    "id": 1607658,
-    "league": "Liga Women (Peru)",
-    "matchTime": "23:00",
-    "homeTeam": "Defensores W",
-    "awayTeam": "Yanapuma W",
-    "prediction": "Defensores W Win",
-    "odds": "1.97"
-  },
-  {
-    "id": 1547437,
-    "league": "Paulista - U20 (Brazil)",
-    "matchTime": "23:15",
-    "homeTeam": "Itapirense U20",
-    "awayTeam": "Santos U20",
-    "prediction": "Itapirense U20 Win",
-    "odds": "1.79"
-  },
-  {
-    "id": 1601402,
-    "league": "Liga de Ascenso (Costa-Rica)",
-    "matchTime": "00:00",
-    "homeTeam": "AD Carmelita",
-    "awayTeam": "Futbol Consultants Moravia",
-    "prediction": "Double Chance 1X",
-    "odds": "1.48"
-  },
-  {
     "id": 1513280,
     "league": "MLS Next Pro (USA)",
     "matchTime": "00:30",
     "homeTeam": "Real Monarchs",
     "awayTeam": "Minnesota United II",
-    "prediction": "Real Monarchs Win",
-    "odds": "1.46"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1610936,
@@ -42,7 +15,7 @@
     "homeTeam": "Deportivo Recoleta",
     "awayTeam": "2 de Mayo",
     "prediction": "Deportivo Recoleta Win",
-    "odds": "1.68"
+    "odds": "1.55"
   },
   {
     "id": 1547441,
@@ -50,8 +23,8 @@
     "matchTime": "01:00",
     "homeTeam": "Oeste U20",
     "awayTeam": "União São João U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "Oeste U20 Win",
+    "odds": "1.98"
   },
   {
     "id": 1548268,
@@ -60,7 +33,7 @@
     "homeTeam": "Linhares",
     "awayTeam": "Doze",
     "prediction": "Linhares Win",
-    "odds": "1.31"
+    "odds": "1.49"
   },
   {
     "id": 1612422,
@@ -68,7 +41,34 @@
     "matchTime": "01:00",
     "homeTeam": "Fernando De La Mora",
     "awayTeam": "Benjamín Aceval",
-    "prediction": "Fernando De La Mora Win",
-    "odds": "1.51"
+    "prediction": "Double Chance X2",
+    "odds": "1.37"
+  },
+  {
+    "id": 1619020,
+    "league": "Primera División (Uruguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Boston River",
+    "awayTeam": "Danubio",
+    "prediction": "Boston River Win",
+    "odds": "1.63"
+  },
+  {
+    "id": 1520817,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Ponte Preta",
+    "awayTeam": "Nautico Recife",
+    "prediction": "Ponte Preta Win",
+    "odds": "1.61"
+  },
+  {
+    "id": 1520818,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "São Bernardo",
+    "awayTeam": "Botafogo SP",
+    "prediction": "Botafogo SP Win",
+    "odds": "2.06"
   }
 ]
