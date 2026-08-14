@@ -36,6 +36,30 @@
     "outcome": "Won"
   },
   {
+    "id": 1618215,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Esteghlal Khuzestan",
+    "awayTeam": "Aluminium Arak",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618214,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Chadormalu SC",
+    "awayTeam": "Sepahan FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1577480,
     "league": "First League (Russia)",
     "matchDate": "FT",
@@ -78,10 +102,10 @@
     "homeTeam": "Chemik Bydgoszcz",
     "awayTeam": "Polonia Środa",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Polonia Środa Win",
+    "outcome": "Won"
   },
   {
     "id": 1567880,
@@ -93,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1511367,
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510987,
-    "league": "Division 2 - Södra Götaland (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Sölvesborg",
-    "awayTeam": "Nosaby",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Nosaby Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619314,
-    "league": "Coppa Italia (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Parma",
-    "awayTeam": "Catania",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Parma Win",
     "outcome": "Won"
   }
 ]
