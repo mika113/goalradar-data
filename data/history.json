@@ -18,7 +18,7 @@
     "homeTeam": "Shandong Luneng",
     "awayTeam": "Qingdao Jonoon",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Shandong Luneng Win",
     "outcome": "Won"
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1600732,
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Eltham Redbacks FC",
     "awayTeam": "Manningham United Blues",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Eltham Redbacks FC Win",
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
+    "prediction": "Over 2.5 Goals",
+    "outcome": "Lost"
   },
   {
     "id": 1522000,
@@ -105,42 +105,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sporting Gijón II Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581873,
-    "league": "Persha Liga (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Ahrobiznes Volochysk",
-    "awayTeam": "Lokomotiv Kyiv",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1556021,
-    "league": "J1 League (Japan)",
-    "matchDate": "FT",
-    "homeTeam": "Tokyo Verdy",
-    "awayTeam": "Kashiwa Reysol",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Kashiwa Reysol Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1533762,
-    "league": "WK-League (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Suwon FMC W",
-    "awayTeam": "Boeun Sangmu W",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Suwon FMC W Win",
     "outcome": "Won"
   }
 ]
