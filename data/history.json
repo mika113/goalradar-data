@@ -6,9 +6,9 @@
     "homeTeam": "Kilmarnock",
     "awayTeam": "Ayr Utd",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kilmarnock Win",
     "outcome": "Lost"
   },
   {
@@ -30,9 +30,9 @@
     "homeTeam": "UCD",
     "awayTeam": "Derry City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Derry City Win",
     "outcome": "Won"
   },
   {
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Galway United",
     "awayTeam": "Bray Wanderers",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1598609,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Atalanta",
+    "awayTeam": "Athletic Club",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -66,81 +78,9 @@
     "homeTeam": "Trethomas Bluebirds",
     "awayTeam": "Caerau (Ely)",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575907,
-    "league": "Premier League (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "The New Saints",
-    "awayTeam": "Briton Ferry",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575905,
-    "league": "Premier League (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "Haverfordwest County AFC",
-    "awayTeam": "Penybont",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575903,
-    "league": "Premier League (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "Cambrian & Clydach",
-    "awayTeam": "Flint Town United",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575900,
-    "league": "Premier League (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "Airbus UK",
-    "awayTeam": "Ammanford AFC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558590,
-    "league": "Jupiler Pro League (Belgium)",
-    "matchDate": "FT",
-    "homeTeam": "Cercle Brugge",
-    "awayTeam": "St. Truiden",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1552440,
-    "league": "Ligue 2 (France)",
-    "matchDate": "FT",
-    "homeTeam": "Saint Etienne",
-    "awayTeam": "Clermont Foot",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Caerau (Ely) Win",
     "outcome": "Won"
   }
 ]
