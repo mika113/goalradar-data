@@ -18,9 +18,9 @@
     "homeTeam": "Nea Salamis",
     "awayTeam": "Krasava Odintsovo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nea Salamis Win",
     "outcome": "Lost"
   },
   {
@@ -41,6 +41,18 @@
     "matchDate": "FT",
     "homeTeam": "Singida Black Stars",
     "awayTeam": "Fountain Gate",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1586173,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Greuther Fürth II",
+    "awayTeam": "Landsberg",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -96,6 +108,18 @@
     "outcome": "Won"
   },
   {
+    "id": 1574062,
+    "league": "Regionalliga - Ost (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "Leobendorf",
+    "awayTeam": "SV Horn",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1574061,
     "league": "Regionalliga - Ost (Austria)",
     "matchDate": "FT",
@@ -117,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1568747,
-    "league": "III Liga - Group 2 (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Victoria Września",
-    "awayTeam": "Luzino",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   }
 ]
