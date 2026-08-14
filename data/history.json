@@ -1,14 +1,26 @@
 [
   {
+    "id": 1571514,
+    "league": "Second League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Fratria",
+    "awayTeam": "Beroe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1627034,
     "league": "Iraqi League",
     "matchDate": "FT",
     "homeTeam": "Naft",
     "awayTeam": "Al Karkh",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Naft Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Segesta Sisak",
     "awayTeam": "Dubrava Zagreb",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Segesta Sisak Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +90,9 @@
     "homeTeam": "Sokół Kolb.",
     "awayTeam": "Wisłoka Dębica",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wisłoka Dębica Win",
     "outcome": "Won"
   },
   {
@@ -90,10 +102,10 @@
     "homeTeam": "FC Voluntari",
     "awayTeam": "Petrolul Ploiesti",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "FC Voluntari Win",
+    "outcome": "Lost"
   },
   {
     "id": 1560220,
@@ -126,21 +138,9 @@
     "homeTeam": "Be1 NFA",
     "awayTeam": "Hegelmann II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1516103,
-    "league": "Super League (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Qizilqum",
-    "awayTeam": "Mash'al",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Qizilqum Win",
-    "outcome": "Won"
+    "prediction": "Be1 NFA Win",
+    "outcome": "Lost"
   }
 ]
