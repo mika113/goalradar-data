@@ -1,21 +1,12 @@
 [
   {
-    "id": 1519223,
-    "league": "Youth Championship (Russia)",
-    "matchTime": "13:00",
-    "homeTeam": "Almaz Antey U19",
-    "awayTeam": "Dinamo Moskva U19",
-    "prediction": "Almaz Antey U19 Win",
-    "odds": "1.3"
-  },
-  {
     "id": 1533761,
     "league": "WK-League (South-Korea)",
     "matchTime": "13:00",
     "homeTeam": "Seoul W",
     "awayTeam": "Gyeongju W",
-    "prediction": "Seoul W Win & Over 1.5",
-    "odds": "1.9"
+    "prediction": "Seoul W Win",
+    "odds": "1.83"
   },
   {
     "id": 1533762,
@@ -23,8 +14,8 @@
     "matchTime": "13:00",
     "homeTeam": "Suwon FMC W",
     "awayTeam": "Boeun Sangmu W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.27"
+    "prediction": "Suwon FMC W Win",
+    "odds": "1.84"
   },
   {
     "id": 1556021,
@@ -33,7 +24,7 @@
     "homeTeam": "Tokyo Verdy",
     "awayTeam": "Kashiwa Reysol",
     "prediction": "Tokyo Verdy Win",
-    "odds": "2.0"
+    "odds": "1.84"
   },
   {
     "id": 1581873,
@@ -41,8 +32,8 @@
     "matchTime": "13:00",
     "homeTeam": "Ahrobiznes Volochysk",
     "awayTeam": "Lokomotiv Kyiv",
-    "prediction": "Ahrobiznes Volochysk Win",
-    "odds": "1.56"
+    "prediction": "Lokomotiv Kyiv Win",
+    "odds": "3.47"
   },
   {
     "id": 1522000,
@@ -50,8 +41,8 @@
     "matchTime": "13:15",
     "homeTeam": "Oakleigh Cannons",
     "awayTeam": "Green Gully",
-    "prediction": "Oakleigh Cannons Win",
-    "odds": "1.44"
+    "prediction": "Green Gully Win",
+    "odds": "2.17"
   },
   {
     "id": 1522001,
@@ -60,7 +51,7 @@
     "homeTeam": "St. Albans Saints",
     "awayTeam": "Bentleigh Greens",
     "prediction": "St. Albans Saints Win",
-    "odds": "1.89"
+    "odds": "1.96"
   },
   {
     "id": 1522218,
@@ -68,8 +59,8 @@
     "matchTime": "13:30",
     "homeTeam": "Eltham Redbacks FC",
     "awayTeam": "Manningham United Blues",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
+    "prediction": "Manningham United Blues Win",
+    "odds": "2.94"
   },
   {
     "id": 1541460,
@@ -78,7 +69,7 @@
     "homeTeam": "Springvale",
     "awayTeam": "Malvern",
     "prediction": "Springvale Win",
-    "odds": "1.69"
+    "odds": "1.38"
   },
   {
     "id": 1595513,
@@ -86,7 +77,16 @@
     "matchTime": "13:30",
     "homeTeam": "Eintracht Frankf U19",
     "awayTeam": "Rot-Weiß Erfurt U19",
-    "prediction": "Eintracht Frankf U19 Win",
-    "odds": "1.8"
+    "prediction": "Both Teams To Score",
+    "odds": "1.81"
+  },
+  {
+    "id": 1527252,
+    "league": "Western Australia NPL",
+    "matchTime": "14:00",
+    "homeTeam": "Bayswater City",
+    "awayTeam": "Stirling Lions",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.17"
   }
 ]
