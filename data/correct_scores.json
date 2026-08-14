@@ -1,21 +1,12 @@
 [
   {
-    "id": 1510987,
-    "league": "Division 2 - Södra Götaland (Sweden)",
-    "matchTime": "19:15",
-    "homeTeam": "Sölvesborg",
-    "awayTeam": "Nosaby",
-    "prediction": "1-0",
-    "odds": "4.64"
-  },
-  {
     "id": 1510639,
     "league": "Division 2 - Norra Götaland (Sweden)",
     "matchTime": "19:30",
     "homeTeam": "Ahlafors",
     "awayTeam": "Grebbestad",
-    "prediction": "2-0",
-    "odds": "7.7"
+    "prediction": "0-0",
+    "odds": "4.86"
   },
   {
     "id": 1511367,
@@ -23,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "Hestrafor",
     "awayTeam": "Qviding FIF",
-    "prediction": "2-1",
-    "odds": "9.75"
+    "prediction": "3-0",
+    "odds": "6.44"
   },
   {
     "id": 1567032,
@@ -33,7 +24,7 @@
     "homeTeam": "Ismaning",
     "awayTeam": "1880 Wasserburg",
     "prediction": "1-0",
-    "odds": "10.77"
+    "odds": "9.14"
   },
   {
     "id": 1567246,
@@ -41,7 +32,16 @@
     "matchTime": "19:30",
     "homeTeam": "Kottern",
     "awayTeam": "Landshut",
+    "prediction": "2-0",
+    "odds": "8.27"
+  },
+  {
+    "id": 1567247,
+    "league": "Oberliga - Bayern Süd (Germany)",
+    "matchTime": "19:30",
+    "homeTeam": "Pipinsried",
+    "awayTeam": "Pfaffenhofen",
     "prediction": "2-1",
-    "odds": "9.81"
+    "odds": "6.27"
   }
 ]
