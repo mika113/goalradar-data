@@ -1,21 +1,12 @@
 [
   {
-    "id": 1556414,
-    "league": "1 Lyga (Lithuania)",
-    "matchTime": "19:00",
-    "homeTeam": "Ekranas",
-    "awayTeam": "Minija",
-    "prediction": "Both Teams To Score",
-    "odds": "2.04"
-  },
-  {
     "id": 1556415,
     "league": "1 Lyga (Lithuania)",
     "matchTime": "19:00",
     "homeTeam": "Kauno Žalgiris II",
     "awayTeam": "Jonava",
-    "prediction": "Both Teams To Score",
-    "odds": "2.17"
+    "prediction": "Jonava Win",
+    "odds": "2.86"
   },
   {
     "id": 1556416,
@@ -23,8 +14,8 @@
     "matchTime": "19:00",
     "homeTeam": "FA Šiauliai II",
     "awayTeam": "Žalgiris II",
-    "prediction": "Žalgiris II Win",
-    "odds": "1.93"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1556417,
@@ -32,8 +23,8 @@
     "matchTime": "19:00",
     "homeTeam": "Transinvest 2",
     "awayTeam": "Atmosfera",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.71"
+    "prediction": "Both Teams To Score",
+    "odds": "1.72"
   },
   {
     "id": 1558178,
@@ -41,8 +32,8 @@
     "matchTime": "19:00",
     "homeTeam": "Pogoń Grod. Mazowiecki",
     "awayTeam": "Stal Rzeszów",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.56"
+    "prediction": "Pogoń Grod. Mazowiecki Win",
+    "odds": "1.59"
   },
   {
     "id": 1559745,
@@ -50,8 +41,8 @@
     "matchTime": "19:00",
     "homeTeam": "Dukla Praha",
     "awayTeam": "Slavia Praha II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.56"
+    "prediction": "Dukla Praha Win",
+    "odds": "1.9"
   },
   {
     "id": 1559749,
@@ -60,7 +51,7 @@
     "homeTeam": "Kladno",
     "awayTeam": "Vlašim",
     "prediction": "Kladno Win",
-    "odds": "1.36"
+    "odds": "1.74"
   },
   {
     "id": 1561617,
@@ -68,7 +59,16 @@
     "matchTime": "19:00",
     "homeTeam": "Górnik Łęczna",
     "awayTeam": "Podhale Nowy Targ",
-    "prediction": "Double Chance X2",
-    "odds": "1.32"
+    "prediction": "Podhale Nowy Targ Win",
+    "odds": "1.78"
+  },
+  {
+    "id": 1562238,
+    "league": "4. liga - Divizie A (Czech-Republic)",
+    "matchTime": "19:00",
+    "homeTeam": "Spartak Soběslav",
+    "awayTeam": "Hořovicko",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.92"
   }
 ]
