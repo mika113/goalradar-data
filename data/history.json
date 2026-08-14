@@ -6,9 +6,9 @@
     "homeTeam": "Enosis",
     "awayTeam": "Akritas",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Akritas Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "BFC Daugavpils",
     "awayTeam": "Ogre United",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Ogre United Win",
     "outcome": "Won"
   },
   {
@@ -77,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Pohronie",
     "awayTeam": "MFK Bytča",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Pohronie Win",
+    "outcome": "Won"
   },
   {
     "id": 1519125,
@@ -117,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1623349,
