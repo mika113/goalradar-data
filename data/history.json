@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1523236,
@@ -44,8 +44,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Wuhan Three Towns Win",
-    "outcome": "Won"
+    "prediction": "SHANGHAI SIPG Win",
+    "outcome": "Lost"
   },
   {
     "id": 1523235,
@@ -65,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Shaanxi Union",
     "awayTeam": "Changchun Yatai",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -90,7 +90,7 @@
     "homeTeam": "Bayswater City",
     "awayTeam": "Stirling Lions",
     "homeScore": 5,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Bayswater City Win",
     "outcome": "Won"
