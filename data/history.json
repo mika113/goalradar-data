@@ -1,5 +1,17 @@
 [
   {
+    "id": 1561093,
+    "league": "2. liga (Slovakia)",
+    "matchDate": "FT",
+    "homeTeam": "Pohronie",
+    "awayTeam": "MFK Bytča",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1623349,
     "league": "Premier League (Kyrgyzstan)",
     "matchDate": "FT",
@@ -8,8 +20,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Ozgon Win",
-    "outcome": "Lost"
+    "prediction": "OshMU Aldier Win",
+    "outcome": "Won"
   },
   {
     "id": 1623348,
@@ -21,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1606522,
@@ -57,90 +69,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Al-Ittihad Kalba Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1569049,
-    "league": "III Liga - Group 1 (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Lechia T. Mazowiecki",
-    "awayTeam": "Łomża",
-    "homeScore": 4,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Lechia T. Mazowiecki Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561360,
-    "league": "Premier League (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "FC Orenburg",
-    "awayTeam": "Lokomotiv",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Lokomotiv Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1531080,
-    "league": "Pro League A (Uzbekistan)",
-    "matchDate": "FT",
-    "homeTeam": "Gazalkent",
-    "awayTeam": "Olimpik-Mobiuz",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1527719,
-    "league": "Vysshaya Liga (Tajikistan)",
-    "matchDate": "FT",
-    "homeTeam": "Sardor Tursunzoda",
-    "awayTeam": "Khosilot Farkhor",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1525943,
-    "league": "Premier League (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Arsenal",
-    "awayTeam": "Slavia Mozyr",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Arsenal Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519127,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit U19",
-    "awayTeam": "Krasnodar U19",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Krasnodar U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519122,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Fakel U19",
-    "awayTeam": "Lokomotiv Moskva U19",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
