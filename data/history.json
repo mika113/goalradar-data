@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Parma",
     "awayTeam": "Catania",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Parma Win",
     "outcome": "Won"
   },
   {
@@ -33,6 +33,30 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618213,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Kheybar Khorramabad",
+    "awayTeam": "Fajr Sepasi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618212,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Esteghlal FC",
+    "awayTeam": "Mes Shahr-e Babak",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -53,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Singida Black Stars",
     "awayTeam": "Fountain Gate",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fountain Gate Win",
     "outcome": "Lost"
   },
   {
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Greuther Fürth II",
     "awayTeam": "Landsberg",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Greuther Fürth II Win",
     "outcome": "Won"
   },
   {
@@ -78,10 +102,10 @@
     "homeTeam": "Augsburg II",
     "awayTeam": "Vilzing",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Vilzing Win",
+    "outcome": "Won"
   },
   {
     "id": 1586167,
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Strání",
     "awayTeam": "Kozlovice",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575765,
-    "league": "2. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "HIK",
-    "awayTeam": "FA 2000",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1574062,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Leobendorf",
-    "awayTeam": "SV Horn",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Strání Win",
     "outcome": "Won"
   }
 ]
