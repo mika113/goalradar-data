@@ -1,21 +1,12 @@
 [
   {
-    "id": 1510987,
-    "league": "Division 2 - Södra Götaland (Sweden)",
-    "matchTime": "19:15",
-    "homeTeam": "Sölvesborg",
-    "awayTeam": "Nosaby",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
-  },
-  {
     "id": 1510639,
     "league": "Division 2 - Norra Götaland (Sweden)",
     "matchTime": "19:30",
     "homeTeam": "Ahlafors",
     "awayTeam": "Grebbestad",
-    "prediction": "Ahlafors Win",
-    "odds": "1.98"
+    "prediction": "Both Teams To Score",
+    "odds": "1.73"
   },
   {
     "id": 1511367,
@@ -23,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "Hestrafor",
     "awayTeam": "Qviding FIF",
-    "prediction": "Qviding FIF Win",
-    "odds": "3.21"
+    "prediction": "Double Chance 1X",
+    "odds": "1.23"
   },
   {
     "id": 1567032,
@@ -32,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Ismaning",
     "awayTeam": "1880 Wasserburg",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
+    "prediction": "1880 Wasserburg Win",
+    "odds": "2.4"
   },
   {
     "id": 1567246,
@@ -42,7 +33,7 @@
     "homeTeam": "Kottern",
     "awayTeam": "Landshut",
     "prediction": "Kottern Win",
-    "odds": "1.8"
+    "odds": "1.97"
   },
   {
     "id": 1567247,
@@ -50,7 +41,16 @@
     "matchTime": "19:30",
     "homeTeam": "Pipinsried",
     "awayTeam": "Pfaffenhofen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.99"
+    "prediction": "Pipinsried Win & Over 1.5",
+    "odds": "1.8"
+  },
+  {
+    "id": 1567880,
+    "league": "2. Liga (Austria)",
+    "matchTime": "19:30",
+    "homeTeam": "WSPG Wels",
+    "awayTeam": "Rapid Wien II",
+    "prediction": "WSPG Wels Win",
+    "odds": "1.93"
   }
 ]
