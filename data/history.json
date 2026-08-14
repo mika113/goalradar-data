@@ -1,5 +1,41 @@
 [
   {
+    "id": 1627236,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Puerto Cabello II",
+    "awayTeam": "Yaracuyanos FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1612421,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "Encarnación",
+    "awayTeam": "12 de Junio VH",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1597742,
+    "league": "Liga 3 (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "União Santarém",
+    "awayTeam": "Oliveirense",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619651,
     "league": "Coppa Italia (Italy)",
     "matchDate": "FT",
@@ -20,8 +56,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Sporting CP Win",
-    "outcome": "Won"
+    "prediction": "Vitória SC Win",
+    "outcome": "Lost"
   },
   {
     "id": 1618972,
@@ -33,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1611296,
@@ -44,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Inter U23 Win",
-    "outcome": "Lost"
+    "prediction": "Vado Win",
+    "outcome": "Won"
   },
   {
     "id": 1611295,
@@ -66,9 +102,9 @@
     "homeTeam": "PRO Vercelli",
     "awayTeam": "Pergolettese",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pergolettese Win",
     "outcome": "Won"
   },
   {
@@ -104,43 +140,7 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Casertana Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611289,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Audace Cerignola",
-    "awayTeam": "SS Monopoli",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1588272,
-    "league": "National League - South (England)",
-    "matchDate": "FT",
-    "homeTeam": "Dagenham & Redbridge",
-    "awayTeam": "Farnham Town",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1580463,
-    "league": "FAW Championship (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "Ruthin Town",
-    "awayTeam": "Denbigh Town",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Savoia Win",
+    "outcome": "Lost"
   }
 ]
