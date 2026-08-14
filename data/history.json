@@ -1,5 +1,17 @@
 [
   {
+    "id": 1510987,
+    "league": "Division 2 - Södra Götaland (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Sölvesborg",
+    "awayTeam": "Nosaby",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619314,
     "league": "Coppa Italia (Italy)",
     "matchDate": "FT",
@@ -17,11 +29,11 @@
     "matchDate": "FT",
     "homeTeam": "Nea Salamis",
     "awayTeam": "Krasava Odintsovo",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Nea Salamis Win",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1611292,
@@ -30,9 +42,9 @@
     "homeTeam": "AZ Picerno",
     "awayTeam": "Barletta",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Barletta Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1586173,
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1586167,
@@ -77,6 +89,18 @@
     "matchDate": "FT",
     "homeTeam": "Eichstätt",
     "awayTeam": "Ansbach",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1581498,
+    "league": "Premier League (Armenia)",
+    "matchDate": "FT",
+    "homeTeam": "Gandzasar",
+    "awayTeam": "Shirak",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -118,29 +142,5 @@
     "status": "FT",
     "prediction": "Double Chance 1X",
     "outcome": "Won"
-  },
-  {
-    "id": 1574061,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Fach-Donaufeld",
-    "awayTeam": "Oberwart",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1573822,
-    "league": "Regionalliga - West (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Wolfurt",
-    "awayTeam": "SVG Reichenau",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
   }
 ]
