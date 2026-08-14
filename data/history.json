@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1619651,
@@ -53,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Sporting CP",
     "awayTeam": "Vitória SC",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Sporting CP Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Vado",
     "awayTeam": "Inter U23",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Vado Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -126,7 +126,7 @@
     "homeTeam": "Grosseto",
     "awayTeam": "Guidonia Montecelio 1937",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Grosseto Win",
     "outcome": "Won"
@@ -140,7 +140,7 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Casertana Win",
-    "outcome": "Won"
+    "prediction": "Savoia Win",
+    "outcome": "Lost"
   }
 ]
