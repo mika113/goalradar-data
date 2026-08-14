@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Shandong Luneng",
     "awayTeam": "Qingdao Jonoon",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Shandong Luneng Win",
     "outcome": "Won"
   },
   {
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1600732,
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Bayswater City",
     "awayTeam": "Stirling Lions",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Bayswater City Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Eltham Redbacks FC",
     "awayTeam": "Manningham United Blues",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Eltham Redbacks FC Win",
@@ -80,8 +80,8 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Over 2.5 Goals",
-    "outcome": "Lost"
+    "prediction": "Both Teams To Score",
+    "outcome": "Won"
   },
   {
     "id": 1522000,
@@ -90,7 +90,7 @@
     "homeTeam": "Oakleigh Cannons",
     "awayTeam": "Green Gully",
     "homeScore": 3,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Oakleigh Cannons Win",
     "outcome": "Won"
@@ -117,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1556021,
@@ -126,10 +126,10 @@
     "homeTeam": "Tokyo Verdy",
     "awayTeam": "Kashiwa Reysol",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Tokyo Verdy Win",
-    "outcome": "Lost"
+    "prediction": "Kashiwa Reysol Win",
+    "outcome": "Won"
   },
   {
     "id": 1533762,
