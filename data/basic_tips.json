@@ -1,21 +1,12 @@
 [
   {
-    "id": 1575902,
-    "league": "Premier League (Wales)",
-    "matchTime": "19:15",
-    "homeTeam": "Caernarfon Town",
-    "awayTeam": "Colwyn Bay",
-    "prediction": "Caernarfon Town Win & Over 1.5",
-    "odds": "2.93"
-  },
-  {
     "id": 1525944,
     "league": "Premier League (Belarus)",
     "matchTime": "20:00",
     "homeTeam": "Bate Borisov",
     "awayTeam": "FC Vitebsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.36"
+    "prediction": "Bate Borisov Win",
+    "odds": "1.42"
   },
   {
     "id": 1575455,
@@ -24,7 +15,7 @@
     "homeTeam": "Academico Viseu",
     "awayTeam": "Santa Clara",
     "prediction": "Both Teams To Score",
-    "odds": "1.87"
+    "odds": "1.66"
   },
   {
     "id": 1561908,
@@ -32,8 +23,8 @@
     "matchTime": "20:30",
     "homeTeam": "Sturm Graz",
     "awayTeam": "SCR Altach",
-    "prediction": "Sturm Graz Win",
-    "odds": "1.33"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.86"
   },
   {
     "id": 1570333,
@@ -41,8 +32,8 @@
     "matchTime": "20:30",
     "homeTeam": "Alaves",
     "awayTeam": "Getafe",
-    "prediction": "Getafe Win",
-    "odds": "2.32"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.93"
   },
   {
     "id": 1561358,
@@ -50,7 +41,16 @@
     "matchTime": "20:45",
     "homeTeam": "FC Krasnodar",
     "awayTeam": "Akhmat",
-    "prediction": "Akhmat Win",
-    "odds": "2.02"
+    "prediction": "FC Krasnodar Win",
+    "odds": "2.0"
+  },
+  {
+    "id": 1548509,
+    "league": "HNL (Croatia)",
+    "matchTime": "19:30",
+    "homeTeam": "Istra 1961",
+    "awayTeam": "NK Slaven Belupo",
+    "prediction": "NK Slaven Belupo Win",
+    "odds": "3.2"
   }
 ]
