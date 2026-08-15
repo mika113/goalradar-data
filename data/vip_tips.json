@@ -1,30 +1,12 @@
 [
   {
-    "id": 1538671,
-    "league": "Super League (Malawi)",
-    "matchTime": "15:30",
-    "homeTeam": "MAFCO",
-    "awayTeam": "Masters FC",
-    "prediction": "MAFCO Win",
-    "odds": "1.84"
-  },
-  {
-    "id": 1538672,
-    "league": "Super League (Malawi)",
-    "matchTime": "15:30",
-    "homeTeam": "Red Lions",
-    "awayTeam": "Moyale Barracks",
-    "prediction": "Red Lions Win",
-    "odds": "1.42"
-  },
-  {
     "id": 1538673,
     "league": "Super League (Malawi)",
     "matchTime": "15:30",
     "homeTeam": "Silver Strikers",
     "awayTeam": "Ekhaya",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1566588,
@@ -32,8 +14,8 @@
     "matchTime": "15:30",
     "homeTeam": "Tatran Prešov W",
     "awayTeam": "Spartak Trnava W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Tatran Prešov W Win",
+    "odds": "1.76"
   },
   {
     "id": 1579421,
@@ -41,7 +23,7 @@
     "matchTime": "15:30",
     "homeTeam": "Hoek",
     "awayTeam": "Koninklijke HFC",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.29"
   },
   {
@@ -50,8 +32,8 @@
     "matchTime": "15:30",
     "homeTeam": "Essingen",
     "awayTeam": "Balingen",
-    "prediction": "Balingen Win",
-    "odds": "2.21"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.99"
   },
   {
     "id": 1605050,
@@ -59,8 +41,8 @@
     "matchTime": "15:30",
     "homeTeam": "Shirak II",
     "awayTeam": "Araks Ararat",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Araks Ararat Win",
+    "odds": "3.39"
   },
   {
     "id": 1618239,
@@ -68,7 +50,25 @@
     "matchTime": "15:30",
     "homeTeam": "ACV",
     "awayTeam": "TEC",
-    "prediction": "TEC Win",
-    "odds": "2.47"
+    "prediction": "Double Chance X2",
+    "odds": "1.8"
+  },
+  {
+    "id": 1618240,
+    "league": "Derde Divisie (Netherlands)",
+    "matchTime": "15:30",
+    "homeTeam": "Excelsior '31",
+    "awayTeam": "Eemdijk",
+    "prediction": "Excelsior '31 Win",
+    "odds": "1.75"
+  },
+  {
+    "id": 1618241,
+    "league": "Derde Divisie (Netherlands)",
+    "matchTime": "15:30",
+    "homeTeam": "SC Genemuiden",
+    "awayTeam": "DVS 33 Ermelo",
+    "prediction": "SC Genemuiden Win",
+    "odds": "1.79"
   }
 ]
