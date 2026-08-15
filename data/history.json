@@ -1,5 +1,89 @@
 [
   {
+    "id": 1627238,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Zamora FC B",
+    "awayTeam": "Atletico el Vigia FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1627237,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Real Frontera",
+    "awayTeam": "Deportivo Lara",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1619023,
+    "league": "Primera División (Uruguay)",
+    "matchDate": "FT",
+    "homeTeam": "Racing Montevideo",
+    "awayTeam": "Club Nacional",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1575462,
+    "league": "Primeira Liga (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Rio Ave",
+    "awayTeam": "FC Porto",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1569879,
+    "league": "Segunda División (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Valladolid",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1498728,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Colon Santa Fe",
+    "awayTeam": "Patronato",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1492334,
+    "league": "Serie A (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Fluminense",
+    "awayTeam": "Palmeiras",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1564798,
     "league": "Coppa Italia (Italy)",
     "matchDate": "FT",
@@ -18,9 +102,9 @@
     "homeTeam": "Real Oruro",
     "awayTeam": "Oriente Petrolero",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Oriente Petrolero Win",
     "outcome": "Won"
   },
   {
@@ -29,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Huracan",
     "awayTeam": "Paysandu",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Sportivo Huracan Win",
+    "outcome": "Won"
   },
   {
     "id": 1611304,
@@ -42,10 +126,10 @@
     "homeTeam": "Salernitana",
     "awayTeam": "Scafatese",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Salernitana Win",
-    "outcome": "Lost"
+    "prediction": "Scafatese Win",
+    "outcome": "Won"
   },
   {
     "id": 1611303,
@@ -57,90 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611302,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Livorno",
-    "awayTeam": "Reggiana",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Livorno Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611301,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Cittadella",
-    "awayTeam": "Atalanta II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611300,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Athletic Carpi",
-    "awayTeam": "Pianese",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Pianese Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611299,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Campobasso FC",
-    "awayTeam": "Cavese",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1610937,
-    "league": "Division Profesional - Clausura (Paraguay)",
-    "matchDate": "FT",
-    "homeTeam": "Club Guarani",
-    "awayTeam": "Rubio NU",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606462,
-    "league": "Torneo Federal A (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Tucuman Central",
-    "awayTeam": "Atletico Escobar",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Tucuman Central Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604791,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Mosconia",
-    "awayTeam": "Real Avilés",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Real Avilés Win",
     "outcome": "Won"
   }
 ]
