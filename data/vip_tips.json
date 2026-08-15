@@ -1,48 +1,12 @@
 [
   {
-    "id": 1620633,
-    "league": "Ýokary Liga (Turkmenistan)",
-    "matchTime": "15:45",
-    "homeTeam": "Merw",
-    "awayTeam": "Nebitci",
-    "prediction": "Both Teams To Score",
-    "odds": "2.02"
-  },
-  {
-    "id": 1494248,
-    "league": "Allsvenskan (Sweden)",
-    "matchTime": "16:00",
-    "homeTeam": "Mjallby AIF",
-    "awayTeam": "Sirius",
-    "prediction": "Both Teams To Score",
-    "odds": "2.05"
-  },
-  {
-    "id": 1495524,
-    "league": "Damallsvenskan (Sweden)",
-    "matchTime": "16:00",
-    "homeTeam": "Hammarby W",
-    "awayTeam": "Piteå W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.09"
-  },
-  {
-    "id": 1495527,
-    "league": "Damallsvenskan (Sweden)",
-    "matchTime": "16:00",
-    "homeTeam": "Rosengård W",
-    "awayTeam": "Eskilstuna United W",
-    "prediction": "Both Teams To Score",
-    "odds": "2.1"
-  },
-  {
     "id": 1496121,
     "league": "2. Division - Group 1 (Norway)",
     "matchTime": "16:00",
     "homeTeam": "Mjondalen",
     "awayTeam": "Eik-Tønsberg",
-    "prediction": "Eik-Tønsberg Win",
-    "odds": "1.79"
+    "prediction": "Mjondalen Win & Over 1.5",
+    "odds": "1.81"
   },
   {
     "id": 1496668,
@@ -51,7 +15,7 @@
     "homeTeam": "Herd",
     "awayTeam": "Ranheim II",
     "prediction": "Herd Win",
-    "odds": "1.49"
+    "odds": "1.67"
   },
   {
     "id": 1496670,
@@ -59,8 +23,8 @@
     "matchTime": "16:00",
     "homeTeam": "Nardo",
     "awayTeam": "Melhus",
-    "prediction": "Melhus Win",
-    "odds": "2.55"
+    "prediction": "Both Teams To Score",
+    "odds": "1.86"
   },
   {
     "id": 1496671,
@@ -68,7 +32,43 @@
     "matchTime": "16:00",
     "homeTeam": "Orkla",
     "awayTeam": "Spjelkavik",
-    "prediction": "Orkla Win & Over 1.5",
-    "odds": "2.07"
+    "prediction": "Double Chance X2",
+    "odds": "1.21"
+  },
+  {
+    "id": 1496672,
+    "league": "3. Division - Girone 2 (Norway)",
+    "matchTime": "16:00",
+    "homeTeam": "Strindheim",
+    "awayTeam": "NTNUI",
+    "prediction": "Double Chance X2",
+    "odds": "1.8"
+  },
+  {
+    "id": 1496852,
+    "league": "3. Division - Girone 3 (Norway)",
+    "matchTime": "16:00",
+    "homeTeam": "Sogndal II",
+    "awayTeam": "Fana",
+    "prediction": "Fana Win",
+    "odds": "2.45"
+  },
+  {
+    "id": 1497030,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "16:00",
+    "homeTeam": "Flekkerøy",
+    "awayTeam": "Brodd",
+    "prediction": "Brodd Win",
+    "odds": "2.5"
+  },
+  {
+    "id": 1497033,
+    "league": "3. Division - Girone 4 (Norway)",
+    "matchTime": "16:00",
+    "homeTeam": "Våg",
+    "awayTeam": "Mandalskameratene",
+    "prediction": "Våg Win",
+    "odds": "1.35"
   }
 ]
