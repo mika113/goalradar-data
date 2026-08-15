@@ -6,9 +6,9 @@
     "homeTeam": "CS Afumati",
     "awayTeam": "Chindia Targoviste",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Chindia Targoviste Win",
     "outcome": "Won"
   },
   {
@@ -36,15 +36,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1598613,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "SV Elversberg",
+    "awayTeam": "Lorient",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1582101,
     "league": "Kvindeliga (Denmark)",
     "matchDate": "FT",
     "homeTeam": "FC Copenhagen W",
     "awayTeam": "Fortuna Hjørring W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fortuna Hjørring W Win",
     "outcome": "Won"
   },
   {
@@ -69,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1580706,
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Mold Alexandra",
     "awayTeam": "Holyhead Hotspur",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Holyhead Hotspur Win",
     "outcome": "Lost"
-  },
-  {
-    "id": 1580465,
-    "league": "FAW Championship (Wales)",
-    "matchDate": "FT",
-    "homeTeam": "Buckley Town",
-    "awayTeam": "Porthmadog",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
   }
 ]
