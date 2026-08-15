@@ -1,5 +1,29 @@
 [
   {
+    "id": 1599427,
+    "league": "FAI Cup (Ireland)",
+    "matchDate": "FT",
+    "homeTeam": "Sligo Rovers",
+    "awayTeam": "Kerry",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558594,
+    "league": "Jupiler Pro League (Belgium)",
+    "matchDate": "FT",
+    "homeTeam": "OH Leuven",
+    "awayTeam": "Club Brugge KV",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1620972,
     "league": "Brasiliense U20 (Brazil)",
     "matchDate": "FT",
@@ -9,7 +33,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1585706,
@@ -33,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1584372,
@@ -42,9 +66,9 @@
     "homeTeam": "Gençlerbirliği S.K.",
     "awayTeam": "Fenerbahçe",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fenerbahçe Win",
     "outcome": "Won"
   },
   {
@@ -89,11 +113,11 @@
     "matchDate": "FT",
     "homeTeam": "Podbrezová",
     "awayTeam": "AS Trencin",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "prediction": "Podbrezová Win",
+    "outcome": "Won"
   },
   {
     "id": 1557992,
@@ -114,33 +138,9 @@
     "homeTeam": "Widzew Łódź",
     "awayTeam": "Korona Kielce",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551079,
-    "league": "First League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Ludogorets",
-    "awayTeam": "Botev Plovdiv",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1627038,
-    "league": "Iraqi League",
-    "matchDate": "FT",
-    "homeTeam": "Al Zawra'a",
-    "awayTeam": "Al Minaa Basra",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Korona Kielce Win",
     "outcome": "Won"
   }
 ]
