@@ -1,48 +1,12 @@
 [
   {
-    "id": 1504283,
-    "league": "Ykkösliiga (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "JIPPO",
-    "awayTeam": "SJK Akatemia",
-    "prediction": "JIPPO Win",
-    "odds": "1.82"
-  },
-  {
-    "id": 1507195,
-    "league": "Erovnuli Liga 2 (Georgia)",
-    "matchTime": "16:00",
-    "homeTeam": "Gareji",
-    "awayTeam": "Aragvi Dusheti",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1507197,
-    "league": "Erovnuli Liga 2 (Georgia)",
-    "matchTime": "16:00",
-    "homeTeam": "Merani Martvili",
-    "awayTeam": "Odishi 1919",
-    "prediction": "Odishi 1919 Win",
-    "odds": "3.15"
-  },
-  {
-    "id": 1517244,
-    "league": "Ykkönen (Finland)",
-    "matchTime": "16:00",
-    "homeTeam": "SalPa",
-    "awayTeam": "FC jazz",
-    "prediction": "FC jazz Win",
-    "odds": "2.1"
-  },
-  {
     "id": 1531079,
     "league": "Pro League A (Uzbekistan)",
     "matchTime": "16:00",
     "homeTeam": "Aral",
     "awayTeam": "BuxDu",
-    "prediction": "Aral Win",
-    "odds": "1.43"
+    "prediction": "Double Chance 1X",
+    "odds": "1.54"
   },
   {
     "id": 1534541,
@@ -50,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Shakhter Soligorsk",
     "awayTeam": "Niva",
-    "prediction": "Both Teams To Score",
-    "odds": "1.73"
+    "prediction": "Shakhter Soligorsk Win",
+    "odds": "1.95"
   },
   {
     "id": 1535643,
@@ -60,7 +24,7 @@
     "homeTeam": "Viking FK W",
     "awayTeam": "Åsane W",
     "prediction": "Viking FK W Win",
-    "odds": "1.57"
+    "odds": "1.87"
   },
   {
     "id": 1536253,
@@ -68,8 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "PSK Dinskaya",
     "awayTeam": "Pobeda",
-    "prediction": "PSK Dinskaya Win & Over 1.5",
-    "odds": "2.35"
+    "prediction": "PSK Dinskaya Win",
+    "odds": "1.62"
   },
   {
     "id": 1536429,
@@ -77,7 +41,7 @@
     "matchTime": "16:00",
     "homeTeam": "Torpedo Vladimir",
     "awayTeam": "Irkutsk",
-    "prediction": "Irkutsk Win",
+    "prediction": "Both Teams To Score",
     "odds": "1.84"
   },
   {
@@ -86,7 +50,43 @@
     "matchTime": "16:00",
     "homeTeam": "Honka",
     "awayTeam": "P-Iirot",
-    "prediction": "Double Chance X2",
-    "odds": "1.77"
+    "prediction": "Honka Win",
+    "odds": "1.69"
+  },
+  {
+    "id": 1541549,
+    "league": "Kakkonen - Lohko B (Finland)",
+    "matchTime": "16:00",
+    "homeTeam": "Musa",
+    "awayTeam": "EBK",
+    "prediction": "Musa Win & Over 1.5",
+    "odds": "2.16"
+  },
+  {
+    "id": 1546104,
+    "league": "Copa Paulista (Brazil)",
+    "matchTime": "16:00",
+    "homeTeam": "EC São Bernardo",
+    "awayTeam": "São José EC",
+    "prediction": "EC São Bernardo Win",
+    "odds": "1.9"
+  },
+  {
+    "id": 1547433,
+    "league": "Paulista - U20 (Brazil)",
+    "matchTime": "16:00",
+    "homeTeam": "Capivariano U20",
+    "awayTeam": "Guarani U20",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.66"
+  },
+  {
+    "id": 1562476,
+    "league": "4. liga - Divizie C (Czech-Republic)",
+    "matchTime": "16:00",
+    "homeTeam": "Kosmonosy",
+    "awayTeam": "Vysoké Mýto",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.04"
   }
 ]
