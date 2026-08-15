@@ -1,5 +1,17 @@
 [
   {
+    "id": 1620972,
+    "league": "Brasiliense U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Sobradinho U20",
+    "awayTeam": "Capital TO U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
     "id": 1585706,
     "league": "1. Lig (Turkey)",
     "matchDate": "FT",
@@ -9,6 +21,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Manisa F.K. Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1585700,
+    "league": "1. Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Bursaspor",
+    "awayTeam": "Iğdır FK",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -69,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1557992,
@@ -81,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1553134,
@@ -90,9 +114,9 @@
     "homeTeam": "Widzew Łódź",
     "awayTeam": "Korona Kielce",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Widzew Łódź Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -105,7 +129,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1627038,
@@ -113,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Al Zawra'a",
     "awayTeam": "Al Minaa Basra",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1627037,
-    "league": "Iraqi League",
-    "matchDate": "FT",
-    "homeTeam": "Al-Karma",
-    "awayTeam": "Mosul",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
