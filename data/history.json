@@ -6,9 +6,9 @@
     "homeTeam": "Real Oruro",
     "awayTeam": "Oriente Petrolero",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Oriente Petrolero Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Livorno",
     "awayTeam": "Reggiana",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Livorno Win",
     "outcome": "Won"
   },
   {
@@ -128,8 +128,8 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Mosconia Win",
-    "outcome": "Lost"
+    "prediction": "Real Avilés Win",
+    "outcome": "Won"
   },
   {
     "id": 1559607,
@@ -137,10 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Cobán Imperial",
     "awayTeam": "Mixco",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cobán Imperial Win",
     "outcome": "Won"
   }
 ]
