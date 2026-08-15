@@ -36,15 +36,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1600736,
+    "league": "Ligi kuu Bara (Tanzania)",
+    "matchDate": "FT",
+    "homeTeam": "Coastal Union",
+    "awayTeam": "Mashujaa",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1600316,
     "league": "Premier Soccer League (South-Africa)",
     "matchDate": "FT",
     "homeTeam": "Sekhukhune United",
     "awayTeam": "Polokwane City",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sekhukhune United Win",
     "outcome": "Won"
   },
   {
@@ -65,11 +77,11 @@
     "matchDate": "FT",
     "homeTeam": "Pécsi MFC",
     "awayTeam": "Ferencváros II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "prediction": "Ferencváros II Win",
+    "outcome": "Lost"
   },
   {
     "id": 1594584,
@@ -90,9 +102,9 @@
     "homeTeam": "Dunaharaszti MTK",
     "awayTeam": "Érdi VSE",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Érdi VSE Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Komárom",
     "awayTeam": "Pápai Perutz",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1593861,
-    "league": "NB III - Northeast (Hungary)",
-    "matchDate": "FT",
-    "homeTeam": "Tiszaújváros",
-    "awayTeam": "Tiszafuredi VSE",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pápai Perutz Win",
     "outcome": "Won"
   }
 ]
