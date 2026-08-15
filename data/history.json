@@ -1,5 +1,77 @@
 [
   {
+    "id": 1623356,
+    "league": "Supercup der Frauen (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Bayern Munich W",
+    "awayTeam": "VfL Wolfsburg W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618940,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Inter",
+    "awayTeam": "Real Betis",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1570333,
+    "league": "La Liga (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Alaves",
+    "awayTeam": "Getafe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1561908,
+    "league": "Bundesliga (Austria)",
+    "matchDate": "FT",
+    "homeTeam": "Sturm Graz",
+    "awayTeam": "SCR Altach",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493074,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Union Santa Fe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493062,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Aldosivi",
+    "awayTeam": "Tigre",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1620657,
     "league": "Toto Cup Ligat Al (Israel)",
     "matchDate": "FT",
@@ -9,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1620656,
@@ -53,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Dacia-Buiucani",
     "awayTeam": "Petrocub",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dacia-Buiucani Win",
     "outcome": "Won"
   },
   {
@@ -66,81 +138,9 @@
     "homeTeam": "Villarreal II",
     "awayTeam": "Zaragoza",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604793,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Toulouse",
-    "awayTeam": "Hamburger SV",
-    "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Hamburger SV Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598626,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Olot",
-    "awayTeam": "Sant Andreu",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1591973,
-    "league": "Júniores U19 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Alverca U19",
-    "awayTeam": "SC Farense U19",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "SC Farense U19 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1589462,
-    "league": "National Division (Luxembourg)",
-    "matchDate": "FT",
-    "homeTeam": "Wiltz",
-    "awayTeam": "FC Differdange 03",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1586513,
-    "league": "Regionalliga - Nord (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Phönix Lübeck",
-    "awayTeam": "VfB Lübeck",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Phönix Lübeck Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1576457,
-    "league": "Segunda Liga (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Torreense",
-    "awayTeam": "Penafiel",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Penafiel Win",
+    "prediction": "Zaragoza Win",
     "outcome": "Won"
   }
 ]
