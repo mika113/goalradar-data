@@ -1,21 +1,12 @@
 [
   {
-    "id": 1522432,
-    "league": "Brasileiro Women (Brazil)",
-    "matchTime": "23:30",
-    "homeTeam": "Bahia W",
-    "awayTeam": "Corinthians W",
-    "prediction": "Both Teams To Score",
-    "odds": "1.87"
-  },
-  {
     "id": 1526598,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchTime": "23:30",
     "homeTeam": "Gualaceo SC",
     "awayTeam": "Atletico FC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
+    "prediction": "Atletico FC Win",
+    "odds": "1.99"
   },
   {
     "id": 1549452,
@@ -23,8 +14,8 @@
     "matchTime": "23:30",
     "homeTeam": "Club Deportivo Los Chankas",
     "awayTeam": "FBC Melgar",
-    "prediction": "Club Deportivo Los Chankas Win",
-    "odds": "1.92"
+    "prediction": "Club Deportivo Los Chankas Win & Over 1.5",
+    "odds": "2.23"
   },
   {
     "id": 1607660,
@@ -32,8 +23,8 @@
     "matchTime": "23:30",
     "homeTeam": "U. de Deportes W",
     "awayTeam": "FBC Melgar W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.47"
+    "prediction": "Both Teams To Score",
+    "odds": "2.12"
   },
   {
     "id": 1627239,
@@ -41,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Fundación Lara Deportiva",
     "awayTeam": "Club Atletico Barinas",
-    "prediction": "Club Atletico Barinas Win",
-    "odds": "2.24"
+    "prediction": "Fundación Lara Deportiva Win & Over 1.5",
+    "odds": "2.86"
   },
   {
     "id": 1498732,
@@ -50,8 +41,8 @@
     "matchTime": "00:00",
     "homeTeam": "Godoy Cruz",
     "awayTeam": "Deportivo Maipu",
-    "prediction": "Deportivo Maipu Win",
-    "odds": "3.44"
+    "prediction": "Both Teams To Score",
+    "odds": "1.76"
   },
   {
     "id": 1517326,
@@ -60,7 +51,7 @@
     "homeTeam": "Cavalry FC",
     "awayTeam": "Forge",
     "prediction": "Cavalry FC Win",
-    "odds": "1.82"
+    "odds": "1.54"
   },
   {
     "id": 1522476,
@@ -69,7 +60,7 @@
     "homeTeam": "Mixto W",
     "awayTeam": "Cruzeiro W",
     "prediction": "Mixto W Win",
-    "odds": "1.43"
+    "odds": "1.64"
   },
   {
     "id": 1549595,
@@ -86,8 +77,8 @@
     "matchTime": "00:00",
     "homeTeam": "Orsomarso",
     "awayTeam": "Popayan",
-    "prediction": "Orsomarso Win",
-    "odds": "1.31"
+    "prediction": "Popayan Win",
+    "odds": "3.17"
   },
   {
     "id": 1592944,
@@ -95,8 +86,8 @@
     "matchTime": "00:00",
     "homeTeam": "Génesis",
     "awayTeam": "Platense FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.51"
+    "prediction": "Génesis Win",
+    "odds": "1.42"
   },
   {
     "id": 1618975,
@@ -104,7 +95,16 @@
     "matchTime": "00:15",
     "homeTeam": "Guabirá",
     "awayTeam": "The Strongest",
-    "prediction": "Double Chance X2",
-    "odds": "1.8"
+    "prediction": "Guabirá Win",
+    "odds": "1.58"
+  },
+  {
+    "id": 1505495,
+    "league": "Primera División (Chile)",
+    "matchTime": "00:30",
+    "homeTeam": "Deportes Limache",
+    "awayTeam": "Universidad de Chile",
+    "prediction": "Deportes Limache Win & Over 1.5",
+    "odds": "2.3"
   }
 ]
