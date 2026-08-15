@@ -54,6 +54,18 @@
     "homeTeam": "Toulouse",
     "awayTeam": "Hamburger SV",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Hamburger SV Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1598626,
+    "league": "Friendlies Clubs (World)",
+    "matchDate": "FT",
+    "homeTeam": "Olot",
+    "awayTeam": "Sant Andreu",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
@@ -81,7 +93,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1586513,
+    "league": "Regionalliga - Nord (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "Phönix Lübeck",
+    "awayTeam": "VfB Lübeck",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1576457,
