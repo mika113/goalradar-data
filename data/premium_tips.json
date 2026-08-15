@@ -1,57 +1,12 @@
 [
   {
-    "id": 1554113,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "20:00",
-    "homeTeam": "Javor",
-    "awayTeam": "OFK Vršac",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.73"
-  },
-  {
-    "id": 1558895,
-    "league": "2. SNL (Slovenia)",
-    "matchTime": "20:00",
-    "homeTeam": "Brežice",
-    "awayTeam": "Dren Vrhnika",
-    "prediction": "Brežice Win",
-    "odds": "1.48"
-  },
-  {
-    "id": 1558899,
-    "league": "2. SNL (Slovenia)",
-    "matchTime": "20:00",
-    "homeTeam": "Primorje",
-    "awayTeam": "Dekani",
-    "prediction": "Both Teams To Score",
-    "odds": "1.8"
-  },
-  {
-    "id": 1559341,
-    "league": "Second League (Montenegro)",
-    "matchTime": "20:00",
-    "homeTeam": "Rudar",
-    "awayTeam": "Iskra",
-    "prediction": "Rudar Win",
-    "odds": "1.39"
-  },
-  {
-    "id": 1561619,
-    "league": "II Liga - East (Poland)",
-    "matchTime": "20:00",
-    "homeTeam": "Resovia Rzeszów",
-    "awayTeam": "Tychy 71",
-    "prediction": "Resovia Rzeszów Win",
-    "odds": "1.94"
-  },
-  {
     "id": 1566050,
     "league": "3. liga - West (Slovakia)",
     "matchTime": "20:00",
     "homeTeam": "Nitra",
     "awayTeam": "Častkovce",
-    "prediction": "Nitra Win",
-    "odds": "1.81"
+    "prediction": "Častkovce Win",
+    "odds": "1.72"
   },
   {
     "id": 1569874,
@@ -59,8 +14,8 @@
     "matchTime": "20:00",
     "homeTeam": "Cadiz",
     "awayTeam": "Celta de Vigo II",
-    "prediction": "Both Teams To Score",
-    "odds": "2.2"
+    "prediction": "Celta de Vigo II Win",
+    "odds": "3.48"
   },
   {
     "id": 1569880,
@@ -68,8 +23,8 @@
     "matchTime": "20:00",
     "homeTeam": "Oviedo",
     "awayTeam": "Granada CF",
-    "prediction": "Granada CF Win",
-    "odds": "3.38"
+    "prediction": "Oviedo Win",
+    "odds": "1.64"
   },
   {
     "id": 1573817,
@@ -78,7 +33,7 @@
     "homeTeam": "Fügen",
     "awayTeam": "Hohenems",
     "prediction": "Fügen Win",
-    "odds": "1.53"
+    "odds": "1.76"
   },
   {
     "id": 1576457,
@@ -87,7 +42,7 @@
     "homeTeam": "Torreense",
     "awayTeam": "Penafiel",
     "prediction": "Torreense Win",
-    "odds": "1.34"
+    "odds": "1.83"
   },
   {
     "id": 1582225,
@@ -96,7 +51,7 @@
     "homeTeam": "Collex-Bossy",
     "awayTeam": "Étoile Carouge",
     "prediction": "Collex-Bossy Win",
-    "odds": "1.85"
+    "odds": "1.42"
   },
   {
     "id": 1582229,
@@ -104,7 +59,52 @@
     "matchTime": "20:00",
     "homeTeam": "Genolier-Begnins",
     "awayTeam": "Pully Football",
-    "prediction": "Pully Football Win",
-    "odds": "3.15"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.76"
+  },
+  {
+    "id": 1586513,
+    "league": "Regionalliga - Nord (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Phönix Lübeck",
+    "awayTeam": "VfB Lübeck",
+    "prediction": "VfB Lübeck Win",
+    "odds": "3.02"
+  },
+  {
+    "id": 1589462,
+    "league": "National Division (Luxembourg)",
+    "matchTime": "20:00",
+    "homeTeam": "Wiltz",
+    "awayTeam": "FC Differdange 03",
+    "prediction": "FC Differdange 03 Win",
+    "odds": "1.84"
+  },
+  {
+    "id": 1589679,
+    "league": "3. SNL - East (Slovenia)",
+    "matchTime": "20:00",
+    "homeTeam": "Korotan Prevalje",
+    "awayTeam": "Videm",
+    "prediction": "Double Chance 1X",
+    "odds": "1.22"
+  },
+  {
+    "id": 1591973,
+    "league": "Júniores U19 (Portugal)",
+    "matchTime": "20:00",
+    "homeTeam": "Alverca U19",
+    "awayTeam": "SC Farense U19",
+    "prediction": "Alverca U19 Win",
+    "odds": "1.82"
+  },
+  {
+    "id": 1598626,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "20:00",
+    "homeTeam": "Olot",
+    "awayTeam": "Sant Andreu",
+    "prediction": "Both Teams To Score",
+    "odds": "1.87"
   }
 ]
