@@ -1,21 +1,12 @@
 [
   {
-    "id": 1565454,
-    "league": "Premier League (Ukraine)",
-    "matchTime": "15:30",
-    "homeTeam": "Kudrivka",
-    "awayTeam": "Obolon'-Brovar",
-    "prediction": "Kudrivka Win",
-    "odds": "1.89"
-  },
-  {
     "id": 1528066,
     "league": "Premier League (Kazakhstan)",
     "matchTime": "16:00",
     "homeTeam": "Kairat Almaty",
     "awayTeam": "Ulytau",
-    "prediction": "Both Teams To Score",
-    "odds": "2.14"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.15"
   },
   {
     "id": 1528067,
@@ -23,34 +14,43 @@
     "matchTime": "16:00",
     "homeTeam": "Zhenys",
     "awayTeam": "Zhetysu",
+    "prediction": "Zhenys Win",
+    "odds": "1.72"
+  },
+  {
+    "id": 1561356,
+    "league": "Premier League (Russia)",
+    "matchTime": "16:15",
+    "homeTeam": "CSKA Moscow",
+    "awayTeam": "Fakel",
+    "prediction": "CSKA Moscow Win",
+    "odds": "1.51"
+  },
+  {
+    "id": 1506649,
+    "league": "1. Deild (Faroe-Islands)",
+    "matchTime": "15:45",
+    "homeTeam": "Suduroy",
+    "awayTeam": "EB / Streymur II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.75"
+  },
+  {
+    "id": 1553136,
+    "league": "Ekstraklasa (Poland)",
+    "matchTime": "15:45",
+    "homeTeam": "Zaglebie Lubin",
+    "awayTeam": "Slask Wroclaw",
     "prediction": "Both Teams To Score",
-    "odds": "1.96"
+    "odds": "1.87"
   },
   {
-    "id": 1538670,
-    "league": "Super League (Malawi)",
-    "matchTime": "15:30",
-    "homeTeam": "Chitipa United",
-    "awayTeam": "Mitundu Baptist",
+    "id": 1618248,
+    "league": "Derde Divisie (Netherlands)",
+    "matchTime": "15:45",
+    "homeTeam": "Purmersteijn",
+    "awayTeam": "VV Scherpenzeel",
     "prediction": "Double Chance 1X",
-    "odds": "1.53"
-  },
-  {
-    "id": 1538671,
-    "league": "Super League (Malawi)",
-    "matchTime": "15:30",
-    "homeTeam": "MAFCO",
-    "awayTeam": "Masters FC",
-    "prediction": "MAFCO Win",
-    "odds": "1.52"
-  },
-  {
-    "id": 1538672,
-    "league": "Super League (Malawi)",
-    "matchTime": "15:30",
-    "homeTeam": "Red Lions",
-    "awayTeam": "Moyale Barracks",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.49"
   }
 ]
