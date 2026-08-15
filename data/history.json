@@ -17,11 +17,23 @@
     "matchDate": "FT",
     "homeTeam": "Ipswich Town U18",
     "awayTeam": "Fulham U18",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Ipswich Town U18 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1592982,
+    "league": "Druha Liga (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Lozova",
+    "awayTeam": "Oleksandria II",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1582103,
@@ -57,18 +69,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Nordsjælland W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577751,
-    "league": "3. Division (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Holbæk B&I",
-    "awayTeam": "Sundby",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
