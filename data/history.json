@@ -9,7 +9,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1627237,
@@ -21,7 +21,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1619023,
@@ -45,7 +45,19 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
+  },
+  {
+    "id": 1570341,
+    "league": "La Liga (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
   },
   {
     "id": 1569879,
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1498728,
@@ -113,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Sportivo Huracan",
     "awayTeam": "Paysandu",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Sportivo Huracan Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Scafatese Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611303,
-    "league": "Coppa Italia Serie C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Perugia",
-    "awayTeam": "Vis Pesaro",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
