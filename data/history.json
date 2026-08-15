@@ -6,10 +6,22 @@
     "homeTeam": "Laredo",
     "awayTeam": "Cristo Atlético",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Cristo Atlético Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1618219,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchDate": "FT",
+    "homeTeam": "Sanat Naft",
+    "awayTeam": "Malavan",
+    "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1597744,
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1567881,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1563091,
@@ -105,7 +117,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1602978,
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Caernarfon Town",
     "awayTeam": "Colwyn Bay",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558592,
-    "league": "Jupiler Pro League (Belgium)",
-    "matchDate": "FT",
-    "homeTeam": "Kortrijk",
-    "awayTeam": "Antwerp",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
