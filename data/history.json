@@ -1,5 +1,77 @@
 [
   {
+    "id": 1585706,
+    "league": "1. Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Manisa F.K.",
+    "awayTeam": "Vanspor FK",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Manisa F.K. Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584372,
+    "league": "Süper Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Gençlerbirliği S.K.",
+    "awayTeam": "Fenerbahçe",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1584371,
+    "league": "Süper Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Gaziantep FK",
+    "awayTeam": "Alanyaspor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1576149,
+    "league": "2. Bundesliga (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "1. FC Kaiserslautern",
+    "awayTeam": "Karlsruher SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1565218,
+    "league": "Liga I (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Rapid",
+    "awayTeam": "Dinamo Bucuresti",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551535,
+    "league": "Super Liga (Slovakia)",
+    "matchDate": "FT",
+    "homeTeam": "Podbrezová",
+    "awayTeam": "AS Trencin",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1557992,
     "league": "1. SNL (Slovenia)",
     "matchDate": "FT",
@@ -9,7 +81,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1553134,
@@ -33,7 +105,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1627038,
@@ -53,90 +125,6 @@
     "matchDate": "FT",
     "homeTeam": "Al-Karma",
     "awayTeam": "Mosul",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1627003,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Xerez Deportivo",
-    "awayTeam": "Mijas Las Lagunas",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1627002,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Orihuela",
-    "awayTeam": "Cieza",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1623357,
-    "league": "Segunda División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Minas",
-    "awayTeam": "Ayacucho FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1618941,
-    "league": "Friendlies Clubs (World)",
-    "matchDate": "FT",
-    "homeTeam": "Águilas",
-    "awayTeam": "Lorca Deportiva",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Lost"
-  },
-  {
-    "id": 1602980,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Nassr",
-    "awayTeam": "Al-Fateh",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1602979,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Ittihad FC",
-    "awayTeam": "Al Kholood",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1600737,
-    "league": "Ligi kuu Bara (Tanzania)",
-    "matchDate": "FT",
-    "homeTeam": "Namungo",
-    "awayTeam": "Young Africans",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
