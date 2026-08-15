@@ -1,14 +1,26 @@
 [
   {
+    "id": 1620657,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Bnei Sakhnin",
+    "awayTeam": "Hapoel Petah Tikva",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1627001,
     "league": "Friendlies Clubs (World)",
     "matchDate": "FT",
     "homeTeam": "Badalona II",
     "awayTeam": "Espanyol II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Espanyol II Win",
     "outcome": "Won"
   },
   {
@@ -45,7 +57,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1604793,
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Wiltz",
     "awayTeam": "FC Differdange 03",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wiltz Win",
     "outcome": "Won"
   },
   {
@@ -114,9 +126,9 @@
     "homeTeam": "Torreense",
     "awayTeam": "Penafiel",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Penafiel Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Academico Viseu",
     "awayTeam": "Santa Clara",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1569880,
-    "league": "Segunda División (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Oviedo",
-    "awayTeam": "Granada CF",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Santa Clara Win",
     "outcome": "Won"
   }
 ]
