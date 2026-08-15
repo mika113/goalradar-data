@@ -1,48 +1,12 @@
 [
   {
-    "id": 1548510,
-    "league": "HNL (Croatia)",
-    "matchTime": "22:00",
-    "homeTeam": "NK Osijek",
-    "awayTeam": "NK Lokomotiva Zagreb",
-    "prediction": "Both Teams To Score",
-    "odds": "1.98"
-  },
-  {
-    "id": 1549597,
-    "league": "Primera B (Colombia)",
-    "matchTime": "22:00",
-    "homeTeam": "Bogota FC",
-    "awayTeam": "Patriotas",
-    "prediction": "Bogota FC Win",
-    "odds": "1.65"
-  },
-  {
-    "id": 1552130,
-    "league": "Eredivisie (Netherlands)",
-    "matchTime": "22:00",
-    "homeTeam": "Fortuna Sittard",
-    "awayTeam": "Cambuur",
-    "prediction": "Fortuna Sittard Win",
-    "odds": "1.83"
-  },
-  {
-    "id": 1553836,
-    "league": "Super Liga (Serbia)",
-    "matchTime": "22:00",
-    "homeTeam": "Cukaricki",
-    "awayTeam": "OFK Beograd",
-    "prediction": "Cukaricki Win & Over 1.5",
-    "odds": "1.85"
-  },
-  {
     "id": 1554114,
     "league": "Prva Liga (Serbia)",
     "matchTime": "22:00",
     "homeTeam": "Jedinstvo Ub",
     "awayTeam": "TSC Backa Topola",
-    "prediction": "Double Chance 1X",
-    "odds": "1.31"
+    "prediction": "Jedinstvo Ub Win",
+    "odds": "1.43"
   },
   {
     "id": 1559607,
@@ -50,8 +14,8 @@
     "matchTime": "22:00",
     "homeTeam": "Cobán Imperial",
     "awayTeam": "Mixco",
-    "prediction": "Double Chance 1X",
-    "odds": "1.21"
+    "prediction": "Cobán Imperial Win",
+    "odds": "1.74"
   },
   {
     "id": 1600705,
@@ -59,8 +23,8 @@
     "matchTime": "22:00",
     "homeTeam": "Santiago City",
     "awayTeam": "Municipal Salamanca",
-    "prediction": "Double Chance X2",
-    "odds": "1.24"
+    "prediction": "Municipal Salamanca Win",
+    "odds": "2.2"
   },
   {
     "id": 1604791,
@@ -68,8 +32,8 @@
     "matchTime": "22:00",
     "homeTeam": "Mosconia",
     "awayTeam": "Real Avilés",
-    "prediction": "Real Avilés Win",
-    "odds": "1.96"
+    "prediction": "Mosconia Win",
+    "odds": "1.89"
   },
   {
     "id": 1606462,
@@ -77,8 +41,8 @@
     "matchTime": "22:00",
     "homeTeam": "Tucuman Central",
     "awayTeam": "Atletico Escobar",
-    "prediction": "Tucuman Central Win",
-    "odds": "1.33"
+    "prediction": "Double Chance 1X",
+    "odds": "1.47"
   },
   {
     "id": 1610937,
@@ -86,8 +50,8 @@
     "matchTime": "22:00",
     "homeTeam": "Club Guarani",
     "awayTeam": "Rubio NU",
-    "prediction": "Rubio NU Win",
-    "odds": "3.32"
+    "prediction": "Club Guarani Win",
+    "odds": "1.8"
   },
   {
     "id": 1611299,
@@ -95,8 +59,8 @@
     "matchTime": "22:00",
     "homeTeam": "Campobasso FC",
     "awayTeam": "Cavese",
-    "prediction": "Campobasso FC Win",
-    "odds": "1.51"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.24"
   },
   {
     "id": 1611300,
@@ -104,7 +68,43 @@
     "matchTime": "22:00",
     "homeTeam": "Athletic Carpi",
     "awayTeam": "Pianese",
-    "prediction": "Athletic Carpi Win",
-    "odds": "1.41"
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.06"
+  },
+  {
+    "id": 1611301,
+    "league": "Coppa Italia Serie C (Italy)",
+    "matchTime": "22:00",
+    "homeTeam": "Cittadella",
+    "awayTeam": "Atalanta II",
+    "prediction": "Atalanta II Win",
+    "odds": "2.28"
+  },
+  {
+    "id": 1611302,
+    "league": "Coppa Italia Serie C (Italy)",
+    "matchTime": "22:00",
+    "homeTeam": "Livorno",
+    "awayTeam": "Reggiana",
+    "prediction": "Livorno Win",
+    "odds": "1.89"
+  },
+  {
+    "id": 1611303,
+    "league": "Coppa Italia Serie C (Italy)",
+    "matchTime": "22:00",
+    "homeTeam": "Perugia",
+    "awayTeam": "Vis Pesaro",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
+  },
+  {
+    "id": 1611304,
+    "league": "Coppa Italia Serie C (Italy)",
+    "matchTime": "22:00",
+    "homeTeam": "Salernitana",
+    "awayTeam": "Scafatese",
+    "prediction": "Both Teams To Score",
+    "odds": "2.01"
   }
 ]
