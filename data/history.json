@@ -9,6 +9,18 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
+    "outcome": "Lost"
+  },
+  {
+    "id": 1620656,
+    "league": "Toto Cup Ligat Al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Ironi Tiberias",
+    "awayTeam": "Maccabi Petah Tikva",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -57,7 +69,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1604793,
@@ -81,7 +93,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
+    "outcome": "Lost"
   },
   {
     "id": 1591973,
@@ -90,9 +102,9 @@
     "homeTeam": "Alverca U19",
     "awayTeam": "SC Farense U19",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SC Farense U19 Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +114,9 @@
     "homeTeam": "Wiltz",
     "awayTeam": "FC Differdange 03",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Wiltz Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Phönix Lübeck",
     "awayTeam": "VfB Lübeck",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Phönix Lübeck Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Torreense",
     "awayTeam": "Penafiel",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Penafiel Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575455,
-    "league": "Primeira Liga (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Academico Viseu",
-    "awayTeam": "Santa Clara",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Santa Clara Win",
     "outcome": "Won"
   }
 ]
