@@ -1,5 +1,17 @@
 [
   {
+    "id": 1575902,
+    "league": "Premier League (Wales)",
+    "matchDate": "FT",
+    "homeTeam": "Caernarfon Town",
+    "awayTeam": "Colwyn Bay",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619021,
     "league": "Primera División (Uruguay)",
     "matchDate": "FT",
@@ -33,7 +45,7 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Lost"
+    "outcome": "Won"
   },
   {
     "id": 1618217,
@@ -42,9 +54,9 @@
     "homeTeam": "Shams Azar Qazvin",
     "awayTeam": "Persepolis FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Persepolis FC Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Lumezzane",
     "awayTeam": "Renate",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lumezzane Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Dundalk",
     "awayTeam": "Castlebar Celtic",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dundalk Win",
     "outcome": "Won"
   },
   {
@@ -101,30 +113,6 @@
     "matchDate": "FT",
     "homeTeam": "Le Mans",
     "awayTeam": "Le Havre",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1597746,
-    "league": "Liga 3 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Guimaraes B",
-    "awayTeam": "Leça",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1592126,
-    "league": "Júniores U19 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Oriental U19",
-    "awayTeam": "Benfica U19",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
