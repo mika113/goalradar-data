@@ -1,39 +1,12 @@
 [
   {
-    "id": 1567881,
-    "league": "2. Liga (Austria)",
-    "matchTime": "19:30",
-    "homeTeam": "SV Kapfenberg",
-    "awayTeam": "Wacker Innsbruck",
-    "prediction": "SV Kapfenberg Win",
-    "odds": "1.98"
-  },
-  {
-    "id": 1597741,
-    "league": "Liga 3 (Portugal)",
-    "matchTime": "19:30",
-    "homeTeam": "Pacos Ferreira",
-    "awayTeam": "Paredes",
-    "prediction": "Paredes Win",
-    "odds": "3.33"
-  },
-  {
-    "id": 1597744,
-    "league": "Liga 3 (Portugal)",
-    "matchTime": "19:30",
-    "homeTeam": "Vianense",
-    "awayTeam": "Trofense",
-    "prediction": "Over 2.5 Goals",
-    "odds": "2.22"
-  },
-  {
     "id": 1618219,
     "league": "Persian Gulf Pro League (Iran)",
     "matchTime": "19:30",
     "homeTeam": "Sanat Naft",
     "awayTeam": "Malavan",
-    "prediction": "Sanat Naft Win & Over 1.5",
-    "odds": "2.1"
+    "prediction": "Sanat Naft Win",
+    "odds": "1.41"
   },
   {
     "id": 1618939,
@@ -41,8 +14,8 @@
     "matchTime": "19:30",
     "homeTeam": "La Bañeza",
     "awayTeam": "Atlético Astorga",
-    "prediction": "Both Teams To Score",
-    "odds": "2.07"
+    "prediction": "Atlético Astorga Win",
+    "odds": "3.07"
   },
   {
     "id": 1627000,
@@ -50,8 +23,8 @@
     "matchTime": "19:30",
     "homeTeam": "Laredo",
     "awayTeam": "Cristo Atlético",
-    "prediction": "Both Teams To Score",
-    "odds": "1.77"
+    "prediction": "Cristo Atlético Win",
+    "odds": "2.06"
   },
   {
     "id": 1552128,
@@ -59,8 +32,8 @@
     "matchTime": "19:45",
     "homeTeam": "Utrecht",
     "awayTeam": "AZ Alkmaar",
-    "prediction": "Double Chance X2",
-    "odds": "1.26"
+    "prediction": "AZ Alkmaar Win",
+    "odds": "3.03"
   },
   {
     "id": 1581817,
@@ -68,8 +41,8 @@
     "matchTime": "19:45",
     "homeTeam": "Al-Wasl FC",
     "awayTeam": "Dubai United",
-    "prediction": "Double Chance X2",
-    "odds": "1.63"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.67"
   },
   {
     "id": 1581820,
@@ -78,7 +51,7 @@
     "homeTeam": "Khorfakkan",
     "awayTeam": "Shabab Al Ahli Dubai",
     "prediction": "Khorfakkan Win",
-    "odds": "1.36"
+    "odds": "1.74"
   },
   {
     "id": 1600292,
@@ -86,8 +59,8 @@
     "matchTime": "19:45",
     "homeTeam": "Sabah FA",
     "awayTeam": "Kapaz",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "prediction": "Kapaz Win",
+    "odds": "2.78"
   },
   {
     "id": 1603957,
@@ -95,8 +68,8 @@
     "matchTime": "19:45",
     "homeTeam": "Dundee Utd",
     "awayTeam": "Celtic",
-    "prediction": "Dundee Utd Win",
-    "odds": "1.71"
+    "prediction": "Celtic Win",
+    "odds": "2.4"
   },
   {
     "id": 1504285,
@@ -104,7 +77,34 @@
     "matchTime": "20:00",
     "homeTeam": "Kooteepee",
     "awayTeam": "KäPa",
+    "prediction": "Over 2.5 Goals",
+    "odds": "2.28"
+  },
+  {
+    "id": 1508834,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "20:00",
+    "homeTeam": "Thor Akureyri",
+    "awayTeam": "Keflavik",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1509162,
+    "league": "Erovnuli Liga (Georgia)",
+    "matchTime": "20:00",
+    "homeTeam": "Torpedo Kutaisi",
+    "awayTeam": "Saburtalo",
     "prediction": "Double Chance X2",
-    "odds": "1.76"
+    "odds": "1.41"
+  },
+  {
+    "id": 1553840,
+    "league": "Super Liga (Serbia)",
+    "matchTime": "20:00",
+    "homeTeam": "Radnik Surdulica",
+    "awayTeam": "Macva",
+    "prediction": "Radnik Surdulica Win",
+    "odds": "1.53"
   }
 ]
