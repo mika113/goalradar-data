@@ -1,5 +1,65 @@
 [
   {
+    "id": 1594818,
+    "league": "Second League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "La Viena FC",
+    "awayTeam": "Team",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1594817,
+    "league": "Second League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Haras El Hodood",
+    "awayTeam": "El Entag EL Harby",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1594816,
+    "league": "Second League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "El Mansura",
+    "awayTeam": "Kahraba Ismailia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1594815,
+    "league": "Second League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Dayrout",
+    "awayTeam": "Itesalat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1594814,
+    "league": "Second League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "El Seka El Hadid",
+    "awayTeam": "Maleyet Kafr El Zayiat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1635246,
     "league": "Premier League (Uganda)",
     "matchDate": "FT",
@@ -29,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Xankəndi FK",
     "awayTeam": "Səbail",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Səbail Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Astana II",
     "awayTeam": "Taraz",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Astana II Win",
@@ -66,9 +126,9 @@
     "homeTeam": "Turkmenistan U20",
     "awayTeam": "Thailand U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Thailand U20 Win",
     "outcome": "Won"
   },
   {
@@ -81,66 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Maldives U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612606,
-    "league": "Cup (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Avia Świdnik",
-    "awayTeam": "Wieczysta Kraków",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507433,
-    "league": "Liga 3 (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Margveti 2006",
-    "awayTeam": "Merani Tbilisi",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507431,
-    "league": "Liga 3 (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Kolkheti Khobi",
-    "awayTeam": "Didube 2014",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507429,
-    "league": "Liga 3 (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "Iberia 2010",
-    "awayTeam": "Irao",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Iberia 2010 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1507428,
-    "league": "Liga 3 (Georgia)",
-    "matchDate": "FT",
-    "homeTeam": "FC Iberia 1999 II",
-    "awayTeam": "Dinamo Tbilisi II",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "FC Iberia 1999 II Win",
     "outcome": "Won"
   }
 ]
