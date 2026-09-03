@@ -1,12 +1,24 @@
 [
   {
+    "id": 1636872,
+    "league": "AFC U20 Asian Cup (World)",
+    "matchDate": "FT",
+    "homeTeam": "Bangladesh U20",
+    "awayTeam": "Syria U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1636871,
     "league": "AFC U20 Asian Cup (World)",
     "matchDate": "FT",
     "homeTeam": "Brunei U20",
     "awayTeam": "Myanmar U20",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Myanmar U20 Win",
     "outcome": "Won"
@@ -18,7 +30,7 @@
     "homeTeam": "Kalighat Club",
     "awayTeam": "Aryan",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Aryan Win",
     "outcome": "Won"
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Manly Utd U20",
     "awayTeam": "NWS Spirit U20",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Manly Utd U20 Win",
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Korea DPR U20",
     "awayTeam": "Iran U20",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Iran U20 Win",
+    "prediction": "Korea DPR U20 Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Iraq U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611752,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Obolon' Kyiv U19",
-    "awayTeam": "Rukh Vynnyky U19",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
