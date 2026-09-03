@@ -6,9 +6,21 @@
     "homeTeam": "Brunei U20",
     "awayTeam": "Myanmar U20",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Myanmar U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1636500,
+    "league": "Calcutta Premier Division (India)",
+    "matchDate": "FT",
+    "homeTeam": "Kalighat Club",
+    "awayTeam": "Aryan",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Aryan Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Marconi S. U20",
     "awayTeam": "Sydney FC U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Sydney FC U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Manly Utd U20",
     "awayTeam": "NWS Spirit U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Manly Utd U20 Win",
     "outcome": "Won"
   },
   {
@@ -114,9 +126,9 @@
     "homeTeam": "UAE U20",
     "awayTeam": "Iraq U20",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Iraq U20 Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636865,
-    "league": "AFC U20 Asian Cup (World)",
-    "matchDate": "FT",
-    "homeTeam": "Guam U20",
-    "awayTeam": "Northern Mariana Islands U20",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Guam U20 Win",
     "outcome": "Won"
   }
 ]
