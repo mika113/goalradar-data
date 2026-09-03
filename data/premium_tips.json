@@ -1,66 +1,12 @@
 [
   {
-    "id": 1558513,
-    "league": "First League (Montenegro)",
-    "matchTime": "21:00",
-    "homeTeam": "Mornar",
-    "awayTeam": "Bokelj",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1603010,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchTime": "21:00",
-    "homeTeam": "Al Diriyah",
-    "awayTeam": "Al-Qadisiyah FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1611382,
-    "league": "Ligue 1 (Algeria)",
-    "matchTime": "21:00",
-    "homeTeam": "ES Setif",
-    "awayTeam": "Ben Aknoun",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1611995,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Barracas Central Res.",
-    "awayTeam": "Banfield Res.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
-  },
-  {
-    "id": 1611996,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Defensa y Justicia Res.",
-    "awayTeam": "Independiente Riva. Res.",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1611997,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Gimnasia Mendoza 2",
-    "awayTeam": "Rosario Central Res.",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
-  },
-  {
     "id": 1611999,
     "league": "Reserve League (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Huracán Res.",
     "awayTeam": "Central Córdoba SdE Res.",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1627199,
@@ -69,7 +15,7 @@
     "homeTeam": "Santa Cruz U20",
     "awayTeam": "1º de Maio U20",
     "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "odds": "1.25"
   },
   {
     "id": 1627949,
@@ -86,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Duhok",
     "awayTeam": "Al Quwa Al Jawiya",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1635491,
@@ -96,7 +42,7 @@
     "homeTeam": "Panathinaikos",
     "awayTeam": "Niki Volos",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.1"
   },
   {
     "id": 1635835,
@@ -106,5 +52,59 @@
     "awayTeam": "Plaza Colonia",
     "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1635837,
+    "league": "Copa Uruguay",
+    "matchTime": "21:00",
+    "homeTeam": "Albion FC",
+    "awayTeam": "Progreso",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1621593,
+    "league": "Liga Alef (Israel)",
+    "matchTime": "21:15",
+    "homeTeam": "Tzeirey Tira",
+    "awayTeam": "Hapoel Sderot",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
+  },
+  {
+    "id": 1553140,
+    "league": "Ekstraklasa (Poland)",
+    "matchTime": "21:30",
+    "homeTeam": "Lech Poznan",
+    "awayTeam": "Jagiellonia",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1555381,
+    "league": "Super League (Switzerland)",
+    "matchTime": "21:30",
+    "homeTeam": "FC Basel 1893",
+    "awayTeam": "FC Sion",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1555382,
+    "league": "Super League (Switzerland)",
+    "matchTime": "21:30",
+    "homeTeam": "FC Lugano",
+    "awayTeam": "Servette FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1612624,
+    "league": "Cup (Poland)",
+    "matchTime": "21:30",
+    "homeTeam": "Slask Wroclaw",
+    "awayTeam": "Pogon Szczecin",
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
   }
 ]
