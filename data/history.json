@@ -1,5 +1,41 @@
 [
   {
+    "id": 1607531,
+    "league": "Super Cup (Cyprus)",
+    "matchDate": "FT",
+    "homeTeam": "Omonia Nicosia",
+    "awayTeam": "Pafos",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603009,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchDate": "FT",
+    "homeTeam": "NEOM",
+    "awayTeam": "Al Khaleej Saihat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1563653,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Dynamo",
+    "awayTeam": "Akhmat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1597921,
     "league": "Stars League (Qatar)",
     "matchDate": "FT",
@@ -101,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Alashkert",
     "awayTeam": "Van",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Alashkert Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1571542,
-    "league": "Second League (Bulgaria)",
-    "matchDate": "FT",
-    "homeTeam": "Lokomotiv G. Oryahovitsa",
-    "awayTeam": "Dobrudzha",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Lokomotiv G. Oryahovitsa Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553144,
-    "league": "Ekstraklasa (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Raków Częstochowa",
-    "awayTeam": "Gornik Zabrze",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Gornik Zabrze Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1547596,
-    "league": "A Lyga (Lithuania)",
-    "matchDate": "FT",
-    "homeTeam": "Banga",
-    "awayTeam": "Panevėžys",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Panevėžys Win",
     "outcome": "Won"
   }
 ]
