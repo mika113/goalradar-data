@@ -1,5 +1,77 @@
 [
   {
+    "id": 1635248,
+    "league": "Premier League (Uganda)",
+    "matchDate": "FT",
+    "homeTeam": "Express",
+    "awayTeam": "KCCA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1612224,
+    "league": "Premier League (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Al Ahly",
+    "awayTeam": "Smouha SC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1585732,
+    "league": "1. Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Bursaspor",
+    "awayTeam": "İstanbulspor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1585730,
+    "league": "1. Lig (Turkey)",
+    "matchDate": "FT",
+    "homeTeam": "Bodrum FK",
+    "awayTeam": "Esenler Erokspor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1571538,
+    "league": "Second League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Beroe",
+    "awayTeam": "Montana",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1494190,
+    "league": "Allsvenskan (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Mjallby AIF",
+    "awayTeam": "Djurgardens IF",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1607531,
     "league": "Super Cup (Cyprus)",
     "matchDate": "FT",
@@ -17,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "NEOM",
     "awayTeam": "Al Khaleej Saihat",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "NEOM Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +114,9 @@
     "homeTeam": "Al-Sailiya",
     "awayTeam": "Al-Arabi SC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al-Arabi SC Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +126,9 @@
     "homeTeam": "Oman U20",
     "awayTeam": "Saudi Arabia U20",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Saudi Arabia U20 Win",
     "outcome": "Won"
   },
   {
@@ -69,78 +141,6 @@
     "awayScore": 3,
     "status": "FT",
     "prediction": "Qatar U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635409,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchDate": "FT",
-    "homeTeam": "HIFK Helsinki",
-    "awayTeam": "HPS",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "HIFK Helsinki Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1630774,
-    "league": "Cup (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Rīgas FS",
-    "awayTeam": "Riga",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629057,
-    "league": "Coppa Italia (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Palermo",
-    "awayTeam": "Mantova",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Palermo Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629018,
-    "league": "League (Jordan)",
-    "matchDate": "FT",
-    "homeTeam": "Al Buqa'a",
-    "awayTeam": "Doqarah",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Al Buqa'a Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619048,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Thisted FC",
-    "awayTeam": "Sonderjyske",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1581515,
-    "league": "Premier League (Armenia)",
-    "matchDate": "FT",
-    "homeTeam": "Alashkert",
-    "awayTeam": "Van",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Alashkert Win",
     "outcome": "Won"
   }
 ]
