@@ -1,39 +1,12 @@
 [
   {
-    "id": 1636881,
-    "league": "AFC U20 Asian Cup (World)",
-    "matchTime": "17:30",
-    "homeTeam": "Kyrgyz Republic U20",
-    "awayTeam": "Lebanon U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1507430,
-    "league": "Liga 3 (Georgia)",
-    "matchTime": "18:00",
-    "homeTeam": "Iveria Khashuri",
-    "awayTeam": "WIT Georgia",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1635408,
-    "league": "Kakkonen - Lohko A (Finland)",
-    "matchTime": "18:15",
-    "homeTeam": "Atlantis",
-    "awayTeam": "PEPO",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
     "id": 1612628,
     "league": "Cup (Poland)",
     "matchTime": "18:30",
     "homeTeam": "Tychy 71",
     "awayTeam": "ŁKS Łódź",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1631578,
@@ -59,7 +32,7 @@
     "matchTime": "18:45",
     "homeTeam": "Mosul",
     "awayTeam": "Al Zawra'a",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.35"
   },
   {
@@ -69,7 +42,7 @@
     "homeTeam": "Diyala",
     "awayTeam": "Al-Karma",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.3"
   },
   {
     "id": 1603008,
@@ -87,6 +60,33 @@
     "homeTeam": "Viimsi",
     "awayTeam": "FC Tallinn",
     "prediction": "Viimsi Win & Over 1.5",
+    "odds": "1.45"
+  },
+  {
+    "id": 1547596,
+    "league": "A Lyga (Lithuania)",
+    "matchTime": "19:00",
+    "homeTeam": "Banga",
+    "awayTeam": "Panevėžys",
+    "prediction": "Double Chance X2",
     "odds": "1.55"
+  },
+  {
+    "id": 1553144,
+    "league": "Ekstraklasa (Poland)",
+    "matchTime": "19:00",
+    "homeTeam": "Raków Częstochowa",
+    "awayTeam": "Gornik Zabrze",
+    "prediction": "Double Chance X2",
+    "odds": "1.6"
+  },
+  {
+    "id": 1571542,
+    "league": "Second League (Bulgaria)",
+    "matchTime": "19:00",
+    "homeTeam": "Lokomotiv G. Oryahovitsa",
+    "awayTeam": "Dobrudzha",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
