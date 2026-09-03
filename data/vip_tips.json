@@ -9,22 +9,13 @@
     "odds": "1.3"
   },
   {
-    "id": 1597921,
-    "league": "Stars League (Qatar)",
-    "matchTime": "19:15",
-    "homeTeam": "Al-Sailiya",
-    "awayTeam": "Al-Arabi SC",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
     "id": 1563653,
     "league": "Cup (Russia)",
     "matchTime": "19:30",
     "homeTeam": "Dynamo",
     "awayTeam": "Akhmat",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1603009,
@@ -51,7 +42,7 @@
     "homeTeam": "Mjallby AIF",
     "awayTeam": "Djurgardens IF",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.5"
   },
   {
     "id": 1571538,
@@ -60,7 +51,7 @@
     "homeTeam": "Beroe",
     "awayTeam": "Montana",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1585730,
@@ -68,7 +59,16 @@
     "matchTime": "20:00",
     "homeTeam": "Bodrum FK",
     "awayTeam": "Esenler Erokspor",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
+  },
+  {
+    "id": 1585732,
+    "league": "1. Lig (Turkey)",
+    "matchTime": "20:00",
+    "homeTeam": "Bursaspor",
+    "awayTeam": "İstanbulspor",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.3"
   }
 ]
