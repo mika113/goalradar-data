@@ -1,39 +1,12 @@
 [
   {
-    "id": 1629824,
-    "league": "Serie D (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "CSA",
-    "awayTeam": "Nacional AM",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
-  },
-  {
-    "id": 1635838,
-    "league": "Copa Uruguay",
-    "matchTime": "02:00",
-    "homeTeam": "Oriental",
-    "awayTeam": "Racing Montevideo",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1636628,
-    "league": "Primera Division (Nicaragua)",
-    "matchTime": "02:00",
-    "homeTeam": "Managua",
-    "awayTeam": "Diriangén",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
     "id": 1638064,
     "league": "Primera División (Venezuela)",
     "matchTime": "02:00",
     "homeTeam": "Puerto Cabello",
     "awayTeam": "Deportivo La Guaira",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1638065,
@@ -51,7 +24,7 @@
     "homeTeam": "Libertad",
     "awayTeam": "Emelec",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1549113,
@@ -60,7 +33,7 @@
     "homeTeam": "Cavalier",
     "awayTeam": "Portmore United",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1632417,
@@ -69,7 +42,7 @@
     "homeTeam": "Santo Domingo",
     "awayTeam": "Cumbayá",
     "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "odds": "1.3"
   },
   {
     "id": 1549751,
@@ -78,7 +51,7 @@
     "homeTeam": "Deportivo Pereira",
     "awayTeam": "Independiente Medellin",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1581412,
@@ -87,7 +60,7 @@
     "homeTeam": "Tepatitlán",
     "awayTeam": "Dorados",
     "prediction": "Double Chance X2",
-    "odds": "1.43"
+    "odds": "1.45"
   },
   {
     "id": 1636629,
@@ -104,7 +77,34 @@
     "matchTime": "04:00",
     "homeTeam": "CD Olimpia",
     "awayTeam": "Platense FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "prediction": "CD Olimpia Win & Over 1.5",
+    "odds": "1.45"
+  },
+  {
+    "id": 1621304,
+    "league": "Liga 1 (Indonesia)",
+    "matchTime": "11:30",
+    "homeTeam": "Arema FC",
+    "awayTeam": "Adhyaksa",
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
+  },
+  {
+    "id": 1637817,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "11:30",
+    "homeTeam": "Olympic",
+    "awayTeam": "Brisbane Roar",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
+  },
+  {
+    "id": 1569361,
+    "league": "Campionato Primavera - 1 (Italy)",
+    "matchTime": "12:00",
+    "homeTeam": "Lecce U20",
+    "awayTeam": "Roma U20",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
