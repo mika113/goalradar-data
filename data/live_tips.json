@@ -1,32 +1,5 @@
 [
   {
-    "id": 1612392,
-    "league": "Birinci Dasta (Azerbaijan)",
-    "matchTime": "16:00",
-    "homeTeam": "MOIK",
-    "awayTeam": "Şahdağ",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1635246,
-    "league": "Premier League (Uganda)",
-    "matchTime": "16:00",
-    "homeTeam": "Kataka",
-    "awayTeam": "BUL",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1594814,
-    "league": "Second League (Egypt)",
-    "matchTime": "16:30",
-    "homeTeam": "El Seka El Hadid",
-    "awayTeam": "Maleyet Kafr El Zayiat",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
     "id": 1594815,
     "league": "Second League (Egypt)",
     "matchTime": "16:30",
@@ -42,7 +15,7 @@
     "homeTeam": "El Mansura",
     "awayTeam": "Kahraba Ismailia",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1594817,
@@ -60,7 +33,7 @@
     "homeTeam": "La Viena FC",
     "awayTeam": "Team",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1595140,
@@ -77,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "Lokomotivi Tbilisi",
     "awayTeam": "Varketili",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.38"
   },
   {
     "id": 1516125,
@@ -86,6 +59,33 @@
     "matchTime": "17:00",
     "homeTeam": "Olmaliq",
     "awayTeam": "Xorazm",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1525925,
+    "league": "Premier League (Belarus)",
+    "matchTime": "17:00",
+    "homeTeam": "FC Isloch Minsk R.",
+    "awayTeam": "Bate Borisov",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1534847,
+    "league": "1. Division (Kazakhstan)",
+    "matchTime": "17:00",
+    "homeTeam": "Tobol 2",
+    "awayTeam": "Sport Academy Kairat",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1571540,
+    "league": "Second League (Bulgaria)",
+    "matchTime": "17:00",
+    "homeTeam": "CSKA Sofia II",
+    "awayTeam": "Spartak Pleven",
     "prediction": "Double Chance 1X",
     "odds": "1.3"
   }
