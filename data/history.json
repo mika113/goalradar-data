@@ -1,5 +1,17 @@
 [
   {
+    "id": 1632239,
+    "league": "Premier League (Kuwait)",
+    "matchDate": "FT",
+    "homeTeam": "Al Arabi",
+    "awayTeam": "Al Sulaibikhat",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Al Sulaibikhat Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1636632,
     "league": "Division Intermedia (Paraguay)",
     "matchDate": "FT",
@@ -53,8 +65,8 @@
     "matchDate": "FT",
     "homeTeam": "Marumo Gallants",
     "awayTeam": "Polokwane City",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Polokwane City Win",
     "outcome": "Won"
@@ -66,9 +78,9 @@
     "homeTeam": "Bonner SC",
     "awayTeam": "Köln II",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Köln II Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "SV Drochtersen/Assel",
     "awayTeam": "Eimsbütteler TV",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -101,18 +113,6 @@
     "matchDate": "FT",
     "homeTeam": "Wiener SC",
     "awayTeam": "Fach-Donaufeld",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1574086,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchDate": "FT",
-    "homeTeam": "Oberwart",
-    "awayTeam": "Donau",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
