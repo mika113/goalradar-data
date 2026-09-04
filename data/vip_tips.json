@@ -1,14 +1,5 @@
 [
   {
-    "id": 1493115,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Platense",
-    "awayTeam": "Deportivo Riestra",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
     "id": 1500094,
     "league": "Primera C (Argentina)",
     "matchTime": "01:00",
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Rangers de Talca",
     "awayTeam": "Deportes Temuco",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   },
   {
     "id": 1511680,
@@ -42,7 +33,7 @@
     "homeTeam": "Bogota FC",
     "awayTeam": "Ind. Yumbo",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1609624,
@@ -51,7 +42,7 @@
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Vasco da Gama U20",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1632244,
@@ -60,7 +51,7 @@
     "homeTeam": "Ceará U20",
     "awayTeam": "Fortaleza U20",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1635547,
@@ -69,6 +60,15 @@
     "homeTeam": "Atletico Torque",
     "awayTeam": "Cerro Largo",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.25"
+  },
+  {
+    "id": 1636634,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Resistencia",
+    "awayTeam": "Guairena FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
