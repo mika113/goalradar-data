@@ -1,66 +1,12 @@
 [
   {
-    "id": 1632425,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "23:30",
-    "homeTeam": "Atletico FC",
-    "awayTeam": "9 de Octubre",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1637608,
-    "league": "Liga Femenina (Colombia)",
-    "matchTime": "23:30",
-    "homeTeam": "Atlético Nacional W",
-    "awayTeam": "La Equidad W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1637609,
-    "league": "Liga Femenina (Colombia)",
-    "matchTime": "00:00",
-    "homeTeam": "Deportivo Cali W",
-    "awayTeam": "Orsomarso W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1618997,
-    "league": "Primera División (Bolivia)",
-    "matchTime": "00:15",
-    "homeTeam": "ABB",
-    "awayTeam": "Universitario de Vinto",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
-  },
-  {
-    "id": 1513333,
-    "league": "MLS Next Pro (USA)",
-    "matchTime": "00:30",
-    "homeTeam": "Crown Legacy",
-    "awayTeam": "Chicago Fire II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
-  },
-  {
-    "id": 1631611,
-    "league": "Liga Premier Serie B (Mexico)",
-    "matchTime": "00:30",
-    "homeTeam": "Huracanes Izcalli",
-    "awayTeam": "Racing de Veracruz 2",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1493109,
     "league": "Liga Profesional Argentina",
     "matchTime": "01:00",
     "homeTeam": "Belgrano Cordoba",
     "awayTeam": "Huracan",
     "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "odds": "1.4"
   },
   {
     "id": 1493115,
@@ -69,7 +15,7 @@
     "homeTeam": "Platense",
     "awayTeam": "Deportivo Riestra",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1500094,
@@ -78,7 +24,7 @@
     "homeTeam": "Mercedes",
     "awayTeam": "Defensores de Cambaceres",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1511677,
@@ -87,7 +33,7 @@
     "homeTeam": "Rangers de Talca",
     "awayTeam": "Deportes Temuco",
     "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "odds": "1.68"
   },
   {
     "id": 1511680,
@@ -95,8 +41,8 @@
     "matchTime": "01:00",
     "homeTeam": "Santiago Wanderers",
     "awayTeam": "Deportes Iquique",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1549620,
@@ -106,5 +52,59 @@
     "awayTeam": "Ind. Yumbo",
     "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1609624,
+    "league": "Brasileiro U20 A (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Palmeiras U20",
+    "awayTeam": "Vasco da Gama U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.18"
+  },
+  {
+    "id": 1632244,
+    "league": "Cearense U20 (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Ceará U20",
+    "awayTeam": "Fortaleza U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1635547,
+    "league": "Primera División (Uruguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Atletico Torque",
+    "awayTeam": "Cerro Largo",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1636634,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "01:00",
+    "homeTeam": "Resistencia",
+    "awayTeam": "Guairena FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1638068,
+    "league": "Amazonense - 2 (Brazil)",
+    "matchTime": "01:00",
+    "homeTeam": "Fast Clube-Am",
+    "awayTeam": "Operário AM",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1520853,
+    "league": "Serie B (Brazil)",
+    "matchTime": "01:30",
+    "homeTeam": "Criciuma",
+    "awayTeam": "Cuiaba",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
