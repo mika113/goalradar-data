@@ -1,21 +1,12 @@
 [
   {
-    "id": 1493109,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Belgrano Cordoba",
-    "awayTeam": "Huracan",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
     "id": 1493115,
     "league": "Liga Profesional Argentina",
     "matchTime": "01:00",
     "homeTeam": "Platense",
     "awayTeam": "Deportivo Riestra",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1500094,
@@ -23,8 +14,8 @@
     "matchTime": "01:00",
     "homeTeam": "Mercedes",
     "awayTeam": "Defensores de Cambaceres",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1511677,
@@ -41,8 +32,8 @@
     "matchTime": "01:00",
     "homeTeam": "Santiago Wanderers",
     "awayTeam": "Deportes Iquique",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1549620,
@@ -51,7 +42,7 @@
     "homeTeam": "Bogota FC",
     "awayTeam": "Ind. Yumbo",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1609624,
@@ -60,7 +51,7 @@
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Vasco da Gama U20",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.22"
   },
   {
     "id": 1632244,
@@ -68,8 +59,8 @@
     "matchTime": "01:00",
     "homeTeam": "Ceará U20",
     "awayTeam": "Fortaleza U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1635547,
@@ -78,7 +69,7 @@
     "homeTeam": "Atletico Torque",
     "awayTeam": "Cerro Largo",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.28"
   },
   {
     "id": 1636634,
@@ -104,6 +95,15 @@
     "matchTime": "01:30",
     "homeTeam": "Criciuma",
     "awayTeam": "Cuiaba",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1493667,
+    "league": "USL Championship (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Loudoun United",
+    "awayTeam": "Colorado Springs",
     "prediction": "Double Chance X2",
     "odds": "1.35"
   }
