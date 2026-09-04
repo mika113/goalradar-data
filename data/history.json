@@ -1,5 +1,17 @@
 [
   {
+    "id": 1618997,
+    "league": "Primera División (Bolivia)",
+    "matchDate": "FT",
+    "homeTeam": "ABB",
+    "awayTeam": "Universitario de Vinto",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1637609,
     "league": "Liga Femenina (Colombia)",
     "matchDate": "FT",
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Comerciantes",
     "awayTeam": "Ayacucho FC",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Comerciantes Win",
@@ -90,7 +102,7 @@
     "homeTeam": "Estudiantes de Rio Cuarto",
     "awayTeam": "Sarmiento Junin",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Sarmiento Junin Win",
     "outcome": "Won"
@@ -102,9 +114,9 @@
     "homeTeam": "Sportivo Carapeguá",
     "awayTeam": "Paraguari AC",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Paraguari AC Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Virtus Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619835,
-    "league": "Campionato (San-Marino)",
-    "matchDate": "FT",
-    "homeTeam": "Faetano",
-    "awayTeam": "Tre Fiori",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "FT",
-    "prediction": "Tre Fiori Win",
     "outcome": "Won"
   }
 ]
