@@ -1,75 +1,12 @@
 [
   {
-    "id": 1500094,
-    "league": "Primera C (Argentina)",
-    "matchTime": "01:00",
-    "homeTeam": "Mercedes",
-    "awayTeam": "Defensores de Cambaceres",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1511677,
-    "league": "Primera B (Chile)",
-    "matchTime": "01:00",
-    "homeTeam": "Rangers de Talca",
-    "awayTeam": "Deportes Temuco",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1511680,
-    "league": "Primera B (Chile)",
-    "matchTime": "01:00",
-    "homeTeam": "Santiago Wanderers",
-    "awayTeam": "Deportes Iquique",
-    "prediction": "Double Chance X2",
-    "odds": "1.48"
-  },
-  {
-    "id": 1549620,
-    "league": "Primera B (Colombia)",
-    "matchTime": "01:00",
-    "homeTeam": "Bogota FC",
-    "awayTeam": "Ind. Yumbo",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1609624,
-    "league": "Brasileiro U20 A (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Palmeiras U20",
-    "awayTeam": "Vasco da Gama U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1632244,
-    "league": "Cearense U20 (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Ceará U20",
-    "awayTeam": "Fortaleza U20",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1635547,
-    "league": "Primera División (Uruguay)",
-    "matchTime": "01:00",
-    "homeTeam": "Atletico Torque",
-    "awayTeam": "Cerro Largo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
     "id": 1636634,
     "league": "Division Intermedia (Paraguay)",
     "matchTime": "01:00",
     "homeTeam": "Resistencia",
     "awayTeam": "Guairena FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1638068,
@@ -87,7 +24,7 @@
     "homeTeam": "Criciuma",
     "awayTeam": "Cuiaba",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.3"
   },
   {
     "id": 1493667,
@@ -96,7 +33,7 @@
     "homeTeam": "Loudoun United",
     "awayTeam": "Colorado Springs",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.38"
   },
   {
     "id": 1498786,
@@ -106,5 +43,68 @@
     "awayTeam": "Atletico Mitre",
     "prediction": "Double Chance 1X",
     "odds": "1.3"
+  },
+  {
+    "id": 1513334,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Houston Dynamo FC II",
+    "awayTeam": "Austin II",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1513335,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Inter Miami II",
+    "awayTeam": "Orlando City II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.4"
+  },
+  {
+    "id": 1513336,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Philadelphia Union II",
+    "awayTeam": "Columbus Crew II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.5"
+  },
+  {
+    "id": 1513337,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Toronto II",
+    "awayTeam": "FC Cincinnati II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1557197,
+    "league": "USL Super League (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "DC Power W",
+    "awayTeam": "Sporting JAX W",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1635074,
+    "league": "Copa Paulista (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Bandeirante SP",
+    "awayTeam": "União São João",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1513332,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "02:30",
+    "homeTeam": "Carolina Core",
+    "awayTeam": "New England II",
+    "prediction": "Both Teams To Score",
+    "odds": "1.55"
   }
 ]
