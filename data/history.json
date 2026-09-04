@@ -1,5 +1,17 @@
 [
   {
+    "id": 1636633,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "Sportivo Carapeguá",
+    "awayTeam": "Paraguari AC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Paraguari AC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1619837,
     "league": "Campionato (San-Marino)",
     "matchDate": "FT",
@@ -18,9 +30,9 @@
     "homeTeam": "Fiorentino",
     "awayTeam": "Virtus",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Virtus Win",
     "outcome": "Won"
   },
   {
@@ -30,9 +42,9 @@
     "homeTeam": "Faetano",
     "awayTeam": "Tre Fiori",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tre Fiori Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Domagnano",
     "awayTeam": "San Giovanni",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Domagnano Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "FC Porto",
     "awayTeam": "Moreirense",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Moreirense Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Monaco",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Paris Saint Germain Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +102,9 @@
     "homeTeam": "La Luz",
     "awayTeam": "Sportivo Huracan",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sportivo Huracan Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "FC Fleury 91 W",
     "awayTeam": "Lyon W",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Lyon W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1570365,
-    "league": "La Liga (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Real Betis",
-    "awayTeam": "Real Madrid",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
