@@ -1,21 +1,12 @@
 [
   {
-    "id": 1631705,
-    "league": "Liga Premier Serie A (Mexico)",
-    "matchTime": "03:00",
-    "homeTeam": "FC Santiago",
-    "awayTeam": "Héroes de Zaci",
-    "prediction": "4-0",
-    "odds": "8.17"
-  },
-  {
     "id": 1632419,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchTime": "03:00",
     "homeTeam": "El Nacional",
     "awayTeam": "LDU Portoviejo",
     "prediction": "0-0",
-    "odds": "5.42"
+    "odds": "10.65"
   },
   {
     "id": 1505515,
@@ -23,8 +14,8 @@
     "matchTime": "03:30",
     "homeTeam": "Concepción",
     "awayTeam": "A. Italiano",
-    "prediction": "1-1",
-    "odds": "5.24"
+    "prediction": "0-0",
+    "odds": "9.4"
   },
   {
     "id": 1511675,
@@ -32,8 +23,8 @@
     "matchTime": "03:30",
     "homeTeam": "D. Puerto Montt",
     "awayTeam": "Curico Unido",
-    "prediction": "1-1",
-    "odds": "8.32"
+    "prediction": "0-0",
+    "odds": "8.27"
   },
   {
     "id": 1519487,
@@ -41,7 +32,16 @@
     "matchTime": "03:30",
     "homeTeam": "Tecnico Universitario",
     "awayTeam": "LDU de Quito",
+    "prediction": "1-1",
+    "odds": "7.97"
+  },
+  {
+    "id": 1520852,
+    "league": "Serie B (Brazil)",
+    "matchTime": "03:30",
+    "homeTeam": "CRB",
+    "awayTeam": "America Mineiro",
     "prediction": "0-0",
-    "odds": "7.33"
+    "odds": "4.89"
   }
 ]
