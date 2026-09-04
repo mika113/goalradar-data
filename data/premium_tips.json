@@ -1,57 +1,12 @@
 [
   {
-    "id": 1555050,
-    "league": "Challenge League (Switzerland)",
-    "matchTime": "21:15",
-    "homeTeam": "FC Winterthur",
-    "awayTeam": "Neuchatel Xamax FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1558007,
-    "league": "1. SNL (Slovenia)",
-    "matchTime": "21:15",
-    "homeTeam": "Nafta",
-    "awayTeam": "Radomlje",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.75"
-  },
-  {
-    "id": 1632424,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "21:15",
-    "homeTeam": "Ind. Juniors",
-    "awayTeam": "Deportivo Cuenca Juniors",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1498783,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:30",
-    "homeTeam": "Defensores De Belgrano",
-    "awayTeam": "Racing Cordoba",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1553160,
-    "league": "Ekstraklasa (Poland)",
-    "matchTime": "21:30",
-    "homeTeam": "Piast Gliwice",
-    "awayTeam": "GKS Katowice",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1556848,
     "league": "Championship (Scotland)",
     "matchTime": "21:30",
     "homeTeam": "Livingston",
     "awayTeam": "Stenhousemuir",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1569910,
@@ -59,8 +14,8 @@
     "matchTime": "21:30",
     "homeTeam": "Las Palmas",
     "awayTeam": "Leganes",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1580735,
@@ -69,7 +24,7 @@
     "homeTeam": "Baglan Dragons",
     "awayTeam": "Afan Lido",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.25"
   },
   {
     "id": 1580736,
@@ -77,8 +32,8 @@
     "matchTime": "21:30",
     "homeTeam": "llanelli AFC",
     "awayTeam": "Treowen Stars",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
   },
   {
     "id": 1580737,
@@ -96,7 +51,7 @@
     "homeTeam": "Watford W",
     "awayTeam": "Burnley W",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.3"
+    "odds": "1.45"
   },
   {
     "id": 1611625,
@@ -104,7 +59,52 @@
     "matchTime": "21:30",
     "homeTeam": "Francs Borains U21",
     "awayTeam": "Westerlo U21",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "Double Chance X2",
     "odds": "1.25"
+  },
+  {
+    "id": 1611626,
+    "league": "Reserve Pro League (Belgium)",
+    "matchTime": "21:30",
+    "homeTeam": "Kortrijk U21",
+    "awayTeam": "K. Beerschot V.A. Reserve U21",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.4"
+  },
+  {
+    "id": 1492965,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Bray Wanderers",
+    "awayTeam": "Cork City",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1492966,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Cobh Ramblers",
+    "awayTeam": "UCD",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1492967,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Finn Harps",
+    "awayTeam": "Athlone Town",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1492968,
+    "league": "First Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Treaty United",
+    "awayTeam": "Wexford",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
