@@ -1,21 +1,12 @@
 [
   {
-    "id": 1536264,
-    "league": "Second League - Group 1 (Russia)",
-    "matchTime": "18:00",
-    "homeTeam": "FK Chayka 2",
-    "awayTeam": "Rostov II",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
     "id": 1558512,
     "league": "First League (Montenegro)",
     "matchTime": "18:00",
     "homeTeam": "Mladost DG",
     "awayTeam": "Dečić",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1558514,
@@ -32,8 +23,8 @@
     "matchTime": "18:00",
     "homeTeam": "Beltinci",
     "awayTeam": "Krško",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1558920,
@@ -42,7 +33,7 @@
     "homeTeam": "Bilje",
     "awayTeam": "Slovan Ljubljana",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1561642,
@@ -60,7 +51,7 @@
     "homeTeam": "Hořovicko",
     "awayTeam": "Doubravka",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.7"
   },
   {
     "id": 1562262,
@@ -70,5 +61,14 @@
     "awayTeam": "Spartak Pribram",
     "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1562379,
+    "league": "4. liga - Divizie B (Czech-Republic)",
+    "matchTime": "18:00",
+    "homeTeam": "Hvězda Cheb",
+    "awayTeam": "Rapid Psáry",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
