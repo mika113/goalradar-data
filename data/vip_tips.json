@@ -1,47 +1,11 @@
 [
   {
-    "id": 1496316,
-    "league": "2. Division - Group 2 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "Follo",
-    "awayTeam": "Tromsdalen Uil",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1496499,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "Frigg",
-    "awayTeam": "IF Ready",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1496501,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "SF Grei",
-    "awayTeam": "Union Carl Berner",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.3"
-  },
-  {
-    "id": 1496503,
-    "league": "3. Division - Girone 1 (Norway)",
-    "matchTime": "14:00",
-    "homeTeam": "Ullern",
-    "awayTeam": "Asker",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.4"
-  },
-  {
     "id": 1496868,
     "league": "3. Division - Girone 3 (Norway)",
     "matchTime": "14:00",
     "homeTeam": "Stord",
     "awayTeam": "Fana",
-    "prediction": "Over 2.5 Goals",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
   },
   {
@@ -51,7 +15,7 @@
     "homeTeam": "Våg",
     "awayTeam": "Åkra",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.5"
+    "odds": "1.45"
   },
   {
     "id": 1497411,
@@ -59,8 +23,8 @@
     "matchTime": "14:00",
     "homeTeam": "Lillehammer",
     "awayTeam": "Raelingen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1497688,
@@ -69,6 +33,42 @@
     "homeTeam": "IFK Varnamo",
     "awayTeam": "Varbergs BoIS FC",
     "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1501465,
+    "league": "Elitettan (Sweden)",
+    "matchTime": "14:00",
+    "homeTeam": "Göteborg W",
+    "awayTeam": "Husqvarna W",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.3"
+  },
+  {
+    "id": 1501467,
+    "league": "Elitettan (Sweden)",
+    "matchTime": "14:00",
+    "homeTeam": "Jitex W",
+    "awayTeam": "Gamla Upsala W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1504524,
+    "league": "Ettan - Södra (Sweden)",
+    "matchTime": "14:00",
+    "homeTeam": "Hässleholms IF",
+    "awayTeam": "Kristianstad",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1504526,
+    "league": "Ettan - Södra (Sweden)",
+    "matchTime": "14:00",
+    "homeTeam": "Olympic",
+    "awayTeam": "Angelholms FF",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
