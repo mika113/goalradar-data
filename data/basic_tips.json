@@ -1,5 +1,23 @@
 [
   {
+    "id": 1619053,
+    "league": "CAF Champions League (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Aigle Noir",
+    "awayTeam": "Al Hilal Omdurman",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1619108,
+    "league": "CAF Champions League (World)",
+    "matchTime": "16:00",
+    "homeTeam": "EL Merriekh Bentiu",
+    "awayTeam": "Heegan",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
     "id": 1550110,
     "league": "Serie A (Italy)",
     "matchTime": "16:00",
@@ -9,48 +27,30 @@
     "odds": "1.35"
   },
   {
-    "id": 1496862,
-    "league": "3. Division - Girone 3 (Norway)",
-    "matchTime": "15:45",
-    "homeTeam": "Austevoll",
-    "awayTeam": "Varegg",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1553162,
-    "league": "Ekstraklasa (Poland)",
-    "matchTime": "15:45",
-    "homeTeam": "Widzew Łódź",
-    "awayTeam": "Radomiak Radom",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1574714,
-    "league": "Ligue 3 (France)",
-    "matchTime": "15:45",
-    "homeTeam": "Bastia",
-    "awayTeam": "Amiens",
+    "id": 1494266,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "16:00",
+    "homeTeam": "Degerfors IF",
+    "awayTeam": "Halmstad",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
   },
   {
-    "id": 1574715,
-    "league": "Ligue 3 (France)",
-    "matchTime": "15:45",
-    "homeTeam": "Bourg-en-bresse 01",
-    "awayTeam": "Caen",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "id": 1494267,
+    "league": "Allsvenskan (Sweden)",
+    "matchTime": "16:00",
+    "homeTeam": "Gais",
+    "awayTeam": "BK Hacken",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
-    "id": 1574716,
-    "league": "Ligue 3 (France)",
-    "matchTime": "15:45",
-    "homeTeam": "Concarneau",
-    "awayTeam": "Thionville Lusitanos",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "id": 1495547,
+    "league": "Damallsvenskan (Sweden)",
+    "matchTime": "16:00",
+    "homeTeam": "Hammarby W",
+    "awayTeam": "Norrköping W",
+    "prediction": "Hammarby W Win & Over 1.5",
+    "odds": "1.35"
   }
 ]
