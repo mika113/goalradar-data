@@ -1,23 +1,5 @@
 [
   {
-    "id": 1511685,
-    "league": "Primera B (Chile)",
-    "matchTime": "02:30",
-    "homeTeam": "Deportes Temuco",
-    "awayTeam": "Santiago Wanderers",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1520864,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Cuiaba",
-    "awayTeam": "Athletic Club",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1520863,
     "league": "Serie B (Brazil)",
     "matchTime": "03:00",
@@ -41,8 +23,8 @@
     "matchTime": "03:00",
     "homeTeam": "RB do Norte",
     "awayTeam": "Fast Clube-Am",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1549590,
@@ -51,7 +33,7 @@
     "homeTeam": "Internacional Palmira",
     "awayTeam": "Depor FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1619670,
@@ -59,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "Oriente Petrolero",
     "awayTeam": "Guabirá",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.6"
   },
   {
     "id": 1627594,
@@ -69,7 +51,7 @@
     "homeTeam": "San Antonio",
     "awayTeam": "Louisville City",
     "prediction": "Double Chance X2",
-    "odds": "1.38"
+    "odds": "1.45"
   },
   {
     "id": 1629830,
@@ -96,7 +78,7 @@
     "homeTeam": "Opava U19",
     "awayTeam": "České Budějovice U19",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1611757,
@@ -104,7 +86,25 @@
     "matchTime": "11:00",
     "homeTeam": "Shakhtar Donetsk U19",
     "awayTeam": "Kolos Kovalivka U19",
-    "prediction": "Shakhtar Donetsk U19 Win & Over 1.5",
-    "odds": "1.6"
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1635882,
+    "league": "Cup (Ukraine)",
+    "matchTime": "11:00",
+    "homeTeam": "Viktoriya Mykolaivka",
+    "awayTeam": "Metal Kharkiv",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1638661,
+    "league": "U19 league (Serbia)",
+    "matchTime": "11:00",
+    "homeTeam": "Partizan U19",
+    "awayTeam": "OFK Beograd U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   }
 ]
