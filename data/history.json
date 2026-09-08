@@ -1,5 +1,17 @@
 [
   {
+    "id": 1637471,
+    "league": "Friendlies Women (World)",
+    "matchDate": "FT",
+    "homeTeam": "Chile U20 W",
+    "awayTeam": "Uruguay U20 W",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Chile U20 W Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1635714,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -18,9 +30,9 @@
     "homeTeam": "Lille",
     "awayTeam": "Real Betis",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Lille Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,9 +42,9 @@
     "homeTeam": "FC Porto",
     "awayTeam": "Manchester City",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Manchester City Win",
     "outcome": "Won"
   },
   {
