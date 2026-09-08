@@ -1,59 +1,5 @@
 [
   {
-    "id": 1635896,
-    "league": "Cup (Croatia)",
-    "matchTime": "18:30",
-    "homeTeam": "Zagorec",
-    "awayTeam": "Istra 1961",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1627965,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Duhok",
-    "awayTeam": "Ghaz Al Shamal",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1627966,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Erbil",
-    "awayTeam": "Diyala",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1603994,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchTime": "18:50",
-    "homeTeam": "Al Zulfi",
-    "awayTeam": "Hajer",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1603995,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchTime": "18:50",
-    "homeTeam": "Damac",
-    "awayTeam": "Al Ula",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1603020,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchTime": "18:55",
-    "homeTeam": "Al-Hazm",
-    "awayTeam": "Al Taawon",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
-  },
-  {
     "id": 1571550,
     "league": "Second League (Bulgaria)",
     "matchTime": "19:00",
@@ -69,7 +15,7 @@
     "homeTeam": "Academico Viseu U23",
     "awayTeam": "Moreirense U23",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1598677,
@@ -78,7 +24,7 @@
     "homeTeam": "Estrela U23",
     "awayTeam": "União Leiria U23",
     "prediction": "Double Chance X2",
-    "odds": "1.24"
+    "odds": "1.25"
   },
   {
     "id": 1600773,
@@ -87,7 +33,7 @@
     "homeTeam": "Young Africans",
     "awayTeam": "Geita Gold",
     "prediction": "Young Africans Win & Over 1.5",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1635414,
@@ -96,7 +42,7 @@
     "homeTeam": "HPS",
     "awayTeam": "PPJ",
     "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "odds": "1.6"
   },
   {
     "id": 1635415,
@@ -106,5 +52,59 @@
     "awayTeam": "Atlantis",
     "prediction": "Over 2.5 Goals",
     "odds": "1.55"
+  },
+  {
+    "id": 1637856,
+    "league": "NM Cupen (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Djerv",
+    "awayTeam": "Haugesund",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.4"
+  },
+  {
+    "id": 1637857,
+    "league": "NM Cupen (Norway)",
+    "matchTime": "19:00",
+    "homeTeam": "Tromsdalen Uil",
+    "awayTeam": "Strommen",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1638093,
+    "league": "Veikkausliiga (Finland)",
+    "matchTime": "19:00",
+    "homeTeam": "Gnistan",
+    "awayTeam": "KuPS",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1606542,
+    "league": "Second Division (Qatar)",
+    "matchTime": "19:15",
+    "homeTeam": "Al Shamal II",
+    "awayTeam": "Al Bidda SC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1560922,
+    "league": "Cup (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "Tekstilshchik",
+    "awayTeam": "Arsenal Tula",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1582117,
+    "league": "Kvindeliga (Denmark)",
+    "matchTime": "20:00",
+    "homeTeam": "KoldingQ W",
+    "awayTeam": "Brøndby W",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
   }
 ]
