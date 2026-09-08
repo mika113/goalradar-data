@@ -1,14 +1,26 @@
 [
   {
+    "id": 1603996,
+    "league": "Division 1 (Saudi-Arabia)",
+    "matchDate": "FT",
+    "homeTeam": "Al Anwar",
+    "awayTeam": "Al Taee",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Al Anwar Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1637858,
     "league": "NM Cupen (Norway)",
     "matchDate": "FT",
     "homeTeam": "Asker",
     "awayTeam": "Stromsgodset",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Stromsgodset Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "FC Astoria Walldorf",
     "awayTeam": "Stuttgarter Kickers",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Stuttgarter Kickers Win",
     "outcome": "Won"
   },
   {
@@ -78,7 +90,7 @@
     "homeTeam": "Kickers Offenbach",
     "awayTeam": "TSV Steinbach",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "TSV Steinbach Win",
     "outcome": "Won"
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "FSV Frankfurt",
     "awayTeam": "Hessen Kassel",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FSV Frankfurt Win",
     "outcome": "Won"
   },
   {
@@ -108,39 +120,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1587138,
+    "league": "Regionalliga - SudWest (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "VfR Aalen",
+    "awayTeam": "SSV Ulm 1846",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1582117,
     "league": "Kvindeliga (Denmark)",
     "matchDate": "FT",
     "homeTeam": "KoldingQ W",
     "awayTeam": "Brøndby W",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Brøndby W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635643,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Club Brugge KV",
-    "awayTeam": "Aston Villa",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Aston Villa Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635609,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "AEK Athens FC",
-    "awayTeam": "Lask Linz",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "AEK Athens FC Win",
     "outcome": "Won"
   }
 ]
