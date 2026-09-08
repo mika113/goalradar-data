@@ -1,5 +1,41 @@
 [
   {
+    "id": 1635896,
+    "league": "Cup (Croatia)",
+    "matchDate": "FT",
+    "homeTeam": "Zagorec",
+    "awayTeam": "Istra 1961",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1635413,
+    "league": "Kakkonen - Lohko A (Finland)",
+    "matchDate": "FT",
+    "homeTeam": "PEPO",
+    "awayTeam": "HIFK Helsinki",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603019,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchDate": "FT",
+    "homeTeam": "Al-Ettifaq",
+    "awayTeam": "Al-Faisaly FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1638092,
     "league": "Veikkausliiga (Finland)",
     "matchDate": "FT",
@@ -29,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Lahti",
     "awayTeam": "Mariehamn",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Lahti Win",
     "outcome": "Won"
   },
   {
@@ -54,7 +90,7 @@
     "homeTeam": "Kalju Nomme",
     "awayTeam": "Nõmme United",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Nõmme United Win",
     "outcome": "Won"
@@ -90,9 +126,9 @@
     "homeTeam": "Spartak Medzev",
     "awayTeam": "Zemplín Michalovce",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zemplín Michalovce Win",
     "outcome": "Won"
   },
   {
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1630293,
-    "league": "Cup (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Rača",
-    "awayTeam": "Šamorín",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Rača Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1513625,
-    "league": "Meistriliiga (Estonia)",
-    "matchDate": "FT",
-    "homeTeam": "Trans Narva",
-    "awayTeam": "Flora Tallinn",
-    "homeScore": 2,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1638072,
-    "league": "Superliga (Kosovo)",
-    "matchDate": "FT",
-    "homeTeam": "Drenica Skënderaj",
-    "awayTeam": "Prishtina",
-    "homeScore": 1,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Prishtina Win",
     "outcome": "Won"
   }
 ]
