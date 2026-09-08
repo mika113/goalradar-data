@@ -1,5 +1,17 @@
 [
   {
+    "id": 1527733,
+    "league": "Vysshaya Liga (Tajikistan)",
+    "matchDate": "FT",
+    "homeTeam": "Regar-TadAZ",
+    "awayTeam": "Khujand",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1637311,
     "league": "UEFA Youth League (World)",
     "matchDate": "FT",
@@ -30,9 +42,9 @@
     "homeTeam": "Benin U20 W",
     "awayTeam": "Argentina U20 W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Argentina U20 W Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Paraguari AC",
     "awayTeam": "Guairena FC",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Paraguari AC Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Imigresen",
     "awayTeam": "Kedah",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Imigresen Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Maroons",
     "awayTeam": "Blacks Power",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Maroons Win",
     "outcome": "Won"
   },
   {
@@ -101,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "BUL",
     "awayTeam": "Ntugasaze",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Coimbra U20",
     "awayTeam": "Boston City U20",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Coimbra U20 Win",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "Ravshan",
     "awayTeam": "Parvoz",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Ravshan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635854,
-    "league": "FA Cup (Malaysia)",
-    "matchDate": "FT",
-    "homeTeam": "Johor Darul Takzim FC",
-    "awayTeam": "Damansara",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Johor Darul Takzim FC Win",
+    "prediction": "Parvoz Win",
     "outcome": "Won"
   }
 ]
