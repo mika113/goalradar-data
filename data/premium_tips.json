@@ -1,48 +1,12 @@
 [
   {
-    "id": 1608058,
-    "league": "Regionalliga - North (Austria)",
-    "matchTime": "20:00",
-    "homeTeam": "Wallern / Marienkirchen",
-    "awayTeam": "Wals-Grünau",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1612234,
-    "league": "Premier League (Egypt)",
-    "matchTime": "20:00",
-    "homeTeam": "Smouha SC",
-    "awayTeam": "Ceramica Cleopatra",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1612235,
-    "league": "Premier League (Egypt)",
-    "matchTime": "20:00",
-    "homeTeam": "Zamalek SC",
-    "awayTeam": "Abu Qair Semad",
-    "prediction": "Double Chance 1X",
-    "odds": "1.15"
-  },
-  {
-    "id": 1637858,
-    "league": "NM Cupen (Norway)",
-    "matchTime": "20:00",
-    "homeTeam": "Asker",
-    "awayTeam": "Stromsgodset",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.25"
-  },
-  {
     "id": 1598899,
     "league": "Oberliga - Rheinland-Pfalz / Saar (Germany)",
     "matchTime": "20:30",
     "homeTeam": "Gonsenheim",
     "awayTeam": "Diefflen",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1603996,
@@ -68,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Atlanta United II",
     "awayTeam": "Connecticut FC",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1547486,
@@ -78,7 +42,7 @@
     "homeTeam": "São Caetano U20",
     "awayTeam": "Oeste U20",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1558520,
@@ -96,7 +60,7 @@
     "homeTeam": "Friedberg",
     "awayTeam": "Eddersheim",
     "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "odds": "1.6"
   },
   {
     "id": 1588857,
@@ -106,5 +70,41 @@
     "awayTeam": "Huddersfield",
     "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1588864,
+    "league": "EFL Trophy (England)",
+    "matchTime": "21:00",
+    "homeTeam": "Exeter City",
+    "awayTeam": "Tottenham Hotspur U21",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1603021,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "21:00",
+    "homeTeam": "Al-Ittihad FC",
+    "awayTeam": "Al-Fayha",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1603022,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "21:00",
+    "homeTeam": "Al-Qadisiyah FC",
+    "awayTeam": "Al-Ahli Jeddah",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
+  },
+  {
+    "id": 1603352,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "21:00",
+    "homeTeam": "Atlante W",
+    "awayTeam": "Juárez W",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
   }
 ]
