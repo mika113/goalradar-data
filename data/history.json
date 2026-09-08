@@ -5,7 +5,7 @@
     "matchDate": "FT",
     "homeTeam": "Flamengo U20",
     "awayTeam": "Forte U20",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Flamengo U20 Win",
@@ -17,7 +17,7 @@
     "matchDate": "FT",
     "homeTeam": "Bahia U20",
     "awayTeam": "Atlético Alagoinhas U20",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Bahia U20 Win",
@@ -78,9 +78,9 @@
     "homeTeam": "Fleetwood Town U21",
     "awayTeam": "Burnley U21",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Burnley U21 Win",
     "outcome": "Won"
   },
   {
@@ -96,15 +96,27 @@
     "outcome": "Won"
   },
   {
+    "id": 1619491,
+    "league": "National League Cup (England)",
+    "matchDate": "FT",
+    "homeTeam": "Truro City",
+    "awayTeam": "Leicester City U21",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Truro City Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1619490,
     "league": "National League Cup (England)",
     "matchDate": "FT",
     "homeTeam": "Sutton Utd",
     "awayTeam": "Birmingham City U21",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sutton Utd Win",
     "outcome": "Won"
   },
   {
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Solihull Moors",
     "awayTeam": "Leeds United U21",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Solihull Moors Win",
     "outcome": "Won"
   },
   {
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Scunthorpe",
     "awayTeam": "Nottingham Forest U21",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619487,
-    "league": "National League Cup (England)",
-    "matchDate": "FT",
-    "homeTeam": "AFC Hornchurch",
-    "awayTeam": "Ipswich Town U21",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
