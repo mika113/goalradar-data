@@ -1,21 +1,12 @@
 [
   {
-    "id": 1588857,
-    "league": "EFL Trophy (England)",
-    "matchTime": "21:00",
-    "homeTeam": "Doncaster",
-    "awayTeam": "Huddersfield",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
-  },
-  {
     "id": 1588864,
     "league": "EFL Trophy (England)",
     "matchTime": "21:00",
     "homeTeam": "Exeter City",
     "awayTeam": "Tottenham Hotspur U21",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1603021,
@@ -24,7 +15,7 @@
     "homeTeam": "Al-Ittihad FC",
     "awayTeam": "Al-Fayha",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.2"
   },
   {
     "id": 1603022,
@@ -32,8 +23,8 @@
     "matchTime": "21:00",
     "homeTeam": "Al-Qadisiyah FC",
     "awayTeam": "Al-Ahli Jeddah",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
   },
   {
     "id": 1603352,
@@ -51,7 +42,7 @@
     "homeTeam": "Atl. Rafaela 2",
     "awayTeam": "Independiente Res.",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1612004,
@@ -88,5 +79,14 @@
     "awayTeam": "Gimnasia La Plata Res.",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
+  },
+  {
+    "id": 1619482,
+    "league": "National League Cup (England)",
+    "matchTime": "21:00",
+    "homeTeam": "Boreham Wood",
+    "awayTeam": "Newcastle United U21",
+    "prediction": "Boreham Wood Win & Over 1.5",
+    "odds": "1.72"
   }
 ]
