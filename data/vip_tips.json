@@ -1,14 +1,5 @@
 [
   {
-    "id": 1630777,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Fluminense",
-    "awayTeam": "Platense",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1635576,
     "league": "CONMEBOL Sudamericana (World)",
     "matchTime": "01:00",
@@ -24,7 +15,7 @@
     "homeTeam": "General Caballero",
     "awayTeam": "Resistencia",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1610968,
@@ -60,7 +51,7 @@
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Santiago Wanderers",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1520864,
@@ -70,5 +61,14 @@
     "awayTeam": "Athletic Club",
     "prediction": "Double Chance 1X",
     "odds": "1.25"
+  },
+  {
+    "id": 1520863,
+    "league": "Serie B (Brazil)",
+    "matchTime": "03:00",
+    "homeTeam": "Criciuma",
+    "awayTeam": "Juventude",
+    "prediction": "Double Chance X2",
+    "odds": "1.58"
   }
 ]
