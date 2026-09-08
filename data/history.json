@@ -1,14 +1,26 @@
 [
   {
+    "id": 1560922,
+    "league": "Cup (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Tekstilshchik",
+    "awayTeam": "Arsenal Tula",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1606542,
     "league": "Second Division (Qatar)",
     "matchDate": "FT",
     "homeTeam": "Al Shamal II",
     "awayTeam": "Al Bidda SC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al Bidda SC Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +30,9 @@
     "homeTeam": "Gnistan",
     "awayTeam": "KuPS",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "KuPS Win",
     "outcome": "Won"
   },
   {
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Tromsdalen Uil",
     "awayTeam": "Strommen",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Tromsdalen Uil Win",
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Vihren Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1603020,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Hazm",
-    "awayTeam": "Al Taawon",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Al-Hazm Win",
     "outcome": "Won"
   }
 ]
