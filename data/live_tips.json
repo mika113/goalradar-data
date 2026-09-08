@@ -1,48 +1,12 @@
 [
   {
-    "id": 1598679,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchTime": "17:00",
-    "homeTeam": "Marítimo U23",
-    "awayTeam": "Gil Vicente U23",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
-  },
-  {
-    "id": 1606538,
-    "league": "Second Division (Qatar)",
-    "matchTime": "17:00",
-    "homeTeam": "Al Mesaimeer",
-    "awayTeam": "Al Kharaitiyat",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1635081,
-    "league": "Cup (Russia)",
-    "matchTime": "17:00",
-    "homeTeam": "Ryazan",
-    "awayTeam": "Spartak Kostroma",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1635544,
-    "league": "Cup (Slovakia)",
-    "matchTime": "17:00",
-    "homeTeam": "Novohrad Lučenec",
-    "awayTeam": "Komárno",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1637309,
     "league": "UEFA Youth League (World)",
     "matchTime": "17:00",
     "homeTeam": "Borussia Dortmund U19",
     "awayTeam": "Villarreal U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1637312,
@@ -60,7 +24,7 @@
     "homeTeam": "Drenica Skënderaj",
     "awayTeam": "Prishtina",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1638073,
@@ -68,8 +32,8 @@
     "matchTime": "17:00",
     "homeTeam": "Vushtrria",
     "awayTeam": "Llapi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1513625,
@@ -88,5 +52,41 @@
     "awayTeam": "Šamorín",
     "prediction": "Double Chance X2",
     "odds": "1.3"
+  },
+  {
+    "id": 1635073,
+    "league": "Cup (Slovakia)",
+    "matchTime": "17:30",
+    "homeTeam": "Námestovo",
+    "awayTeam": "MFK Bytča",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1635543,
+    "league": "Cup (Slovakia)",
+    "matchTime": "17:30",
+    "homeTeam": "Spartak Medzev",
+    "awayTeam": "Zemplín Michalovce",
+    "prediction": "Double Chance X2",
+    "odds": "1.1"
+  },
+  {
+    "id": 1635546,
+    "league": "Cup (Slovakia)",
+    "matchTime": "17:30",
+    "homeTeam": "Spišská Nová Ves",
+    "awayTeam": "Podbrezová",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1635893,
+    "league": "Cup (Croatia)",
+    "matchTime": "17:30",
+    "homeTeam": "Vardarac",
+    "awayTeam": "HNK Hajduk Split",
+    "prediction": "Double Chance X2",
+    "odds": "1.08"
   }
 ]
