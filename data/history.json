@@ -18,7 +18,7 @@
     "homeTeam": "Real Madrid",
     "awayTeam": "Inter",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Real Madrid Win",
     "outcome": "Won"
@@ -30,9 +30,9 @@
     "homeTeam": "Lille",
     "awayTeam": "Real Betis",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Real Betis Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Borussia Dortmund",
     "awayTeam": "Villarreal",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Borussia Dortmund Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "Millwall",
     "awayTeam": "Newcastle",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Newcastle Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +78,9 @@
     "homeTeam": "ABB",
     "awayTeam": "San Antonio Bulo Bulo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "San Antonio Bulo Bulo Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "Bolton",
     "awayTeam": "West Ham",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "West Ham Win",
     "outcome": "Won"
   },
   {
@@ -102,7 +102,7 @@
     "homeTeam": "Toronto II",
     "awayTeam": "Columbus Crew II",
     "homeScore": 3,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Toronto II Win",
     "outcome": "Won"
