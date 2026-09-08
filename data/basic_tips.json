@@ -1,48 +1,12 @@
 [
   {
-    "id": 1635609,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:45",
-    "homeTeam": "AEK Athens FC",
-    "awayTeam": "Lask Linz",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1635643,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "19:45",
-    "homeTeam": "Club Brugge KV",
-    "awayTeam": "Aston Villa",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1552136,
-    "league": "Eredivisie (Netherlands)",
-    "matchTime": "19:45",
-    "homeTeam": "NEC Nijmegen",
-    "awayTeam": "Excelsior",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
     "id": 1638611,
     "league": "FA Cup (England)",
     "matchTime": "21:30",
     "homeTeam": "Pagham",
     "awayTeam": "Ascot United",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1560922,
-    "league": "Cup (Russia)",
-    "matchTime": "19:30",
-    "homeTeam": "Tekstilshchik",
-    "awayTeam": "Arsenal Tula",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.2"
   },
   {
     "id": 1582117,
@@ -50,7 +14,43 @@
     "matchTime": "20:00",
     "homeTeam": "KoldingQ W",
     "awayTeam": "Brøndby W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.35"
+  },
+  {
+    "id": 1587138,
+    "league": "Regionalliga - SudWest (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "VfR Aalen",
+    "awayTeam": "SSV Ulm 1846",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1587139,
+    "league": "Regionalliga - SudWest (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Eintracht Trier",
+    "awayTeam": "Freiburg II",
     "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1587141,
+    "league": "Regionalliga - SudWest (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "FSV Frankfurt",
+    "awayTeam": "Hessen Kassel",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1587144,
+    "league": "Regionalliga - SudWest (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Kickers Offenbach",
+    "awayTeam": "TSV Steinbach",
+    "prediction": "Double Chance 1X",
     "odds": "1.25"
   }
 ]
