@@ -1,29 +1,11 @@
 [
   {
-    "id": 1635251,
-    "league": "Premier League (Uganda)",
-    "matchTime": "16:00",
-    "homeTeam": "BUL",
-    "awayTeam": "Ntugasaze",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1635252,
-    "league": "Premier League (Uganda)",
-    "matchTime": "16:00",
-    "homeTeam": "Maroons",
-    "awayTeam": "Blacks Power",
-    "prediction": "Double Chance X2",
-    "odds": "1.4"
-  },
-  {
     "id": 1635255,
     "league": "Premier League (Uganda)",
     "matchTime": "16:00",
     "homeTeam": "Kigezi HomeBoyz",
     "awayTeam": "KCCA",
-    "prediction": "Double Chance X2",
+    "prediction": "Double Chance 1X",
     "odds": "1.35"
   },
   {
@@ -32,8 +14,8 @@
     "matchTime": "16:00",
     "homeTeam": "Imigresen",
     "awayTeam": "Kedah",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
   },
   {
     "id": 1636638,
@@ -42,7 +24,7 @@
     "homeTeam": "3 de Noviembre",
     "awayTeam": "SOL DE America",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1636639,
@@ -60,7 +42,7 @@
     "homeTeam": "Lille U19",
     "awayTeam": "Real Betis U19",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1527733,
@@ -69,7 +51,7 @@
     "homeTeam": "Regar-TadAZ",
     "awayTeam": "Khujand",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1598679,
@@ -87,7 +69,7 @@
     "homeTeam": "Al Mesaimeer",
     "awayTeam": "Al Kharaitiyat",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1635081,
@@ -96,7 +78,7 @@
     "homeTeam": "Ryazan",
     "awayTeam": "Spartak Kostroma",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1635544,
@@ -104,7 +86,25 @@
     "matchTime": "17:00",
     "homeTeam": "Novohrad Lučenec",
     "awayTeam": "Komárno",
-    "prediction": "Double Chance X2",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
+  },
+  {
+    "id": 1637309,
+    "league": "UEFA Youth League (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Borussia Dortmund U19",
+    "awayTeam": "Villarreal U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1637312,
+    "league": "UEFA Youth League (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Real Madrid U19",
+    "awayTeam": "Internazionale U19",
+    "prediction": "Double Chance 1X",
     "odds": "1.3"
   }
 ]
