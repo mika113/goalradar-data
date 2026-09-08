@@ -1,30 +1,12 @@
 [
   {
-    "id": 1520864,
-    "league": "Serie B (Brazil)",
-    "matchTime": "02:30",
-    "homeTeam": "Cuiaba",
-    "awayTeam": "Athletic Club",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1520863,
-    "league": "Serie B (Brazil)",
-    "matchTime": "03:00",
-    "homeTeam": "Criciuma",
-    "awayTeam": "Juventude",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
-  },
-  {
     "id": 1600588,
     "league": "Primera Division (El-Salvador)",
     "matchTime": "03:00",
     "homeTeam": "Inca Aruba",
     "awayTeam": "Atletico Balboa",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1638458,
@@ -32,7 +14,7 @@
     "matchTime": "03:00",
     "homeTeam": "RB do Norte",
     "awayTeam": "Fast Clube-Am",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.35"
   },
   {
@@ -42,7 +24,7 @@
     "homeTeam": "Internacional Palmira",
     "awayTeam": "Depor FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1619670,
@@ -50,8 +32,8 @@
     "matchTime": "03:30",
     "homeTeam": "Oriente Petrolero",
     "awayTeam": "Guabirá",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   },
   {
     "id": 1627594,
@@ -59,8 +41,8 @@
     "matchTime": "03:30",
     "homeTeam": "San Antonio",
     "awayTeam": "Louisville City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1629830,
@@ -70,5 +52,23 @@
     "awayTeam": "Sao Paulo",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
+  },
+  {
+    "id": 1637818,
+    "league": "Friendlies Clubs (World)",
+    "matchTime": "07:00",
+    "homeTeam": "Vanuatu United",
+    "awayTeam": "Central Coast Mariners",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1565064,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchTime": "11:00",
+    "homeTeam": "Opava U19",
+    "awayTeam": "České Budějovice U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
   }
 ]
