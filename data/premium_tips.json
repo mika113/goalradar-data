@@ -1,30 +1,12 @@
 [
   {
-    "id": 1612004,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Colón Res.",
-    "awayTeam": "Belgrano Córdoba Res.",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1612010,
-    "league": "Reserve League (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Quilmes 2",
-    "awayTeam": "Ferro 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1612011,
     "league": "Reserve League (Argentina)",
     "matchTime": "21:00",
     "homeTeam": "Racing Club Res.",
     "awayTeam": "Argentinos Juniors Res.",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1612018,
@@ -33,7 +15,7 @@
     "homeTeam": "Vélez Sársfield Res.",
     "awayTeam": "Gimnasia La Plata Res.",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1619482,
@@ -42,7 +24,7 @@
     "homeTeam": "Boreham Wood",
     "awayTeam": "Newcastle United U21",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1619483,
@@ -51,7 +33,7 @@
     "homeTeam": "Boston United",
     "awayTeam": "West Bromwich Albion U21",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.55"
   },
   {
     "id": 1619484,
@@ -60,7 +42,7 @@
     "homeTeam": "FC Halifax Town",
     "awayTeam": "Wolves U21",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1619485,
@@ -78,7 +60,7 @@
     "homeTeam": "Hartlepool",
     "awayTeam": "Everton U21",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1619487,
@@ -87,7 +69,7 @@
     "homeTeam": "AFC Hornchurch",
     "awayTeam": "Ipswich Town U21",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.62"
   },
   {
     "id": 1619488,
@@ -96,7 +78,7 @@
     "homeTeam": "Scunthorpe",
     "awayTeam": "Nottingham Forest U21",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.55"
   },
   {
     "id": 1619489,
@@ -104,7 +86,25 @@
     "matchTime": "21:00",
     "homeTeam": "Solihull Moors",
     "awayTeam": "Leeds United U21",
+    "prediction": "Both Teams To Score",
+    "odds": "1.62"
+  },
+  {
+    "id": 1619490,
+    "league": "National League Cup (England)",
+    "matchTime": "21:00",
+    "homeTeam": "Sutton Utd",
+    "awayTeam": "Birmingham City U21",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1619491,
+    "league": "National League Cup (England)",
+    "matchTime": "21:00",
+    "homeTeam": "Truro City",
+    "awayTeam": "Leicester City U21",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.62"
   }
 ]
