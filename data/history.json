@@ -42,7 +42,7 @@
     "homeTeam": "FC Porto",
     "awayTeam": "Manchester City",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Manchester City Win",
     "outcome": "Won"
@@ -53,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Borussia Dortmund",
     "awayTeam": "Villarreal",
-    "homeScore": 2,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Borussia Dortmund Win",
     "outcome": "Won"
@@ -78,7 +78,7 @@
     "homeTeam": "ABB",
     "awayTeam": "San Antonio Bulo Bulo",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "San Antonio Bulo Bulo Win",
     "outcome": "Won"
@@ -101,10 +101,46 @@
     "matchDate": "FT",
     "homeTeam": "Toronto II",
     "awayTeam": "Columbus Crew II",
-    "homeScore": 3,
-    "awayScore": 1,
+    "homeScore": 4,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Toronto II Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1638457,
+    "league": "FA Cup (England)",
+    "matchDate": "FT",
+    "homeTeam": "Worcester City",
+    "awayTeam": "Knowle",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Worcester City Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1638455,
+    "league": "FA Cup (England)",
+    "matchDate": "FT",
+    "homeTeam": "Welling United",
+    "awayTeam": "Faversham Town",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Welling United Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1638454,
+    "league": "FA Cup (England)",
+    "matchDate": "FT",
+    "homeTeam": "Warrington Town",
+    "awayTeam": "Shildon AFC",
+    "homeScore": 4,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Warrington Town Win",
     "outcome": "Won"
   }
 ]
