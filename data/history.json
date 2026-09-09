@@ -1,14 +1,26 @@
 [
   {
+    "id": 1621324,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Maccabi K. Ata Bialik",
+    "awayTeam": "Maccabi Nujeidat Ahmed",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1635875,
     "league": "Cup (Ukraine)",
     "matchDate": "FT",
     "homeTeam": "Novyi Rozdil",
     "awayTeam": "Tyshkivka",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tyshkivka Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Volna Nizhegorodskaya",
     "awayTeam": "Rotor Volgograd",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Volna Nizhegorodskaya Win",
     "outcome": "Won"
   },
   {
@@ -29,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Zhytomyr U19",
     "awayTeam": "Dynamo Kyiv U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Zhytomyr U19 Win",
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Daejeon Citizen",
     "awayTeam": "FC Anyang",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "FC Anyang Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -125,18 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Oleksandria U19",
     "awayTeam": "Obolon' Kyiv U19",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1611754,
-    "league": "U19 League (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Livyi Bereh U19",
-    "awayTeam": "Veres Rivne U19",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
