@@ -1,39 +1,12 @@
 [
   {
-    "id": 1627960,
-    "league": "Iraqi League",
-    "matchTime": "18:00",
-    "homeTeam": "Al-Jolan SC",
-    "awayTeam": "Zakho",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1635496,
-    "league": "Cup (Greece)",
-    "matchTime": "18:00",
-    "homeTeam": "Levadiakos",
-    "awayTeam": "Aris Thessalonikis",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1635574,
-    "league": "Cup (Russia)",
-    "matchTime": "18:00",
-    "homeTeam": "Volgar Astrakhan",
-    "awayTeam": "Volga Ulyanovsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1635878,
     "league": "Cup (Ukraine)",
     "matchTime": "18:00",
     "homeTeam": "Polessya",
     "awayTeam": "Kudrivka",
-    "prediction": "Polessya Win",
-    "odds": "1.35"
+    "prediction": "Double Chance 1X",
+    "odds": "1.12"
   },
   {
     "id": 1638094,
@@ -42,7 +15,7 @@
     "homeTeam": "HJK Helsinki",
     "awayTeam": "Inter Turku",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1553077,
@@ -51,7 +24,7 @@
     "homeTeam": "Levski Sofia",
     "awayTeam": "CSKA Sofia",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1582412,
@@ -59,8 +32,8 @@
     "matchTime": "18:30",
     "homeTeam": "Normannia Gmünd",
     "awayTeam": "Backnang",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
   },
   {
     "id": 1582413,
@@ -77,8 +50,8 @@
     "matchTime": "18:30",
     "homeTeam": "Teningen",
     "awayTeam": "TSV Singen",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.62"
   },
   {
     "id": 1635571,
@@ -86,7 +59,34 @@
     "matchTime": "18:30",
     "homeTeam": "Dinamo Stavropol",
     "awayTeam": "Nizhny Novgorod",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1635888,
+    "league": "Cup (Croatia)",
+    "matchTime": "18:30",
+    "homeTeam": "Orijent 1919",
+    "awayTeam": "Mladost Ždralovi",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1636683,
+    "league": "DBU Pokalen (Denmark)",
+    "matchTime": "18:30",
+    "homeTeam": "VSK Århus",
+    "awayTeam": "Lyngby",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1637808,
+    "league": "Copa Federacion (Spain)",
+    "matchTime": "18:30",
+    "homeTeam": "Melilla",
+    "awayTeam": "Conil",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   }
 ]
