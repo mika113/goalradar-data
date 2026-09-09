@@ -1,30 +1,12 @@
 [
   {
-    "id": 1638074,
-    "league": "Superliga (Kosovo)",
-    "matchTime": "17:00",
-    "homeTeam": "Feronikeli",
-    "awayTeam": "Drita",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
-    "id": 1621326,
-    "league": "Liga Alef (Israel)",
-    "matchTime": "17:10",
-    "homeTeam": "Hapoel Nazareth Illit",
-    "awayTeam": "Hapoel Tirat HaCarmel",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1621601,
     "league": "Liga Alef (Israel)",
     "matchTime": "17:15",
     "homeTeam": "Hapoel Ramat HaSharon",
     "awayTeam": "Hapoel Mahane Yehuda",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.35"
   },
   {
     "id": 1621602,
@@ -32,8 +14,8 @@
     "matchTime": "17:20",
     "homeTeam": "Dimona",
     "awayTeam": "Maccabi Yavne",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
   },
   {
     "id": 1635539,
@@ -41,8 +23,8 @@
     "matchTime": "17:30",
     "homeTeam": "Baník Prievidza",
     "awayTeam": "Baník Lehota p.Vtáčnikom",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1635542,
@@ -51,7 +33,7 @@
     "homeTeam": "Slovan Vavrečka",
     "awayTeam": "Žilina",
     "prediction": "Double Chance X2",
-    "odds": "1.08"
+    "odds": "1.1"
   },
   {
     "id": 1635883,
@@ -59,7 +41,7 @@
     "matchTime": "17:30",
     "homeTeam": "Bedem Ivankovo",
     "awayTeam": "Dinamo Zagreb",
-    "prediction": "Double Chance X2",
+    "prediction": "Dinamo Zagreb Win",
     "odds": "1.2"
   },
   {
@@ -69,7 +51,7 @@
     "homeTeam": "Hrvatski Dragovoljac",
     "awayTeam": "NK Slaven Belupo",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1635889,
@@ -78,7 +60,7 @@
     "homeTeam": "Segesta Sisak",
     "awayTeam": "NK Osijek",
     "prediction": "Double Chance X2",
-    "odds": "1.12"
+    "odds": "1.15"
   },
   {
     "id": 1635890,
@@ -87,6 +69,24 @@
     "homeTeam": "Slavonija Požega",
     "awayTeam": "Oriolik Oriovac",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
+  },
+  {
+    "id": 1635891,
+    "league": "Cup (Croatia)",
+    "matchTime": "17:30",
+    "homeTeam": "Cuba U20",
+    "awayTeam": "NK Lokomotiva Zagreb",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1635892,
+    "league": "Cup (Croatia)",
+    "matchTime": "17:30",
+    "homeTeam": "Uskok Klis",
+    "awayTeam": "HNK Gorica",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
