@@ -6,7 +6,7 @@
     "homeTeam": "Liverpool",
     "awayTeam": "Atletico Madrid",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1635698,
@@ -24,7 +24,7 @@
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Slovan Bratislava",
     "prediction": "Double Chance 1X",
-    "odds": "1.08"
+    "odds": "1.1"
   },
   {
     "id": 1635736,
@@ -32,8 +32,17 @@
     "matchTime": "22:00",
     "homeTeam": "Sporting CP",
     "awayTeam": "Galatasaray",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1575469,
+    "league": "Primeira Liga (Portugal)",
+    "matchTime": "22:45",
+    "homeTeam": "Moreirense",
+    "awayTeam": "Benfica",
+    "prediction": "Double Chance X2",
+    "odds": "1.12"
   },
   {
     "id": 1638438,
@@ -43,14 +52,5 @@
     "awayTeam": "Banbury United",
     "prediction": "Double Chance 1X",
     "odds": "1.45"
-  },
-  {
-    "id": 1638456,
-    "league": "FA Cup (England)",
-    "matchTime": "21:45",
-    "homeTeam": "Whyteleafe",
-    "awayTeam": "Crowborough Athletic",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
   }
 ]
