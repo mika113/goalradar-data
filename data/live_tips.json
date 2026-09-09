@@ -1,57 +1,12 @@
 [
   {
-    "id": 1607643,
-    "league": "Copa Colombia",
-    "matchTime": "02:00",
-    "homeTeam": "Real Cundinamarca",
-    "awayTeam": "Internacional de Bogota",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1610969,
-    "league": "CONCACAF Caribbean Club Championship (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Portmore United",
-    "awayTeam": "Mount Pleasant Academy",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1632412,
-    "league": "Copa Uruguay",
-    "matchTime": "02:00",
-    "homeTeam": "Deportivo Maldonado",
-    "awayTeam": "Wanderers",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1637526,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Amazonas U20",
-    "awayTeam": "Monte Roraima U20",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1637543,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Independente-AP U20",
-    "awayTeam": "Sao Luiz U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
-  },
-  {
     "id": 1637553,
     "league": "Copa do Brasil U20 (Brazil)",
     "matchTime": "02:00",
     "homeTeam": "São Raimundo RR U20",
     "awayTeam": "Gênus U20",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1638211,
@@ -60,7 +15,7 @@
     "homeTeam": "Millonarios W",
     "awayTeam": "Atlético Nacional W",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1511682,
@@ -68,7 +23,7 @@
     "matchTime": "02:30",
     "homeTeam": "Deportes Copiapo",
     "awayTeam": "Magallanes",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
   },
   {
@@ -88,5 +43,50 @@
     "awayTeam": "Pacific FC",
     "prediction": "Double Chance 1X",
     "odds": "1.4"
+  },
+  {
+    "id": 1520860,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "America Mineiro",
+    "awayTeam": "Nautico Recife",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1520866,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "Operario-PR",
+    "awayTeam": "CRB",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1513346,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Huntsville City",
+    "awayTeam": "Chattanooga",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1559632,
+    "league": "Liga Nacional (Guatemala)",
+    "matchTime": "03:00",
+    "homeTeam": "Comunicaciones",
+    "awayTeam": "Marquense",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1611288,
+    "league": "Copa Colombia",
+    "matchTime": "03:00",
+    "homeTeam": "Once Caldas",
+    "awayTeam": "Alianza Valledupar",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   }
 ]
