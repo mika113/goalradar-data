@@ -1,39 +1,12 @@
 [
   {
-    "id": 1636740,
-    "league": "Super League 2 (Greece)",
-    "matchTime": "16:00",
-    "homeTeam": "PAOK II",
-    "awayTeam": "Olympiakos Piraeus II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1637317,
-    "league": "UEFA Youth League (World)",
-    "matchTime": "16:00",
-    "homeTeam": "Sporting CP U19",
-    "awayTeam": "Galatasaray U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1516134,
-    "league": "Super League (Uzbekistan)",
-    "matchTime": "16:30",
-    "homeTeam": "Olmaliq",
-    "awayTeam": "Pakhtakor",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1611755,
     "league": "U19 League (Ukraine)",
     "matchTime": "16:30",
     "homeTeam": "LNZ Cherkasy U19",
     "awayTeam": "Metalist 1925 U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
   },
   {
     "id": 1619565,
@@ -51,7 +24,7 @@
     "homeTeam": "Neftchi",
     "awayTeam": "Surkhon",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1528055,
@@ -60,7 +33,7 @@
     "homeTeam": "Kairat Almaty",
     "awayTeam": "Zhenys",
     "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "odds": "1.22"
   },
   {
     "id": 1612233,
@@ -68,8 +41,8 @@
     "matchTime": "17:00",
     "homeTeam": "Pyramids FC",
     "awayTeam": "El Gouna FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "prediction": "Pyramids FC Win & Over 1.5",
+    "odds": "1.7"
   },
   {
     "id": 1612236,
@@ -78,7 +51,7 @@
     "homeTeam": "Future FC",
     "awayTeam": "Wadi Degla",
     "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1621595,
@@ -96,7 +69,7 @@
     "homeTeam": "Sporting de Cabinda",
     "awayTeam": "1º de Agosto",
     "prediction": "Double Chance X2",
-    "odds": "1.2"
+    "odds": "1.18"
   },
   {
     "id": 1631975,
@@ -106,5 +79,32 @@
     "awayTeam": "Bashkimi Kumanovo",
     "prediction": "Over 2.5 Goals",
     "odds": "1.55"
+  },
+  {
+    "id": 1631976,
+    "league": "Cup (Macedonia)",
+    "matchTime": "17:00",
+    "homeTeam": "Detonit Plachkovica",
+    "awayTeam": "Shkëndija Haraçinë",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1631977,
+    "league": "Cup (Macedonia)",
+    "matchTime": "17:00",
+    "homeTeam": "Kozuv Gevgelija",
+    "awayTeam": "Skopje",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1631978,
+    "league": "Cup (Macedonia)",
+    "matchTime": "17:00",
+    "homeTeam": "Novaci",
+    "awayTeam": "Ohrid",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
   }
 ]
