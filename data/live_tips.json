@@ -1,23 +1,5 @@
 [
   {
-    "id": 1631510,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchTime": "01:00",
-    "homeTeam": "Santos",
-    "awayTeam": "Atletico-MG",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1635536,
-    "league": "Copa Argentina",
-    "matchTime": "01:00",
-    "homeTeam": "Deportivo Riestra",
-    "awayTeam": "Banfield",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1520862,
     "league": "Serie B (Brazil)",
     "matchTime": "01:30",
@@ -42,7 +24,7 @@
     "homeTeam": "Mineiros",
     "awayTeam": "Bom Jesus EC",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1606304,
@@ -50,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Trindade",
     "awayTeam": "Rio Verde",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
   },
   {
     "id": 1619672,
@@ -59,8 +41,8 @@
     "matchTime": "01:30",
     "homeTeam": "Universitario de Vinto",
     "awayTeam": "The Strongest",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.5"
+    "prediction": "Double Chance X2",
+    "odds": "1.28"
   },
   {
     "id": 1635839,
@@ -69,7 +51,7 @@
     "homeTeam": "Cerro Largo",
     "awayTeam": "Defensor Sporting",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1549114,
@@ -88,5 +70,23 @@
     "awayTeam": "Deportivo Pereira",
     "prediction": "Double Chance 1X",
     "odds": "1.3"
+  },
+  {
+    "id": 1607643,
+    "league": "Copa Colombia",
+    "matchTime": "02:00",
+    "homeTeam": "Real Cundinamarca",
+    "awayTeam": "Internacional de Bogota",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1610969,
+    "league": "CONCACAF Caribbean Club Championship (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Portmore United",
+    "awayTeam": "Mount Pleasant Academy",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
