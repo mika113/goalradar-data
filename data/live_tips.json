@@ -1,39 +1,12 @@
 [
   {
-    "id": 1631976,
-    "league": "Cup (Macedonia)",
-    "matchTime": "17:00",
-    "homeTeam": "Detonit Plachkovica",
-    "awayTeam": "Shkëndija Haraçinë",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1631977,
-    "league": "Cup (Macedonia)",
-    "matchTime": "17:00",
-    "homeTeam": "Kozuv Gevgelija",
-    "awayTeam": "Skopje",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1631978,
-    "league": "Cup (Macedonia)",
-    "matchTime": "17:00",
-    "homeTeam": "Novaci",
-    "awayTeam": "Ohrid",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
     "id": 1631979,
     "league": "Cup (Macedonia)",
     "matchTime": "17:00",
     "homeTeam": "Osogovo",
     "awayTeam": "Belasica",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1631982,
@@ -42,7 +15,7 @@
     "homeTeam": "Sasa",
     "awayTeam": "Shkupi 1927",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1631984,
@@ -50,8 +23,8 @@
     "matchTime": "17:00",
     "homeTeam": "Teteks",
     "awayTeam": "Bregalnica Štip",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1635078,
@@ -60,7 +33,7 @@
     "homeTeam": "Kaluga",
     "awayTeam": "FC UFA",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.38"
   },
   {
     "id": 1635079,
@@ -69,7 +42,7 @@
     "homeTeam": "Dinamo Kirov",
     "awayTeam": "KAMAZ",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1635497,
@@ -77,8 +50,8 @@
     "matchTime": "17:00",
     "homeTeam": "OFI",
     "awayTeam": "Nestos Chrisoupolis",
-    "prediction": "Double Chance 1X",
-    "odds": "1.08"
+    "prediction": "OFI Win",
+    "odds": "1.35"
   },
   {
     "id": 1635545,
@@ -88,5 +61,32 @@
     "awayTeam": "Zlaté Moravce",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
+  },
+  {
+    "id": 1635573,
+    "league": "Cup (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "FK Sokol Saratov",
+    "awayTeam": "Leningradets",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1635900,
+    "league": "Cup (Russia)",
+    "matchTime": "17:00",
+    "homeTeam": "Murom",
+    "awayTeam": "Veles",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1637314,
+    "league": "UEFA Youth League (World)",
+    "matchTime": "17:00",
+    "homeTeam": "Liverpool U19",
+    "awayTeam": "Atlético Madrid U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
