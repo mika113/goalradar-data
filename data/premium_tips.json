@@ -6,7 +6,7 @@
     "homeTeam": "San Diego",
     "awayTeam": "San Jose Earthquakes",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1490465,
@@ -14,8 +14,8 @@
     "matchTime": "05:30",
     "homeTeam": "Portland Timbers",
     "awayTeam": "St. Louis City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1637291,
@@ -24,7 +24,7 @@
     "homeTeam": "Korea DPR U20 W",
     "awayTeam": "Costa Rica U20 W",
     "prediction": "Korea DPR U20 W Win & Over 1.5",
-    "odds": "1.3"
+    "odds": "1.4"
   },
   {
     "id": 1637292,
@@ -33,52 +33,7 @@
     "homeTeam": "Spain U20 W",
     "awayTeam": "New Caledonia U20 W",
     "prediction": "Spain U20 W Win & Over 1.5",
-    "odds": "1.1"
-  },
-  {
-    "id": 1520862,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Botafogo SP",
-    "awayTeam": "Novorizontino",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1520865,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Fortaleza EC",
-    "awayTeam": "Avai",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1606303,
-    "league": "Goiano - 2 (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Mineiros",
-    "awayTeam": "Bom Jesus EC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1606304,
-    "league": "Goiano - 2 (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Trindade",
-    "awayTeam": "Rio Verde",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1619672,
-    "league": "Copa de la División Profesional (Bolivia)",
-    "matchTime": "01:30",
-    "homeTeam": "Universitario de Vinto",
-    "awayTeam": "The Strongest",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.15"
   },
   {
     "id": 1635839,
@@ -87,7 +42,7 @@
     "homeTeam": "Cerro Largo",
     "awayTeam": "Defensor Sporting",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1549114,
@@ -106,5 +61,50 @@
     "awayTeam": "Deportivo Pereira",
     "prediction": "Double Chance 1X",
     "odds": "1.3"
+  },
+  {
+    "id": 1607643,
+    "league": "Copa Colombia",
+    "matchTime": "02:00",
+    "homeTeam": "Real Cundinamarca",
+    "awayTeam": "Internacional de Bogota",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1610969,
+    "league": "CONCACAF Caribbean Club Championship (World)",
+    "matchTime": "02:00",
+    "homeTeam": "Portmore United",
+    "awayTeam": "Mount Pleasant Academy",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1632412,
+    "league": "Copa Uruguay",
+    "matchTime": "02:00",
+    "homeTeam": "Deportivo Maldonado",
+    "awayTeam": "Wanderers",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1637526,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Amazonas U20",
+    "awayTeam": "Monte Roraima U20",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
+  },
+  {
+    "id": 1637543,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Independente-AP U20",
+    "awayTeam": "Sao Luiz U20",
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   }
 ]
