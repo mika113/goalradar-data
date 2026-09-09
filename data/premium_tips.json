@@ -6,7 +6,7 @@
     "homeTeam": "San Diego",
     "awayTeam": "San Jose Earthquakes",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1490465,
@@ -14,8 +14,8 @@
     "matchTime": "05:30",
     "homeTeam": "Portland Timbers",
     "awayTeam": "St. Louis City",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.5"
+    "prediction": "Both Teams To Score",
+    "odds": "1.55"
   },
   {
     "id": 1637291,
@@ -24,7 +24,7 @@
     "homeTeam": "Korea DPR U20 W",
     "awayTeam": "Costa Rica U20 W",
     "prediction": "Korea DPR U20 W Win & Over 1.5",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1637292,
@@ -32,79 +32,79 @@
     "matchTime": "16:00",
     "homeTeam": "Spain U20 W",
     "awayTeam": "New Caledonia U20 W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.05"
+    "prediction": "Spain U20 W Win & Over 1.5",
+    "odds": "1.08"
   },
   {
-    "id": 1549114,
-    "league": "CONCACAF Caribbean Club Championship (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Broki",
-    "awayTeam": "Violette AC",
+    "id": 1511682,
+    "league": "Primera B (Chile)",
+    "matchTime": "02:30",
+    "homeTeam": "Deportes Copiapo",
+    "awayTeam": "Magallanes",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1511684,
+    "league": "Primera B (Chile)",
+    "matchTime": "02:30",
+    "homeTeam": "Deportes Iquique",
+    "awayTeam": "Deportes Santa Cruz",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1517343,
+    "league": "Canadian Premier League (Canada)",
+    "matchTime": "02:30",
+    "homeTeam": "York United",
+    "awayTeam": "Pacific FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1520860,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "America Mineiro",
+    "awayTeam": "Nautico Recife",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.38"
   },
   {
-    "id": 1607638,
-    "league": "Copa Colombia",
-    "matchTime": "02:00",
-    "homeTeam": "America de Cali",
-    "awayTeam": "Deportivo Pereira",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1607643,
-    "league": "Copa Colombia",
-    "matchTime": "02:00",
-    "homeTeam": "Real Cundinamarca",
-    "awayTeam": "Internacional de Bogota",
+    "id": 1520866,
+    "league": "Serie B (Brazil)",
+    "matchTime": "02:30",
+    "homeTeam": "Operario-PR",
+    "awayTeam": "CRB",
     "prediction": "Double Chance X2",
     "odds": "1.4"
   },
   {
-    "id": 1610969,
-    "league": "CONCACAF Caribbean Club Championship (World)",
-    "matchTime": "02:00",
-    "homeTeam": "Portmore United",
-    "awayTeam": "Mount Pleasant Academy",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1632412,
-    "league": "Copa Uruguay",
-    "matchTime": "02:00",
-    "homeTeam": "Deportivo Maldonado",
-    "awayTeam": "Wanderers",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1637526,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Amazonas U20",
-    "awayTeam": "Monte Roraima U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1637543,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "Independente-AP U20",
-    "awayTeam": "Sao Luiz U20",
+    "id": 1513346,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Huntsville City",
+    "awayTeam": "Chattanooga",
     "prediction": "Double Chance 1X",
     "odds": "1.55"
   },
   {
-    "id": 1637553,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchTime": "02:00",
-    "homeTeam": "São Raimundo RR U20",
-    "awayTeam": "Gênus U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "id": 1559632,
+    "league": "Liga Nacional (Guatemala)",
+    "matchTime": "03:00",
+    "homeTeam": "Comunicaciones",
+    "awayTeam": "Marquense",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1611288,
+    "league": "Copa Colombia",
+    "matchTime": "03:00",
+    "homeTeam": "Once Caldas",
+    "awayTeam": "Alianza Valledupar",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
