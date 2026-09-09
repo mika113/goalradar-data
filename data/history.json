@@ -1,14 +1,74 @@
 [
   {
+    "id": 1637811,
+    "league": "Copa Federacion (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Salamanca UDS",
+    "awayTeam": "Caudal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1635901,
+    "league": "Super Cup (Andorra)",
+    "matchDate": "FT",
+    "homeTeam": "Inter Club d'Escaldes",
+    "awayTeam": "Atlètic Club d'Escaldes",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1621323,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Ironi Baka El Garbiya",
+    "awayTeam": "Ironi Nesher",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1603999,
+    "league": "Division 1 (Saudi-Arabia)",
+    "matchDate": "FT",
+    "homeTeam": "Jeddah Club",
+    "awayTeam": "Al Orubah",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1600345,
+    "league": "Premier Soccer League (South-Africa)",
+    "matchDate": "FT",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "Siwelele",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1621597,
     "league": "Liga Alef (Israel)",
     "matchDate": "FT",
     "homeTeam": "Hapoel Herzliya",
     "awayTeam": "Nordia Jerusalem",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nordia Jerusalem Win",
     "outcome": "Won"
   },
   {
@@ -57,90 +117,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636717,
-    "league": "Cup (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Viktoria Žižkov",
-    "awayTeam": "Sparta Praha",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636675,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Nykobing FC",
-    "awayTeam": "Middelfart",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636674,
-    "league": "DBU Pokalen (Denmark)",
-    "matchDate": "FT",
-    "homeTeam": "Kolding IF",
-    "awayTeam": "Odense",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1621600,
-    "league": "Liga Alef (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "FC Jerusalem",
-    "awayTeam": "Maccabi Ashdod",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612238,
-    "league": "Premier League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "Enppi",
-    "awayTeam": "Masr",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612237,
-    "league": "Premier League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "El Mokawloon",
-    "awayTeam": "Al Ahly",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1587143,
-    "league": "Regionalliga - SudWest (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "FSV Mainz 05 II",
-    "awayTeam": "VfR Mannheim",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "VfR Mannheim Win",
     "outcome": "Won"
   }
 ]
