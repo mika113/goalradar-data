@@ -1,5 +1,17 @@
 [
   {
+    "id": 1621597,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Herzliya",
+    "awayTeam": "Nordia Jerusalem",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1638618,
     "league": "1. Deild (Iceland)",
     "matchDate": "FT",
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Nykobing FC",
     "awayTeam": "Middelfart",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Middelfart Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -126,21 +138,9 @@
     "homeTeam": "FSV Mainz 05 II",
     "awayTeam": "VfR Mannheim",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1587142,
-    "league": "Regionalliga - SudWest (Germany)",
-    "matchDate": "FT",
-    "homeTeam": "Barockstadt Fulda-Lehn.",
-    "awayTeam": "Eintracht Frankfurt II",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "VfR Mannheim Win",
     "outcome": "Won"
   }
 ]
