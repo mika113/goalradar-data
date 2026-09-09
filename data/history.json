@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Platense",
     "awayTeam": "Isidro Metapán",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Platense Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +17,10 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo San Pedro",
     "awayTeam": "Mixco",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo San Pedro Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +66,9 @@
     "homeTeam": "América de Cali W",
     "awayTeam": "Orsomarso W",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "América de Cali W Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -77,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Talleres Córdoba Res.",
     "awayTeam": "Barracas Central Res.",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Talleres Córdoba Res. Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +90,9 @@
     "homeTeam": "Yaracuyanos FC",
     "awayTeam": "Aragua FC",
     "homeScore": 2,
-    "awayScore": 2,
+    "awayScore": 4,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Aragua FC Win",
     "outcome": "Won"
   },
   {
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Monagas SC",
     "awayTeam": "Bolívar",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Monagas SC Win",
     "outcome": "Won"
   },
   {
@@ -138,7 +138,7 @@
     "homeTeam": "Moreirense",
     "awayTeam": "Benfica",
     "homeScore": 0,
-    "awayScore": 3,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Benfica Win",
     "outcome": "Won"
