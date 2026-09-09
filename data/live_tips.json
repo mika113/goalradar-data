@@ -1,30 +1,12 @@
 [
   {
-    "id": 1520862,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Botafogo SP",
-    "awayTeam": "Novorizontino",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1520865,
-    "league": "Serie B (Brazil)",
-    "matchTime": "01:30",
-    "homeTeam": "Fortaleza EC",
-    "awayTeam": "Avai",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1606303,
     "league": "Goiano - 2 (Brazil)",
     "matchTime": "01:30",
     "homeTeam": "Mineiros",
     "awayTeam": "Bom Jesus EC",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.5"
   },
   {
     "id": 1606304,
@@ -33,7 +15,7 @@
     "homeTeam": "Trindade",
     "awayTeam": "Rio Verde",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1619672,
@@ -41,8 +23,8 @@
     "matchTime": "01:30",
     "homeTeam": "Universitario de Vinto",
     "awayTeam": "The Strongest",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1635839,
@@ -78,7 +60,7 @@
     "homeTeam": "Real Cundinamarca",
     "awayTeam": "Internacional de Bogota",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1610969,
@@ -88,5 +70,23 @@
     "awayTeam": "Mount Pleasant Academy",
     "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1632412,
+    "league": "Copa Uruguay",
+    "matchTime": "02:00",
+    "homeTeam": "Deportivo Maldonado",
+    "awayTeam": "Wanderers",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1637526,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "Amazonas U20",
+    "awayTeam": "Monte Roraima U20",
+    "prediction": "Both Teams To Score",
+    "odds": "1.65"
   }
 ]
