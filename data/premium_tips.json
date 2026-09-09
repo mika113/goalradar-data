@@ -6,7 +6,7 @@
     "homeTeam": "San Diego",
     "awayTeam": "San Jose Earthquakes",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1490465,
@@ -15,7 +15,7 @@
     "homeTeam": "Portland Timbers",
     "awayTeam": "St. Louis City",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.58"
+    "odds": "1.5"
   },
   {
     "id": 1637291,
@@ -24,7 +24,7 @@
     "homeTeam": "Korea DPR U20 W",
     "awayTeam": "Costa Rica U20 W",
     "prediction": "Korea DPR U20 W Win & Over 1.5",
-    "odds": "1.4"
+    "odds": "1.25"
   },
   {
     "id": 1637292,
@@ -32,17 +32,8 @@
     "matchTime": "16:00",
     "homeTeam": "Spain U20 W",
     "awayTeam": "New Caledonia U20 W",
-    "prediction": "Spain U20 W Win & Over 1.5",
-    "odds": "1.15"
-  },
-  {
-    "id": 1635839,
-    "league": "Copa Uruguay",
-    "matchTime": "01:45",
-    "homeTeam": "Cerro Largo",
-    "awayTeam": "Defensor Sporting",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.05"
   },
   {
     "id": 1549114,
@@ -68,8 +59,8 @@
     "matchTime": "02:00",
     "homeTeam": "Real Cundinamarca",
     "awayTeam": "Internacional de Bogota",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
   },
   {
     "id": 1610969,
@@ -78,7 +69,7 @@
     "homeTeam": "Portmore United",
     "awayTeam": "Mount Pleasant Academy",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1632412,
@@ -87,7 +78,7 @@
     "homeTeam": "Deportivo Maldonado",
     "awayTeam": "Wanderers",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1637526,
@@ -95,8 +86,8 @@
     "matchTime": "02:00",
     "homeTeam": "Amazonas U20",
     "awayTeam": "Monte Roraima U20",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   },
   {
     "id": 1637543,
@@ -104,7 +95,16 @@
     "matchTime": "02:00",
     "homeTeam": "Independente-AP U20",
     "awayTeam": "Sao Luiz U20",
-    "prediction": "Double Chance X2",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1637553,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchTime": "02:00",
+    "homeTeam": "São Raimundo RR U20",
+    "awayTeam": "Gênus U20",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.55"
   }
 ]
