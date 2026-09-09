@@ -17,6 +17,18 @@
     "matchDate": "FT",
     "homeTeam": "Şahdağ",
     "awayTeam": "Karvan",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Şahdağ Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1538692,
+    "league": "Super League (Malawi)",
+    "matchDate": "FT",
+    "homeTeam": "Dedza Dynamos",
+    "awayTeam": "Mitundu Baptist",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -29,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "DPMM FC Brunei",
     "awayTeam": "Terengganu",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "DPMM FC Brunei Win",
     "outcome": "Won"
@@ -90,7 +102,7 @@
     "homeTeam": "SK Metalurh U19",
     "awayTeam": "Karpaty Lviv U19",
     "homeScore": 0,
-    "awayScore": 2,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Karpaty Lviv U19 Win",
     "outcome": "Won"
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Maccabi K. Ata Bialik",
     "awayTeam": "Maccabi Nujeidat Ahmed",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635875,
-    "league": "Cup (Ukraine)",
-    "matchDate": "FT",
-    "homeTeam": "Novyi Rozdil",
-    "awayTeam": "Tyshkivka",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Novyi Rozdil Win",
+    "prediction": "Maccabi K. Ata Bialik Win",
     "outcome": "Won"
   }
 ]
