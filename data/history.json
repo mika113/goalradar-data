@@ -1,5 +1,77 @@
 [
   {
+    "id": 1638211,
+    "league": "Liga Femenina (Colombia)",
+    "matchDate": "FT",
+    "homeTeam": "Millonarios W",
+    "awayTeam": "Atlético Nacional W",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1637553,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "São Raimundo RR U20",
+    "awayTeam": "Gênus U20",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "São Raimundo RR U20 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1637526,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Amazonas U20",
+    "awayTeam": "Monte Roraima U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1632412,
+    "league": "Copa Uruguay",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Maldonado",
+    "awayTeam": "Wanderers",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Deportivo Maldonado Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607643,
+    "league": "Copa Colombia",
+    "matchDate": "FT",
+    "homeTeam": "Real Cundinamarca",
+    "awayTeam": "Internacional de Bogota",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1607638,
+    "league": "Copa Colombia",
+    "matchDate": "FT",
+    "homeTeam": "America de Cali",
+    "awayTeam": "Deportivo Pereira",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1635839,
     "league": "Copa Uruguay",
     "matchDate": "FT",
@@ -18,7 +90,7 @@
     "homeTeam": "Universitario de Vinto",
     "awayTeam": "The Strongest",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "The Strongest Win",
     "outcome": "Won"
@@ -53,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Botafogo SP",
     "awayTeam": "Novorizontino",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -69,78 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Deportivo Riestra Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1631510,
-    "league": "CONMEBOL Sudamericana (World)",
-    "matchDate": "FT",
-    "homeTeam": "Santos",
-    "awayTeam": "Atletico-MG",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Santos Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1631507,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchDate": "FT",
-    "homeTeam": "Palmeiras",
-    "awayTeam": "LDU de Quito",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Palmeiras Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1624017,
-    "league": "Piauiense - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Flamengo PI",
-    "awayTeam": "4 de Julho",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1612003,
-    "league": "Reserve League (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Central Córdoba SdE Res.",
-    "awayTeam": "Estudiantes Rio Cuarto 2",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606301,
-    "league": "Goiano - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Grêmio Anápolis",
-    "awayTeam": "Crixás EC",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Grêmio Anápolis Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606302,
-    "league": "Goiano - 2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Goiânia",
-    "awayTeam": "Goianésia",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Goiânia Win",
     "outcome": "Won"
   }
 ]
