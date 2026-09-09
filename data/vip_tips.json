@@ -6,7 +6,7 @@
     "homeTeam": "Toronto FC",
     "awayTeam": "Nashville SC",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1490454,
@@ -14,8 +14,8 @@
     "matchTime": "02:30",
     "homeTeam": "DC United",
     "awayTeam": "Columbus Crew",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   },
   {
     "id": 1490456,
@@ -24,7 +24,7 @@
     "homeTeam": "CF Montreal",
     "awayTeam": "Charlotte",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1490451,
@@ -41,34 +41,34 @@
     "matchTime": "03:00",
     "homeTeam": "New York City FC",
     "awayTeam": "New England Revolution",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
+  },
+  {
+    "id": 1490457,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Chicago Fire",
+    "awayTeam": "Inter Miami",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
+  },
+  {
+    "id": 1490458,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Minnesota United FC",
+    "awayTeam": "FC Dallas",
     "prediction": "Both Teams To Score",
-    "odds": "1.67"
+    "odds": "1.62"
   },
   {
-    "id": 1638438,
-    "league": "FA Cup (England)",
-    "matchTime": "21:45",
-    "homeTeam": "Exmouth",
-    "awayTeam": "Banbury United",
+    "id": 1490459,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Austin",
+    "awayTeam": "Colorado Rapids",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1638456,
-    "league": "FA Cup (England)",
-    "matchTime": "21:45",
-    "homeTeam": "Whyteleafe",
-    "awayTeam": "Crowborough Athletic",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
-  },
-  {
-    "id": 1638612,
-    "league": "FA Cup (England)",
-    "matchTime": "21:45",
-    "homeTeam": "Bishop Auckland",
-    "awayTeam": "AFC Emley",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   }
 ]
