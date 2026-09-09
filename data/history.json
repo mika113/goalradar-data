@@ -1,5 +1,17 @@
 [
   {
+    "id": 1635839,
+    "league": "Copa Uruguay",
+    "matchDate": "FT",
+    "homeTeam": "Cerro Largo",
+    "awayTeam": "Defensor Sporting",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1619672,
     "league": "Copa de la División Profesional (Bolivia)",
     "matchDate": "FT",
@@ -18,9 +30,9 @@
     "homeTeam": "Trindade",
     "awayTeam": "Rio Verde",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rio Verde Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Deportivo Riestra",
     "awayTeam": "Banfield",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Deportivo Riestra Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Goiânia Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560828,
-    "league": "Copa Venezuela",
-    "matchDate": "FT",
-    "homeTeam": "Fundación Lara Deportiva",
-    "awayTeam": "Caracas FC",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Caracas FC Win",
     "outcome": "Won"
   }
 ]
