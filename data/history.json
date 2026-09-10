@@ -1,5 +1,17 @@
 [
   {
+    "id": 1611394,
+    "league": "Ligue 1 (Algeria)",
+    "matchDate": "FT",
+    "homeTeam": "USM Alger",
+    "awayTeam": "JS El Biar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1636644,
     "league": "Division Intermedia (Paraguay)",
     "matchDate": "FT",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Estrela",
     "awayTeam": "SC Braga",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "SC Braga Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Slavia Praha",
     "awayTeam": "Lens",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Slavia Praha Win",
     "outcome": "Won"
   },
   {
@@ -41,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Manchester United",
     "awayTeam": "Sabah FA",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Manchester United Win",
@@ -53,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Como",
     "awayTeam": "RB Leipzig",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Como Win",
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Bayern München",
     "awayTeam": "Bodo/Glimt",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bayern München Win",
     "outcome": "Won"
   },
   {
@@ -113,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Panathinaikos",
     "awayTeam": "Kifisia",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Panathinaikos Win",
     "outcome": "Won"
@@ -126,21 +138,9 @@
     "homeTeam": "Santos U20",
     "awayTeam": "Cuiabá U20",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Santos U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1637547,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Operário PR U20",
-    "awayTeam": "Chapecoense U20",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Chapecoense U20 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
