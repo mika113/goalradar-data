@@ -1,14 +1,38 @@
 [
   {
+    "id": 1505252,
+    "league": "Ettan - Norra (Sweden)",
+    "matchDate": "FT",
+    "homeTeam": "Enköping",
+    "awayTeam": "Assyriska FF",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1638076,
     "league": "Superliga (Kosovo)",
     "matchDate": "FT",
     "homeTeam": "Dukagjini",
     "awayTeam": "Malisheva",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Dukagjini Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1621892,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Beitar Nahariya",
+    "awayTeam": "Hapoel Ihud Bnei Jatt",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Beitar Nahariya Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +42,21 @@
     "homeTeam": "Tzeirei Umm al-Fahm",
     "awayTeam": "Maccabi Neve Sha'anan",
     "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Maccabi Neve Sha'anan Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1586854,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchDate": "FT",
+    "homeTeam": "BFC Dynamo",
+    "awayTeam": "Tasmania Berlin",
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "BFC Dynamo Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +78,9 @@
     "homeTeam": "Haninge",
     "awayTeam": "Djurgardens IF",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Haninge Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -54,9 +90,9 @@
     "homeTeam": "Gagra",
     "awayTeam": "Torpedo Kutaisi",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Torpedo Kutaisi Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +114,9 @@
     "homeTeam": "GIF Sundsvall",
     "awayTeam": "Orebro SK",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Orebro SK Win",
     "outcome": "Won"
   },
   {
@@ -105,42 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635708,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "PSV Eindhoven",
-    "awayTeam": "Shakhtar Donetsk",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635659,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Fenerbahçe",
-    "awayTeam": "AS Roma",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1560921,
-    "league": "Cup (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Shinnik Yaroslavl",
-    "awayTeam": "Torpedo Moskva",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Shinnik Yaroslavl Win",
     "outcome": "Won"
   }
 ]
