@@ -1,21 +1,12 @@
 [
   {
-    "id": 1490459,
-    "league": "Major League Soccer (USA)",
-    "matchTime": "03:30",
-    "homeTeam": "Austin",
-    "awayTeam": "Colorado Rapids",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1490460,
     "league": "Major League Soccer (USA)",
     "matchTime": "03:30",
     "homeTeam": "Houston Dynamo",
     "awayTeam": "Real Salt Lake",
     "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "odds": "1.3"
   },
   {
     "id": 1490461,
@@ -32,8 +23,8 @@
     "matchTime": "05:30",
     "homeTeam": "Vancouver Whitecaps",
     "awayTeam": "Los Angeles Galaxy",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.67"
   },
   {
     "id": 1490464,
@@ -42,7 +33,7 @@
     "homeTeam": "San Diego",
     "awayTeam": "San Jose Earthquakes",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1490465,
@@ -59,8 +50,8 @@
     "matchTime": "16:00",
     "homeTeam": "Korea DPR U20 W",
     "awayTeam": "Costa Rica U20 W",
-    "prediction": "Korea DPR U20 W Win & Over 1.5",
-    "odds": "1.3"
+    "prediction": "Double Chance 1X",
+    "odds": "1.1"
   },
   {
     "id": 1637292,
@@ -69,6 +60,15 @@
     "homeTeam": "Spain U20 W",
     "awayTeam": "New Caledonia U20 W",
     "prediction": "Spain U20 W Win & Over 1.5",
-    "odds": "1.12"
+    "odds": "1.2"
+  },
+  {
+    "id": 1520861,
+    "league": "Serie B (Brazil)",
+    "matchTime": "03:30",
+    "homeTeam": "Atletico Goianiense",
+    "awayTeam": "Ceara",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
