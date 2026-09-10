@@ -1,5 +1,29 @@
 [
   {
+    "id": 1636644,
+    "league": "Division Intermedia (Paraguay)",
+    "matchDate": "FT",
+    "homeTeam": "Sportivo Carapeguá",
+    "awayTeam": "Benjamín Aceval",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1575465,
+    "league": "Primeira Liga (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Estrela",
+    "awayTeam": "SC Braga",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "SC Braga Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1635729,
     "league": "UEFA Champions League (World)",
     "matchDate": "FT",
@@ -17,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Manchester United",
     "awayTeam": "Sabah FA",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Manchester United Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Como",
     "awayTeam": "RB Leipzig",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Como Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Stevenage",
     "awayTeam": "Luton",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Stevenage Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Panathinaikos",
     "awayTeam": "Kifisia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Panathinaikos Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Operário PR U20",
     "awayTeam": "Chapecoense U20",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Chapecoense U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1637537,
-    "league": "Copa do Brasil U20 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Ferroviario U20",
-    "awayTeam": "Esporte de Patos U20",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Ferroviario U20 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1627973,
-    "league": "Iraqi League",
-    "matchDate": "FT",
-    "homeTeam": "Al Quwa Al Jawiya",
-    "awayTeam": "Al Zawra'a",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Al Zawra'a Win",
     "outcome": "Won"
   }
 ]
