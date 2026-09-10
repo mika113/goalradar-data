@@ -1,41 +1,5 @@
 [
   {
-    "id": 1507438,
-    "league": "Liga 3 (Georgia)",
-    "matchTime": "15:00",
-    "homeTeam": "Merani Tbilisi",
-    "awayTeam": "Kolkheti Khobi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1507439,
-    "league": "Liga 3 (Georgia)",
-    "matchTime": "15:00",
-    "homeTeam": "Irao",
-    "awayTeam": "Iveria Khashuri",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1534849,
-    "league": "1. Division (Kazakhstan)",
-    "matchTime": "15:00",
-    "homeTeam": "Aktobe Jas",
-    "awayTeam": "Turan Turkistan",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
-    "id": 1637323,
-    "league": "UEFA Youth League (World)",
-    "matchTime": "15:00",
-    "homeTeam": "PSV U19",
-    "awayTeam": "Shakhtar Donetsk U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
     "id": 1637324,
     "league": "UEFA Youth League (World)",
     "matchTime": "15:00",
@@ -51,7 +15,7 @@
     "homeTeam": "Viettel",
     "awayTeam": "Công An Nhân Dân",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1630437,
@@ -60,7 +24,7 @@
     "homeTeam": "Səbail",
     "awayTeam": "Mingəçevir",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1630439,
@@ -78,7 +42,7 @@
     "homeTeam": "Nyva Vinnytsya",
     "awayTeam": "Dynamo Kyiv",
     "prediction": "Dynamo Kyiv Win",
-    "odds": "1.2"
+    "odds": "1.15"
   },
   {
     "id": 1630435,
@@ -86,7 +50,43 @@
     "matchTime": "16:00",
     "homeTeam": "Cəbrayıl",
     "awayTeam": "Xankəndi FK",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1635257,
+    "league": "Premier League (Uganda)",
+    "matchTime": "16:00",
+    "homeTeam": "Kataka",
+    "awayTeam": "Vipers",
     "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1635258,
+    "league": "Premier League (Uganda)",
+    "matchTime": "16:00",
+    "homeTeam": "Kitara",
+    "awayTeam": "URA",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1635259,
+    "league": "Premier League (Uganda)",
+    "matchTime": "16:00",
+    "homeTeam": "Police",
+    "awayTeam": "UPDF",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1637320,
+    "league": "UEFA Youth League (World)",
+    "matchTime": "16:00",
+    "homeTeam": "Como U19",
+    "awayTeam": "RB Leipzig U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
