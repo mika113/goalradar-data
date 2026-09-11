@@ -1,10 +1,10 @@
 [
   {
-    "id": 1594830,
-    "league": "Second League (Egypt)",
+    "id": 1638898,
+    "league": "Premier League (Kyrgyzstan)",
     "matchDate": "FT",
-    "homeTeam": "Tersana",
-    "awayTeam": "El Mansura",
+    "homeTeam": "Neftchi",
+    "awayTeam": "Asiagoal",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
@@ -12,87 +12,15 @@
     "outcome": "Won"
   },
   {
-    "id": 1590160,
-    "league": "First NL (Croatia)",
+    "id": 1638897,
+    "league": "Premier League (Kyrgyzstan)",
     "matchDate": "FT",
-    "homeTeam": "Opatija",
-    "awayTeam": "Bsk Bijelo Brdo",
+    "homeTeam": "Ilbirs",
+    "awayTeam": "Bishkek City",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1534435,
-    "league": "1. Division (Belarus)",
-    "matchDate": "FT",
-    "homeTeam": "Dinamo Minsk II",
-    "awayTeam": "Orsha",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1637296,
-    "league": "World Cup - U20 - Women",
-    "matchDate": "FT",
-    "homeTeam": "Tanzania U20 W",
-    "awayTeam": "Canada U20 W",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Canada U20 W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1637295,
-    "league": "World Cup - U20 - Women",
-    "matchDate": "FT",
-    "homeTeam": "England U20 W",
-    "awayTeam": "Brazil U20 W",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "England U20 W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1637208,
-    "league": "Super League Women (South-Africa)",
-    "matchDate": "FT",
-    "homeTeam": "Diepkloof W",
-    "awayTeam": "Mamelodi Sundowns W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635253,
-    "league": "Premier League (Uganda)",
-    "matchDate": "FT",
-    "homeTeam": "Mbarara City",
-    "awayTeam": "NEC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1632471,
-    "league": "National Soccer League (Rwanda)",
-    "matchDate": "FT",
-    "homeTeam": "Musanze",
-    "awayTeam": "Kiyovu Sports",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Musanze Win",
     "outcome": "Won"
   }
 ]
