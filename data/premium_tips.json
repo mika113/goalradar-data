@@ -1,57 +1,12 @@
 [
   {
-    "id": 1493986,
-    "league": "USL League One (USA)",
-    "matchTime": "02:00",
-    "homeTeam": "One Knoxville",
-    "awayTeam": "Naples",
-    "prediction": "Double Chance 1X",
-    "odds": "1.22"
-  },
-  {
-    "id": 1499628,
-    "league": "Primera B Metropolitana (Argentina)",
-    "matchTime": "02:00",
-    "homeTeam": "Argentino de Merlo",
-    "awayTeam": "Real Pilar",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1635959,
-    "league": "Primera Premier (Mexico)",
-    "matchTime": "02:00",
-    "homeTeam": "Chapulineros",
-    "awayTeam": "Celaya",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1549779,
-    "league": "Primera A (Colombia)",
-    "matchTime": "02:15",
-    "homeTeam": "Jaguares",
-    "awayTeam": "Fortaleza FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1557200,
-    "league": "USL Super League (USA)",
-    "matchTime": "02:30",
-    "homeTeam": "Lexington W",
-    "awayTeam": "Carolina Ascent W",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1492374,
     "league": "Serie A (Brazil)",
     "matchTime": "03:00",
     "homeTeam": "Coritiba",
     "awayTeam": "Atletico Paranaense",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1508539,
@@ -60,7 +15,7 @@
     "homeTeam": "Kansas City W",
     "awayTeam": "Orlando Pride W",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1549486,
@@ -69,7 +24,7 @@
     "homeTeam": "Cusco",
     "awayTeam": "FBC Melgar",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.3"
   },
   {
     "id": 1619005,
@@ -78,7 +33,7 @@
     "homeTeam": "Real Potosí",
     "awayTeam": "Oriente Petrolero",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1636693,
@@ -87,7 +42,7 @@
     "homeTeam": "El Nacional",
     "awayTeam": "22 de Julio",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1638789,
@@ -96,7 +51,7 @@
     "homeTeam": "Oriental",
     "awayTeam": "Miramar",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1493125,
@@ -106,5 +61,50 @@
     "awayTeam": "Central Cordoba de Santiago",
     "prediction": "Double Chance 1X",
     "odds": "1.2"
+  },
+  {
+    "id": 1493985,
+    "league": "USL League One (USA)",
+    "matchTime": "04:00",
+    "homeTeam": "Boise",
+    "awayTeam": "NY Cosmos",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1498803,
+    "league": "Primera Nacional (Argentina)",
+    "matchTime": "04:00",
+    "homeTeam": "Gimnasia Y Tiro",
+    "awayTeam": "Tristan Suarez",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1550957,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Necaxa",
+    "awayTeam": "Puebla",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1581417,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Correcaminos Uat",
+    "awayTeam": "Cancún",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1603354,
+    "league": "Liga MX Femenil (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Cruz Azul W",
+    "awayTeam": "Pumas UNAM W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
