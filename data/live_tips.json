@@ -1,23 +1,5 @@
 [
   {
-    "id": 1492973,
-    "league": "First Division (Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Wexford",
-    "awayTeam": "Finn Harps",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1558216,
-    "league": "I Liga (Poland)",
-    "matchTime": "21:45",
-    "homeTeam": "Puszcza Niepołomice",
-    "awayTeam": "ŁKS Łódź",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
     "id": 1562057,
     "league": "Premiership (Northern-Ireland)",
     "matchTime": "21:45",
@@ -42,7 +24,7 @@
     "homeTeam": "Airbus UK",
     "awayTeam": "The New Saints",
     "prediction": "The New Saints Win",
-    "odds": "1.3"
+    "odds": "1.2"
   },
   {
     "id": 1575941,
@@ -51,7 +33,7 @@
     "homeTeam": "Ammanford AFC",
     "awayTeam": "Caernarfon Town",
     "prediction": "Double Chance X2",
-    "odds": "1.15"
+    "odds": "1.2"
   },
   {
     "id": 1575942,
@@ -60,7 +42,7 @@
     "homeTeam": "Barry Town",
     "awayTeam": "Llandudno",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1575943,
@@ -69,7 +51,7 @@
     "homeTeam": "Cambrian & Clydach",
     "awayTeam": "Holywell",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.2"
   },
   {
     "id": 1575945,
@@ -88,5 +70,23 @@
     "awayTeam": "Briton Ferry",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
+  },
+  {
+    "id": 1575947,
+    "league": "Premier League (Wales)",
+    "matchTime": "21:45",
+    "homeTeam": "Trefelin",
+    "awayTeam": "Penybont",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
+  },
+  {
+    "id": 1580503,
+    "league": "FAW Championship (Wales)",
+    "matchTime": "21:45",
+    "homeTeam": "Denbigh Town",
+    "awayTeam": "Bala Town",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   }
 ]
