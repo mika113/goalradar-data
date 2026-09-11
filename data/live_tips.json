@@ -1,32 +1,5 @@
 [
   {
-    "id": 1636693,
-    "league": "Liga Pro Serie B (Ecuador)",
-    "matchTime": "03:00",
-    "homeTeam": "El Nacional",
-    "awayTeam": "22 de Julio",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1638789,
-    "league": "Segunda División (Uruguay)",
-    "matchTime": "03:00",
-    "homeTeam": "Oriental",
-    "awayTeam": "Miramar",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1493125,
-    "league": "Liga Profesional Argentina",
-    "matchTime": "03:30",
-    "homeTeam": "Boca Juniors",
-    "awayTeam": "Central Cordoba de Santiago",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
     "id": 1493985,
     "league": "USL League One (USA)",
     "matchTime": "04:00",
@@ -41,8 +14,8 @@
     "matchTime": "04:00",
     "homeTeam": "Gimnasia Y Tiro",
     "awayTeam": "Tristan Suarez",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
   },
   {
     "id": 1550957,
@@ -60,7 +33,7 @@
     "homeTeam": "Correcaminos Uat",
     "awayTeam": "Cancún",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "odds": "1.7"
   },
   {
     "id": 1603354,
@@ -68,8 +41,8 @@
     "matchTime": "04:00",
     "homeTeam": "Cruz Azul W",
     "awayTeam": "Pumas UNAM W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1638662,
@@ -78,7 +51,7 @@
     "homeTeam": "Brisbane Strikers",
     "awayTeam": "Broadbeach United",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1493689,
@@ -86,7 +59,34 @@
     "matchTime": "04:30",
     "homeTeam": "New Mexico United",
     "awayTeam": "Indy Eleven",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1549782,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:30",
+    "homeTeam": "Santa Fe",
+    "awayTeam": "Deportes Tolima",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1583759,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:30",
+    "homeTeam": "CD Arabe Unido",
+    "awayTeam": "Union Cocle",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1631715,
+    "league": "Liga Premier Serie A (Mexico)",
+    "matchTime": "04:30",
+    "homeTeam": "Acatlan",
+    "awayTeam": "Real Apodaca",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   }
 ]
