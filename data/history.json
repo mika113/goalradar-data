@@ -1,5 +1,53 @@
 [
   {
+    "id": 1632426,
+    "league": "Liga Pro Serie B (Ecuador)",
+    "matchDate": "FT",
+    "homeTeam": "Deportivo Cuenca Juniors",
+    "awayTeam": "Cuniburo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1619843,
+    "league": "Campionato (San-Marino)",
+    "matchDate": "FT",
+    "homeTeam": "Tre Fiori",
+    "awayTeam": "Domagnano",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Tre Fiori Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1619842,
+    "league": "Campionato (San-Marino)",
+    "matchDate": "FT",
+    "homeTeam": "Fiorentino",
+    "awayTeam": "La Fiorita",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1571120,
+    "league": "Primera División RFEF - Group 2 (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Gimnastic",
+    "awayTeam": "Algeciras",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Gimnastic Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1632003,
     "league": "Division Profesional - Clausura (Paraguay)",
     "matchDate": "FT",
@@ -18,7 +66,7 @@
     "homeTeam": "Salernitana",
     "awayTeam": "Potenza",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Salernitana Win",
     "outcome": "Won"
@@ -41,7 +89,7 @@
     "matchDate": "FT",
     "homeTeam": "Audace Cerignola",
     "awayTeam": "Giugliano",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Audace Cerignola Win",
@@ -54,9 +102,9 @@
     "homeTeam": "Team Altamura",
     "awayTeam": "Bari",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bari Win",
     "outcome": "Won"
   },
   {
@@ -66,7 +114,7 @@
     "homeTeam": "Pisa",
     "awayTeam": "Virtus Entella",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Virtus Entella Win",
     "outcome": "Won"
@@ -77,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Benevento",
     "awayTeam": "Hellas Verona",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -90,57 +138,9 @@
     "homeTeam": "Afturelding",
     "awayTeam": "Breidablik",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1580932,
-    "league": "Feminine Division 1 (France)",
-    "matchDate": "FT",
-    "homeTeam": "Paris Saint Germain W",
-    "awayTeam": "Strasbourg W",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1570381,
-    "league": "La Liga (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Valencia",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1563166,
-    "league": "Championship (England)",
-    "matchDate": "FT",
-    "homeTeam": "West Ham",
-    "awayTeam": "Wrexham",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1492769,
-    "league": "Premier Division (Ireland)",
-    "matchDate": "FT",
-    "homeTeam": "St Patrick's Athl.",
-    "awayTeam": "Shamrock Rovers",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "St Patrick's Athl. Win",
+    "prediction": "Breidablik Win",
     "outcome": "Won"
   }
 ]
