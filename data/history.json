@@ -1,14 +1,62 @@
 [
   {
+    "id": 1611389,
+    "league": "Ligue 1 (Algeria)",
+    "matchDate": "FT",
+    "homeTeam": "CR Belouizdad",
+    "awayTeam": "ES Setif",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1549484,
+    "league": "Primera División (Peru)",
+    "matchDate": "FT",
+    "homeTeam": "UTC Cajamarca",
+    "awayTeam": "Juan Pablo II College",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1493133,
+    "league": "Liga Profesional Argentina",
+    "matchDate": "FT",
+    "homeTeam": "Newells Old Boys",
+    "awayTeam": "Velez Sarsfield",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1576485,
+    "league": "Segunda Liga (Portugal)",
+    "matchDate": "FT",
+    "homeTeam": "Academica",
+    "awayTeam": "Benfica B",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT",
+    "prediction": "Benfica B Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1632426,
     "league": "Liga Pro Serie B (Ecuador)",
     "matchDate": "FT",
     "homeTeam": "Deportivo Cuenca Juniors",
     "awayTeam": "Cuniburo",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Cuniburo Win",
     "outcome": "Won"
   },
   {
@@ -17,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "Tre Fiori",
     "awayTeam": "Domagnano",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Tre Fiori Win",
@@ -41,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Gimnastic",
     "awayTeam": "Algeciras",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 3,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Gimnastic Win",
     "outcome": "Won"
@@ -65,8 +113,8 @@
     "matchDate": "FT",
     "homeTeam": "Salernitana",
     "awayTeam": "Potenza",
-    "homeScore": 2,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Salernitana Win",
     "outcome": "Won"
@@ -77,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Casarano",
     "awayTeam": "Barletta",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Casarano Win",
     "outcome": "Won"
   },
   {
@@ -93,54 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Audace Cerignola Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1609021,
-    "league": "Serie C - Girone C (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Team Altamura",
-    "awayTeam": "Bari",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Bari Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1601531,
-    "league": "Serie B (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Pisa",
-    "awayTeam": "Virtus Entella",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Virtus Entella Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1601524,
-    "league": "Serie B (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Benevento",
-    "awayTeam": "Hellas Verona",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1599452,
-    "league": "Cup (Iceland)",
-    "matchDate": "FT",
-    "homeTeam": "Afturelding",
-    "awayTeam": "Breidablik",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Breidablik Win",
     "outcome": "Won"
   }
 ]
