@@ -1,5 +1,41 @@
 [
   {
+    "id": 1602481,
+    "league": "Liga II (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "Bihor Oradea",
+    "awayTeam": "CSA Steaua Bucureşti",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1496327,
+    "league": "2. Division - Group 2 (Norway)",
+    "matchDate": "FT",
+    "homeTeam": "Levanger",
+    "awayTeam": "Follo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1638796,
+    "league": "Western Australia NPL",
+    "matchDate": "FT",
+    "homeTeam": "Bayswater City",
+    "awayTeam": "Perth",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1629422,
     "league": "U19 league (Turkey)",
     "matchDate": "FT",
@@ -17,7 +53,7 @@
     "matchDate": "FT",
     "homeTeam": "Slavia Praha W",
     "awayTeam": "Slovan Liberec W",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Slavia Praha W Win",
@@ -53,8 +89,8 @@
     "matchDate": "FT",
     "homeTeam": "Liverpool U18",
     "awayTeam": "Burnley U18",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Liverpool U18 Win",
     "outcome": "Won"
@@ -65,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "West Bromwich Albion U18",
     "awayTeam": "Aston Villa U18",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "West Bromwich Albion U18 Win",
     "outcome": "Won"
   },
   {
@@ -78,7 +114,7 @@
     "homeTeam": "Ipswich Town U18",
     "awayTeam": "Southampton U18",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Southampton U18 Win",
     "outcome": "Won"
@@ -89,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Fulham U18",
     "awayTeam": "Tottenham Hotspur U18",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Fulham U18 Win",
     "outcome": "Won"
   },
   {
@@ -101,46 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Brighton U18",
     "awayTeam": "Chelsea U18",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1621958,
-    "league": "U18 Premier League - South (England)",
-    "matchDate": "FT",
-    "homeTeam": "AFC Bournemouth U18",
-    "awayTeam": "Brentford U18",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1621957,
-    "league": "U18 Premier League - South (England)",
-    "matchDate": "FT",
-    "homeTeam": "Arsenal U18",
-    "awayTeam": "Crystal Palace U18",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1616083,
-    "league": "Tercera División RFEF - Group 12 (Spain)",
-    "matchDate": "FT",
-    "homeTeam": "Real Unión de Tenerife",
-    "awayTeam": "Los Llanos",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Brighton U18 Win",
     "outcome": "Won"
   }
 ]
