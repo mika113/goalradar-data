@@ -1,21 +1,12 @@
 [
   {
-    "id": 1557404,
-    "league": "Premier League (England)",
-    "matchTime": "18:30",
-    "homeTeam": "Manchester United",
-    "awayTeam": "Manchester City",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1619083,
     "league": "CAF Champions League (World)",
     "matchTime": "19:00",
     "homeTeam": "ASEC Mimosas",
     "awayTeam": "ASC Kara",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1619088,
@@ -36,13 +27,22 @@
     "odds": "1.35"
   },
   {
-    "id": 1575166,
-    "league": "Bundesliga (Germany)",
-    "matchTime": "18:30",
-    "homeTeam": "SV Elversberg",
-    "awayTeam": "Bayern München",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "id": 1619104,
+    "league": "CAF Champions League (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Stade Malien Bamako",
+    "awayTeam": "Colombe",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1570375,
+    "league": "La Liga (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Getafe",
+    "awayTeam": "Deportivo La Coruna",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1550123,
@@ -51,259 +51,43 @@
     "homeTeam": "Napoli",
     "awayTeam": "Bologna",
     "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1558633,
+    "league": "Jupiler Pro League (Belgium)",
+    "matchTime": "19:30",
+    "homeTeam": "Zulte Waregem",
+    "awayTeam": "Charleroi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1630238,
+    "league": "Super Liga (Moldova)",
+    "matchTime": "19:00",
+    "homeTeam": "Milsami Orhei",
+    "awayTeam": "Sheriff Tiraspol",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1637305,
+    "league": "World Cup - U20 - Women",
+    "matchTime": "19:00",
+    "homeTeam": "Colombia U20 W",
+    "awayTeam": "Korea DPR U20 W",
+    "prediction": "Double Chance X2",
     "odds": "1.25"
   },
   {
-    "id": 1497233,
-    "league": "3. Division - Girone 5 (Norway)",
-    "matchTime": "18:30",
-    "homeTeam": "Bossekop",
-    "awayTeam": "Skjervøy",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1505529,
-    "league": "Primera División (Chile)",
-    "matchTime": "18:30",
-    "homeTeam": "Universidad de Concepcion",
-    "awayTeam": "Huachipato",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1511691,
-    "league": "Primera B (Chile)",
-    "matchTime": "18:30",
-    "homeTeam": "Magallanes",
-    "awayTeam": "D. Puerto Montt",
+    "id": 1637306,
+    "league": "World Cup - U20 - Women",
+    "matchTime": "19:00",
+    "homeTeam": "Portugal U20 W",
+    "awayTeam": "Costa Rica U20 W",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1549482,
-    "league": "Primera División (Peru)",
-    "matchTime": "18:30",
-    "homeTeam": "ADT",
-    "awayTeam": "Cienciano",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1553165,
-    "league": "Ekstraklasa (Poland)",
-    "matchTime": "18:30",
-    "homeTeam": "Legia Warszawa",
-    "awayTeam": "Widzew Łódź",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1572652,
-    "league": "Segunda División RFEF - Group 3 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Cieza",
-    "awayTeam": "Elche II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1573268,
-    "league": "Segunda División RFEF - Group 5 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Numancia",
-    "awayTeam": "A Madrid III",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1577925,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchTime": "18:30",
-    "homeTeam": "Líšeň II",
-    "awayTeam": "Zlín II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1600343,
-    "league": "Premier Soccer League (South-Africa)",
-    "matchTime": "18:30",
-    "homeTeam": "TS Galaxy",
-    "awayTeam": "Kruger United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1602117,
-    "league": "Premier League (Ghana)",
-    "matchTime": "18:30",
-    "homeTeam": "Medeama",
-    "awayTeam": "Port City",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1604000,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchTime": "18:30",
-    "homeTeam": "Hajer",
-    "awayTeam": "Al Jabalain",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1612713,
-    "league": "Tercera División RFEF - Group 1 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Antela",
-    "awayTeam": "Alondras",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1613023,
-    "league": "Tercera División RFEF - Group 2 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "San Martín",
-    "awayTeam": "Condal",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1613329,
-    "league": "Tercera División RFEF - Group 3 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Naval Reinosa",
-    "awayTeam": "Torina",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1613637,
-    "league": "Tercera División RFEF - Group 4 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Sodupe",
-    "awayTeam": "Eibar III",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1614242,
-    "league": "Tercera División RFEF - Group 6 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Atzeneta",
-    "awayTeam": "Eldense B",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1617303,
-    "league": "Tercera División RFEF - Group 16 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Anguiano",
-    "awayTeam": "Agoncillo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1617305,
-    "league": "Tercera División RFEF - Group 16 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Calahorra",
-    "awayTeam": "Oyonesa",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1617921,
-    "league": "Tercera División RFEF - Group 18 (Spain)",
-    "matchTime": "18:30",
-    "homeTeam": "Torrijos",
-    "awayTeam": "Tarancón",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
-  },
-  {
-    "id": 1620154,
-    "league": "CAF Confederation Cup (World)",
-    "matchTime": "18:30",
-    "homeTeam": "ASC Kara",
-    "awayTeam": "AS ZAM",
-    "prediction": "Double Chance 1X",
-    "odds": "1.1"
-  },
-  {
-    "id": 1631593,
-    "league": "Persian Gulf Pro League (Iran)",
-    "matchTime": "18:30",
-    "homeTeam": "Kheybar Khorramabad",
-    "awayTeam": "Persepolis FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1631594,
-    "league": "Persian Gulf Pro League (Iran)",
-    "matchTime": "18:30",
-    "homeTeam": "Malavan",
-    "awayTeam": "Foolad FC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
-  },
-  {
-    "id": 1631595,
-    "league": "Persian Gulf Pro League (Iran)",
-    "matchTime": "18:30",
-    "homeTeam": "Mes Shahr-e Babak",
-    "awayTeam": "Nassaji Mazandaran",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1638794,
-    "league": "Segunda División (Uruguay)",
-    "matchTime": "18:30",
-    "homeTeam": "CA River Plate",
-    "awayTeam": "Fenix",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1496325,
-    "league": "2. Division - Group 2 (Norway)",
-    "matchTime": "18:45",
-    "homeTeam": "Junkeren",
-    "awayTeam": "Skeid",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1547630,
-    "league": "A Lyga (Lithuania)",
-    "matchTime": "18:45",
-    "homeTeam": "Suduva Marijampole",
-    "awayTeam": "FK Zalgiris Vilnius",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1627970,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Al Kahrabaa",
-    "awayTeam": "Al Minaa Basra",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1627978,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Zakho",
-    "awayTeam": "Mosul",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.15"
   },
   {
     "id": 1604001,
@@ -320,8 +104,8 @@
     "matchTime": "19:00",
     "homeTeam": "Stabæk II",
     "awayTeam": "Vindbjart",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1509185,
@@ -330,7 +114,7 @@
     "homeTeam": "FC Iberia 1999",
     "awayTeam": "Spaeri",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1549019,
@@ -339,7 +123,7 @@
     "homeTeam": "FC Nordsjaelland",
     "awayTeam": "Aarhus",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.25"
   },
   {
     "id": 1554316,
@@ -348,7 +132,7 @@
     "homeTeam": "OFK Bor 1919",
     "awayTeam": "Borac Cacak",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1560023,
@@ -357,7 +141,7 @@
     "homeTeam": "Teplice",
     "awayTeam": "Slavia Praha",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.18"
   },
   {
     "id": 1571556,
@@ -366,7 +150,7 @@
     "homeTeam": "Beroe",
     "awayTeam": "Sportist Svoge",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1572346,
@@ -402,7 +186,7 @@
     "homeTeam": "Guadalajara",
     "awayTeam": "RSD Alcalá",
     "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1573267,
@@ -420,7 +204,7 @@
     "homeTeam": "Valletta FC",
     "awayTeam": "Balzan FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1590688,
@@ -428,8 +212,8 @@
     "matchTime": "19:00",
     "homeTeam": "Denizli İYG",
     "awayTeam": "Bursa Yıldırımspor",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
   },
   {
     "id": 1591303,
@@ -438,7 +222,7 @@
     "homeTeam": "Muş Sport Klübü",
     "awayTeam": "Menemen FK",
     "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "odds": "1.4"
   },
   {
     "id": 1591603,
@@ -447,7 +231,7 @@
     "homeTeam": "Yeni Orduspor",
     "awayTeam": "1461 Trabzon FK",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.28"
   },
   {
     "id": 1591607,
@@ -465,7 +249,7 @@
     "homeTeam": "Asteras Tripolis",
     "awayTeam": "AEK Athens FC",
     "prediction": "Double Chance X2",
-    "odds": "1.18"
+    "odds": "1.2"
   },
   {
     "id": 1597769,
@@ -473,7 +257,7 @@
     "matchTime": "19:00",
     "homeTeam": "Caldas",
     "awayTeam": "Vitória de Sernache",
-    "prediction": "Double Chance X2",
+    "prediction": "Double Chance 1X",
     "odds": "1.45"
   },
   {
@@ -500,8 +284,8 @@
     "matchTime": "19:00",
     "homeTeam": "AEK Larnaca",
     "awayTeam": "Pafos",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1605353,
@@ -510,7 +294,7 @@
     "homeTeam": "Gudja United",
     "awayTeam": "Melita",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1605358,
@@ -518,8 +302,8 @@
     "matchTime": "19:00",
     "homeTeam": "Victoria Hotspurs",
     "awayTeam": "St. Andrews",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.5"
   },
   {
     "id": 1608264,
@@ -527,8 +311,8 @@
     "matchTime": "19:00",
     "homeTeam": "Folgore Caratese",
     "awayTeam": "Alcione",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1608266,
@@ -537,7 +321,7 @@
     "homeTeam": "Lumezzane",
     "awayTeam": "Renate",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1608268,
@@ -546,7 +330,7 @@
     "homeTeam": "Ospitaletto",
     "awayTeam": "Juventus U23",
     "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "odds": "1.35"
   },
   {
     "id": 1612717,
@@ -555,7 +339,7 @@
     "homeTeam": "Lalin",
     "awayTeam": "Somozas",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1612719,
@@ -564,7 +348,7 @@
     "homeTeam": "Portonovo SD",
     "awayTeam": "Arenteiro",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.3"
   },
   {
     "id": 1612720,
@@ -573,7 +357,7 @@
     "homeTeam": "Sarriana",
     "awayTeam": "Viveiro",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1613020,
@@ -581,8 +365,8 @@
     "matchTime": "19:00",
     "homeTeam": "Caudal",
     "awayTeam": "Ceares",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1613022,
@@ -618,7 +402,7 @@
     "homeTeam": "Leioa",
     "awayTeam": "Pasaia KE",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1613942,
@@ -627,7 +411,7 @@
     "homeTeam": "Peralada",
     "awayTeam": "Tona",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.28"
   },
   {
     "id": 1614246,
@@ -645,7 +429,7 @@
     "homeTeam": "Villarreal III",
     "awayTeam": "Roda",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1614860,
@@ -654,7 +438,7 @@
     "homeTeam": "Palencia CF",
     "awayTeam": "Cultural Leonesa II",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.42"
   },
   {
     "id": 1615164,
@@ -662,8 +446,8 @@
     "matchTime": "19:00",
     "homeTeam": "Granada II",
     "awayTeam": "UD San Pedro",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   },
   {
     "id": 1615467,
@@ -672,7 +456,7 @@
     "homeTeam": "Cádiz II",
     "awayTeam": "Dos Hermanas",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.65"
   },
   {
     "id": 1615474,
@@ -681,7 +465,7 @@
     "homeTeam": "Sevilla III",
     "awayTeam": "Xerez Deportivo",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1615779,
@@ -690,7 +474,7 @@
     "homeTeam": "Santanyí",
     "awayTeam": "Constància",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1616387,
@@ -708,7 +492,7 @@
     "homeTeam": "Fraga",
     "awayTeam": "Almudévar",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.38"
   },
   {
     "id": 1617615,
@@ -717,6 +501,222 @@
     "homeTeam": "Huesca II",
     "awayTeam": "Caspe",
     "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1620156,
+    "league": "CAF Confederation Cup (World)",
+    "matchTime": "19:00",
+    "homeTeam": "Korhogo",
+    "awayTeam": "AS PSI",
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
+  },
+  {
+    "id": 1620164,
+    "league": "CAF Confederation Cup (World)",
+    "matchTime": "19:00",
+    "homeTeam": "UDIB",
+    "awayTeam": "El Kanemi Warriors",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1630075,
+    "league": "U19 league (Serbia)",
+    "matchTime": "19:00",
+    "homeTeam": "Cukaricki U19",
+    "awayTeam": "Sp. Subotica U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1631596,
+    "league": "Persian Gulf Pro League (Iran)",
+    "matchTime": "19:00",
+    "homeTeam": "Fajr Sepasi",
+    "awayTeam": "Aluminium Arak",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1637486,
+    "league": "Primera División (Uruguay)",
+    "matchTime": "19:00",
+    "homeTeam": "Juventud",
+    "awayTeam": "Danubio",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1506529,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "19:15",
+    "homeTeam": "07 Vestur",
+    "awayTeam": "KI Klaksvik",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
+  },
+  {
+    "id": 1506530,
+    "league": "Meistaradeildin (Faroe-Islands)",
+    "matchTime": "19:15",
+    "homeTeam": "NSI Runavik",
+    "awayTeam": "Vikingur Gota",
+    "prediction": "Double Chance 1X",
     "odds": "1.35"
+  },
+  {
+    "id": 1570739,
+    "league": "Primera División RFEF - Group 1 (Spain)",
+    "matchTime": "19:15",
+    "homeTeam": "Cacereño",
+    "awayTeam": "Cultural Leonesa",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1570741,
+    "league": "Primera División RFEF - Group 1 (Spain)",
+    "matchTime": "19:15",
+    "homeTeam": "Lugo",
+    "awayTeam": "CD Coria",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1613330,
+    "league": "Tercera División RFEF - Group 3 (Spain)",
+    "matchTime": "19:15",
+    "homeTeam": "Revilla",
+    "awayTeam": "Atlético Mineros",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1638621,
+    "league": "1. Deild (Iceland)",
+    "matchTime": "19:15",
+    "homeTeam": "Throttur Reykjavik",
+    "awayTeam": "Njardvik",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1603034,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "19:20",
+    "homeTeam": "NEOM",
+    "awayTeam": "Al-Fateh",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1547632,
+    "league": "A Lyga (Lithuania)",
+    "matchTime": "19:30",
+    "homeTeam": "Džiugas Telšiai",
+    "awayTeam": "FK Trakai",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1561391,
+    "league": "Premier League (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "FC Krasnodar",
+    "awayTeam": "Akron",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1569923,
+    "league": "Segunda División (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Sabadell",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1572350,
+    "league": "Segunda División RFEF - Group 2 (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Osasuna II",
+    "awayTeam": "Arnedo",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1582798,
+    "league": "Premijer Liga (Bosnia)",
+    "matchTime": "19:30",
+    "homeTeam": "Sloga Doboj",
+    "awayTeam": "Zeljeznicar Sarajevo",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1590055,
+    "league": "Superliga (Albania)",
+    "matchTime": "19:30",
+    "homeTeam": "AF Elbasani",
+    "awayTeam": "Egnatia Rrogozhinë",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1593130,
+    "league": "Frauen Bundesliga (Germany)",
+    "matchTime": "19:30",
+    "homeTeam": "SC Freiburg W",
+    "awayTeam": "Mainz 05 W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1605397,
+    "league": "Campeonato de Portugal Prio - Group A",
+    "matchTime": "19:30",
+    "homeTeam": "Chaves II",
+    "awayTeam": "Celoricense",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1613018,
+    "league": "Tercera División RFEF - Group 2 (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Mosconia",
+    "awayTeam": "Gijón Industrial",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1614243,
+    "league": "Tercera División RFEF - Group 6 (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Crevillente",
+    "awayTeam": "Soneja",
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
+  },
+  {
+    "id": 1615162,
+    "league": "Tercera División RFEF - Group 9 (Spain)",
+    "matchTime": "19:30",
+    "homeTeam": "Cantoria",
+    "awayTeam": "Atletico de Marbella",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1508544,
+    "league": "NWSL Women (USA)",
+    "matchTime": "20:00",
+    "homeTeam": "Washington Spirit W",
+    "awayTeam": "Boston Legacy W",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
