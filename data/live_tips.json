@@ -1,75 +1,12 @@
 [
   {
-    "id": 1601894,
-    "league": "Premyer Liqa (Azerbaijan)",
-    "matchTime": "18:00",
-    "homeTeam": "Safa Baku",
-    "awayTeam": "Sabah FA",
-    "prediction": "Double Chance X2",
-    "odds": "1.18"
-  },
-  {
-    "id": 1638097,
-    "league": "Veikkausliiga (Finland)",
-    "matchTime": "18:00",
-    "homeTeam": "Inter Turku",
-    "awayTeam": "VPS",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1577529,
-    "league": "First League (Russia)",
-    "matchTime": "18:30",
-    "homeTeam": "Shinnik Yaroslavl",
-    "awayTeam": "Ural",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1547633,
-    "league": "A Lyga (Lithuania)",
-    "matchTime": "18:45",
-    "homeTeam": "Banga",
-    "awayTeam": "TransINVEST Vilnius",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1627969,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Al-Jolan SC",
-    "awayTeam": "Newroz",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1627972,
-    "league": "Iraqi League",
-    "matchTime": "18:45",
-    "homeTeam": "Naft",
-    "awayTeam": "Karbala",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1604003,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchTime": "18:50",
-    "homeTeam": "Al Bukayriyah",
-    "awayTeam": "Damac",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
     "id": 1496687,
     "league": "3. Division - Girone 2 (Norway)",
     "matchTime": "19:00",
     "homeTeam": "Aalesund II",
     "awayTeam": "Spjelkavik",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
   },
   {
     "id": 1497051,
@@ -78,7 +15,7 @@
     "homeTeam": "Åkra",
     "awayTeam": "Odd II",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.5"
   },
   {
     "id": 1497239,
@@ -87,6 +24,69 @@
     "homeTeam": "Skjetten",
     "awayTeam": "Tromsø II",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.55"
+  },
+  {
+    "id": 1519646,
+    "league": "Esiliiga A (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "Tartu Welco",
+    "awayTeam": "Nõmme Kalju II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.35"
+  },
+  {
+    "id": 1521691,
+    "league": "Esiliiga B (Estonia)",
+    "matchTime": "19:00",
+    "homeTeam": "JK Tabasalu",
+    "awayTeam": "Legion",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1548527,
+    "league": "HNL (Croatia)",
+    "matchTime": "19:00",
+    "homeTeam": "HNK Gorica",
+    "awayTeam": "NK Varazdin",
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
+  },
+  {
+    "id": 1555139,
+    "league": "Liga Leumit (Israel)",
+    "matchTime": "19:00",
+    "homeTeam": "Hapoel Acre",
+    "awayTeam": "Ashdod",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1555146,
+    "league": "Liga Leumit (Israel)",
+    "matchTime": "19:00",
+    "homeTeam": "Maccabi Herzliya",
+    "awayTeam": "Kafr Qasim",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1556452,
+    "league": "1 Lyga (Lithuania)",
+    "matchTime": "19:00",
+    "homeTeam": "FA Šiauliai II",
+    "awayTeam": "Be1 NFA",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
+  },
+  {
+    "id": 1582274,
+    "league": "Premier League (Malta)",
+    "matchTime": "19:00",
+    "homeTeam": "Gzira United",
+    "awayTeam": "Zabbar St. Patrick",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
