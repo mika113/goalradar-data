@@ -1,12 +1,24 @@
 [
   {
+    "id": 1536459,
+    "league": "Second League - Group 2 (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Zvezda St. Petersburg",
+    "awayTeam": "Luki-Energiya",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1634021,
     "league": "Second League - Group 4 (Russia)",
     "matchDate": "FT",
     "homeTeam": "Dinamo Barnaul",
     "awayTeam": "KDV",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "KDV Win",
     "outcome": "Won"
@@ -18,9 +30,9 @@
     "homeTeam": "Polissya II",
     "awayTeam": "Ahrobiznes Volochysk",
     "homeScore": 1,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Ahrobiznes Volochysk Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +66,9 @@
     "homeTeam": "East Bengal",
     "awayTeam": "Mohammedan",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mohammedan Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Millonarios Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1550963,
-    "league": "Liga MX (Mexico)",
-    "matchDate": "FT",
-    "homeTeam": "Guadalajara Chivas",
-    "awayTeam": "U.N.A.M. - Pumas",
-    "homeScore": 3,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Guadalajara Chivas Win",
     "outcome": "Won"
   }
 ]
