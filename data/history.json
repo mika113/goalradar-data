@@ -1,14 +1,38 @@
 [
   {
+    "id": 1570382,
+    "league": "La Liga (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Villarreal Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1557402,
+    "league": "Premier League (England)",
+    "matchDate": "FT",
+    "homeTeam": "Leeds",
+    "awayTeam": "Newcastle",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1595968,
     "league": "Non League Premier - Isthmian (England)",
     "matchDate": "FT",
     "homeTeam": "Aveley",
     "awayTeam": "Wingate & Finchley",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Wingate & Finchley Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +53,8 @@
     "matchDate": "FT",
     "homeTeam": "Inter",
     "awayTeam": "Udinese",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Udinese Win",
     "outcome": "Won"
@@ -42,9 +66,9 @@
     "homeTeam": "Sligo Rovers",
     "awayTeam": "Galway United",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Sligo Rovers Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Shelbourne",
     "awayTeam": "Drogheda United",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Shelbourne Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +102,9 @@
     "homeTeam": "Dundalk",
     "awayTeam": "St Patrick's Athl.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "St Patrick's Athl. Win",
     "outcome": "Won"
   },
   {
@@ -101,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Defensores De Belgrano",
     "awayTeam": "Deportivo Madryn",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Defensores De Belgrano Win",
     "outcome": "Won"
   },
   {
@@ -117,30 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629915,
-    "league": "AFC Champions League Elite (World)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Ahli Jeddah",
-    "awayTeam": "Pakhtakor",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629912,
-    "league": "AFC Champions League Elite (World)",
-    "matchDate": "FT",
-    "homeTeam": "Esteghlal FC",
-    "awayTeam": "Al Sadd",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Esteghlal FC Win",
     "outcome": "Won"
   }
 ]
