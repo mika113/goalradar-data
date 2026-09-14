@@ -1,14 +1,26 @@
 [
   {
+    "id": 1571559,
+    "league": "Second League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Hebar 1918",
+    "awayTeam": "Etar Veliko Tarnovo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1638904,
     "league": "Superliga (Kosovo)",
     "matchDate": "FT",
     "homeTeam": "Llapi",
     "awayTeam": "Malisheva",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Malisheva Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Panthrakikos",
     "awayTeam": "PAOK II",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Panthrakikos Win",
     "outcome": "Won"
   },
   {
@@ -69,78 +81,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1529623,
-    "league": "1. Liga (Latvia)",
-    "matchDate": "FT",
-    "homeTeam": "Rīgas FS II",
-    "awayTeam": "Skanste",
-    "homeScore": 0,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "Skanste Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629911,
-    "league": "AFC Champions League Elite (World)",
-    "matchDate": "FT",
-    "homeTeam": "Neftchi",
-    "awayTeam": "Al Quwa Al Jawiya",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636914,
-    "league": "Super League 2 (Greece)",
-    "matchDate": "FT",
-    "homeTeam": "Panionios",
-    "awayTeam": "Apollon Pontou",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Panionios Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629424,
-    "league": "U19 league (Turkey)",
-    "matchDate": "FT",
-    "homeTeam": "Gaziantep U19",
-    "awayTeam": "Fenerbahce U19",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619136,
-    "league": "Professional Development League (England)",
-    "matchDate": "FT",
-    "homeTeam": "Sheffield United U21",
-    "awayTeam": "Cardiff City U21",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1569364,
-    "league": "Campionato Primavera - 1 (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Roma U20",
-    "awayTeam": "Como U20",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Como U20 Win",
     "outcome": "Won"
   }
 ]
