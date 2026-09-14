@@ -1,14 +1,38 @@
 [
   {
+    "id": 1593006,
+    "league": "Druha Liga (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Nyva Ternopil II",
+    "awayTeam": "Ruh Lviv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1565474,
+    "league": "Premier League (Ukraine)",
+    "matchDate": "FT",
+    "homeTeam": "Dynamo Kyiv",
+    "awayTeam": "Epitsentr Dunayivtsi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1636764,
     "league": "Premier League (Bhutan)",
     "matchDate": "FT",
     "homeTeam": "Drukpa",
     "awayTeam": "RTC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "RTC Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Moreirense U23",
     "awayTeam": "Sporting Braga U23",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Moreirense U23 Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Oleksandria",
     "awayTeam": "Viktoriya Mykolaivka",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Oleksandria Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +78,9 @@
     "homeTeam": "Meshakhte",
     "awayTeam": "Rustavi",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rustavi Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Japan W",
     "awayTeam": "Thailand W",
-    "homeScore": 7,
+    "homeScore": 8,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Japan W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1639548,
-    "league": "Asian Games Women (World)",
-    "matchDate": "FT",
-    "homeTeam": "China W",
-    "awayTeam": "Hong Kong W",
-    "homeScore": 5,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "China W Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1634021,
-    "league": "Second League - Group 4 (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Dinamo Barnaul",
-    "awayTeam": "KDV",
-    "homeScore": 1,
-    "awayScore": 2,
-    "status": "FT",
-    "prediction": "KDV Win",
     "outcome": "Won"
   }
 ]
