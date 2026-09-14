@@ -1,5 +1,65 @@
 [
   {
+    "id": 1569918,
+    "league": "Segunda División (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Celta de Vigo II",
+    "awayTeam": "Eibar",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1498801,
+    "league": "Primera Nacional (Argentina)",
+    "matchDate": "FT",
+    "homeTeam": "Defensores De Belgrano",
+    "awayTeam": "Deportivo Madryn",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1629916,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Al-Qadisiyah FC",
+    "awayTeam": "Al-Wasl FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1629915,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Al-Ahli Jeddah",
+    "awayTeam": "Pakhtakor",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1629912,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Esteghlal FC",
+    "awayTeam": "Al Sadd",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Esteghlal FC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1627976,
     "league": "Iraqi League",
     "matchDate": "FT",
@@ -41,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Blackburn Rovers U21",
     "awayTeam": "Reading U21",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "FCSB",
     "awayTeam": "Petrolul Ploiesti",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Petrolul Ploiesti Win",
+    "prediction": "FCSB Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Jong Utrecht",
     "awayTeam": "Jong Ajax",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Jong Utrecht Win",
     "outcome": "Won"
   },
   {
@@ -77,70 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Jong PSV U21",
     "awayTeam": "Jong AZ",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1511210,
-    "league": "Division 2 - Södra Svealand (Sweden)",
-    "matchDate": "FT",
-    "homeTeam": "Haninge",
-    "awayTeam": "Syrianska FC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1500106,
-    "league": "Primera C (Argentina)",
-    "matchDate": "FT",
-    "homeTeam": "Fénix",
-    "awayTeam": "Centro Español",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1605253,
-    "league": "Carioca B2 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Barra Mansa",
-    "awayTeam": "7 de Abril",
     "homeScore": 1,
-    "awayScore": 2,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "7 de Abril Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1575499,
-    "league": "Primeira Liga (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Rio Ave",
-    "awayTeam": "Estrela",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Estrela Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555506,
-    "league": "Ligat Ha'al (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Maccabi Tel Aviv",
-    "awayTeam": "Hapoel Tel Aviv",
-    "homeScore": 2,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Maccabi Tel Aviv Win",
+    "prediction": "Jong PSV U21 Win",
     "outcome": "Won"
   }
 ]
