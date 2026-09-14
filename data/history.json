@@ -1,5 +1,41 @@
 [
   {
+    "id": 1555506,
+    "league": "Ligat Ha'al (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Maccabi Tel Aviv",
+    "awayTeam": "Hapoel Tel Aviv",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1551108,
+    "league": "First League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Ludogorets",
+    "awayTeam": "Septemvri Sofia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1604006,
+    "league": "Division 1 (Saudi-Arabia)",
+    "matchDate": "FT",
+    "homeTeam": "Al Najma",
+    "awayTeam": "Al-Raed",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1497703,
     "league": "Superettan (Sweden)",
     "matchDate": "FT",
@@ -41,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Kayserispor",
     "awayTeam": "İstanbulspor",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Kayserispor Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "Sporting CP B",
     "awayTeam": "Lusitânia Lourosa",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sporting CP B Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Porto B",
     "awayTeam": "Vizela",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Porto B Win",
     "outcome": "Won"
   },
   {
@@ -90,9 +126,9 @@
     "homeTeam": "Petrovac",
     "awayTeam": "Arsenal Tivat",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Arsenal Tivat Win",
     "outcome": "Won"
   },
   {
@@ -101,42 +137,6 @@
     "matchDate": "FT",
     "homeTeam": "Mornar",
     "awayTeam": "Otrant-Olympic",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558219,
-    "league": "I Liga (Poland)",
-    "matchDate": "FT",
-    "homeTeam": "Stal Mielec",
-    "awayTeam": "Nieciecza",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1555505,
-    "league": "Ligat Ha'al (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Ironi Kiryat Shmona",
-    "awayTeam": "Maccabi Haifa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1553870,
-    "league": "Super Liga (Serbia)",
-    "matchDate": "FT",
-    "homeTeam": "Zemun",
-    "awayTeam": "Radnik Surdulica",
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
