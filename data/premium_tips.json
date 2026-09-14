@@ -1,93 +1,12 @@
 [
   {
-    "id": 1544034,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchTime": "21:00",
-    "homeTeam": "Fluminense U17",
-    "awayTeam": "Botafogo U17",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1551817,
-    "league": "Eerste Divisie (Netherlands)",
-    "matchTime": "21:00",
-    "homeTeam": "Jong PSV U21",
-    "awayTeam": "Jong AZ",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
-  },
-  {
-    "id": 1551818,
-    "league": "Eerste Divisie (Netherlands)",
-    "matchTime": "21:00",
-    "homeTeam": "Jong Utrecht",
-    "awayTeam": "Jong Ajax",
-    "prediction": "Both Teams To Score",
-    "odds": "1.6"
-  },
-  {
-    "id": 1565252,
-    "league": "Liga I (Romania)",
-    "matchTime": "21:00",
-    "homeTeam": "FCSB",
-    "awayTeam": "Petrolul Ploiesti",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1621026,
-    "league": "Premier League 2 Division One (England)",
-    "matchTime": "21:00",
-    "homeTeam": "Blackburn Rovers U21",
-    "awayTeam": "Reading U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.38"
-  },
-  {
-    "id": 1621027,
-    "league": "Premier League 2 Division One (England)",
-    "matchTime": "21:00",
-    "homeTeam": "Nottingham Forest U21",
-    "awayTeam": "Burnley U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1621028,
-    "league": "Premier League 2 Division One (England)",
-    "matchTime": "21:00",
-    "homeTeam": "West Ham United U21",
-    "awayTeam": "Liverpool U21",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.5"
-  },
-  {
-    "id": 1627976,
-    "league": "Iraqi League",
-    "matchTime": "21:00",
-    "homeTeam": "Erbil",
-    "awayTeam": "Al-Karma",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1638884,
-    "league": "Torneo Promocional Amateur (Argentina)",
-    "matchTime": "21:00",
-    "homeTeam": "Ezeiza",
-    "awayTeam": "Deportivo Metalurgico",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
     "id": 1498801,
     "league": "Primera Nacional (Argentina)",
     "matchTime": "21:30",
     "homeTeam": "Defensores De Belgrano",
     "awayTeam": "Deportivo Madryn",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1569918,
@@ -96,7 +15,7 @@
     "homeTeam": "Celta de Vigo II",
     "awayTeam": "Eibar",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1492761,
@@ -105,6 +24,87 @@
     "homeTeam": "Dundalk",
     "awayTeam": "St Patrick's Athl.",
     "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1492762,
+    "league": "Premier Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Shelbourne",
+    "awayTeam": "Drogheda United",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1492763,
+    "league": "Premier Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Waterford",
+    "awayTeam": "Derry City",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1492765,
+    "league": "Premier Division (Ireland)",
+    "matchTime": "21:45",
+    "homeTeam": "Sligo Rovers",
+    "awayTeam": "Galway United",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1552474,
+    "league": "Ligue 2 (France)",
+    "matchTime": "21:45",
+    "homeTeam": "RED Star FC 93",
+    "awayTeam": "Metz",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1595968,
+    "league": "Non League Premier - Isthmian (England)",
+    "matchTime": "21:45",
+    "homeTeam": "Aveley",
+    "awayTeam": "Wingate & Finchley",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1638624,
+    "league": "Úrvalsdeild (Iceland)",
+    "matchTime": "22:15",
+    "homeTeam": "Vikingur Reykjavik",
+    "awayTeam": "Keflavik",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1636650,
+    "league": "Division Intermedia (Paraguay)",
+    "matchTime": "22:30",
+    "homeTeam": "Benjamín Aceval",
+    "awayTeam": "Paraguari AC",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1513362,
+    "league": "MLS Next Pro (USA)",
+    "matchTime": "23:00",
+    "homeTeam": "Portland Timbers II",
+    "awayTeam": "St. Louis City II",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1549634,
+    "league": "Primera B (Colombia)",
+    "matchTime": "23:30",
+    "homeTeam": "Tigres FC",
+    "awayTeam": "Bogota FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
