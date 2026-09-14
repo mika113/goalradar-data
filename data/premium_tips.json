@@ -1,39 +1,12 @@
 [
   {
-    "id": 1498801,
-    "league": "Primera Nacional (Argentina)",
-    "matchTime": "21:30",
-    "homeTeam": "Defensores De Belgrano",
-    "awayTeam": "Deportivo Madryn",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1569918,
-    "league": "Segunda División (Spain)",
-    "matchTime": "21:30",
-    "homeTeam": "Celta de Vigo II",
-    "awayTeam": "Eibar",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1492761,
-    "league": "Premier Division (Ireland)",
-    "matchTime": "21:45",
-    "homeTeam": "Dundalk",
-    "awayTeam": "St Patrick's Athl.",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1492762,
     "league": "Premier Division (Ireland)",
     "matchTime": "21:45",
     "homeTeam": "Shelbourne",
     "awayTeam": "Drogheda United",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
   },
   {
     "id": 1492763,
@@ -42,7 +15,7 @@
     "homeTeam": "Waterford",
     "awayTeam": "Derry City",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.62"
   },
   {
     "id": 1492765,
@@ -69,7 +42,7 @@
     "homeTeam": "Aveley",
     "awayTeam": "Wingate & Finchley",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1638624,
@@ -87,7 +60,7 @@
     "homeTeam": "Benjamín Aceval",
     "awayTeam": "Paraguari AC",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1513362,
@@ -106,5 +79,32 @@
     "awayTeam": "Bogota FC",
     "prediction": "Double Chance 1X",
     "odds": "1.3"
+  },
+  {
+    "id": 1511689,
+    "league": "Primera B (Chile)",
+    "matchTime": "00:00",
+    "homeTeam": "Deportes Santa Cruz",
+    "awayTeam": "Recoleta",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1493124,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "01:00",
+    "homeTeam": "Banfield",
+    "awayTeam": "Barracas Central",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1493127,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "01:00",
+    "homeTeam": "Deportivo Riestra",
+    "awayTeam": "Lanus",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   }
 ]
