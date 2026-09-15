@@ -1,75 +1,12 @@
 [
   {
-    "id": 1555368,
-    "league": "Super League (Switzerland)",
-    "matchTime": "20:00",
-    "homeTeam": "Grasshoppers",
-    "awayTeam": "FC Sion",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
-  },
-  {
-    "id": 1555500,
-    "league": "Ligat Ha'al (Israel)",
-    "matchTime": "20:00",
-    "homeTeam": "Beitar Jerusalem",
-    "awayTeam": "Maccabi Petah Tikva",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
-  },
-  {
-    "id": 1558521,
-    "league": "First League (Montenegro)",
-    "matchTime": "20:00",
-    "homeTeam": "Jezero",
-    "awayTeam": "Bokelj",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1566702,
-    "league": "Oberliga - Bayern Nord (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "Viktoria Aschaffenburg",
-    "awayTeam": "Würzburger FV",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1582122,
-    "league": "Kvindeliga (Denmark)",
-    "matchTime": "20:00",
-    "homeTeam": "Nordsjælland W",
-    "awayTeam": "Midtjylland W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1583994,
-    "league": "3. Liga (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "MSV Duisburg",
-    "awayTeam": "Havelse",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1583996,
-    "league": "3. Liga (Germany)",
-    "matchTime": "20:00",
-    "homeTeam": "SG Sonnenhof Grossaspach",
-    "awayTeam": "Verl",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
-  },
-  {
     "id": 1584000,
     "league": "3. Liga (Germany)",
     "matchTime": "20:00",
     "homeTeam": "SV Meppen",
     "awayTeam": "FC Viktoria Köln",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1584002,
@@ -78,7 +15,7 @@
     "homeTeam": "SSV Jahn Regensburg",
     "awayTeam": "Fortuna Düsseldorf",
     "prediction": "Double Chance X2",
-    "odds": "1.42"
+    "odds": "1.3"
   },
   {
     "id": 1584003,
@@ -95,8 +32,8 @@
     "matchTime": "20:00",
     "homeTeam": "Bayreuth",
     "awayTeam": "Aubstadt",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1586214,
@@ -105,6 +42,69 @@
     "homeTeam": "Eltersdorf",
     "awayTeam": "Eichstätt",
     "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1586215,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Greuther Fürth II",
+    "awayTeam": "TSV 1860 München",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1586216,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Memmingen",
+    "awayTeam": "Wacker Burghausen",
+    "prediction": "Double Chance 1X",
+    "odds": "1.42"
+  },
+  {
+    "id": 1586218,
+    "league": "Regionalliga - Bayern (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "FC Schweinfurt 05",
+    "awayTeam": "Illertissen",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1586861,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Hallescher FC",
+    "awayTeam": "FC Carl Zeiss Jena",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1586862,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Hertha BSC II",
+    "awayTeam": "FC Rot-Weiß Erfurt",
+    "prediction": "Double Chance X2",
+    "odds": "1.28"
+  },
+  {
+    "id": 1586864,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "Luckenwalde",
+    "awayTeam": "BFC Preussen",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1586868,
+    "league": "Regionalliga - Nordost (Germany)",
+    "matchTime": "20:00",
+    "homeTeam": "FSV Zwickau",
+    "awayTeam": "Altglienicke",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
