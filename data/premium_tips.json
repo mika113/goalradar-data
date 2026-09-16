@@ -1,23 +1,5 @@
 [
   {
-    "id": 1624021,
-    "league": "Piauiense - 2 (Brazil)",
-    "matchTime": "01:00",
-    "homeTeam": "Comercial PI",
-    "awayTeam": "4 de Julho",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1631509,
-    "league": "CONMEBOL Libertadores (World)",
-    "matchTime": "01:00",
-    "homeTeam": "LDU de Quito",
-    "awayTeam": "Palmeiras",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
     "id": 1631513,
     "league": "CONMEBOL Sudamericana (World)",
     "matchTime": "01:00",
@@ -33,7 +15,7 @@
     "homeTeam": "Independ. Rivadavia",
     "awayTeam": "Atletico Tucuman",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1638765,
@@ -42,7 +24,7 @@
     "homeTeam": "Monagas SC",
     "awayTeam": "Zamora FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1492311,
@@ -50,8 +32,8 @@
     "matchTime": "01:30",
     "homeTeam": "Botafogo",
     "awayTeam": "Gremio",
-    "prediction": "Both Teams To Score",
-    "odds": "1.7"
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   },
   {
     "id": 1610828,
@@ -77,8 +59,8 @@
     "matchTime": "01:30",
     "homeTeam": "Nacional Potosí",
     "awayTeam": "Always Ready",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
   },
   {
     "id": 1493995,
@@ -104,6 +86,24 @@
     "matchTime": "02:00",
     "homeTeam": "Real Monarchs",
     "awayTeam": "Minnesota United II",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1545812,
+    "league": "US Open Cup (USA)",
+    "matchTime": "02:00",
+    "homeTeam": "Columbus Crew",
+    "awayTeam": "Orlando City SC",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1589402,
+    "league": "Canadian Championship (Canada)",
+    "matchTime": "02:00",
+    "homeTeam": "CF Montreal",
+    "awayTeam": "Vancouver Whitecaps",
     "prediction": "Double Chance X2",
     "odds": "1.35"
   }
