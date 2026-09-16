@@ -1,11 +1,35 @@
 [
   {
+    "id": 1635924,
+    "league": "Segunda División (Venezuela)",
+    "matchDate": "FT",
+    "homeTeam": "Zamora FC B",
+    "awayTeam": "Fundación Lara Deportiva",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Fundación Lara Deportiva Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1570385,
+    "league": "La Liga (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Racing Santander",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Barcelona Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1637548,
     "league": "Copa do Brasil U20 (Brazil)",
     "matchDate": "FT",
     "homeTeam": "Palmeiras U20",
     "awayTeam": "Naviraiense U20",
-    "homeScore": 1,
+    "homeScore": 6,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Palmeiras U20 Win",
@@ -30,9 +54,9 @@
     "homeTeam": "Sturm Graz",
     "awayTeam": "Rennes",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 0,
     "status": "FT",
-    "prediction": "Rennes Win",
+    "prediction": "Double Chance 1X",
     "outcome": "Won"
   },
   {
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Olympiakos Piraeus",
     "awayTeam": "Jagiellonia",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -65,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Bayer Leverkusen",
     "awayTeam": "Celje",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Bayer Leverkusen Win",
     "outcome": "Won"
   },
   {
@@ -78,7 +102,7 @@
     "homeTeam": "Anderlecht",
     "awayTeam": "Lyon",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Lyon Win",
     "outcome": "Won"
@@ -90,9 +114,9 @@
     "homeTeam": "AC Milan",
     "awayTeam": "Benfica",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Benfica Win",
     "outcome": "Won"
   },
   {
@@ -102,7 +126,7 @@
     "homeTeam": "Manchester United",
     "awayTeam": "Brighton",
     "homeScore": 2,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Manchester United Win",
     "outcome": "Won"
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Coventry",
     "awayTeam": "Aston Villa",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Aston Villa Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1625890,
-    "league": "Serie D - Girone H (Italy)",
-    "matchDate": "FT",
-    "homeTeam": "Virtus Francavilla",
-    "awayTeam": "Brindisi",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619014,
-    "league": "Primera División (Bolivia)",
-    "matchDate": "FT",
-    "homeTeam": "Guabirá",
-    "awayTeam": "Aurora",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Guabirá Win",
     "outcome": "Won"
   }
 ]
