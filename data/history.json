@@ -1,5 +1,29 @@
 [
   {
+    "id": 1635495,
+    "league": "Cup (Greece)",
+    "matchDate": "FT",
+    "homeTeam": "AEK Athens FC",
+    "awayTeam": "Panserraikos",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1559363,
+    "league": "Second League (Montenegro)",
+    "matchDate": "FT",
+    "homeTeam": "Mladost Lješkopolje",
+    "awayTeam": "Zeta",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Mladost Lješkopolje Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1639702,
     "league": "Premier League (Kyrgyzstan)",
     "matchDate": "FT",
@@ -18,7 +42,7 @@
     "homeTeam": "Djibouti U20",
     "awayTeam": "Sudan U20",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 3,
     "status": "FT",
     "prediction": "Sudan U20 Win",
     "outcome": "Won"
@@ -29,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "UPDF",
     "awayTeam": "Maroons",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "UPDF Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +78,9 @@
     "homeTeam": "Tekstilshchik",
     "awayTeam": "Rotor Volgograd",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rotor Volgograd Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +102,9 @@
     "homeTeam": "FK Tobol Kostanay",
     "awayTeam": "Yelimay Semey",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Yelimay Semey Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Astana",
     "awayTeam": "Kairat Almaty",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Astana Win",
     "outcome": "Won"
   },
   {
@@ -102,9 +126,9 @@
     "homeTeam": "Kalamata",
     "awayTeam": "Larisa",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Larisa Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Tanta SC",
     "awayTeam": "AL Nasr SC",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1594835,
-    "league": "Second League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "El Mansura",
-    "awayTeam": "Team",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "El Mansura Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1594834,
-    "league": "Second League (Egypt)",
-    "matchDate": "FT",
-    "homeTeam": "Ismaily SC",
-    "awayTeam": "Haras El Hodood",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tanta SC Win",
     "outcome": "Won"
   }
 ]
