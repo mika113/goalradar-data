@@ -1,21 +1,12 @@
 [
   {
-    "id": 1554157,
-    "league": "Prva Liga (Serbia)",
-    "matchTime": "19:00",
-    "homeTeam": "Loznica",
-    "awayTeam": "Javor",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1555147,
     "league": "Liga Leumit (Israel)",
     "matchTime": "19:00",
     "homeTeam": "Bnei Yehuda",
     "awayTeam": "Maccabi Herzliya",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1555148,
@@ -60,7 +51,7 @@
     "homeTeam": "Maccabi Ahi Nazareth",
     "awayTeam": "Hapoel Acre",
     "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "odds": "1.25"
   },
   {
     "id": 1555153,
@@ -69,7 +60,7 @@
     "homeTeam": "Kafr Qasim",
     "awayTeam": "Hapoel Kfar Saba",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1555154,
@@ -77,8 +68,8 @@
     "matchTime": "19:00",
     "homeTeam": "Ashdod",
     "awayTeam": "Hapoel Rishon LeZion",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
   },
   {
     "id": 1577533,
@@ -86,6 +77,15 @@
     "matchTime": "19:00",
     "homeTeam": "Nizhny Novgorod",
     "awayTeam": "Leningradets",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1577537,
+    "league": "First League (Russia)",
+    "matchTime": "19:00",
+    "homeTeam": "Torpedo Moskva",
+    "awayTeam": "Veles",
     "prediction": "Double Chance 1X",
     "odds": "1.25"
   }
