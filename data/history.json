@@ -1,5 +1,53 @@
 [
   {
+    "id": 1621657,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Azor",
+    "awayTeam": "FC Jerusalem",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1571604,
+    "league": "Second League (Bulgaria)",
+    "matchDate": "FT",
+    "homeTeam": "Montana",
+    "awayTeam": "Spartak Pleven",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Spartak Pleven Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1565290,
+    "league": "Liga I (Romania)",
+    "matchDate": "FT",
+    "homeTeam": "FC Voluntari",
+    "awayTeam": "Farul Constanta",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1569999,
+    "league": "Segunda División (Spain)",
+    "matchDate": "FT",
+    "homeTeam": "Oviedo",
+    "awayTeam": "Las Palmas",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Las Palmas Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1647436,
     "league": "King's Cup (Bahrain)",
     "matchDate": "FT",
@@ -18,9 +66,9 @@
     "homeTeam": "USFAS Bamako W",
     "awayTeam": "Ampem Darkoa W",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "USFAS Bamako W Win",
+    "prediction": "Ampem Darkoa W Win",
     "outcome": "Won"
   },
   {
@@ -54,9 +102,9 @@
     "homeTeam": "Sumqayıt",
     "awayTeam": "Safa Baku",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Safa Baku Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +114,9 @@
     "homeTeam": "Krylia Sovetov",
     "awayTeam": "Zenit",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zenit Win",
     "outcome": "Won"
   },
   {
@@ -89,58 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Torpedo Kutaisi",
     "awayTeam": "Dila",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604051,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchDate": "FT",
-    "homeTeam": "Al Zulfi",
-    "awayTeam": "Al Jandal",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1604050,
-    "league": "Division 1 (Saudi-Arabia)",
-    "matchDate": "FT",
-    "homeTeam": "Al Jeel",
-    "awayTeam": "Al Najma",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1640736,
-    "league": "Azadegan League (Iran)",
-    "matchDate": "FT",
-    "homeTeam": "Shahin Bandar Ameri",
-    "awayTeam": "Shenavarsazi Qeshm",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1640737,
-    "league": "Azadegan League (Iran)",
-    "matchDate": "FT",
-    "homeTeam": "Naft Bandar Abbas",
-    "awayTeam": "Novin Ahvaz",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Naft Bandar Abbas Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   }
 ]
