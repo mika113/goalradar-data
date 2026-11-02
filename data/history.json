@@ -1,5 +1,17 @@
 [
   {
+    "id": 1629959,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Pakhtakor",
+    "awayTeam": "Al-Nassr",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1640735,
     "league": "Azadegan League (Iran)",
     "matchDate": "FT",
@@ -29,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Mashujaa",
     "awayTeam": "Pamba Jiji",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Mashujaa Win",
     "outcome": "Won"
   },
   {
@@ -42,7 +54,7 @@
     "homeTeam": "Alay",
     "awayTeam": "Neftchi",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Neftchi Win",
     "outcome": "Won"
@@ -90,9 +102,9 @@
     "homeTeam": "Tzeirey Tamra",
     "awayTeam": "Hapoel Ironi Karmiel",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hapoel Ironi Karmiel Win",
     "outcome": "Won"
   },
   {
@@ -101,7 +113,7 @@
     "matchDate": "FT",
     "homeTeam": "Tenerife",
     "awayTeam": "FC Andorra",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Tenerife Win",
@@ -129,18 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Buducnost Podgorica Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1551484,
-    "league": "First League (Macedonia)",
-    "matchDate": "FT",
-    "homeTeam": "Vardar Skopje",
-    "awayTeam": "Struga",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Struga Win",
     "outcome": "Won"
   }
 ]
