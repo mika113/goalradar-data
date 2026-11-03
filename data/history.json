@@ -1,5 +1,17 @@
 [
   {
+    "id": 1629972,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Al-Hilal Saudi FC",
+    "awayTeam": "Shabab Al Ahli Dubai",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Al-Hilal Saudi FC Win",
+    "outcome": "Won"
+  },
+  {
     "id": 1645610,
     "league": "AGCFF Gulf Champions League (World)",
     "matchDate": "FT",
@@ -65,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Lanús Res.",
     "awayTeam": "Atl. Rafaela 2",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Atl. Rafaela 2 Win",
+    "prediction": "Lanús Res. Win",
     "outcome": "Won"
   },
   {
@@ -78,9 +90,9 @@
     "homeTeam": "Independiente Riva. Res.",
     "awayTeam": "Estudiantes La Plata Res",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Independiente Riva. Res. Win",
+    "prediction": "Estudiantes La Plata Res Win",
     "outcome": "Won"
   },
   {
@@ -89,8 +101,8 @@
     "matchDate": "FT",
     "homeTeam": "Argentinos Juniors Res.",
     "awayTeam": "Talleres Córdoba Res.",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 1,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "Talleres Córdoba Res. Win",
     "outcome": "Won"
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "Sirius",
     "awayTeam": "Halmstad",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sirius Win",
     "outcome": "Won"
   },
   {
@@ -129,18 +141,6 @@
     "awayScore": 0,
     "status": "FT",
     "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1635669,
-    "league": "UEFA Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Galatasaray",
-    "awayTeam": "VfB Stuttgart",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Galatasaray Win",
     "outcome": "Won"
   }
 ]
