@@ -1,14 +1,5 @@
 [
   {
-    "id": 1635723,
-    "league": "UEFA Champions League (World)",
-    "matchTime": "20:45",
-    "homeTeam": "Shakhtar Donetsk",
-    "awayTeam": "Sporting CP",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1645610,
     "league": "AGCFF Gulf Champions League (World)",
     "matchTime": "21:00",
@@ -24,7 +15,7 @@
     "homeTeam": "Al-Hilal Saudi FC",
     "awayTeam": "Shabab Al Ahli Dubai",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1644336,
@@ -33,7 +24,7 @@
     "homeTeam": "Anaitasuna",
     "awayTeam": "Alaves",
     "prediction": "Double Chance X2",
-    "odds": "1.15"
+    "odds": "1.25"
   },
   {
     "id": 1644365,
@@ -42,33 +33,42 @@
     "homeTeam": "Pamplona",
     "awayTeam": "Eibar",
     "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1598733,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "18:00",
+    "homeTeam": "Academico Viseu U23",
+    "awayTeam": "Torreense U23",
+    "prediction": "Double Chance 1X",
     "odds": "1.3"
   },
   {
-    "id": 1531015,
-    "league": "Pro League A (Uzbekistan)",
-    "matchTime": "17:00",
-    "homeTeam": "Kattaqurgon",
-    "awayTeam": "Qiziriq",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1632525,
-    "league": "National Soccer League (Rwanda)",
-    "matchTime": "17:00",
-    "homeTeam": "AS Kigali",
-    "awayTeam": "Mukura",
+    "id": 1598736,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "18:00",
+    "homeTeam": "Gil Vicente U23",
+    "awayTeam": "Felgueiras U23",
     "prediction": "Double Chance X2",
     "odds": "1.45"
   },
   {
-    "id": 1637366,
-    "league": "UEFA Youth League (World)",
-    "matchTime": "17:00",
-    "homeTeam": "LASK U19",
-    "awayTeam": "Slovan Bratislava U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "id": 1598739,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "18:00",
+    "homeTeam": "Marítimo U23",
+    "awayTeam": "Moreirense U23",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1598742,
+    "league": "Liga Revelação U23 (Portugal)",
+    "matchTime": "18:00",
+    "homeTeam": "Vizela U23",
+    "awayTeam": "Portimonense U23",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   }
 ]
