@@ -1,23 +1,5 @@
 [
   {
-    "id": 1632525,
-    "league": "National Soccer League (Rwanda)",
-    "matchTime": "17:00",
-    "homeTeam": "AS Kigali",
-    "awayTeam": "Mukura",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1637366,
-    "league": "UEFA Youth League (World)",
-    "matchTime": "17:00",
-    "homeTeam": "LASK U19",
-    "awayTeam": "Slovan Bratislava U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
-  },
-  {
     "id": 1598733,
     "league": "Liga Revelação U23 (Portugal)",
     "matchTime": "18:00",
@@ -33,7 +15,7 @@
     "homeTeam": "Gil Vicente U23",
     "awayTeam": "Felgueiras U23",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1598739,
@@ -42,7 +24,7 @@
     "homeTeam": "Marítimo U23",
     "awayTeam": "Moreirense U23",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1598742,
@@ -77,8 +59,8 @@
     "matchTime": "18:00",
     "homeTeam": "Barcelona U19",
     "awayTeam": "Aston Villa U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "prediction": "Both Teams To Score",
+    "odds": "1.6"
   },
   {
     "id": 1640301,
@@ -104,7 +86,25 @@
     "matchTime": "18:30",
     "homeTeam": "Maccabi Tel Aviv U19",
     "awayTeam": "Zurich U19",
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
+  },
+  {
+    "id": 1558552,
+    "league": "First League (Montenegro)",
+    "matchTime": "19:00",
+    "homeTeam": "Jezero",
+    "awayTeam": "Dečić",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1627352,
+    "league": "Girabola (Angola)",
+    "matchTime": "19:00",
+    "homeTeam": "Petro de Luanda",
+    "awayTeam": "Desportivo Huíla",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.25"
   }
 ]
