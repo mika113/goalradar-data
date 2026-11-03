@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "Sunderland U18",
     "awayTeam": "Stoke City U18",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Sunderland U18 Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +18,9 @@
     "homeTeam": "Stade Tunisien",
     "awayTeam": "Club Africain",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Club Africain Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +41,10 @@
     "matchDate": "FT",
     "homeTeam": "Salzburg U19",
     "awayTeam": "Genk U19",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Salzburg U19 Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +53,10 @@
     "matchDate": "FT",
     "homeTeam": "Manchester United U19",
     "awayTeam": "Roma U19",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Manchester United U19 Win",
     "outcome": "Won"
   },
   {
@@ -101,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "BUL",
     "awayTeam": "SC Villa",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "BUL Win",
@@ -113,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Damac",
     "awayTeam": "Al Okhdood",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
-    "prediction": "Al Okhdood Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -129,18 +129,6 @@
     "awayScore": 4,
     "status": "FT",
     "prediction": "Beijing Guoan Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1629969,
-    "league": "AFC Champions League Elite (World)",
-    "matchDate": "FT",
-    "homeTeam": "Công An Nhân Dân",
-    "awayTeam": "Kyoto Sanga",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
