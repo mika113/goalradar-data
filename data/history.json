@@ -1,5 +1,77 @@
 [
   {
+    "id": 1642277,
+    "league": "Cup (Cyprus)",
+    "matchDate": "FT",
+    "homeTeam": "AEL",
+    "awayTeam": "Iraklis Yerolakkou",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "AEL Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1639311,
+    "league": "Cup (Croatia)",
+    "matchDate": "FT",
+    "homeTeam": "Istra 1961",
+    "awayTeam": "Neretva Metković",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1630391,
+    "league": "AFC Champions League Two (World)",
+    "matchDate": "FT",
+    "homeTeam": "Al Hussein",
+    "awayTeam": "Al Shorta",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Al Shorta Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1629971,
+    "league": "AFC Champions League Elite (World)",
+    "matchDate": "FT",
+    "homeTeam": "Esteghlal FC",
+    "awayTeam": "Al Shamal",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1627352,
+    "league": "Girabola (Angola)",
+    "matchDate": "FT",
+    "homeTeam": "Petro de Luanda",
+    "awayTeam": "Desportivo Huíla",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558552,
+    "league": "First League (Montenegro)",
+    "matchDate": "FT",
+    "homeTeam": "Jezero",
+    "awayTeam": "Dečić",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1638855,
     "league": "UEFA Youth League (World)",
     "matchDate": "FT",
@@ -18,7 +90,7 @@
     "homeTeam": "Abu Qair Semad",
     "awayTeam": "Ceramica Cleopatra",
     "homeScore": 0,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
     "prediction": "Ceramica Cleopatra Win",
     "outcome": "Won"
@@ -42,9 +114,9 @@
     "homeTeam": "Barcelona U19",
     "awayTeam": "Aston Villa U19",
     "homeScore": 2,
-    "awayScore": 1,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Barcelona U19 Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -53,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Atlético Madrid U19",
     "awayTeam": "Bayern München U19",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 4,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Atlético Madrid U19 Win",
     "outcome": "Won"
@@ -69,78 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Al Wehda Club Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598742,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Vizela U23",
-    "awayTeam": "Portimonense U23",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Portimonense U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598739,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Marítimo U23",
-    "awayTeam": "Moreirense U23",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Marítimo U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598736,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Gil Vicente U23",
-    "awayTeam": "Felgueiras U23",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1598733,
-    "league": "Liga Revelação U23 (Portugal)",
-    "matchDate": "FT",
-    "homeTeam": "Academico Viseu U23",
-    "awayTeam": "Torreense U23",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Academico Viseu U23 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1645609,
-    "league": "AGCFF Gulf Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Shabab",
-    "awayTeam": "Al Sha'ab Hadhramaut",
-    "homeScore": 2,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Al-Shabab Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1645608,
-    "league": "AGCFF Gulf Champions League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Al Zawra'a",
-    "awayTeam": "Al Riffa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
     "outcome": "Won"
   }
 ]
