@@ -1,14 +1,38 @@
 [
   {
+    "id": 1647255,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Flamengo U20",
+    "awayTeam": "Operário PR U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1619525,
+    "league": "National League Cup (England)",
+    "matchDate": "FT",
+    "homeTeam": "Braintree",
+    "awayTeam": "Norwich City U21",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1627164,
     "league": "Premier League Cup (England)",
     "matchDate": "FT",
     "homeTeam": "Gillingham FC U21",
     "awayTeam": "Huddersfield Town U21",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -17,7 +41,7 @@
     "matchDate": "FT",
     "homeTeam": "Charlton Athletic U21",
     "awayTeam": "Stockport County U21",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "Charlton Athletic U21 Win",
@@ -41,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Brentford U18",
     "awayTeam": "Brighton U18",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Brentford U18 Win",
     "outcome": "Won"
   },
   {
@@ -113,34 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Hartlepool",
     "awayTeam": "Leeds United U21",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619518,
-    "league": "National League Cup (England)",
-    "matchDate": "FT",
-    "homeTeam": "Gateshead",
-    "awayTeam": "Stoke City U21",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1619517,
-    "league": "National League Cup (England)",
-    "matchDate": "FT",
-    "homeTeam": "FC Halifax Town",
-    "awayTeam": "Nottingham Forest U21",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hartlepool Win",
     "outcome": "Won"
   }
 ]
