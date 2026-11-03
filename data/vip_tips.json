@@ -1,21 +1,12 @@
 [
   {
-    "id": 1648024,
-    "league": "Premier League (Mauritania)",
-    "matchTime": "19:15",
-    "homeTeam": "SNIM",
-    "awayTeam": "Chemal",
-    "prediction": "Double Chance X2",
-    "odds": "1.42"
-  },
-  {
     "id": 1646175,
     "league": "Cup (Russia)",
     "matchTime": "19:30",
     "homeTeam": "Spartak Kostroma",
     "awayTeam": "Volna Nizhegorodskaya",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1558257,
@@ -24,7 +15,7 @@
     "homeTeam": "Chrobry Głogów",
     "awayTeam": "Arka Gdynia",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1558264,
@@ -42,7 +33,7 @@
     "homeTeam": "APR",
     "awayTeam": "Gasogi United",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.15"
   },
   {
     "id": 1638854,
@@ -50,8 +41,8 @@
     "matchTime": "20:00",
     "homeTeam": "Goztepe U19",
     "awayTeam": "AZ U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1640479,
@@ -60,7 +51,7 @@
     "homeTeam": "Lyngby",
     "awayTeam": "Randers FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1642281,
@@ -70,5 +61,14 @@
     "awayTeam": "Ermis",
     "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1647645,
+    "league": "Copa de la Reina (Spain)",
+    "matchTime": "20:00",
+    "homeTeam": "AS Celtas W",
+    "awayTeam": "Espanyol W",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
   }
 ]
