@@ -1,14 +1,26 @@
 [
   {
+    "id": 1531124,
+    "league": "Pro League A (Uzbekistan)",
+    "matchDate": "FT",
+    "homeTeam": "Olimpik-Mobiuz",
+    "awayTeam": "Pakhtakor II",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1648365,
     "league": "League Cup Indonesia",
     "matchDate": "FT",
     "homeTeam": "RANS Nusantara",
     "awayTeam": "Arema FC",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Arema FC Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +30,9 @@
     "homeTeam": "Dejan",
     "awayTeam": "PSM Makassar",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "PSM Makassar Win",
     "outcome": "Won"
   },
   {
@@ -29,8 +41,8 @@
     "matchDate": "FT",
     "homeTeam": "Newcastle Jets",
     "awayTeam": "SHANGHAI SIPG",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeScore": 2,
+    "awayScore": 4,
     "status": "FT",
     "prediction": "SHANGHAI SIPG Win",
     "outcome": "Won"
@@ -129,18 +141,6 @@
     "awayScore": 2,
     "status": "FT",
     "prediction": "Jubilo Iwata Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606738,
-    "league": "J2 League (Japan)",
-    "matchDate": "FT",
-    "homeTeam": "Montedio Yamagata",
-    "awayTeam": "Tokushima Vortis",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Montedio Yamagata Win",
     "outcome": "Won"
   }
 ]
