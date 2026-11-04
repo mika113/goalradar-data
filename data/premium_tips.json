@@ -1,84 +1,12 @@
 [
   {
-    "id": 1565167,
-    "league": "1. Liga U19 (Czech-Republic)",
-    "matchTime": "14:00",
-    "homeTeam": "Zbrojovka Brno U19",
-    "awayTeam": "Teplice U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.4"
-  },
-  {
-    "id": 1568815,
-    "league": "III Liga - Group 2 (Poland)",
-    "matchTime": "14:00",
-    "homeTeam": "Kluczevia Stargard",
-    "awayTeam": "Lech Poznań II",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
-  },
-  {
-    "id": 1611791,
-    "league": "U19 League (Ukraine)",
-    "matchTime": "14:00",
-    "homeTeam": "Obolon' Kyiv U19",
-    "awayTeam": "Metalist 1925 U19",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1611794,
-    "league": "U19 League (Ukraine)",
-    "matchTime": "14:00",
-    "homeTeam": "Veres Rivne U19",
-    "awayTeam": "Kolos Kovalivka U19",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1619616,
-    "league": "Ligue A (Burundi)",
-    "matchTime": "14:00",
-    "homeTeam": "Rukinzo",
-    "awayTeam": "Inter Star",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1630462,
-    "league": "Birinci Dasta (Azerbaijan)",
-    "matchTime": "14:00",
-    "homeTeam": "Mingəçevir",
-    "awayTeam": "Şahdağ",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1637373,
-    "league": "UEFA Youth League (World)",
-    "matchTime": "14:00",
-    "homeTeam": "Fenerbahce U19",
-    "awayTeam": "Liverpool U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
-  },
-  {
-    "id": 1646174,
-    "league": "Cup (Russia)",
-    "matchTime": "14:00",
-    "homeTeam": "Leningradets",
-    "awayTeam": "Ska-khabarovsk",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1647633,
     "league": "Friendlies (World)",
     "matchTime": "14:00",
     "homeTeam": "Slovakia U18",
     "awayTeam": "Hungary U18",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
   },
   {
     "id": 1604159,
@@ -87,7 +15,7 @@
     "homeTeam": "Rakow II",
     "awayTeam": "Kluczbork",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.5"
   },
   {
     "id": 1556465,
@@ -95,8 +23,8 @@
     "matchTime": "15:00",
     "homeTeam": "Tauras",
     "awayTeam": "Minija",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1559407,
@@ -104,7 +32,79 @@
     "matchTime": "15:00",
     "homeTeam": "Grbalj",
     "awayTeam": "Kom",
-    "prediction": "Both Teams To Score",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.65"
+  },
+  {
+    "id": 1559408,
+    "league": "Second League (Montenegro)",
+    "matchTime": "15:00",
+    "homeTeam": "Iskra",
+    "awayTeam": "Jedinstvo",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1559409,
+    "league": "Second League (Montenegro)",
+    "matchTime": "15:00",
+    "homeTeam": "Mogren",
+    "awayTeam": "Berane",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1559410,
+    "league": "Second League (Montenegro)",
+    "matchTime": "15:00",
+    "homeTeam": "Rudar",
+    "awayTeam": "Lovćen",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1559411,
+    "league": "Second League (Montenegro)",
+    "matchTime": "15:00",
+    "homeTeam": "Zeta",
+    "awayTeam": "Mladost Lješkopolje",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1591331,
+    "league": "2. Lig (Turkey)",
+    "matchTime": "15:00",
+    "homeTeam": "Somaspor",
+    "awayTeam": "Sebat Gençlikspor",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1603816,
+    "league": "Third League - Southwest (Bulgaria)",
+    "matchTime": "15:00",
+    "homeTeam": "Botev Ihtiman",
+    "awayTeam": "Oborishte",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1603818,
+    "league": "Third League - Southwest (Bulgaria)",
+    "matchTime": "15:00",
+    "homeTeam": "Kyustendil",
+    "awayTeam": "Strumska Slava",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1603822,
+    "league": "Third League - Southwest (Bulgaria)",
+    "matchTime": "15:00",
+    "homeTeam": "Slavia Sofia II",
+    "awayTeam": "Bansko",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
   }
 ]
