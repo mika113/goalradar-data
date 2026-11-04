@@ -1,14 +1,50 @@
 [
   {
+    "id": 1648372,
+    "league": "League Cup Indonesia",
+    "matchDate": "FT",
+    "homeTeam": "Persikad Depok FC",
+    "awayTeam": "Persiku Kudus",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1648371,
+    "league": "League Cup Indonesia",
+    "matchDate": "FT",
+    "homeTeam": "Java United",
+    "awayTeam": "Bekasi City",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Java United Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1646170,
+    "league": "UEFA Youth League (World)",
+    "matchDate": "FT",
+    "homeTeam": "Kairat U19",
+    "awayTeam": "MTK U19",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1648375,
     "league": "League Cup Indonesia",
     "matchDate": "FT",
     "homeTeam": "PSS Sleman",
     "awayTeam": "PSGC Ciamis",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "PSS Sleman Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +54,9 @@
     "homeTeam": "Bam Khatoon W",
     "awayTeam": "Naegohyang W",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Naegohyang W Win",
     "outcome": "Won"
   },
   {
@@ -29,7 +65,7 @@
     "matchDate": "FT",
     "homeTeam": "April W",
     "awayTeam": "Hồ Chí Minh City W",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "April W Win",
@@ -42,9 +78,9 @@
     "homeTeam": "Enisey",
     "awayTeam": "Nizhny Novgorod",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "status": "FT",
-    "prediction": "Enisey Win",
+    "prediction": "Nizhny Novgorod Win",
     "outcome": "Won"
   },
   {
@@ -65,7 +101,7 @@
     "matchDate": "FT",
     "homeTeam": "Philippine Army",
     "awayTeam": "Azkals",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
     "prediction": "Azkals Win",
@@ -105,42 +141,6 @@
     "awayScore": 1,
     "status": "FT",
     "prediction": "Sporting San Jose Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1549537,
-    "league": "Primera División (Peru)",
-    "matchDate": "FT",
-    "homeTeam": "Alianza Lima",
-    "awayTeam": "Cienciano",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Alianza Lima Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1647432,
-    "league": "Brasileiro U17 (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Cruzeiro U17",
-    "awayTeam": "Corinthians U17",
-    "homeScore": 3,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Cruzeiro U17 Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1492446,
-    "league": "Serie A (Brazil)",
-    "matchDate": "FT",
-    "homeTeam": "Internacional",
-    "awayTeam": "Coritiba",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Internacional Win",
     "outcome": "Won"
   }
 ]
