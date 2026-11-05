@@ -1,50 +1,5 @@
 [
   {
-    "id": 1646176,
-    "league": "Cup (Russia)",
-    "matchTime": "19:30",
-    "homeTeam": "Volga Ulyanovsk",
-    "awayTeam": "Chertanovo Moscow",
-    "prediction": "Double Chance 1X",
-    "odds": "1.5"
-  },
-  {
-    "id": 1619360,
-    "league": "Premier League Women (Saudi-Arabia)",
-    "matchTime": "19:45",
-    "homeTeam": "Neom SC W",
-    "awayTeam": "Al Hilal W",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1634114,
-    "league": "Premier League (Botswana)",
-    "matchTime": "20:00",
-    "homeTeam": "Police XI",
-    "awayTeam": "Township Rollers",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1635319,
-    "league": "Premier League (Uganda)",
-    "matchTime": "20:00",
-    "homeTeam": "Vipers",
-    "awayTeam": "Lugazi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1603088,
-    "league": "Pro League (Saudi-Arabia)",
-    "matchTime": "20:30",
-    "homeTeam": "Al-Qadisiyah FC",
-    "awayTeam": "Al-Fayha",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
     "id": 1621392,
     "league": "Liga Alef (Israel)",
     "matchTime": "20:30",
@@ -60,7 +15,7 @@
     "homeTeam": "Aarhus",
     "awayTeam": "SC Braga",
     "prediction": "Double Chance 1X",
-    "odds": "1.42"
+    "odds": "1.45"
   },
   {
     "id": 1636383,
@@ -68,8 +23,8 @@
     "matchTime": "20:45",
     "homeTeam": "Atalanta",
     "awayTeam": "Kairat Almaty",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1636399,
@@ -78,7 +33,7 @@
     "homeTeam": "FK Crvena Zvezda",
     "awayTeam": "Inter Club d'Escaldes",
     "prediction": "FK Crvena Zvezda Win & Over 1.5",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1636439,
@@ -87,6 +42,51 @@
     "homeTeam": "KuPS",
     "awayTeam": "Gent",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
+  },
+  {
+    "id": 1636444,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:45",
+    "homeTeam": "Lincoln Red Imps FC",
+    "awayTeam": "HNK Hajduk Split",
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
+  },
+  {
+    "id": 1636448,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:45",
+    "homeTeam": "FC Midtjylland",
+    "awayTeam": "Ajax",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
+  },
+  {
+    "id": 1636452,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:45",
+    "homeTeam": "Mjallby AIF",
+    "awayTeam": "Borac Banja Luka",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1636473,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:45",
+    "homeTeam": "FC Thun",
+    "awayTeam": "Heart Of Midlothian",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1636476,
+    "league": "UEFA Europa Conference League (World)",
+    "matchTime": "20:45",
+    "homeTeam": "Trabzonspor",
+    "awayTeam": "SC Freiburg",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
