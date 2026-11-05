@@ -5,10 +5,10 @@
     "matchDate": "FT",
     "homeTeam": "São Paulo U20",
     "awayTeam": "Ceará U20",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -29,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Omonia 29is Maiou",
     "awayTeam": "Polemidion",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Omonia 29is Maiou Win",
     "outcome": "Won"
   },
   {
@@ -42,9 +42,9 @@
     "homeTeam": "Racing Club Res.",
     "awayTeam": "Rosario Central Res.",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Rosario Central Res. Win",
     "outcome": "Won"
   },
   {
@@ -137,7 +137,7 @@
     "matchDate": "FT",
     "homeTeam": "FC Thun",
     "awayTeam": "Heart Of Midlothian",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
     "prediction": "FC Thun Win",
