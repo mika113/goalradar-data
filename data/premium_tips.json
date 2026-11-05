@@ -6,7 +6,7 @@
     "homeTeam": "Hapoel Beer Sheva",
     "awayTeam": "OFI",
     "prediction": "Double Chance 1X",
-    "odds": "1.32"
+    "odds": "1.35"
   },
   {
     "id": 1636339,
@@ -15,7 +15,7 @@
     "homeTeam": "Sturm Graz",
     "awayTeam": "Celje",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.28"
   },
   {
     "id": 1636345,
@@ -23,8 +23,8 @@
     "matchTime": "23:00",
     "homeTeam": "Sunderland",
     "awayTeam": "Dinamo Zagreb",
-    "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   },
   {
     "id": 1636347,
@@ -54,31 +54,13 @@
     "odds": "1.25"
   },
   {
-    "id": 1606557,
-    "league": "Second Division (Qatar)",
-    "matchTime": "17:15",
-    "homeTeam": "Al-Markhiya",
-    "awayTeam": "Al Waab",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1606559,
-    "league": "Second Division (Qatar)",
-    "matchTime": "17:15",
-    "homeTeam": "Qatar U23",
-    "awayTeam": "Al-Khor",
-    "prediction": "Double Chance X2",
-    "odds": "1.42"
-  },
-  {
     "id": 1602542,
     "league": "Liga II (Romania)",
     "matchTime": "18:00",
     "homeTeam": "Chindia Targoviste",
     "awayTeam": "Popești-Leordeni",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1621671,
@@ -87,7 +69,7 @@
     "homeTeam": "FC Jerusalem",
     "awayTeam": "Dimona",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1648293,
@@ -96,7 +78,7 @@
     "homeTeam": "National Bank of Egypt",
     "awayTeam": "Bur Fouad",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.2"
   },
   {
     "id": 1603080,
@@ -105,6 +87,24 @@
     "homeTeam": "Abha",
     "awayTeam": "Al Shabab",
     "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1642129,
+    "league": "Professional League (Oman)",
+    "matchTime": "18:20",
+    "homeTeam": "Dhofar",
+    "awayTeam": "Saham",
+    "prediction": "Double Chance 1X",
     "odds": "1.3"
+  },
+  {
+    "id": 1628031,
+    "league": "Iraqi League",
+    "matchTime": "18:30",
+    "homeTeam": "Mosul",
+    "awayTeam": "Duhok",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
