@@ -6,7 +6,7 @@
     "homeTeam": "Sturm Graz",
     "awayTeam": "Celje",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1636345,
@@ -24,7 +24,7 @@
     "homeTeam": "Torreense",
     "awayTeam": "Ararat-Armenia",
     "prediction": "Double Chance X2",
-    "odds": "1.38"
+    "odds": "1.3"
   },
   {
     "id": 1644379,
@@ -32,8 +32,8 @@
     "matchTime": "21:00",
     "homeTeam": "Tarancón",
     "awayTeam": "Levante",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   },
   {
     "id": 1644334,
@@ -45,58 +45,13 @@
     "odds": "1.25"
   },
   {
-    "id": 1628031,
-    "league": "Iraqi League",
-    "matchTime": "18:30",
-    "homeTeam": "Mosul",
-    "awayTeam": "Duhok",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1647001,
-    "league": "Ligue 1 (Ivory-Coast)",
-    "matchTime": "18:30",
-    "homeTeam": "Bouaké",
-    "awayTeam": "Korhogo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.32"
-  },
-  {
-    "id": 1647002,
-    "league": "Ligue 1 (Ivory-Coast)",
-    "matchTime": "18:30",
-    "homeTeam": "San-Pédro",
-    "awayTeam": "SOA",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
-    "id": 1647003,
-    "league": "Ligue 1 (Ivory-Coast)",
-    "matchTime": "18:30",
-    "homeTeam": "Stella",
-    "awayTeam": "AFAD",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1635320,
-    "league": "Premier League (Uganda)",
-    "matchTime": "19:00",
-    "homeTeam": "Express",
-    "awayTeam": "Blacks Power",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
     "id": 1606558,
     "league": "Second Division (Qatar)",
     "matchTime": "19:30",
     "homeTeam": "Al Rayyan SC B",
     "awayTeam": "Al Kharaitiyat",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.35"
   },
   {
     "id": 1637146,
@@ -105,6 +60,51 @@
     "homeTeam": "Teungueth",
     "awayTeam": "Ouakam",
     "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1646176,
+    "league": "Cup (Russia)",
+    "matchTime": "19:30",
+    "homeTeam": "Volga Ulyanovsk",
+    "awayTeam": "Chertanovo Moscow",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1619360,
+    "league": "Premier League Women (Saudi-Arabia)",
+    "matchTime": "19:45",
+    "homeTeam": "Neom SC W",
+    "awayTeam": "Al Hilal W",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
+  },
+  {
+    "id": 1634114,
+    "league": "Premier League (Botswana)",
+    "matchTime": "20:00",
+    "homeTeam": "Police XI",
+    "awayTeam": "Township Rollers",
+    "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1635319,
+    "league": "Premier League (Uganda)",
+    "matchTime": "20:00",
+    "homeTeam": "Vipers",
+    "awayTeam": "Lugazi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1603088,
+    "league": "Pro League (Saudi-Arabia)",
+    "matchTime": "20:30",
+    "homeTeam": "Al-Qadisiyah FC",
+    "awayTeam": "Al-Fayha",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   }
 ]
