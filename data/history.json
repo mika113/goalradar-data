@@ -1,14 +1,38 @@
 [
   {
+    "id": 1621392,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Beitar Nahariya",
+    "awayTeam": "Tzeirey Tamra",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1635319,
+    "league": "Premier League (Uganda)",
+    "matchDate": "FT",
+    "homeTeam": "Vipers",
+    "awayTeam": "Lugazi",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1646176,
     "league": "Cup (Russia)",
     "matchDate": "FT",
     "homeTeam": "Volga Ulyanovsk",
     "awayTeam": "Chertanovo Moscow",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 1,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,9 +54,9 @@
     "homeTeam": "Al Rayyan SC B",
     "awayTeam": "Al Kharaitiyat",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al Kharaitiyat Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Stella",
     "awayTeam": "AFAD",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "AFAD Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -66,9 +90,9 @@
     "homeTeam": "Mosul",
     "awayTeam": "Duhok",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Duhok Win",
     "outcome": "Won"
   },
   {
@@ -101,46 +125,22 @@
     "matchDate": "FT",
     "homeTeam": "Ampem Darkoa W",
     "awayTeam": "Kawempe Muslim W",
-    "homeScore": 1,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1602542,
-    "league": "Liga II (Romania)",
-    "matchDate": "FT",
-    "homeTeam": "Chindia Targoviste",
-    "awayTeam": "Popești-Leordeni",
-    "homeScore": 4,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Chindia Targoviste Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606559,
-    "league": "Second Division (Qatar)",
-    "matchDate": "FT",
-    "homeTeam": "Qatar U23",
-    "awayTeam": "Al-Khor",
-    "homeScore": 0,
-    "awayScore": 3,
-    "status": "FT",
-    "prediction": "Al-Khor Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1606557,
-    "league": "Second Division (Qatar)",
-    "matchDate": "FT",
-    "homeTeam": "Al-Markhiya",
-    "awayTeam": "Al Waab",
     "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Ampem Darkoa W Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1621671,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "FC Jerusalem",
+    "awayTeam": "Dimona",
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Al-Markhiya Win",
+    "prediction": "FC Jerusalem Win",
     "outcome": "Won"
   }
 ]
