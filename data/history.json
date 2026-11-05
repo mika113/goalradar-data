@@ -1,5 +1,17 @@
 [
   {
+    "id": 1647258,
+    "league": "Copa do Brasil U20 (Brazil)",
+    "matchDate": "FT",
+    "homeTeam": "Paysandu PA U20",
+    "awayTeam": "Palmeiras U20",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1648481,
     "league": "Premier League (Jamaica)",
     "matchDate": "FT",
@@ -17,10 +29,10 @@
     "matchDate": "FT",
     "homeTeam": "Universitatea Craiova",
     "awayTeam": "Egnatia Rrogozhinë",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Universitatea Craiova Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Riga",
     "awayTeam": "FK Jablonec",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Riga Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Monaco",
     "awayTeam": "FC Nordsjaelland",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Monaco Win",
     "outcome": "Won"
   },
   {
@@ -89,10 +101,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Lugano",
     "awayTeam": "Kauno Žalgiris",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Lugano Win",
     "outcome": "Won"
   },
   {
@@ -113,10 +125,10 @@
     "matchDate": "FT",
     "homeTeam": "FC Copenhagen",
     "awayTeam": "FC Iberia 1999",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "FC Copenhagen Win",
     "outcome": "Won"
   },
   {
@@ -125,22 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Torreense",
     "awayTeam": "Ararat-Armenia",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1636345,
-    "league": "UEFA Europa League (World)",
-    "matchDate": "FT",
-    "homeTeam": "Sunderland",
-    "awayTeam": "Dinamo Zagreb",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Torreense Win",
     "outcome": "Won"
   }
 ]
