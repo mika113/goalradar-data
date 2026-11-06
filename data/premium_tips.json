@@ -1,30 +1,12 @@
 [
   {
-    "id": 1574159,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "21:30",
-    "homeTeam": "Krems / Rehberg",
-    "awayTeam": "Leobendorf",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1574160,
-    "league": "Regionalliga - Ost (Austria)",
-    "matchTime": "21:30",
-    "homeTeam": "Oberwart",
-    "awayTeam": "Wiener SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
     "id": 1587537,
     "league": "Regionalliga - West (Germany)",
     "matchTime": "21:30",
     "homeTeam": "Hilden",
     "awayTeam": "SV Rodinghausen",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.62"
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   },
   {
     "id": 1592275,
@@ -32,8 +14,8 @@
     "matchTime": "21:30",
     "homeTeam": "Verl II",
     "awayTeam": "Arminia II",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1592561,
@@ -41,8 +23,8 @@
     "matchTime": "21:30",
     "homeTeam": "Wuppertaler SV",
     "awayTeam": "Meerbusch",
-    "prediction": "Wuppertaler SV Win & Over 1.5",
-    "odds": "1.4"
+    "prediction": "Double Chance 1X",
+    "odds": "1.15"
   },
   {
     "id": 1598972,
@@ -69,7 +51,7 @@
     "homeTeam": "Limonest",
     "awayTeam": "Andrézieux",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1604293,
@@ -77,8 +59,8 @@
     "matchTime": "21:30",
     "homeTeam": "Oberneuland",
     "awayTeam": "Leher TS",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.35"
+    "prediction": "Double Chance X2",
+    "odds": "1.2"
   },
   {
     "id": 1611651,
@@ -86,7 +68,7 @@
     "matchTime": "21:30",
     "homeTeam": "Waasland-Beveren U21",
     "awayTeam": "RFC Seraing Reserve U21",
-    "prediction": "Waasland-Beveren U21 Win",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.45"
   },
   {
@@ -96,7 +78,7 @@
     "homeTeam": "CS Bamako",
     "awayTeam": "Binga",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1576522,
@@ -105,6 +87,24 @@
     "homeTeam": "AVS",
     "awayTeam": "Vizela",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
+  },
+  {
+    "id": 1551867,
+    "league": "Eerste Divisie (Netherlands)",
+    "matchTime": "22:00",
+    "homeTeam": "Dordrecht",
+    "awayTeam": "NAC Breda",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
+  },
+  {
+    "id": 1551868,
+    "league": "Eerste Divisie (Netherlands)",
+    "matchTime": "22:00",
+    "homeTeam": "FC Eindhoven",
+    "awayTeam": "Jong Ajax",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
