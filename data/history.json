@@ -1,5 +1,77 @@
 [
   {
+    "id": 1643377,
+    "league": "League (Jordan)",
+    "matchDate": "FT",
+    "homeTeam": "Al Buqa'a",
+    "awayTeam": "Al Wihdat",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1628038,
+    "league": "Iraqi League",
+    "matchDate": "FT",
+    "homeTeam": "Newroz",
+    "awayTeam": "Karbala",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1597959,
+    "league": "Stars League (Qatar)",
+    "matchDate": "FT",
+    "homeTeam": "Al Wakrah",
+    "awayTeam": "Al Shahaniya",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1577997,
+    "league": "3. liga - MSFL (Czech-Republic)",
+    "matchDate": "FT",
+    "homeTeam": "Líšeň II",
+    "awayTeam": "Uničov",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1561440,
+    "league": "Premier League (Russia)",
+    "matchDate": "FT",
+    "homeTeam": "Lokomotiv",
+    "awayTeam": "Rubin",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1558042,
+    "league": "1. SNL (Slovenia)",
+    "matchDate": "FT",
+    "homeTeam": "Nafta",
+    "awayTeam": "Olimpija Ljubljana",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1648993,
     "league": "Second League - Final Four (Russia)",
     "matchDate": "FT",
@@ -17,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "USFAS Bamako",
     "awayTeam": "Afrique Football Élite",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "USFAS Bamako Win",
     "outcome": "Won"
   },
   {
@@ -41,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Tshwane University W",
     "awayTeam": "JVW FC W",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Tshwane University W Win",
     "outcome": "Won"
   },
   {
@@ -66,81 +138,9 @@
     "homeTeam": "Karlovac 1919",
     "awayTeam": "Vukovar",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1577996,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchDate": "FT",
-    "homeTeam": "Hranice",
-    "awayTeam": "Zbrojovka Brno II",
-    "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
-    "outcome": "Won"
-  },
-  {
-    "id": 1561189,
-    "league": "2. liga (Slovakia)",
-    "matchDate": "FT",
-    "homeTeam": "Pohronie",
-    "awayTeam": "Baník Lehota p.Vtáčnikom",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Pohronie Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1558557,
-    "league": "First League (Montenegro)",
-    "matchDate": "FT",
-    "homeTeam": "Bokelj",
-    "awayTeam": "Mornar",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "FT",
-    "prediction": "Mornar Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519197,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Zenit U19",
-    "awayTeam": "Fakel U19",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1628030,
-    "league": "Iraqi League",
-    "matchDate": "FT",
-    "homeTeam": "Al-Karma",
-    "awayTeam": "Naft Maysan",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Al-Karma Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1565302,
-    "league": "Liga I (Romania)",
-    "matchDate": "FT",
-    "homeTeam": "Uta Arad",
-    "awayTeam": "Petrolul Ploiesti",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Vukovar Win",
     "outcome": "Won"
   }
 ]
