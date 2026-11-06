@@ -1,14 +1,38 @@
 [
   {
+    "id": 1648294,
+    "league": "Cup (Egypt)",
+    "matchDate": "FT",
+    "homeTeam": "Smouha SC",
+    "awayTeam": "El Minya",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1642062,
+    "league": "Premier League (Lebanon)",
+    "matchDate": "FT",
+    "homeTeam": "Reyady Abaseya",
+    "awayTeam": "Al Hikma",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1645695,
     "league": "Premier League (Syria)",
     "matchDate": "FT",
     "homeTeam": "Qamishli",
     "awayTeam": "Hottin",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hottin Win",
     "outcome": "Won"
   },
   {
@@ -18,9 +42,9 @@
     "homeTeam": "Horriya",
     "awayTeam": "Shorta",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Horriya Win",
+    "prediction": "Both Teams To Score",
     "outcome": "Won"
   },
   {
@@ -30,9 +54,9 @@
     "homeTeam": "Al Nawaeir",
     "awayTeam": "Al Taliya",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Al Taliya Win",
     "outcome": "Won"
   },
   {
