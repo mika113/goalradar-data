@@ -1,29 +1,11 @@
 [
   {
-    "id": 1633685,
-    "league": "Liga III - Serie 7 (Romania)",
-    "matchTime": "15:00",
-    "homeTeam": "Universitatea Alba Iulia",
-    "awayTeam": "Nera Bogodinţi",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1633812,
-    "league": "Liga III - Serie 8 (Romania)",
-    "matchTime": "15:00",
-    "homeTeam": "Academica Recea",
-    "awayTeam": "SCM Zalău",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
     "id": 1633815,
     "league": "Liga III - Serie 8 (Romania)",
     "matchTime": "15:00",
     "homeTeam": "Unirea Dej",
     "awayTeam": "Bihorul Beiuş",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
   },
   {
@@ -32,8 +14,8 @@
     "matchTime": "15:00",
     "homeTeam": "Viitorul Cluj",
     "awayTeam": "Sânmartin",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1639681,
@@ -51,7 +33,7 @@
     "homeTeam": "Sepahan FC",
     "awayTeam": "Malavan",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1645692,
@@ -69,7 +51,7 @@
     "homeTeam": "Horriya",
     "awayTeam": "Shorta",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1645695,
@@ -78,7 +60,7 @@
     "homeTeam": "Qamishli",
     "awayTeam": "Hottin",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.45"
   },
   {
     "id": 1642062,
@@ -88,5 +70,23 @@
     "awayTeam": "Al Hikma",
     "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1634386,
+    "league": "Division 2 (Saudi-Arabia)",
+    "matchTime": "15:30",
+    "homeTeam": "Al Qalah",
+    "awayTeam": "Afif",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1648294,
+    "league": "Cup (Egypt)",
+    "matchTime": "15:30",
+    "homeTeam": "Smouha SC",
+    "awayTeam": "El Minya",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
   }
 ]
