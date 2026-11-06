@@ -1,5 +1,41 @@
 [
   {
+    "id": 1621673,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Ramat HaSharon",
+    "awayTeam": "Hapoel Herzliya",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT",
+    "prediction": "Hapoel Herzliya Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1621900,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Hapoel Ihud Bnei Jatt",
+    "awayTeam": "Ironi Nesher",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1621672,
+    "league": "Liga Alef (Israel)",
+    "matchDate": "FT",
+    "homeTeam": "Kfar Saba 1928",
+    "awayTeam": "Maccabi Yavne",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1648992,
     "league": "Second League - Final Four (Russia)",
     "matchDate": "FT",
@@ -30,9 +66,9 @@
     "homeTeam": "Hồng Lĩnh Hà Tĩnh",
     "awayTeam": "Nam Dinh",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Nam Dinh Win",
     "outcome": "Won"
   },
   {
@@ -53,10 +89,10 @@
     "matchDate": "FT",
     "homeTeam": "Maccabi Nujeidat Ahmed",
     "awayTeam": "Hapoel Tirat HaCarmel",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Maccabi Nujeidat Ahmed Win",
     "outcome": "Won"
   },
   {
@@ -66,9 +102,9 @@
     "homeTeam": "Van",
     "awayTeam": "Pyunik Yerevan",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pyunik Yerevan Win",
     "outcome": "Won"
   },
   {
@@ -77,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "Zagłębie Lubin II",
     "awayTeam": "Goczałkowice Zdrój",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Zagłębie Lubin II Win",
     "outcome": "Won"
   },
   {
@@ -102,45 +138,9 @@
     "homeTeam": "Obolon'-Brovar",
     "awayTeam": "Livyi Bereh",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1519196,
-    "league": "Youth Championship (Russia)",
-    "matchDate": "FT",
-    "homeTeam": "Rodina Moscow U19",
-    "awayTeam": "Akademiya Konoplev U20",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1621391,
-    "league": "Liga Alef (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Tira",
-    "awayTeam": "Hapoel Nazareth Illit",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Tira Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1621668,
-    "league": "Liga Alef (Israel)",
-    "matchDate": "FT",
-    "homeTeam": "Holon Yermiyahu",
-    "awayTeam": "Hapoel Mahane Yehuda",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Livyi Bereh Win",
     "outcome": "Won"
   }
 ]
