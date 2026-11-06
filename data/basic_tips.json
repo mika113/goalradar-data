@@ -1,21 +1,12 @@
 [
   {
-    "id": 1642062,
-    "league": "Premier League (Lebanon)",
-    "matchTime": "15:15",
-    "homeTeam": "Reyady Abaseya",
-    "awayTeam": "Al Hikma",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1634386,
     "league": "Division 2 (Saudi-Arabia)",
     "matchTime": "15:30",
     "homeTeam": "Al Qalah",
     "awayTeam": "Afif",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1648294,
@@ -24,7 +15,7 @@
     "homeTeam": "Smouha SC",
     "awayTeam": "El Minya",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.2"
   },
   {
     "id": 1644277,
@@ -33,7 +24,7 @@
     "homeTeam": "Al Thaid",
     "awayTeam": "Emirates Club",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.65"
   },
   {
     "id": 1644278,
@@ -42,7 +33,7 @@
     "homeTeam": "Dibba Al-Fujairah",
     "awayTeam": "Al Hamriyah",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1644279,
@@ -51,6 +42,15 @@
     "homeTeam": "Dubai City",
     "awayTeam": "Forte Virtus",
     "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1555203,
+    "league": "Liga Leumit (Israel)",
+    "matchTime": "16:00",
+    "homeTeam": "Bnei Yehuda",
+    "awayTeam": "Maccabi Ahi Nazareth",
+    "prediction": "Double Chance 1X",
     "odds": "1.35"
   }
 ]
