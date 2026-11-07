@@ -1,21 +1,12 @@
 [
   {
-    "id": 1613402,
-    "league": "Tercera División RFEF - Group 3 (Spain)",
-    "matchTime": "20:45",
-    "homeTeam": "Sámano",
-    "awayTeam": "Selaya",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
     "id": 1493234,
     "league": "Liga Profesional Argentina",
     "matchTime": "21:00",
     "homeTeam": "Gimnasia M.",
     "awayTeam": "Independ. Rivadavia",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1493239,
@@ -24,7 +15,7 @@
     "homeTeam": "Talleres Cordoba",
     "awayTeam": "Estudiantes L.P.",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1505557,
@@ -33,7 +24,7 @@
     "homeTeam": "D. La Serena",
     "awayTeam": "Palestino",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1549545,
@@ -42,7 +33,7 @@
     "homeTeam": "ADT",
     "awayTeam": "Sporting Cristal",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1562114,
@@ -50,7 +41,7 @@
     "matchTime": "21:00",
     "homeTeam": "Linfield",
     "awayTeam": "Coleraine FC",
-    "prediction": "Both Teams To Score",
+    "prediction": "Over 2.5 Goals",
     "odds": "1.65"
   },
   {
@@ -59,8 +50,8 @@
     "matchTime": "21:00",
     "homeTeam": "Ciudad de Lucena",
     "awayTeam": "Badajoz",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1594195,
@@ -78,7 +69,7 @@
     "homeTeam": "Artsul",
     "awayTeam": "Goytacaz",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1600286,
@@ -87,6 +78,15 @@
     "homeTeam": "Campo Grande",
     "awayTeam": "Audax Rio",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.5"
+  },
+  {
+    "id": 1600287,
+    "league": "Carioca - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Petrópolis",
+    "awayTeam": "Duque de Caxias",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
