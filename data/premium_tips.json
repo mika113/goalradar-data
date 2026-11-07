@@ -1,30 +1,12 @@
 [
   {
-    "id": 1585828,
-    "league": "1. Lig (Turkey)",
-    "matchTime": "13:30",
-    "homeTeam": "Vanspor FK",
-    "awayTeam": "Sivasspor",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1602545,
-    "league": "Liga II (Romania)",
-    "matchTime": "13:30",
-    "homeTeam": "Bihor Oradea",
-    "awayTeam": "Slatina",
-    "prediction": "Double Chance 1X",
-    "odds": "1.3"
-  },
-  {
     "id": 1623651,
     "league": "Campionato Primavera - 2 (Italy)",
     "matchTime": "13:30",
     "homeTeam": "Latina U19",
     "awayTeam": "Benevento U19",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "prediction": "Double Chance X2",
+    "odds": "1.32"
   },
   {
     "id": 1623658,
@@ -33,7 +15,7 @@
     "homeTeam": "Salernitana U19",
     "awayTeam": "Pisa U19",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1644136,
@@ -51,7 +33,7 @@
     "homeTeam": "Podillya Khmelnytskyi",
     "awayTeam": "Dnister Zalishchyky",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1593701,
@@ -60,7 +42,7 @@
     "homeTeam": "Perth Glory",
     "awayTeam": "Newcastle Jets",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1507487,
@@ -77,8 +59,8 @@
     "matchTime": "14:00",
     "homeTeam": "Andijan",
     "awayTeam": "Lokomotiv",
-    "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1527745,
@@ -87,7 +69,7 @@
     "homeTeam": "Istiqlol",
     "awayTeam": "Khatlon",
     "prediction": "Double Chance 1X",
-    "odds": "1.2"
+    "odds": "1.22"
   },
   {
     "id": 1529659,
@@ -96,7 +78,7 @@
     "homeTeam": "JDFS Alberts",
     "awayTeam": "JFK Ventspils",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1529660,
@@ -105,6 +87,24 @@
     "homeTeam": "Metta / LU",
     "awayTeam": "Mārupe",
     "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1529661,
+    "league": "1. Liga (Latvia)",
+    "matchTime": "14:00",
+    "homeTeam": "Rēzekne FA",
+    "awayTeam": "Smiltene",
+    "prediction": "Double Chance X2",
     "odds": "1.18"
+  },
+  {
+    "id": 1529662,
+    "league": "1. Liga (Latvia)",
+    "matchTime": "14:00",
+    "homeTeam": "Rīgas FS II",
+    "awayTeam": "Tukums II",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
