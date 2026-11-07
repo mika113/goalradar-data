@@ -1,30 +1,12 @@
 [
   {
-    "id": 1570451,
-    "league": "La Liga (Spain)",
-    "matchTime": "23:00",
-    "homeTeam": "Valencia",
-    "awayTeam": "Real Madrid",
-    "prediction": "Double Chance X2",
-    "odds": "1.18"
-  },
-  {
-    "id": 1550187,
-    "league": "Serie A (Italy)",
-    "matchTime": "22:45",
-    "homeTeam": "AS Roma",
-    "awayTeam": "Sassuolo",
-    "prediction": "Double Chance 1X",
-    "odds": "1.18"
-  },
-  {
     "id": 1552815,
     "league": "Ligue 1 (France)",
     "matchTime": "23:05",
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Estac Troyes",
-    "prediction": "Paris Saint Germain Win",
-    "odds": "1.2"
+    "prediction": "Paris Saint Germain Win & Over 1.5",
+    "odds": "1.3"
   },
   {
     "id": 1575543,
@@ -34,15 +16,6 @@
     "awayTeam": "Moreirense",
     "prediction": "Double Chance 1X",
     "odds": "1.2"
-  },
-  {
-    "id": 1552218,
-    "league": "Eredivisie (Netherlands)",
-    "matchTime": "23:00",
-    "homeTeam": "Excelsior",
-    "awayTeam": "GO Ahead Eagles",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
   },
   {
     "id": 1490600,
@@ -59,8 +32,8 @@
     "matchTime": "00:00",
     "homeTeam": "FC Cincinnati",
     "awayTeam": "Nashville SC",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1490602,
@@ -69,7 +42,7 @@
     "homeTeam": "Philadelphia Union",
     "awayTeam": "Toronto FC",
     "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "odds": "1.62"
   },
   {
     "id": 1490603,
@@ -78,7 +51,7 @@
     "homeTeam": "New York Red Bulls",
     "awayTeam": "Atlanta United FC",
     "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1490604,
@@ -87,7 +60,7 @@
     "homeTeam": "CF Montreal",
     "awayTeam": "Vancouver Whitecaps",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1490605,
@@ -96,7 +69,7 @@
     "homeTeam": "Chicago Fire",
     "awayTeam": "Columbus Crew",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1490606,
@@ -114,7 +87,7 @@
     "homeTeam": "DC United",
     "awayTeam": "New York City FC",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1490608,
@@ -123,7 +96,7 @@
     "homeTeam": "Seattle Sounders",
     "awayTeam": "Los Angeles FC",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1490609,
@@ -131,8 +104,8 @@
     "matchTime": "03:00",
     "homeTeam": "Real Salt Lake",
     "awayTeam": "Los Angeles Galaxy",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
   },
   {
     "id": 1490610,
@@ -140,8 +113,8 @@
     "matchTime": "03:00",
     "homeTeam": "FC Dallas",
     "awayTeam": "Colorado Rapids",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.65"
+    "prediction": "Double Chance 1X",
+    "odds": "1.32"
   },
   {
     "id": 1490611,
@@ -150,7 +123,7 @@
     "homeTeam": "Austin",
     "awayTeam": "Portland Timbers",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1490612,
@@ -159,187 +132,25 @@
     "homeTeam": "San Diego",
     "awayTeam": "Sporting Kansas City",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1558671,
-    "league": "Jupiler Pro League (Belgium)",
-    "matchTime": "22:45",
-    "homeTeam": "Antwerp",
-    "awayTeam": "Lommel United",
-    "prediction": "Double Chance 1X",
     "odds": "1.3"
   },
   {
-    "id": 1558675,
-    "league": "Jupiler Pro League (Belgium)",
-    "matchTime": "22:45",
-    "homeTeam": "RAAL La Louvière",
-    "awayTeam": "Cercle Brugge",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
-  },
-  {
-    "id": 1646813,
-    "league": "FA Cup (England)",
-    "matchTime": "23:00",
-    "homeTeam": "Peterborough",
-    "awayTeam": "Reading",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
-  },
-  {
-    "id": 1555419,
-    "league": "Super League (Switzerland)",
-    "matchTime": "22:30",
-    "homeTeam": "Grasshoppers",
-    "awayTeam": "Lausanne",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1576227,
-    "league": "2. Bundesliga (Germany)",
-    "matchTime": "22:30",
-    "homeTeam": "Hertha BSC",
-    "awayTeam": "VfL Wolfsburg",
+    "id": 1490613,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Minnesota United FC",
+    "awayTeam": "San Jose Earthquakes",
     "prediction": "Double Chance 1X",
     "odds": "1.35"
   },
   {
-    "id": 1623160,
-    "league": "1a Divisió (Andorra)",
-    "matchTime": "22:30",
-    "homeTeam": "Casa de Portugal",
-    "awayTeam": "Esperança d'Andorra",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
-  },
-  {
-    "id": 1645262,
-    "league": "Eerste Divisie (Suriname)",
-    "matchTime": "22:30",
-    "homeTeam": "Inter Moengotapoe",
-    "awayTeam": "Robin Hood",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1580796,
-    "league": "FAW Championship (Wales)",
-    "matchTime": "22:45",
-    "homeTeam": "Carmarthen Town",
-    "awayTeam": "Aberystwyth Town",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1648437,
-    "league": "Premier League (Mauritania)",
-    "matchTime": "22:50",
-    "homeTeam": "Pompiers",
-    "awayTeam": "Armée",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1556704,
-    "league": "Premiership (Scotland)",
-    "matchTime": "23:00",
-    "homeTeam": "ST Mirren",
-    "awayTeam": "Rangers",
-    "prediction": "Double Chance X2",
-    "odds": "1.18"
-  },
-  {
-    "id": 1570010,
-    "league": "Segunda División (Spain)",
-    "matchTime": "23:00",
-    "homeTeam": "Granada CF",
-    "awayTeam": "Tenerife",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
-    "id": 1571205,
-    "league": "Primera División RFEF - Group 2 (Spain)",
-    "matchTime": "23:00",
-    "homeTeam": "Zaragoza",
-    "awayTeam": "Huesca",
+    "id": 1490614,
+    "league": "Major League Soccer (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Houston Dynamo",
+    "awayTeam": "St. Louis City",
     "prediction": "Double Chance 1X",
     "odds": "1.4"
-  },
-  {
-    "id": 1581012,
-    "league": "Feminine Division 1 (France)",
-    "matchTime": "23:00",
-    "homeTeam": "Saint-Malo W",
-    "awayTeam": "Marseille W",
-    "prediction": "Double Chance X2",
-    "odds": "1.28"
-  },
-  {
-    "id": 1597808,
-    "league": "Liga 3 (Portugal)",
-    "matchTime": "23:00",
-    "homeTeam": "AD Marco 09",
-    "awayTeam": "Paredes",
-    "prediction": "Double Chance X2",
-    "odds": "1.3"
-  },
-  {
-    "id": 1632057,
-    "league": "Division Profesional - Clausura (Paraguay)",
-    "matchTime": "23:00",
-    "homeTeam": "Club Guarani",
-    "awayTeam": "Olimpia",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1634933,
-    "league": "Liga Mayor (Dominican-Republic)",
-    "matchTime": "23:00",
-    "homeTeam": "Atlántico",
-    "awayTeam": "Universidad O&M",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1634935,
-    "league": "Liga Mayor (Dominican-Republic)",
-    "matchTime": "23:00",
-    "homeTeam": "Delfines Del Este",
-    "awayTeam": "Moca",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1634936,
-    "league": "Liga Mayor (Dominican-Republic)",
-    "matchTime": "23:00",
-    "homeTeam": "Jarabacoa",
-    "awayTeam": "Vega Real",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1640393,
-    "league": "Copa Fares Lopes (Brazil)",
-    "matchTime": "23:00",
-    "homeTeam": "Icasa",
-    "awayTeam": "Guarani De Juazeiro",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1646872,
-    "league": "Botola Pro (Morocco)",
-    "matchTime": "23:00",
-    "homeTeam": "Moghreb Tetouan",
-    "awayTeam": "CODM Meknès",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
   },
   {
     "id": 1493228,
@@ -348,7 +159,7 @@
     "homeTeam": "Argentinos JRS",
     "awayTeam": "Huracan",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1493231,
@@ -366,7 +177,7 @@
     "homeTeam": "Rosario Central",
     "awayTeam": "Estudiantes de Rio Cuarto",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.2"
   },
   {
     "id": 1505556,
@@ -411,7 +222,7 @@
     "homeTeam": "Deportivo Universitario",
     "awayTeam": "Veraguas",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1583805,
@@ -420,7 +231,7 @@
     "homeTeam": "Herrera",
     "awayTeam": "Independiente de La Chorrera",
     "prediction": "Double Chance X2",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1583806,
@@ -429,7 +240,7 @@
     "homeTeam": "San Francisco FC",
     "awayTeam": "Union Cocle",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1600649,
@@ -438,7 +249,7 @@
     "homeTeam": "Platense",
     "awayTeam": "Cacahuatique",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1600693,
@@ -456,7 +267,7 @@
     "homeTeam": "Pioneros de Cancún",
     "awayTeam": "Reboceros La Piedad",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.32"
   },
   {
     "id": 1638240,
@@ -473,8 +284,8 @@
     "matchTime": "00:00",
     "homeTeam": "Juticalpa",
     "awayTeam": "Estrella Roja",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1647440,
@@ -482,8 +293,8 @@
     "matchTime": "00:00",
     "homeTeam": "Cavalry FC",
     "awayTeam": "Supra du Quebec",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   },
   {
     "id": 1649412,
@@ -501,7 +312,7 @@
     "homeTeam": "Once Caldas",
     "awayTeam": "Águilas Doradas",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1645536,
@@ -510,7 +321,7 @@
     "homeTeam": "Always Ready",
     "awayTeam": "ABB",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.15"
   },
   {
     "id": 1631635,
@@ -519,7 +330,7 @@
     "homeTeam": "Celaya 2",
     "awayTeam": "Deportivo Ayense",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1636023,
@@ -528,7 +339,7 @@
     "homeTeam": "Racing de Veracruz",
     "awayTeam": "Irapuato",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1639858,
@@ -537,7 +348,7 @@
     "homeTeam": "Leones del Norte",
     "awayTeam": "Guayaquil City FC",
     "prediction": "Double Chance 1X",
-    "odds": "1.55"
+    "odds": "1.45"
   },
   {
     "id": 1646932,
@@ -546,7 +357,7 @@
     "homeTeam": "Monagas SC",
     "awayTeam": "Deportivo Tachira FC",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.4"
   },
   {
     "id": 1600724,
@@ -555,7 +366,7 @@
     "homeTeam": "Linares Unido",
     "awayTeam": "Concón National",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1631637,
@@ -573,7 +384,7 @@
     "homeTeam": "Cruz Azul Lagunas",
     "awayTeam": "Heroes de Zaci 2",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.2"
   },
   {
     "id": 1631800,
@@ -582,7 +393,7 @@
     "homeTeam": "Atlético Saltillo",
     "awayTeam": "Ciervos",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.3"
+    "odds": "1.45"
   },
   {
     "id": 1647466,
@@ -609,7 +420,7 @@
     "homeTeam": "Cuiaba",
     "awayTeam": "Juventude",
     "prediction": "Double Chance X2",
-    "odds": "1.4"
+    "odds": "1.35"
   },
   {
     "id": 1520969,
@@ -618,7 +429,7 @@
     "homeTeam": "Vila Nova",
     "awayTeam": "Criciuma",
     "prediction": "Double Chance X2",
-    "odds": "1.45"
+    "odds": "1.4"
   },
   {
     "id": 1549548,
@@ -627,7 +438,7 @@
     "homeTeam": "FBC Melgar",
     "awayTeam": "Juan Pablo II College",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.35"
   },
   {
     "id": 1551032,
@@ -636,7 +447,7 @@
     "homeTeam": "Atlas",
     "awayTeam": "CF Pachuca",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.6"
+    "odds": "1.65"
   },
   {
     "id": 1636025,
@@ -645,7 +456,7 @@
     "homeTeam": "Deportiva Venados",
     "awayTeam": "Tritons Vallarta",
     "prediction": "Double Chance 1X",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1645264,
@@ -663,7 +474,7 @@
     "homeTeam": "Aston Villa",
     "awayTeam": "Pigotts Bullets",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.45"
+    "odds": "1.55"
   },
   {
     "id": 1549855,
@@ -672,7 +483,7 @@
     "homeTeam": "Atletico Nacional",
     "awayTeam": "Deportivo Pereira",
     "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1647447,
@@ -681,7 +492,7 @@
     "homeTeam": "Real Cartagena",
     "awayTeam": "Real Cundinamarca",
     "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "odds": "1.3"
   },
   {
     "id": 1642311,
@@ -690,7 +501,7 @@
     "homeTeam": "Lobos Upnfm",
     "awayTeam": "CD Motagua",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1645537,
@@ -717,6 +528,195 @@
     "homeTeam": "La Fama",
     "awayTeam": "Dakota",
     "prediction": "Both Teams To Score",
-    "odds": "1.62"
+    "odds": "1.68"
+  },
+  {
+    "id": 1551725,
+    "league": "Primera División (Costa-Rica)",
+    "matchTime": "03:00",
+    "homeTeam": "San Carlos",
+    "awayTeam": "Perez Zeledon",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1600650,
+    "league": "Primera Division (El-Salvador)",
+    "matchTime": "03:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Firpo",
+    "prediction": "Double Chance X2",
+    "odds": "1.4"
+  },
+  {
+    "id": 1631801,
+    "league": "Liga Premier Serie A (Mexico)",
+    "matchTime": "03:00",
+    "homeTeam": "La Tribu de Cd. Juarez",
+    "awayTeam": "Cañoneros Marina",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
+  },
+  {
+    "id": 1636027,
+    "league": "Primera Premier (Mexico)",
+    "matchTime": "03:00",
+    "homeTeam": "Jaguares de Chiapas",
+    "awayTeam": "H2O Purepechas",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1636028,
+    "league": "Primera Premier (Mexico)",
+    "matchTime": "03:00",
+    "homeTeam": "Inter Playa del Carmen",
+    "awayTeam": "Lobos ULMX",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.72"
+  },
+  {
+    "id": 1648445,
+    "league": "USL Championship (USA)",
+    "matchTime": "03:00",
+    "homeTeam": "Louisville City",
+    "awayTeam": "Miami FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
+  },
+  {
+    "id": 1520966,
+    "league": "Serie B (Brazil)",
+    "matchTime": "03:30",
+    "homeTeam": "Nautico Recife",
+    "awayTeam": "CRB",
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
+  },
+  {
+    "id": 1648446,
+    "league": "USL Championship (USA)",
+    "matchTime": "03:30",
+    "homeTeam": "Charleston Battery",
+    "awayTeam": "Hartford Athletic",
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
+  },
+  {
+    "id": 1493236,
+    "league": "Liga Profesional Argentina",
+    "matchTime": "04:00",
+    "homeTeam": "Instituto Cordoba",
+    "awayTeam": "Newells Old Boys",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1551033,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Tigres UANL",
+    "awayTeam": "Cruz Azul",
+    "prediction": "Double Chance X2",
+    "odds": "1.42"
+  },
+  {
+    "id": 1551034,
+    "league": "Liga MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Toluca",
+    "awayTeam": "Monterrey",
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
+  },
+  {
+    "id": 1583807,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:00",
+    "homeTeam": "Sporting San Miguelito",
+    "awayTeam": "CD Arabe Unido",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1583808,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:00",
+    "homeTeam": "Tauro FC",
+    "awayTeam": "Alianza FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1583809,
+    "league": "Liga Panameña de Fútbol (Panama)",
+    "matchTime": "04:00",
+    "homeTeam": "UMECIT",
+    "awayTeam": "Plaza Amador",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1631802,
+    "league": "Liga Premier Serie A (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Vaqueros Reynosa",
+    "awayTeam": "Artesanos Metepec",
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
+  },
+  {
+    "id": 1636029,
+    "league": "Primera Premier (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Celaya",
+    "awayTeam": "Tigres de Alica",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1639049,
+    "league": "National League - National (New-Zealand)",
+    "matchTime": "04:00",
+    "homeTeam": "Auckland FC 2",
+    "awayTeam": "Napier City Rovers",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1648268,
+    "league": "Liga de Expansión MX (Mexico)",
+    "matchTime": "04:00",
+    "homeTeam": "Monarcas",
+    "awayTeam": "Venados FC",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1648345,
+    "league": "Liga de Ascenso (Costa-Rica)",
+    "matchTime": "04:00",
+    "homeTeam": "Cariari Pococi",
+    "awayTeam": "Municipal Grecia",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1549854,
+    "league": "Primera A (Colombia)",
+    "matchTime": "04:15",
+    "homeTeam": "America de Cali",
+    "awayTeam": "Deportivo Cali",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1549546,
+    "league": "Primera División (Peru)",
+    "matchTime": "04:30",
+    "homeTeam": "Cienciano",
+    "awayTeam": "Sport Huancayo",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
   }
 ]
