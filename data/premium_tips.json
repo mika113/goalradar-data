@@ -1,104 +1,5 @@
 [
   {
-    "id": 1562456,
-    "league": "4. liga - Divizie B (Czech-Republic)",
-    "matchTime": "12:30",
-    "homeTeam": "Ústí nad Labem II",
-    "awayTeam": "Rapid Psáry",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1562558,
-    "league": "4. liga - Divizie C (Czech-Republic)",
-    "matchTime": "12:30",
-    "homeTeam": "Hlinsko",
-    "awayTeam": "Letohrad",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1562560,
-    "league": "4. liga - Divizie C (Czech-Republic)",
-    "matchTime": "12:30",
-    "homeTeam": "Přepeře",
-    "awayTeam": "Vysoké Mýto",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1562817,
-    "league": "3. liga - CFL B (Czech-Republic)",
-    "matchTime": "12:30",
-    "homeTeam": "Velké Hamry",
-    "awayTeam": "Horní Ředice",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
-    "id": 1593073,
-    "league": "Druha Liga (Ukraine)",
-    "matchTime": "12:30",
-    "homeTeam": "Trostianets",
-    "awayTeam": "SC Poltava 2",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1595794,
-    "league": "U19 Bundesliga (Germany)",
-    "matchTime": "12:30",
-    "homeTeam": "Karlsruher SC U19",
-    "awayTeam": "Hoffenheim U19",
-    "prediction": "Double Chance X2",
-    "odds": "1.12"
-  },
-  {
-    "id": 1646621,
-    "league": "I-League (India)",
-    "matchTime": "12:30",
-    "homeTeam": "Rajasthan United",
-    "awayTeam": "Gokulam",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1526027,
-    "league": "Premier League (Belarus)",
-    "matchTime": "13:00",
-    "homeTeam": "Naftan",
-    "awayTeam": "ML Vitebsk",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1534499,
-    "league": "1. Division (Belarus)",
-    "matchTime": "13:00",
-    "homeTeam": "Lida",
-    "awayTeam": "BATE II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.18"
-  },
-  {
-    "id": 1534503,
-    "league": "1. Division (Belarus)",
-    "matchTime": "13:00",
-    "homeTeam": "FC Energetik-Bgu Minsk",
-    "awayTeam": "Ostrovets FC",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1534504,
-    "league": "1. Division (Belarus)",
-    "matchTime": "13:00",
-    "homeTeam": "Dinamo Minsk II",
-    "awayTeam": "FC Slutsk",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
     "id": 1561195,
     "league": "2. liga (Slovakia)",
     "matchTime": "13:00",
@@ -106,5 +7,104 @@
     "awayTeam": "Šamorín",
     "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1565151,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchTime": "13:00",
+    "homeTeam": "Sigma Olomouc U19",
+    "awayTeam": "Zbrojovka Brno U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1565152,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchTime": "13:00",
+    "homeTeam": "Sparta Praha U19",
+    "awayTeam": "Slavia Praha U19",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1565173,
+    "league": "1. Liga U19 (Czech-Republic)",
+    "matchTime": "13:00",
+    "homeTeam": "České Budějovice U19",
+    "awayTeam": "Teplice U19",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.35"
+  },
+  {
+    "id": 1566630,
+    "league": "I Liga - Women (Slovakia)",
+    "matchTime": "13:00",
+    "homeTeam": "Spartak Trnava W",
+    "awayTeam": "Ružomberok W",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1566632,
+    "league": "I Liga - Women (Slovakia)",
+    "matchTime": "13:00",
+    "homeTeam": "Trenčín W",
+    "awayTeam": "Komárno W",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1569426,
+    "league": "Campionato Primavera - 1 (Italy)",
+    "matchTime": "13:00",
+    "homeTeam": "Atalanta U20",
+    "awayTeam": "Internazionale U20",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1569430,
+    "league": "Campionato Primavera - 1 (Italy)",
+    "matchTime": "13:00",
+    "homeTeam": "Genoa U20",
+    "awayTeam": "Lecce U20",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1581963,
+    "league": "Persha Liga (Ukraine)",
+    "matchTime": "13:00",
+    "homeTeam": "Metal Kharkiv",
+    "awayTeam": "Lokomotiv Kyiv",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1590450,
+    "league": "3. Lig - Group 1 (Turkey)",
+    "matchTime": "13:00",
+    "homeTeam": "Amasyaspor 1968",
+    "awayTeam": "Galata",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1590453,
+    "league": "3. Lig - Group 1 (Turkey)",
+    "matchTime": "13:00",
+    "homeTeam": "Fatsa Belediyespor",
+    "awayTeam": "Pazarspor",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1590455,
+    "league": "3. Lig - Group 1 (Turkey)",
+    "matchTime": "13:00",
+    "homeTeam": "Karadeniz Ereğli BSK",
+    "awayTeam": "İnkılapspor",
+    "prediction": "Both Teams To Score",
+    "odds": "1.7"
   }
 ]
