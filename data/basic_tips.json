@@ -5,17 +5,8 @@
     "matchTime": "23:00",
     "homeTeam": "Atletico Madrid",
     "awayTeam": "Barcelona",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1575215,
-    "league": "Bundesliga (Germany)",
-    "matchTime": "21:30",
-    "homeTeam": "1899 Hoffenheim",
-    "awayTeam": "FC Schalke 04",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.65"
   },
   {
     "id": 1550189,
@@ -32,8 +23,8 @@
     "matchTime": "22:45",
     "homeTeam": "Lens",
     "awayTeam": "Marseille",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.5"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1575538,
@@ -41,8 +32,8 @@
     "matchTime": "23:30",
     "homeTeam": "Estrela",
     "awayTeam": "Benfica",
-    "prediction": "Benfica Win",
-    "odds": "1.25"
+    "prediction": "Double Chance X2",
+    "odds": "1.1"
   },
   {
     "id": 1575541,
@@ -51,6 +42,15 @@
     "homeTeam": "Rio Ave",
     "awayTeam": "SC Braga",
     "prediction": "Double Chance X2",
+    "odds": "1.32"
+  },
+  {
+    "id": 1552223,
+    "league": "Eredivisie (Netherlands)",
+    "matchTime": "22:00",
+    "homeTeam": "Utrecht",
+    "awayTeam": "NEC Nijmegen",
+    "prediction": "Double Chance 1X",
     "odds": "1.3"
   }
 ]
