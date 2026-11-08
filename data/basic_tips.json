@@ -5,6 +5,24 @@
     "matchTime": "19:30",
     "homeTeam": "Manchester United",
     "awayTeam": "Aston Villa",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.7"
+  },
+  {
+    "id": 1570444,
+    "league": "La Liga (Spain)",
+    "matchTime": "20:30",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Levante",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1570452,
+    "league": "La Liga (Spain)",
+    "matchTime": "20:30",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Getafe",
     "prediction": "Double Chance 1X",
     "odds": "1.45"
   },
@@ -18,38 +36,20 @@
     "odds": "1.55"
   },
   {
+    "id": 1550191,
+    "league": "Serie A (Italy)",
+    "matchTime": "20:00",
+    "homeTeam": "Inter",
+    "awayTeam": "Como",
+    "prediction": "Double Chance 1X",
+    "odds": "1.18"
+  },
+  {
     "id": 1552810,
     "league": "Ligue 1 (France)",
     "matchTime": "19:15",
     "homeTeam": "Angers",
     "awayTeam": "Nice",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
-    "id": 1552812,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Stade Brestois 29",
-    "awayTeam": "Lyon",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1552813,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Le Havre",
-    "awayTeam": "Lorient",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
-  },
-  {
-    "id": 1552814,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Le Mans",
-    "awayTeam": "Monaco",
     "prediction": "Double Chance X2",
     "odds": "1.25"
   }
