@@ -1,32 +1,5 @@
 [
   {
-    "id": 1638490,
-    "league": "League Two (China)",
-    "matchTime": "09:30",
-    "homeTeam": "Jiangxi Liansheng",
-    "awayTeam": "Xi'an Ronghai",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1638491,
-    "league": "League Two (China)",
-    "matchTime": "09:30",
-    "homeTeam": "Shenzhen 2028",
-    "awayTeam": "Shanghai Port II",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
-    "id": 1577584,
-    "league": "First League (Russia)",
-    "matchTime": "09:45",
-    "homeTeam": "Enisey",
-    "awayTeam": "FC Sochi",
-    "prediction": "Double Chance X2",
-    "odds": "1.35"
-  },
-  {
     "id": 1577579,
     "league": "First League (Russia)",
     "matchTime": "10:00",
@@ -41,8 +14,8 @@
     "matchTime": "10:00",
     "homeTeam": "North District",
     "awayTeam": "Kowloon City",
-    "prediction": "Both Teams To Score",
-    "odds": "1.55"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.45"
   },
   {
     "id": 1639107,
@@ -60,7 +33,7 @@
     "homeTeam": "Paju Citizen",
     "awayTeam": "Asan Mugunghwa",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1523291,
@@ -69,6 +42,33 @@
     "homeTeam": "Beijing Guoan",
     "awayTeam": "Chongqing Tongliang Long",
     "prediction": "Double Chance 1X",
-    "odds": "1.22"
+    "odds": "1.2"
+  },
+  {
+    "id": 1523292,
+    "league": "Super League (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Dalian Zhixing",
+    "awayTeam": "Tianjin Teda",
+    "prediction": "Double Chance 1X",
+    "odds": "1.4"
+  },
+  {
+    "id": 1523293,
+    "league": "Super League (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Qingdao Jonoon",
+    "awayTeam": "Sichuan Jiuniu",
+    "prediction": "Double Chance X2",
+    "odds": "1.3"
+  },
+  {
+    "id": 1523294,
+    "league": "Super League (China)",
+    "matchTime": "10:30",
+    "homeTeam": "Shandong Luneng",
+    "awayTeam": "Chengdu Better City",
+    "prediction": "Double Chance 1X",
+    "odds": "1.35"
   }
 ]
