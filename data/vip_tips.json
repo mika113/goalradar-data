@@ -1,41 +1,5 @@
 [
   {
-    "id": 1552812,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Stade Brestois 29",
-    "awayTeam": "Lyon",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1552813,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Le Havre",
-    "awayTeam": "Lorient",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
-    "id": 1552814,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Le Mans",
-    "awayTeam": "Monaco",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
-    "id": 1575544,
-    "league": "Primeira Liga (Portugal)",
-    "matchTime": "21:00",
-    "homeTeam": "Vitória SC",
-    "awayTeam": "FC Porto",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
     "id": 1558676,
     "league": "Jupiler Pro League (Belgium)",
     "matchTime": "20:30",
@@ -45,13 +9,22 @@
     "odds": "1.25"
   },
   {
+    "id": 1558678,
+    "league": "Jupiler Pro League (Belgium)",
+    "matchTime": "21:15",
+    "homeTeam": "St. Truiden",
+    "awayTeam": "Zulte Waregem",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
     "id": 1551595,
     "league": "Super Liga (Slovakia)",
     "matchTime": "20:00",
     "homeTeam": "Komárno",
     "awayTeam": "Zemplín Michalovce",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
     "id": 1553910,
@@ -63,12 +36,39 @@
     "odds": "1.25"
   },
   {
+    "id": 1584458,
+    "league": "Süper Lig (Turkey)",
+    "matchTime": "21:00",
+    "homeTeam": "Beşiktaş",
+    "awayTeam": "Gençlerbirliği S.K.",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
     "id": 1646810,
     "league": "FA Cup (England)",
     "matchTime": "20:15",
     "homeTeam": "Oldham",
     "awayTeam": "Sheffield Wednesday",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.48"
+  },
+  {
+    "id": 1634794,
+    "league": "Premier League (Kuwait)",
+    "matchTime": "19:40",
+    "homeTeam": "Al Sahel",
+    "awayTeam": "Al Kuwait",
+    "prediction": "Double Chance X2",
+    "odds": "1.18"
+  },
+  {
+    "id": 1611443,
+    "league": "Ligue 1 (Algeria)",
+    "matchTime": "19:45",
+    "homeTeam": "Ben Aknoun",
+    "awayTeam": "CR Belouizdad",
+    "prediction": "Double Chance X2",
+    "odds": "1.25"
   }
 ]
