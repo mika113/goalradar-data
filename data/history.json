@@ -1,14 +1,62 @@
 [
   {
+    "id": 1640876,
+    "league": "Diski Challenge (South-Africa)",
+    "matchDate": "FT",
+    "homeTeam": "Sekhukhune United U23",
+    "awayTeam": "Mamelodi Sundowns U23",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1640875,
+    "league": "Diski Challenge (South-Africa)",
+    "matchDate": "FT",
+    "homeTeam": "Polokwane City U23",
+    "awayTeam": "Orlando Pirates U23",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
+    "id": 1640874,
+    "league": "Diski Challenge (South-Africa)",
+    "matchDate": "FT",
+    "homeTeam": "Golden Arrows U23",
+    "awayTeam": "Marumo Gallants U23",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Golden Arrows U23 Win",
+    "outcome": "Won"
+  },
+  {
+    "id": 1556132,
+    "league": "J1 League (Japan)",
+    "matchDate": "FT",
+    "homeTeam": "JEF United Chiba",
+    "awayTeam": "Mito Hollyhock",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT",
+    "prediction": "Double Chance 1X",
+    "outcome": "Won"
+  },
+  {
     "id": 1647395,
     "league": "K League 1 (South-Korea)",
     "matchDate": "FT",
     "homeTeam": "Bucheon FC 1995",
     "awayTeam": "Pohang Steelers",
     "homeScore": 0,
-    "awayScore": 0,
+    "awayScore": 1,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Pohang Steelers Win",
     "outcome": "Won"
   },
   {
@@ -17,10 +65,10 @@
     "matchDate": "FT",
     "homeTeam": "Gangwon FC",
     "awayTeam": "Jeonbuk Motors",
-    "homeScore": 1,
+    "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
-    "prediction": "Both Teams To Score",
+    "prediction": "Gangwon FC Win",
     "outcome": "Won"
   },
   {
@@ -29,10 +77,10 @@
     "matchDate": "FT",
     "homeTeam": "Hangzhou Greentown",
     "awayTeam": "Henan Jianye",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "Hangzhou Greentown Win",
     "outcome": "Won"
   },
   {
@@ -65,10 +113,10 @@
     "matchDate": "FT",
     "homeTeam": "SHANGHAI SIPG",
     "awayTeam": "Shenyang Urban",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Double Chance 1X",
+    "prediction": "SHANGHAI SIPG Win",
     "outcome": "Won"
   },
   {
@@ -77,8 +125,8 @@
     "matchDate": "FT",
     "homeTeam": "Shandong Luneng",
     "awayTeam": "Chengdu Better City",
-    "homeScore": 1,
-    "awayScore": 0,
+    "homeScore": 2,
+    "awayScore": 1,
     "status": "FT",
     "prediction": "Shandong Luneng Win",
     "outcome": "Won"
@@ -89,58 +137,10 @@
     "matchDate": "FT",
     "homeTeam": "Qingdao Jonoon",
     "awayTeam": "Sichuan Jiuniu",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523292,
-    "league": "Super League (China)",
-    "matchDate": "FT",
-    "homeTeam": "Dalian Zhixing",
-    "awayTeam": "Tianjin Teda",
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
-    "prediction": "Dalian Zhixing Win",
-    "outcome": "Won"
-  },
-  {
-    "id": 1523291,
-    "league": "Super League (China)",
-    "matchDate": "FT",
-    "homeTeam": "Beijing Guoan",
-    "awayTeam": "Chongqing Tongliang Long",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1510498,
-    "league": "K League 2 (South-Korea)",
-    "matchDate": "FT",
-    "homeTeam": "Paju Citizen",
-    "awayTeam": "Asan Mugunghwa",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Double Chance 1X",
-    "outcome": "Won"
-  },
-  {
-    "id": 1639107,
-    "league": "PFL (Philippines)",
-    "matchDate": "FT",
-    "homeTeam": "Stallion",
-    "awayTeam": "Mendiola",
-    "homeScore": 1,
-    "awayScore": 0,
-    "status": "FT",
-    "prediction": "Stallion Win",
+    "prediction": "Qingdao Jonoon Win",
     "outcome": "Won"
   }
 ]
