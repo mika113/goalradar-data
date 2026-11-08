@@ -1,32 +1,5 @@
 [
   {
-    "id": 1556134,
-    "league": "J1 League (Japan)",
-    "matchTime": "09:00",
-    "homeTeam": "Gamba Osaka",
-    "awayTeam": "Cerezo Osaka",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
-  },
-  {
-    "id": 1593703,
-    "league": "A-League (Australia)",
-    "matchTime": "09:00",
-    "homeTeam": "Adelaide United",
-    "awayTeam": "Melbourne Victory",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1606755,
-    "league": "J2 League (Japan)",
-    "matchTime": "09:00",
-    "homeTeam": "Vegalta Sendai",
-    "awayTeam": "Ventforet Kofu",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1637261,
     "league": "Super League Women (South-Africa)",
     "matchTime": "09:30",
@@ -41,8 +14,8 @@
     "matchTime": "09:30",
     "homeTeam": "Guizhou Zhucheng",
     "awayTeam": "Shandong Taishan II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.4"
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   },
   {
     "id": 1638489,
@@ -50,7 +23,34 @@
     "matchTime": "09:30",
     "homeTeam": "Langfang Glory City",
     "awayTeam": "Dalian Kewei",
-    "prediction": "Double Chance 1X",
+    "prediction": "Double Chance X2",
+    "odds": "1.38"
+  },
+  {
+    "id": 1638490,
+    "league": "League Two (China)",
+    "matchTime": "09:30",
+    "homeTeam": "Jiangxi Liansheng",
+    "awayTeam": "Xi'an Ronghai",
+    "prediction": "Double Chance X2",
+    "odds": "1.45"
+  },
+  {
+    "id": 1638491,
+    "league": "League Two (China)",
+    "matchTime": "09:30",
+    "homeTeam": "Shenzhen 2028",
+    "awayTeam": "Shanghai Port II",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
+  },
+  {
+    "id": 1577584,
+    "league": "First League (Russia)",
+    "matchTime": "09:45",
+    "homeTeam": "Enisey",
+    "awayTeam": "FC Sochi",
+    "prediction": "Double Chance X2",
     "odds": "1.35"
   }
 ]
