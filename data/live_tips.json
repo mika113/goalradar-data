@@ -1,57 +1,12 @@
 [
   {
-    "id": 1578000,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchTime": "12:15",
-    "homeTeam": "Karviná II",
-    "awayTeam": "Vsetín",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1578002,
-    "league": "3. liga - MSFL (Czech-Republic)",
-    "matchTime": "12:15",
-    "homeTeam": "Slovácko II",
-    "awayTeam": "Havířov",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1579176,
-    "league": "4. liga - Divizie D (Czech-Republic)",
-    "matchTime": "12:15",
-    "homeTeam": "Velké Meziříčí",
-    "awayTeam": "Chotebor",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
-  },
-  {
-    "id": 1579292,
-    "league": "4. liga - Divizie E (Czech-Republic)",
-    "matchTime": "12:15",
-    "homeTeam": "Brumov",
-    "awayTeam": "Šternberk",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
-  },
-  {
-    "id": 1561196,
-    "league": "2. liga (Slovakia)",
-    "matchTime": "12:30",
-    "homeTeam": "Petržalka",
-    "awayTeam": "Žilina II",
-    "prediction": "Double Chance 1X",
-    "odds": "1.35"
-  },
-  {
     "id": 1566150,
     "league": "3. liga - West (Slovakia)",
     "matchTime": "12:30",
     "homeTeam": "Trenčín II",
     "awayTeam": "Baník Prievidza",
-    "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.58"
   },
   {
     "id": 1567950,
@@ -60,7 +15,7 @@
     "homeTeam": "Voitsberg",
     "awayTeam": "SV Kapfenberg",
     "prediction": "Double Chance X2",
-    "odds": "1.5"
+    "odds": "1.45"
   },
   {
     "id": 1578004,
@@ -69,7 +24,7 @@
     "homeTeam": "Zlín II",
     "awayTeam": "Frýdek-Místek",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.55"
+    "odds": "1.65"
   },
   {
     "id": 1599277,
@@ -78,7 +33,7 @@
     "homeTeam": "Korona Kielce U19",
     "awayTeam": "Arkonia U19",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1648704,
@@ -87,6 +42,51 @@
     "homeTeam": "Maldives",
     "awayTeam": "Pakistan",
     "prediction": "Double Chance X2",
+    "odds": "1.22"
+  },
+  {
+    "id": 1566412,
+    "league": "Oberliga - Hamburg (Germany)",
+    "matchTime": "12:45",
+    "homeTeam": "HEBC",
+    "awayTeam": "Tus Dassendorf",
+    "prediction": "Double Chance 1X",
+    "odds": "1.55"
+  },
+  {
+    "id": 1639108,
+    "league": "PFL (Philippines)",
+    "matchTime": "12:45",
+    "homeTeam": "Davao Aguilas",
+    "awayTeam": "Philippine Army",
+    "prediction": "Davao Aguilas Win",
+    "odds": "1.3"
+  },
+  {
+    "id": 1526029,
+    "league": "Premier League (Belarus)",
+    "matchTime": "13:00",
+    "homeTeam": "Slavia Mozyr",
+    "awayTeam": "Baranovichi",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
+  },
+  {
+    "id": 1534502,
+    "league": "1. Division (Belarus)",
+    "matchTime": "13:00",
+    "homeTeam": "Osipovichy",
+    "awayTeam": "Uni Minsk",
+    "prediction": "Double Chance X2",
     "odds": "1.35"
+  },
+  {
+    "id": 1566407,
+    "league": "Oberliga - Hamburg (Germany)",
+    "matchTime": "13:00",
+    "homeTeam": "ETSV Hamburg",
+    "awayTeam": "Pinneberg",
+    "prediction": "Both Teams To Score",
+    "odds": "1.55"
   }
 ]
