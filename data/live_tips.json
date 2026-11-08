@@ -1,47 +1,11 @@
 [
   {
-    "id": 1549551,
-    "league": "Primera División (Peru)",
-    "matchTime": "21:00",
-    "homeTeam": "Club Deportivo Los Chankas",
-    "awayTeam": "Alianza Lima",
-    "prediction": "Double Chance X2",
-    "odds": "1.25"
-  },
-  {
-    "id": 1560278,
-    "league": "NB I (Hungary)",
-    "matchTime": "21:00",
-    "homeTeam": "Vasas",
-    "awayTeam": "Ferencvarosi TC",
-    "prediction": "Double Chance X2",
-    "odds": "1.2"
-  },
-  {
-    "id": 1576528,
-    "league": "Segunda Liga (Portugal)",
-    "matchTime": "21:00",
-    "homeTeam": "Sporting CP B",
-    "awayTeam": "Tondela",
-    "prediction": "Double Chance 1X",
-    "odds": "1.42"
-  },
-  {
-    "id": 1615538,
-    "league": "Tercera División RFEF - Group 10 (Spain)",
-    "matchTime": "21:00",
-    "homeTeam": "Betis C",
-    "awayTeam": "Conil",
-    "prediction": "Double Chance X2",
-    "odds": "1.45"
-  },
-  {
     "id": 1617071,
     "league": "Tercera División RFEF - Group 15 (Spain)",
     "matchTime": "21:00",
     "homeTeam": "Gazte Berriak",
     "awayTeam": "Cirbonero",
-    "prediction": "Double Chance X2",
+    "prediction": "Double Chance 1X",
     "odds": "1.45"
   },
   {
@@ -51,7 +15,7 @@
     "homeTeam": "Montañeses",
     "awayTeam": "Los Cabos United",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.72"
+    "odds": "1.7"
   },
   {
     "id": 1643328,
@@ -77,8 +41,8 @@
     "matchTime": "21:00",
     "homeTeam": "Porto",
     "awayTeam": "Cha Grande",
-    "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "prediction": "Double Chance X2",
+    "odds": "1.5"
   },
   {
     "id": 1643331,
@@ -87,6 +51,42 @@
     "homeTeam": "Central SC",
     "awayTeam": "Belo Jardim",
     "prediction": "Double Chance 1X",
+    "odds": "1.35"
+  },
+  {
+    "id": 1643332,
+    "league": "Pernambucano - 1 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Facilnet",
+    "awayTeam": "Petrolina",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1643333,
+    "league": "Pernambucano - 1 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Ypiranga PE",
+    "awayTeam": "Pesqueira",
+    "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1646874,
+    "league": "Botola Pro (Morocco)",
+    "matchTime": "21:00",
+    "homeTeam": "FAR Rabat",
+    "awayTeam": "Difaa EL Jadida",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1647097,
+    "league": "Sergipano - 2 (Brazil)",
+    "matchTime": "21:00",
+    "homeTeam": "Barra SE",
+    "awayTeam": "Maruinense",
+    "prediction": "Double Chance X2",
+    "odds": "1.35"
   }
 ]
