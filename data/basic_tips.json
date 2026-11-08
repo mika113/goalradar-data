@@ -1,14 +1,5 @@
 [
   {
-    "id": 1557464,
-    "league": "Premier League (England)",
-    "matchTime": "19:30",
-    "homeTeam": "Manchester United",
-    "awayTeam": "Aston Villa",
-    "prediction": "Over 2.5 Goals",
-    "odds": "1.7"
-  },
-  {
     "id": 1570444,
     "league": "La Liga (Spain)",
     "matchTime": "20:30",
@@ -24,16 +15,16 @@
     "homeTeam": "Villarreal",
     "awayTeam": "Getafe",
     "prediction": "Double Chance 1X",
-    "odds": "1.45"
+    "odds": "1.35"
   },
   {
-    "id": 1575216,
+    "id": 1575215,
     "league": "Bundesliga (Germany)",
-    "matchTime": "19:30",
-    "homeTeam": "SC Freiburg",
-    "awayTeam": "Union Berlin",
-    "prediction": "Double Chance X2",
-    "odds": "1.55"
+    "matchTime": "21:30",
+    "homeTeam": "1899 Hoffenheim",
+    "awayTeam": "FC Schalke 04",
+    "prediction": "Double Chance 1X",
+    "odds": "1.2"
   },
   {
     "id": 1550191,
@@ -42,15 +33,24 @@
     "homeTeam": "Inter",
     "awayTeam": "Como",
     "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "odds": "1.2"
   },
   {
-    "id": 1552810,
-    "league": "Ligue 1 (France)",
-    "matchTime": "19:15",
-    "homeTeam": "Angers",
-    "awayTeam": "Nice",
+    "id": 1575544,
+    "league": "Primeira Liga (Portugal)",
+    "matchTime": "21:00",
+    "homeTeam": "Vitória SC",
+    "awayTeam": "FC Porto",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.2"
+  },
+  {
+    "id": 1552223,
+    "league": "Eredivisie (Netherlands)",
+    "matchTime": "22:00",
+    "homeTeam": "Utrecht",
+    "awayTeam": "NEC Nijmegen",
+    "prediction": "Double Chance 1X",
+    "odds": "1.3"
   }
 ]
