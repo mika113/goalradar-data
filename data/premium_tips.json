@@ -1,50 +1,5 @@
 [
   {
-    "id": 1523295,
-    "league": "Super League (China)",
-    "matchTime": "10:30",
-    "homeTeam": "SHANGHAI SIPG",
-    "awayTeam": "Shenyang Urban",
-    "prediction": "Double Chance 1X",
-    "odds": "1.18"
-  },
-  {
-    "id": 1523296,
-    "league": "Super League (China)",
-    "matchTime": "10:30",
-    "homeTeam": "Shanghai Shenhua",
-    "awayTeam": "Qingdao Youth Island",
-    "prediction": "Double Chance 1X",
-    "odds": "1.25"
-  },
-  {
-    "id": 1523297,
-    "league": "Super League (China)",
-    "matchTime": "10:30",
-    "homeTeam": "Yunnan Yukun",
-    "awayTeam": "Wuhan Three Towns",
-    "prediction": "Double Chance 1X",
-    "odds": "1.28"
-  },
-  {
-    "id": 1523298,
-    "league": "Super League (China)",
-    "matchTime": "10:30",
-    "homeTeam": "Hangzhou Greentown",
-    "awayTeam": "Henan Jianye",
-    "prediction": "Both Teams To Score",
-    "odds": "1.68"
-  },
-  {
-    "id": 1637992,
-    "league": "AFC U17 Asian Cup (World)",
-    "matchTime": "10:30",
-    "homeTeam": "Guam U17",
-    "awayTeam": "Singapore U17",
-    "prediction": "Singapore U17 Win",
-    "odds": "1.08"
-  },
-  {
     "id": 1647380,
     "league": "K League 1 (South-Korea)",
     "matchTime": "10:30",
@@ -78,7 +33,7 @@
     "homeTeam": "Hong Kong U17",
     "awayTeam": "Iraq U17",
     "prediction": "Double Chance X2",
-    "odds": "1.25"
+    "odds": "1.3"
   },
   {
     "id": 1637998,
@@ -86,8 +41,8 @@
     "matchTime": "11:00",
     "homeTeam": "N. Mariana Islands U17",
     "awayTeam": "Mongolia U17",
-    "prediction": "Double Chance X2",
-    "odds": "1.08"
+    "prediction": "Mongolia U17 Win",
+    "odds": "1.3"
   },
   {
     "id": 1640874,
@@ -96,7 +51,7 @@
     "homeTeam": "Golden Arrows U23",
     "awayTeam": "Marumo Gallants U23",
     "prediction": "Double Chance 1X",
-    "odds": "1.28"
+    "odds": "1.3"
   },
   {
     "id": 1640875,
@@ -105,6 +60,51 @@
     "homeTeam": "Polokwane City U23",
     "awayTeam": "Orlando Pirates U23",
     "prediction": "Both Teams To Score",
-    "odds": "1.65"
+    "odds": "1.68"
+  },
+  {
+    "id": 1640876,
+    "league": "Diski Challenge (South-Africa)",
+    "matchTime": "11:00",
+    "homeTeam": "Sekhukhune United U23",
+    "awayTeam": "Mamelodi Sundowns U23",
+    "prediction": "Double Chance 1X",
+    "odds": "1.45"
+  },
+  {
+    "id": 1577582,
+    "league": "First League (Russia)",
+    "matchTime": "11:30",
+    "homeTeam": "Ural",
+    "awayTeam": "Volga Ulyanovsk",
+    "prediction": "Double Chance 1X",
+    "odds": "1.25"
+  },
+  {
+    "id": 1607339,
+    "league": "Premier League (Hong-Kong)",
+    "matchTime": "11:30",
+    "homeTeam": "Hong Kong FC",
+    "awayTeam": "Eastern",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
+  },
+  {
+    "id": 1622832,
+    "league": "Liga 1 (Indonesia)",
+    "matchTime": "11:30",
+    "homeTeam": "Bali United",
+    "awayTeam": "Persik Kediri",
+    "prediction": "Both Teams To Score",
+    "odds": "1.68"
+  },
+  {
+    "id": 1622833,
+    "league": "Liga 1 (Indonesia)",
+    "matchTime": "11:30",
+    "homeTeam": "PSS Sleman",
+    "awayTeam": "Bhayangkara FC",
+    "prediction": "Double Chance X2",
+    "odds": "1.55"
   }
 ]
