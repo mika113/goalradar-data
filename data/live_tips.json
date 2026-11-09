@@ -1,14 +1,5 @@
 [
   {
-    "id": 1571612,
-    "league": "Second League (Bulgaria)",
-    "matchTime": "15:30",
-    "homeTeam": "CSKA Sofia II",
-    "awayTeam": "Rilski Sportist",
-    "prediction": "Double Chance 1X",
-    "odds": "1.2"
-  },
-  {
     "id": 1602549,
     "league": "Liga II (Romania)",
     "matchTime": "15:30",
@@ -24,7 +15,7 @@
     "homeTeam": "Wadi Degla",
     "awayTeam": "Kahraba Ismailia",
     "prediction": "Double Chance 1X",
-    "odds": "1.3"
+    "odds": "1.2"
   },
   {
     "id": 1648731,
@@ -42,7 +33,7 @@
     "homeTeam": "Independente U20",
     "awayTeam": "Boca Juniors U20",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.35"
+    "odds": "1.3"
   },
   {
     "id": 1648753,
@@ -50,8 +41,8 @@
     "matchTime": "15:30",
     "homeTeam": "Tuna Luso PA U20",
     "awayTeam": "CRT-23 Benevides U20",
-    "prediction": "Double Chance 1X",
-    "odds": "1.12"
+    "prediction": "Tuna Luso PA U20 Win & Over 1.5",
+    "odds": "1.45"
   },
   {
     "id": 1648754,
@@ -60,7 +51,7 @@
     "homeTeam": "Atletico JM9 U20",
     "awayTeam": "Tapajos U20",
     "prediction": "Over 2.5 Goals",
-    "odds": "1.3"
+    "odds": "1.25"
   },
   {
     "id": 1643127,
@@ -68,8 +59,8 @@
     "matchTime": "15:55",
     "homeTeam": "Al Ain U23",
     "awayTeam": "Al Wahda U23",
-    "prediction": "Double Chance 1X",
-    "odds": "1.18"
+    "prediction": "Al Ain U23 Win",
+    "odds": "1.62"
   },
   {
     "id": 1643128,
@@ -78,7 +69,7 @@
     "homeTeam": "Al Wasl U23",
     "awayTeam": "Al Jazira U23",
     "prediction": "Double Chance X2",
-    "odds": "1.35"
+    "odds": "1.45"
   },
   {
     "id": 1643129,
@@ -88,5 +79,14 @@
     "awayTeam": "Ajman U23",
     "prediction": "Double Chance X2",
     "odds": "1.45"
+  },
+  {
+    "id": 1643130,
+    "league": "Pro League U23 (United-Arab-Emirates)",
+    "matchTime": "15:55",
+    "homeTeam": "United FC U23",
+    "awayTeam": "Al Nasr U23",
+    "prediction": "Over 2.5 Goals",
+    "odds": "1.55"
   }
 ]
